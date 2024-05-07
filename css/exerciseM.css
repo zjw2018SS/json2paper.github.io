@@ -454,6 +454,7 @@
   }
 
   #drop_box {
+   position: relative;
       margin: 0 auto;
       width: fit-content;
       padding: 0 20px;
@@ -519,6 +520,7 @@
 
   /* 文件夹 */
   #drop_dir_box {
+   position: relative;
       margin: 30px auto 0;
       width: fit-content;
       padding: 0 20px;
