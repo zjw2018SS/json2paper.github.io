@@ -979,7 +979,7 @@ function immerse_setting_fun(immerse_setting_input) {
         openFullscreen(elem)
 
     } else if (is_immerse_setting == "1") {
-        nav.style.display = "block"
+        nav.style.display = "flex"
         back_top.style.display = "block"
         closeFullscreen(elem)
 
