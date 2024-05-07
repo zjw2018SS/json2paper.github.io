@@ -832,7 +832,7 @@
   }
 
   #sheet {
-      display: none;
+      /* display: none; */
       position: fixed;
       top: 13vh;
       left: 73vw;

@@ -21,14 +21,14 @@
       position: fixed;
       left: 0;
       /* top: 0px; */
-      bottom:48px;
+      bottom: 5px;
       z-index: 99;
       height: 36px;
       width: 100%;
       display: flex;
       flex-direction: row;
       /* background-color: rgba(255, 255, 255, 0.3); */
-            background-color: rgb(255, 255, 255);
+      background-color: rgb(255, 255, 255);
 
       /* backdrop-filter: blur(1px); */
       /* -webkit-backdrop-filter: blur(4px); */
@@ -230,7 +230,7 @@
       position: absolute;
       top: 0;
       left: 0px;
-      width: 350px;
+      width: 300px;
       padding: 5px;
       border-radius: 5%;
       background-color: rgb(255, 255, 255, 1);
@@ -249,7 +249,6 @@
   .setting_item {
       position: relative;
       margin-bottom: 2px;
-
   }
 
   .setting_item:nth-child(7),
@@ -261,6 +260,7 @@
   .toggle_switches_div {
       position: relative;
       margin: 5px 0px 0px 10px;
+      font-size: xx-small;
   }
 
   /* Switch by mrhyddenn */
@@ -325,7 +325,7 @@
       display: inline-block;
       color: #096fff;
       text-decoration: underline;
-      /* font-size: small; */
+      font-size: small;
   }
 
   /* 导出 */
@@ -334,7 +334,7 @@
       display: inline-block;
       color: #096fff;
       text-decoration: underline;
-
+      font-size: small;
 
   }
 
@@ -588,12 +588,12 @@
   .wrap {
       position: relative;
       display: block;
-      margin-bottom: 25px;
+      margin-bottom: 10px;
   }
 
   .wrap_type_div {
       /* padding-left: 20px;*/
-      margin-bottom: 30px;
+      margin-bottom: 12px;
       width: fit-content;
       margin-left: auto;
       margin-right: auto;
@@ -626,11 +626,12 @@
 
   .q {
       padding-left: 0px;
+      font-size: medium;
   }
 
   .options_wrap {
       position: relative;
-      margin-top: 10px;
+      margin-top: 0px;
       padding-left: 0px;
   }
 
@@ -638,7 +639,7 @@
       position: relative;
       height: fit-content;
       min-height: 30px;
-      padding: 5px 0px 10px 10px;
+      padding: 5px 0px 0px 10px;
   }
 
   .option_code {
@@ -685,6 +686,7 @@
       min-height: 30px;
       line-height: 32px;
       width: calc(100% - 48px);
+      font-size: smaller;
       /* margin: 5px 8px; */
       /* padding: 0px 15px; */
   }
@@ -847,12 +849,14 @@
   .sheet_ul {
       margin-top: 15px;
       display: flex;
+      margin-left: 20px;
       flex-direction: row;
       flex-wrap: wrap;
   }
 
   .sheet_type_div {
-      margin: 13px 0px;
+      width: fit-content;
+      margin: 0 auto;
   }
 
   .sheet_li {
