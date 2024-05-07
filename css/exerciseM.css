@@ -518,7 +518,7 @@
 
   /* 文件夹 */
   #drop_dir_box {
-      margin: 0 auto;
+      margin: 30px auto 0;
       width: fit-content;
       padding: 0 20px;
       border: 1px dotted rgb(0, 139, 255);
