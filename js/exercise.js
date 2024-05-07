@@ -1,26 +1,14 @@
 window.onbeforeunload = function (e) {
     localStorage.clear()
 }
-// window.onload = function (e) {
-//     localStorage.clear()
-// }
-// 全局变量
-// json为原始变量，类型为对象，除非用户主动重新选择解析其它json文件，否则不会被修改
 json = ""
-// json_new，变量
-json_new = {
-
-}
-
+json_new = {}
 window.addEventListener("scroll", left_scroll_fun)
 
-
 let main_div = document.getElementById("main")
-// main_div.addEventListener("scroll", left_scroll_fun)
 function left_scroll_fun() {
     // 1.移除
     let sheet_li_show = document.getElementsByClassName("sheet_li_show")
-    // console.log(document.documentElement.scrollTop,sheet_li_show)
     if (sheet_li_show.length != 0) {
         sheet_li_show[0].classList.remove("sheet_li_show")
     }
@@ -29,7 +17,6 @@ function left_scroll_fun() {
     let wrap = document.getElementsByClassName("wrap")
     let top = document.documentElement.scrollTop + window.innerHeight / 2
     for (let i = 0; i < wrap.length - 1; i++) {
-        // console.log(document.documentElement.scrollTop,"offsetTop",i,wrap[i].offsetTop)
         if (wrap[i].offsetTop <= top && wrap[i + 1].offsetTop > top) {
             let index = i
             let sheet_li = document.getElementsByClassName("sheet_li")
@@ -39,10 +26,6 @@ function left_scroll_fun() {
 
     }
 }
-
-
-
-
 // 防抖函数
 // function debounce(fn, duration = 500) {
 //     let timer
@@ -53,9 +36,6 @@ function left_scroll_fun() {
 //         }, duration)
 //     }
 // }
-
-
-
 function isJSON(str) {
     if (typeof str == 'string') {
         try {
@@ -65,7 +45,6 @@ function isJSON(str) {
             } else {
                 return false;
             }
-
         } catch (e) {
             console.log('error：not a json!!!');
             return false;
@@ -115,10 +94,8 @@ async function new_reader() {
 let file_input = document.getElementById("file_input")
 file_input.addEventListener("input", read_file)
 function read_file(e) {
-    // console.log(e, e.target, e.target.files)
     let file_name = e.target.files[0].name
     let file_type = file_name.split('.').slice(-1)[0].toLowerCase();
-    // console.log(file_type)
     if (file_type == "json") {
         let file = e.target.files[0]
         let file_reader = new FileReader()
@@ -126,13 +103,11 @@ function read_file(e) {
         file_reader.onload = (event) => {
             let content = event.target.result
             if (isJSON(content)) {
-                // console.log(content)
                 json = JSON.parse(content)
                 json2paper(json)
             }
         }
     }
-
 }
 
 // 文件夹
@@ -147,7 +122,6 @@ function read_dir(dir_input) {
 
     // console.log(dir)
     for (let i = 0; i < dir.length; i++) {
-        // await dir_read_file(dir, i, json_temp)
         let file_reader = new FileReader()
         let file = dir[i]
         let file_name = file.name
@@ -166,34 +140,12 @@ function read_dir(dir_input) {
                 json_temp["body"].push(...json_each["body"])
                 if (i == dir.length - 1) {
                     json = json_temp
-                    // console.log(json)
                     json2paper(json)
                 }
             }
         }
     }
 }
-// async function dir_read_file(dir, i, json_temp) {
-//     let file_reader = new FileReader()
-//     let file = dir[i]
-//     let file_name = file.name
-//     let file_type = file_name.split('.').slice(-1)[0].toLowerCase();
-//     if (file_type != "json") {
-//         return 0
-//     }
-//     file_reader.readAsText(file)
-//     file_reader.onload = async (event) => {
-//         let content = event.target.result
-//         if (isJSON(content)) {
-//             json_each = JSON.parse(content)
-//             if (i == 0) {
-//                 json_temp["head"] = json_each["head"]
-//             }
-//             json_temp["body"].push(json_each["body"])
-//         }
-//     }
-//     return json_temp
-// }
 
 function main_click(e) {
     // console.log(e.target)
@@ -204,18 +156,13 @@ function main_click(e) {
         let index = e.target.getAttribute("data-index")
         // 选项字母
         let option_code = e.target.dataset.optionCode
-        // console.log(e.target,option_code)
         // 通过索引获取wrap单位
         let wrap = document.getElementsByClassName("wrap")[index]
-        // console.log(index, wrap)
-        // let option = wrap.getElementsByClassName("options_wrap")[0].getElementsByClassName("option_wrap")[option_code.charCodeAt(0) - 65]
         let type_code = wrap.dataset.typeCode
         // 原来的选择字母
         let answer_my = wrap.dataset.answerMy
         // 原来的选择字母元素
         let answers_matching_index_new = wrap.dataset.answersMatchingIndexNew
-        // console.log(answers_matching_index_new)
-        // console.log(wrap.getElementsByClassName("option_code"), answer_my,[answer_my.charCodeAt(0) - 65])
         // 获取答题卡li元素
         let sheet_li = document.getElementsByClassName("sheet_li")[index]
         // console.log(sheet_li)
@@ -233,8 +180,6 @@ function main_click(e) {
                 wrap.dataset.answerMy = "[]"
                 let option_back = wrap.getElementsByClassName("option_code")[option_code_index]
                 option_back.classList.remove("checked")
-                // option_back.style.backgroundColor = "blue"
-                // console.log("选项一样的答案")
                 // 答题卡样式
                 sheet_li.classList.remove("checked")
             } else if (answer_my.length != 0) {
@@ -242,21 +187,15 @@ function main_click(e) {
                 wrap.dataset.answerMy = "[" + option_code_index + "]"
                 // 颜色取消显示
                 let option_back = wrap.getElementsByClassName("option_code")[answer_my[0]]
-                // console.log(wrap.getElementsByClassName("option_code"), answer_my)
                 option_back.classList.remove("checked")
                 let option_new = wrap.getElementsByClassName("option_code")[option_code_index]
                 option_new.classList.add("checked")
-                // option_back.style.backgroundColor = "white"
-                // console.log("选择一个新的答案")
                 // 答题卡样式
-                // sheet_li.classList.remove("checked")
             } else if (answer_my.length == 0) {
                 // 之前没有选择答案
                 wrap.dataset.answerMy = "[" + option_code_index + "]"
-                // console.log(option_code, wrap.getElementsByClassName("option_code"))
                 let option_new = wrap.getElementsByClassName("option_code")[option_code_index]
                 option_new.classList.add("checked")
-                // console.log("之前没有选择答案")
                 // 答题卡样式
                 sheet_li.classList.add("checked")
             }
@@ -272,38 +211,24 @@ function main_click(e) {
             // console.log(answer_my, option_code)
             if (answer_my.length != 0 && answer_my.indexOf(option_code_index) > -1) {
                 // 选项一样的答案
-                // console.log(answer_my, answer_my.indexOf(option_code_index))
                 answer_my.splice(answer_my.indexOf(option_code_index), 1)
                 wrap.dataset.answerMy = JSON.stringify(answer_my)
-                // console.log(wrap.dataset.answerMy)
                 let option_back = wrap.getElementsByClassName("option_code")[option_code_index]
                 option_back.classList.remove("checked")
-                // console.log("选项一样的答案")
                 // 答题卡样式
-                // console.log(answer_my, answer_my.length, answer_my=="")
                 if (answer_my.length == 0) {
                     sheet_li.classList.remove("checked")
                 }
-
             } else if (answer_my.length != 0) {
                 // 选择一个新的答案
-                // console.log(answer_my,  answer_my.length,option_code_index, answer_my.indexOf(option_code_index))
                 answer_my.push(option_code_index)
                 wrap.dataset.answerMy = JSON.stringify(answer_my)
-                // console.log(answer_my.push(option_code_index))
-                // 颜色取消显示
-                // let option_back = wrap.getElementsByClassName("option_code")[option_code_index]
-                // option_back.classList.remove("checked")
                 let option_new = wrap.getElementsByClassName("option_code")[option_code_index]
                 option_new.classList.add("checked")
-                // console.log("选择一个新的答案")
             } else if (answer_my.length == 0) {
-                // 之前没有选择答案
-
                 wrap.dataset.answerMy = "[" + option_code_index + "]"
                 let option_new = wrap.getElementsByClassName("option_code")[option_code_index]
                 option_new.classList.add("checked")
-                // console.log("之前没有选择答案")
                 // 答题卡样式
                 sheet_li.classList.add("checked")
             }
@@ -329,15 +254,12 @@ async function is_submit() {
         // console.log("取消提交")
     }
 }
-
-
 // 是否收藏逻辑
 let mian = document.getElementById("main")
 mian.addEventListener("click", is_favourite_fun)
 
 
 function is_favourite_fun(e) {
-    // console.log(e, e.target, e.target.parentNode)
     if (e.target.classList.contains("favourite")) {
         var favourite = e.target
         var wrap = favourite.parentNode.parentNode
@@ -349,47 +271,19 @@ function is_favourite_fun(e) {
     }
     let index = wrap.dataset.index
     let sheet_li = document.getElementsByClassName("sheet_li")[index]
-
-    // console.log(wrap.dataset.isFavourite)
     if (wrap.dataset.isFavourite == "0") {
         wrap.dataset.isFavourite = "1"
         sheet_li.dataset.isFavourite = "1"
         favourite.classList.add("favourite_active")
         sheet_li.classList.add("favourite_active")
-        // console.log("收藏")
     } else if (wrap.dataset.isFavourite == "1") {
         wrap.dataset.isFavourite = "0"
         sheet_li.dataset.isFavourite = "0"
         sheet_li.classList.remove("favourite_active")
         favourite.classList.remove("favourite_active")
-        // console.log("取消收藏")
     }
 
 }
-
-
-
-// js中有两个包含数字的数组，提取数组中的公共数字返回一个新数组，还返回另外两个排除了公共数字的数组
-// function extractCommonNumbers(array1, array2) {
-//     // 提取两个数组中的公共数字
-//     let commonNumbers = array1.filter(number => array2.includes(number));
-
-//     // 排除公共数字得到两个新数组
-//     let array1WithoutCommon = array1.filter(number => !commonNumbers.includes(number));
-//     let array2WithoutCommon = array2.filter(number => !commonNumbers.includes(number));
-
-//     // 返回结果数组和两个排除了公共数字的数组
-//     return { common: commonNumbers, array1WithoutCommon, array2WithoutCommon };
-// }
-
-// // 例子
-// const array1 = [1, 2, 3, 4, 5];
-// const array2 = [3, 4, 5, 6, 7];
-
-// const result = extractCommonNumbers(array1, array2);
-// console.log("公共数字:", result.common);
-// console.log("数组1排除公共数字:", result.array1WithoutCommon);
-// console.log("数组2排除公共数字:", result.array2WithoutCommon);
 
 function submit() {
     removeEventListener_main_click_and_is_submit()
@@ -413,12 +307,8 @@ function submit() {
         for (let x = 0; x < input.length; x++) {
             input_str = input_str + input[x].value
         }
-
         let sheet_li = sheet_wrap.getElementsByClassName("sheet_li")[order]
-
-
         if (!answer_my && !input_str) {
-
             is_answer_true = false
             answer_true_display_fun(is_answer_true, sheet_li, answer_my_div, answer_true_display, wrap_each)
             let answers_matching_index_new = wrap_each.dataset.answersMatchingIndexNew
@@ -430,11 +320,8 @@ function submit() {
             if (type_code == 1 || type_code == 2 || type_code == 3) {
                 answer_my = JSON.parse(answer_my)
                 answer_my.sort()
-
-                // console.log(answer_my)
                 let answer_my_div = wrap_each.getElementsByClassName("answer_my")[0]
                 for (let j = 0; j < answer_my.length; j++) {
-                    // console.log(answer_my[j])
                     answer_my_div.innerText = answer_my_div.innerText + String.fromCharCode(answer_my[j] + 65)
                 }
                 answer_my = answer_my.toString()
@@ -458,17 +345,13 @@ function submit() {
                 answers = JSON.parse(answers)
                 flag = true
                 for (let i = 0; i < input.length; i++) {
-                    // console.log(input[i].value, answers[i])
                     if (input[i].value == answers[i]) {
-                        // sheet_li.style.backgroundColor = "green"
                     } else {
-                        // sheet_li.style.backgroundColor = "red"
                         flag = false
                     }
                 }
                 let is_answer_true = flag
                 answer_true_display_fun(is_answer_true, sheet_li, answer_my_div, answer_true_display, wrap_each)
-                // option_true_display_fun(options_wrap, answers_matching_index_new)
             }
         }
     }
@@ -517,12 +400,8 @@ function submit() {
 
 function option_true_display_fun(options_wrap, answers_matching_index_new) {
     let option_wrap_arr = options_wrap.getElementsByClassName("option_wrap")
-    // console.log(options_wrap.getElementsByClassName("option_wrap"), typeof answers_matching_index_new,answers_matching_index_new)
-
     for (let i = 0; i < answers_matching_index_new.length; i++) {
         let index = answers_matching_index_new[i]
-        // console.log(index)
-        // console.log(index, option_wrap_arr[index], answers_matching_index_new)
         option_wrap_arr[index].classList.add("option_right")
     }
 
@@ -581,17 +460,6 @@ function getRandomElementsFromArray(arr, n) {
     return resultArray;
 }
 
-// // 示例用法
-// const originalArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-// const numberOfElementsToExtract = 3;
-
-// const newArray = getRandomElementsFromArray(originalArray, numberOfElementsToExtract);
-// console.log(newArray);
-
-// 打乱数组顺序
-// https://cloud.tencent.com/developer/article/1782834
-
-
 function shuffle(arr) {
     let i = arr.length;
     while (i) {
@@ -609,14 +477,8 @@ function string_to_name(string, value) {
     eval(_name)
     return _name
 }
-// let hash = window.location.replase("#","")
 
 let url = location.search
-// let decode_url = decodeURIComponent(url.replace("?path=", ""))
-// console.log(decode_url)
-
-
-
 
 function json_create_original_index(json) {
     var json_body = json["body"]
@@ -628,37 +490,6 @@ function json_create_original_index(json) {
 }
 
 
-// 数组去重
-// function unique(arr) {
-//     // set本身是具有无序，不能重复的特性
-//     const set = new Set(arr);
-
-//     return [...set];
-// }
-
-// function uniqueArray(arr) {
-//     return arr.filter(function (item, index, arr) {
-//         //当前元素，在原始数组中的第一个索引==当前索引值，否则返回当前元素
-//         console.log(index, arr.indexOf(item, 0))
-//         return arr.indexOf(item, 0) === index;
-//     });
-// }
-
-// function unique(arr) {
-//     // 定义一个新数组
-//     const newArr = [];
-
-//     arr.forEach((i) => {
-//         // 利用indexOf来判断newArr中有没有arr中的元素，有的话返回1，没有返回-1
-//         // 这里的indexOf相当于在遍历newArr中的每一项,所以计算效率相对较低
-//         if (newArr.indexOf(i) < 0) {
-//             // 如果newArr中没有,那么就把这个元素push到newArr中,实现去重
-//             newArr.push(i);
-//         }
-//     });
-
-//     return newArr;
-// }
 function json2paper(json, is_order = "0") {
     // console.log("json2paper", json)
 
@@ -666,16 +497,12 @@ function json2paper(json, is_order = "0") {
     if (json["head"]["create_original_index"] != "1") {
         json_create_original_index(json)
     }
-
-    // var json_body = uniqueArray(json["body"])
     var json_body = json["body"]
-
-    // console.log(json_body)
-
     let drop_box = document.getElementById("drop_box")
     drop_box.style.display = "none"
 
     let sheet = document.getElementById("sheet")
+    sheet.style.visibility = "hidden"
     sheet.style.display = "block"
 
     json_body = sort_json(json_body, is_order)
@@ -737,8 +564,6 @@ function json2paper(json, is_order = "0") {
 
 
 function back_top_fun(e) {
-    // console.log(e.offsetTop)
-    // document.documentElement.scrollTop = e.offsetTop
     document.documentElement.scrollTop = 0
 }
 
@@ -843,7 +668,8 @@ function clear_old_paper_sheet() {
     let drop_dir_box = document.getElementById("drop_dir_box")
     drop_dir_box.style.display = "none"
     let back_top = document.getElementById("back_top")
-    back_top.style.visibility = "visible"
+    // back_top.style.visibility = "visible"
+    back_top.style.visibility = "hidden"
 }
 
 async function unorder_json() {
@@ -896,8 +722,92 @@ setting_icon_div.addEventListener("click", function () {
 })
 
 
+// pc和手机设置球拖动逻辑
+let offsetX, offsetY; // 将 offsetX 和 offsetY 移到共同的作用域
 
-// 拖拽逻辑
+function drag_fun(e) {
+    let bar_height = 36;
+    let setting_icon_div_width = 48;
+    // 与边框的距离
+    let distanse = 10
+    let setting = document.getElementById("setting")
+    let setting_icon_div = document.getElementById("setting_icon_div")
+    let setting_div = document.getElementById("setting_div")
+    let setting_show = setting_div.dataset.settingShow
+    if (setting_show == "0") {
+        var _h = window.innerHeight - (setting_icon_div.offsetHeight + distanse)
+        var _w = window.innerWidth - (setting_icon_div.offsetWidth + distanse)
+    } else if (setting_show == "1") {
+        var _h = window.innerHeight - (setting_div.offsetHeight + distanse)
+        var _w = window.innerWidth - (setting_div.offsetWidth + setting_icon_div_width + distanse)
+    }
+    let div_top = e.clientY - offsetY
+    let div_left = e.clientX - offsetX
+    div_top = Math.min(Math.max(bar_height + distanse, div_top), _h)
+    div_left = Math.min(Math.max(distanse, div_left), _w)
+    setting.style.top = div_top + "px"
+    setting.style.left = div_left + setting_icon_div_width + "px"
+}
+
+// PC拖拽逻辑
+// let setting_icon_div = document.getElementById("setting_icon_div");
+// 变量上面有了
+setting_icon_div.addEventListener("dragstart", function (e) {
+    offsetX = e.offsetX; // 将 offsetX 和 offsetY 赋值在共同的作用域内
+    offsetY = e.offsetY;
+
+    document.addEventListener("dragover", drag_fun)
+})
+
+setting_icon_div.addEventListener("dragend", function (e) {
+    document.removeEventListener("dragover", drag_fun)
+})
+
+// 手机触摸拖动逻辑
+let isDragging = false;
+
+setting_icon_div.addEventListener("touchstart", function (e) {
+    isDragging = true;
+    let touch = e.touches[0];
+    offsetX = touch.clientX - setting_icon_div.getBoundingClientRect().left;
+    offsetY = touch.clientY - setting_icon_div.getBoundingClientRect().top;
+}, { passive: false });
+
+document.addEventListener("touchmove", function (e) {
+    if (isDragging) {
+        e.preventDefault();
+        let touch = e.touches[0];
+        let setting = document.getElementById("setting");
+        let bar_height = 4;
+        let distanse = 4;
+        let setting_icon_div_width = 48;
+        let setting_div = document.getElementById("setting_div");
+        let setting_show = setting_div.dataset.settingShow;
+        let _h, _w;
+
+        if (setting_show == "0") {
+            _h = window.innerHeight - (setting_icon_div.offsetHeight + distanse);
+            _w = window.innerWidth - (setting_icon_div.offsetWidth + distanse);
+        } else if (setting_show == "1") {
+            _h = window.innerHeight - (setting_div.offsetHeight + distanse);
+            _w = window.innerWidth - (setting_div.offsetWidth + setting_icon_div_width + distanse);
+        }
+
+        let div_top = touch.clientY - offsetY;
+        let div_left = touch.clientX - offsetX;
+        div_top = Math.min(Math.max(bar_height + distanse, div_top), _h);
+        div_left = Math.min(Math.max(distanse, div_left), _w);
+        setting.style.top = div_top + "px";
+        setting.style.left = div_left + setting_icon_div_width + "px";
+    }
+}, { passive: false });
+
+document.addEventListener("touchend", function () {
+    isDragging = false;
+})
+
+
+/* // PC拖拽逻辑
 let offsetX, offsetY; // 将 offsetX 和 offsetY 移到共同的作用域
 
 function drag_fun(e) {
@@ -935,6 +845,52 @@ setting_icon_div.addEventListener("dragstart", function (e) {
 setting_icon_div.addEventListener("dragend", function (e) {
     document.removeEventListener("dragover", drag_fun)
 })
+ */
+// 手机触摸拖动逻辑
+/* let startTouchX, startTouchY; // 将 startTouchX 和 startTouchY 移到共同的作用域
+
+function touchDragFun(e) {
+    let bar_height = 36;
+    let setting_icon_div_width = 48;
+    // 与边框的距离
+    let distanse = 2;
+    let setting = document.getElementById("setting");
+    let setting_icon_div = document.getElementById("setting_icon_div");
+    let setting_div = document.getElementById("setting_div");
+    let setting_show = setting_div.dataset.settingShow;
+
+    if (setting_show == "0") {
+        var _h = window.innerHeight - (setting_icon_div.offsetHeight + distanse);
+        var _w = window.innerWidth - (setting_icon_div.offsetWidth + distanse);
+    } else if (setting_show == "1") {
+        var _h = window.innerHeight - (setting_div.offsetHeight + distanse);
+        var _w = window.innerWidth - (setting_div.offsetWidth + setting_icon_div_width + distanse);
+    }
+
+    let divTop = e.touches[0].clientY - startTouchY;
+    let divLeft = e.touches[0].clientX - startTouchX;
+    console.log(e.touches[0].pageY, startTouchY, divTop, "----", e.touches[0].pageX, startTouchX, divLeft);
+
+    divTop = Math.min(Math.max(bar_height + distanse, divTop), _h);
+    divLeft = Math.min(Math.max(distanse, divLeft), _w);
+
+    setting.style.top = divTop + "px";
+    setting.style.left = divLeft + setting_icon_div_width + "px";
+    // console.log(divTop, divLeft + setting_icon_div_width)
+}
+
+setting_icon_div.addEventListener("touchstart", function (e) {
+    startTouchX = e.touches[0].pageX; // 将 startTouchX 和 startTouchY 赋值在共同的作用域内
+    startTouchY = e.touches[0].pageY;
+
+    document.addEventListener("touchmove", touchDragFun);
+}, { passive: true });
+
+setting_icon_div.addEventListener("touchend", function (e) {
+    document.removeEventListener("touchmove", touchDragFun);
+}); */
+
+
 
 
 // 设置里面的各功能
@@ -965,45 +921,22 @@ function is_hide_answer_true_fun(is_hide_answer_true_input) {
             answer_true.dataset.isShow = "1"
             answer_true.classList.add("answer_true_hide")
         }
-        // main.addEventListener("mousemove", hide_answer_true_fun)
     } else if (is_hide_answer_true == "1") {
         for (let i = 0; i < answer_true_arr.length; i++) {
             let answer_true = answer_true_arr[i]
             answer_true.dataset.isShow = "0"
             answer_true.classList.remove("answer_true_hide")
         }
-        // main.removeEventListener("mousemove", hide_answer_true_fun)
     }
     is_hide_answer_true_input.dataset.isHideAnswerTrue = 1 - is_hide_answer_true
 
 }
 
-// function hide_answer_true_fun(e) {
-
-//     if (!e.classList.contains("answer_true")) {
-//         return 0
-//     } 
-
-// }
-
-
-
-
 // 1.3提交后自动展开设置
 function auto_unfold_setting_fun(is_auto_unfold_setting_input) {
     let is_auto_unfold_setting = is_auto_unfold_setting_input.dataset.isAutoUnfoldSetting
     is_auto_unfold_setting_input.dataset.isAutoUnfoldSetting = 1 - is_auto_unfold_setting
-    // setTimeout(() => {
-    //     let setting_icon_div = document.getElementById("setting_icon_div")
-    //     setting_icon_div.click()
-    // }, 700)
 }
-// function wrap_type_div_display_fun() {
-//     let wrap_type_div = document.getElementsByClassName("wrap_type_div")
-
-// }
-
-
 var elem = document.documentElement;
 
 /* 全屏查看 */
@@ -1074,10 +1007,6 @@ let Setting2_public_fun = {
         let sheet_type_div = document.getElementsByClassName("sheet_type_div")
         let is_show = wrap_type_div.dataset.is_show
 
-        // for (let i = 0; i < wrap_type_div.length; i++) {
-        //     wrap_type_div[i].style.display = "block"
-        // }
-        // wrap_type_div[index].style.display = "none"
     },
     is_answer_true_fun: function () {
         let is_answer_true_display_input = document.getElementById("is_answer_true_display")
@@ -1102,10 +1031,6 @@ let Setting2_public_fun = {
     }
 
 }
-// Setting2_public_fun.is_answer_true_fun()
-// Setting2_public_fun.favourite_display_fun()
-// Setting2_public_fun.is_answer_true_favourite_display_fun()
-// 仅错题显示功能
 function is_answer_true_fun(is_answer_true_display_input) {
     let wrap_arr = document.getElementsByClassName("wrap")
 
@@ -1143,7 +1068,6 @@ function is_answer_true_fun(is_answer_true_display_input) {
 }
 
 // 仅收藏显示功能
-
 
 function favourite_display_fun(is_favourite_display_input) {
     let wrap_type_div = document.getElementsByClassName("wrap_type_div")
@@ -1193,7 +1117,6 @@ function is_answer_true_favourite_display_fun(is_answer_true_favourite_display_i
         for (let i = 0; i < wrap_arr.length; i++) {
             let is_answer_true = wrap_arr[i].dataset.isAnswerTrue
             let is_favourite = wrap_arr[i].dataset.isFavourite
-            // console.log(i, is_favourite, is_answer_true, is_favourite == "0", is_answer_true == "1", (is_favourite == "0" || is_answer_true == "1"))
             if (is_favourite == "0" && is_answer_true == "1") {
                 let wrap = wrap_arr[i]
                 wrap.style.display = "none"
@@ -1241,7 +1164,6 @@ function rewrite_fun(rewrite_a, is_output = "0") {
         case "1":
             for (let i = 0; i < wrap_arr.length; i++) {
                 let wrap = wrap_arr[i]
-                // let index = wrap.dataset.index
                 let original_index = wrap.dataset.originalIndex
                 original_index_arr.push(original_index)
             }
@@ -1249,7 +1171,6 @@ function rewrite_fun(rewrite_a, is_output = "0") {
         case "2":
             for (let i = 0; i < wrap_arr.length; i++) {
                 let wrap = wrap_arr[i]
-                // let index = wrap.dataset.index
                 let original_index = wrap.dataset.originalIndex
                 let is_answer_true = wrap.dataset.isAnswerTrue
                 if (is_answer_true == "0") {
@@ -1265,14 +1186,12 @@ function rewrite_fun(rewrite_a, is_output = "0") {
 
                 if (is_favourite == "1") {
                     original_index_arr.push(original_index)
-                    // console.log(original_index)
                 }
             }
             break;
         case "4":
             for (let i = 0; i < wrap_arr.length; i++) {
                 let wrap = wrap_arr[i]
-                // let index = wrap.dataset.index
                 let original_index = wrap.dataset.originalIndex
                 let is_favourite = wrap.dataset.isFavourite
                 let is_answer_true = wrap.dataset.isAnswerTrue
@@ -1283,7 +1202,6 @@ function rewrite_fun(rewrite_a, is_output = "0") {
             break;
         default:
     }
-    // console.log(original_index_arr)
     if (original_index_arr.length == 0) {
         window.open(url)
         return 0
@@ -1308,27 +1226,21 @@ function rewrite_fun(rewrite_a, is_output = "0") {
 }
 // 下载函数
 let handleDownload = function (content, name = "测试数据") {
-
-    // download = document.getElementById("download")
     let download = document.createElement("a")
     download.style.display = 'block'
     download.download = name + '.json';
-    // var data = JSON.stringify(content, undefined, 4);
     var blob = new Blob([content], { type: "text/json" });
     download.href = URL.createObjectURL(blob);
     download.click()
 }
 
 function output_fun(output_div) {
-    // console.log(output_div)
     let output_type = output_div.dataset.type
     let rewrite = document.getElementsByClassName("rewrite")[output_type]
     let json_str = rewrite_fun(rewrite, "1")
-    // console.log(json_str)
     let name = "导出"
     handleDownload(json_str, name)
 }
-
 
 // 更多
 function more_setting_fun(e) {
@@ -1359,8 +1271,6 @@ function more_setting_fun(e) {
     e.dataset.isMoreSetting = 1 - is_more_setting
 
 }
-
-
 // 分割线
 
 // 乱序与非乱序生成
@@ -1389,7 +1299,6 @@ function removeEventListener_main_click_and_is_submit() {
     )
 }
 
-
 // window.isCloseHint = true;
 //初始化关闭
 // window.addEventListener("beforeunload", function (e) {
@@ -1407,7 +1316,6 @@ function main(json_body_each, order, index, is_order) {
     let answers_matching_index_new = []
     let wrap = document.createElement("div")
     wrap.className = "wrap"
-    // wrap.id = "q_" + order
     wrap.id = "q_typeCode" + type_code + "_" + order
     wrap.dataset.answerMy = "[]"
     wrap.dataset.order = order
@@ -1426,9 +1334,7 @@ function main(json_body_each, order, index, is_order) {
     </path></svg>
     `
     favourite_div.dataset.order = order
-
     wrap.append(favourite_div)
-
     let type = json_body_each["type"]
     // 问题
     let q = document.createElement("h3")
@@ -1441,7 +1347,6 @@ function main(json_body_each, order, index, is_order) {
         q.innerHTML = q.innerHTML + "\n" + json_body_each["questions"][i];
     }
     wrap.append(q)
-
     // 选项
     if (type_code == 1 || type_code == 2 || type_code == 3) {
 
@@ -1449,20 +1354,14 @@ function main(json_body_each, order, index, is_order) {
         var options_wrap = document.createElement("div")
         options_wrap.className = "options_wrap"
         answers_matching_index = json_body_each["answers_matching_index"]
-        // console.log(answers_matching_index)
         var options_new = deepCopy(options)
-
-        // console.log(is_order)
         if (is_order == "0") {
             shuffle(options_new);
         }
-
         for (let i = 0; i < answers_matching_index.length; i++) {
             answers_matching_index_new.push(options_new.indexOf(options[answers_matching_index[i]]))
         }
-
         answers_matching_index_new.sort()
-
         var options = options_new
         for (let i = 0; i < options.length; i++) {
             var option_wrap = document.createElement("div")
@@ -1509,11 +1408,8 @@ function main(json_body_each, order, index, is_order) {
 
         }
         wrap.dataset.answersMatchingIndexNew = JSON.stringify(answers_matching_index_new)
-
     } else if (type_code == 4 || type_code == 5) {
-
         let answers = json_body_each["answers"]
-        // console.log(answers)
         if (answers.length == 0) {
             answers.push("空")
         }
@@ -1522,31 +1418,23 @@ function main(json_body_each, order, index, is_order) {
             input_wrap.className = "input_wrap"
             var input_code = document.createElement("span")
             input_code.className = "input_code"
-
             input_code.innerHTML = i + 1 + ".  "
             var input = document.createElement("input")
             input.className = "input"
             input.name = "input"
             input.innerHTML = answers[i]
-            // console.log(option)
-
             input_wrap.append(input_code)
             input_wrap.append(input)
-
             wrap.append(input_wrap)
-
             input_wrap.dataset.order = order
             input_wrap.dataset.inputCode = input_code.innerHTML
             input_code.dataset.order = order
             input_code.dataset.inputCode = input_code.innerHTML
             input.dataset.order = order
             input.dataset.inputCode = input_code.innerHTML
-
         }
-        // console.log(answers)
         wrap.dataset.answers = JSON.stringify(answers)
     }
-
     // 答案
     let answer_wrap = document.createElement("div")
     answer_wrap.className = "answer_wrap"
@@ -1555,33 +1443,26 @@ function main(json_body_each, order, index, is_order) {
     answer_my.innerHTML = "我的答案："
     let answer_true = document.createElement("span")
     answer_true.className = "answer_true"
-    // answer_true.innerHTML = "正确答案：" + json_body_each["answer"]
     answer_true.innerHTML = "正确答案："
-
     if (type_code == 1 || type_code == 2 || type_code == 3) {
         for (let i = 0; i < answers_matching_index_new.length; i++) {
             answer_true.innerHTML = answer_true.innerHTML + String.fromCharCode(65 + answers_matching_index_new[i])
         }
     } else if (type_code == 4 || type_code == 5) {
-        // answer_true.innerHTML = answer_true.innerHTML + json_body_each["answers"]
         let temp_str = ""
         for (let i = 0; i < json_body_each["answers"].length; i++) {
             temp_str = temp_str + (i + 1) + "." + json_body_each["answers"][i] + "  "
         }
         answer_true.innerHTML = answer_true.innerHTML + temp_str
     }
-
     let answer_true_display = document.createElement("span")
     answer_true_display.className = "answer_true_display"
-
-
     answer_wrap.append(answer_my)
     answer_wrap.append(answer_true)
     answer_wrap.append(answer_true_display)
     let answer_true_arr = []
     answer_true_arr.push(json_body_each["answer"])
     wrap.append(answer_wrap)
-
     // 解析
     let analysis = document.createElement("div")
     analysis.className = "analysis"
@@ -1592,21 +1473,12 @@ function main(json_body_each, order, index, is_order) {
         analysis.dataset.analysisContent = 1
     }
     wrap.append(analysis)
-
     // 自定义属性: 全局索引
-
     answer_wrap.dataset.order = order
     answer_my.dataset.order = order
     answer_true.dataset.order = order
     analysis.dataset.order = order
-
-
-    // console.log(wrap)
-
-
-
     // 答题卡
-    // let sheet_wrap = document.getElementById("sheet_wrap")
     let sheet_li = document.createElement("li")
     sheet_li.className = "sheet_li"
     sheet_li.dataset.originalIndex = original_index
@@ -1629,9 +1501,7 @@ function main(json_body_each, order, index, is_order) {
     sheet_li_a.innerHTML = order + 1
     sheet_li_a.className = "sheet_li_a"
     sheet_li.append(sheet_li_a)
-    // sheet_wrap.append(sheet_li)
     return [wrap, sheet_li]
-
 }
 
 
