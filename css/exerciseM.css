@@ -54,7 +54,7 @@
   }
 
   #nav_center {
-      --nav_center_width: 48px ;
+      --nav_center_width: 36px ;
       width: var(--nav_center_width);
       margin: 0 auto;
   }
