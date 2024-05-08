@@ -268,7 +268,7 @@
   /* The switch - the box around the slider */
   .switch {
       float: right;
-         margin-right: 50px;
+         margin-right: 10px;
       font-size: 17px;
       position: relative;
       display: block;
