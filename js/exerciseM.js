@@ -29,3 +29,13 @@ function scrControl(t,e) {
         e.removeEventListener('scroll', this.bodyScroll, { passive: false });
     }
 } */
+window.isCloseHint = true;
+// 初始化关闭
+window.addEventListener("beforeunload", function (e) {
+    if (window.isCloseHint) {
+        var confirmationMessage = "要记得保存！你确定要离开我吗？";
+        (e || window.event).returnValue = confirmationMessage; // 兼容 Gecko + IE
+        this.alert(confirmationMessage);
+        return confirmationMessage; // 兼容 Gecko + Webkit, Safari, Chrome
+    }
+});
