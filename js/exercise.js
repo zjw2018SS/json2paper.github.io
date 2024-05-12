@@ -1310,7 +1310,9 @@ function removeEventListener_main_click_and_is_submit() {
         is_submit
     )
 }
-
+function generateCircledNumber(num) {
+    return String.fromCharCode(9311 + num);
+}
 
 function main(json_body_each, order, index, is_order) {
     let original_index = json_body_each["original_index"]
