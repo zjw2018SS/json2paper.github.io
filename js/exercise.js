@@ -1421,7 +1421,8 @@ function main(json_body_each, order, index, is_order) {
             input_wrap.className = "input_wrap"
             var input_code = document.createElement("span")
             input_code.className = "input_code"
-            input_code.innerHTML = i + 1 + ".  "
+             var xuhao = generateCircledNumber(i+1)
+            input_code.innerHTML = xuhao+" "
             var input = document.createElement("input")
             input.className = "input"
             input.name = "input"
