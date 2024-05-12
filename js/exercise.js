@@ -1510,6 +1510,7 @@ function main(json_body_each, order, index, is_order) {
     }
 
     let sheet_li_a = document.createElement("a")
+    sheet_li_a.target = "_self"
     sheet_li_a.href = "#q_typeCode" + type_code + "_" + order
     sheet_li_a.innerHTML = order + 1
     sheet_li_a.className = "sheet_li_a"
