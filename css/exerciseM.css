@@ -5,7 +5,7 @@
   }
 
   html {
-
+      /* scroll-behavior: smooth; */
       scroll-padding-top: calc(60px + 30vh);
   }
 
@@ -54,11 +54,14 @@
   }
 
   #nav_center {
-      --nav_center_width: 36px ;
+      --nav_center_width: 36px;
       width: var(--nav_center_width);
       margin: 0 auto;
   }
 
+  #nav_center>svg {
+      margin: 0 auto;
+  }
 
   #new_read_json {
       width: fit-content;
@@ -107,7 +110,7 @@
       padding-left: 0px;
   }
 
-/*   #unorder_json>div {
+  /*   #unorder_json>div {
       position: absolute;
       top: 0px;
       right: -18px;
@@ -261,14 +264,14 @@
   .toggle_switches_div {
       position: relative;
       margin: 5px 0px 0px 10px;
-     
+      /* font-size: xx-small; */
   }
 
   /* Switch by mrhyddenn */
   /* The switch - the box around the slider */
   .switch {
       float: right;
-         margin-right: 10px;
+      margin-right: 10px;
       font-size: 17px;
       position: relative;
       display: block;
@@ -454,7 +457,10 @@
   }
 
   #drop_box {
-   position: relative;
+/*       position: absolute;
+      top: 20px;
+      left: 0vw; */
+      position: relative;
       margin: 0 auto;
       width: fit-content;
       padding: 0 20px;
@@ -520,7 +526,10 @@
 
   /* 文件夹 */
   #drop_dir_box {
-   position: relative;
+/*       position: absolute;
+      top: 300px;
+      left: 0vw; */
+    position: relative;
       margin: 30px auto 0;
       width: fit-content;
       padding: 0 20px;
@@ -634,6 +643,9 @@
   }
 
   .option_wrap {
+
+    display: flex;
+    flex-direction: row;
       position: relative;
       height: fit-content;
       min-height: 30px;
@@ -641,7 +653,7 @@
   }
 
   .option_code {
-      display: inline-block;
+      display: block;
       width: 30px;
       height: 30px;
       margin-right: 16px;
@@ -666,11 +678,11 @@
 
 
 
-  .option_code:hover {
+  /* .option_code:hover {
       border: 1px solid #94c1ff;
       background: #e6f0ff;
       color: #6BA9FF;
-  }
+  } */
 
 
   .option_code.checked {
@@ -679,7 +691,7 @@
   }
 
   .option {
-      display: inline-block;
+      display: block;
       height: fit-content;
       min-height: 30px;
       line-height: 32px;
@@ -708,7 +720,7 @@
   }
 
   .input_wrap {
-      padding: 20px;
+      padding: 5px;
   }
 
   .input_code {
@@ -780,7 +792,7 @@
   .answer_true_display {
       position: absolute;
       top: 0px;
-       left: -45px;
+      left: -45px;
       width: 40px;
       height: 40px;
       margin-right: 200px;

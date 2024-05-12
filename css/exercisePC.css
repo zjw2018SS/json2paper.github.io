@@ -168,7 +168,6 @@
   }
 
 
-
   #submit {
       /* position: absolute;
       top: 0;
@@ -657,12 +656,14 @@
   .option_wrap {
       position: relative;
       height: fit-content;
+      display: flex;
+      flex-direction: row;
       min-height: 30px;
       padding: 5px 0px 10px 10px;
   }
 
   .option_code {
-      display: inline-block;
+      display:block;
       width: 30px;
       height: 30px;
       margin-right: 8px;
@@ -675,39 +676,31 @@
       margin-top: 4px;
       user-select: none;
   }
-
   .option_code_1,
   .option_code_3 {
       border-radius: 50%;
   }
-
   .option_code_2 {
       border-radius: 12%;
   }
-
-
-
   .option_code:hover {
       border: 1px solid #94c1ff;
       background: #e6f0ff;
       color: #6BA9FF;
   }
-
-
   .option_code.checked {
       color: white;
       background-color: rgb(97, 118, 255);
   }
-
   .option {
-      display: inline-block;
+      display: block;
       height: fit-content;
+      width: calc(100% - 38px - 10px );
       min-height: 30px;
       line-height: 32px;
       margin: 5px 0px;
       padding: 0px 15px;
   }
-
   .option_right::before {
       position: absolute;
       top: 14px;
@@ -796,10 +789,18 @@
       filter: blur(0px);
   }
 
-  .answer_true_display {
+  /*   .answer_true_display {
       position: absolute;
       top: 0px;
       right: 0;
+      width: 40px;
+      height: 40px;
+      margin-right: 200px;
+  } */
+  .answer_true_display {
+      position: absolute;
+      top: 0px;
+      left: -55px;
       width: 40px;
       height: 40px;
       margin-right: 200px;

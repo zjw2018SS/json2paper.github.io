@@ -29,6 +29,8 @@ function scrControl(t,e) {
         e.removeEventListener('scroll', this.bodyScroll, { passive: false });
     }
 } */
+
+
 window.isCloseHint = true;
 // 初始化关闭
 window.addEventListener("beforeunload", function (e) {

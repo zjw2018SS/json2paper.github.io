@@ -67,7 +67,7 @@ async function new_reader() {
 
 
         let sheet = document.getElementById("sheet")
-        sheet.style.display = "none"
+        // sheet.style.display = "none"
 
         let main = document.getElementById("main")
         while (main.children.length > 2) {
@@ -170,7 +170,6 @@ function main_click(e) {
 
         if (type_code == 1 || type_code == 3) {
             // 单选和判断
-            // console.log(typeof answer_my, answer_my)
             if (answer_my) {
                 answer_my = JSON.parse(answer_my).toString()
             }
@@ -391,6 +390,12 @@ function submit() {
         setting_icon_div.click()
     }
 
+    // 将input输入框设置为禁止输入或者可输入
+    // 禁止所有 input 输入框输入
+    document.querySelectorAll('input').forEach(input => {
+        input.disabled = true;
+    });
+
     swal({
         title: "恭喜您！",
         text: `答对${correct_num}道题，答错${wrong_num}道题，正确率${(correct_num / (correct_num + wrong_num) * 100).toFixed(2)}%。`,
@@ -491,7 +496,11 @@ function json_create_original_index(json) {
 
 
 function json2paper(json, is_order = "0") {
-    // console.log("json2paper", json)
+
+    // // 允许所有 input 输入框输入
+    // document.querySelectorAll('input').forEach(input => {
+    //     input.disabled = false;
+    // });
 
     clear_old_paper_sheet()
     if (json["head"]["create_original_index"] != "1") {
@@ -502,7 +511,7 @@ function json2paper(json, is_order = "0") {
     drop_box.style.display = "none"
 
     let sheet = document.getElementById("sheet")
-    if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))){
+    if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
         sheet.style.visibility = "hidden"
     }
 
@@ -1302,16 +1311,7 @@ function removeEventListener_main_click_and_is_submit() {
     )
 }
 
-// window.isCloseHint = true;
-//初始化关闭
-// window.addEventListener("beforeunload", function (e) {
-//     if (window.isCloseHint) {
-//         var confirmationMessage = "要记得保存！你确定要离开我吗？";
-//         (e || window.event).returnValue = confirmationMessage; // 兼容 Gecko + IE
-//         this.alert(confirmationMessage);
-//         return confirmationMessage; // 兼容 Gecko + Webkit, Safari, Chrome
-//     }
-// });
+
 function main(json_body_each, order, index, is_order) {
     let original_index = json_body_each["original_index"]
     let type_code = json_body_each["type_code"]
@@ -1347,7 +1347,7 @@ function main(json_body_each, order, index, is_order) {
     q.innerHTML = index_ + ". （" + type + "） "
     // q.innerHTML = json_body_each["question"]
     for (let i = 0; i < json_body_each["questions"].length; i++) {
-        q.innerHTML = q.innerHTML + "\n" + json_body_each["questions"][i];
+        q.innerHTML = q.innerHTML + "\n" + json_body_each["questions"][i].replace(/\n/g, "\n")
     }
     wrap.append(q)
     // 选项
@@ -1386,7 +1386,7 @@ function main(json_body_each, order, index, is_order) {
             option_code.innerHTML = String.fromCharCode(65 + i)
             var option = document.createElement("span")
             option.className = "option"
-            option.innerHTML = options[i]
+            option.innerHTML = options[i].replace(/\n/g, "\n")
             // } 
 
             option_wrap.append(option_code)
@@ -1441,10 +1441,17 @@ function main(json_body_each, order, index, is_order) {
     // 答案
     let answer_wrap = document.createElement("div")
     answer_wrap.className = "answer_wrap"
-    let answer_my = document.createElement("span")
+    if (type_code == 1 || type_code == 2 || type_code == 3) {
+        var answer_my = document.createElement("span")
+        var answer_true = document.createElement("span")
+    } else if (type_code == 4 || type_code == 5) {
+        var answer_my = document.createElement("div")
+        var answer_true = document.createElement("div")
+    }
+
     answer_my.className = "answer_my"
     answer_my.innerHTML = "我的答案："
-    let answer_true = document.createElement("span")
+
     answer_true.className = "answer_true"
     answer_true.innerHTML = "正确答案："
     if (type_code == 1 || type_code == 2 || type_code == 3) {
