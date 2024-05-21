@@ -1,0 +1,86 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "导论课前作业3 单选题",
+        "type_all_num": 3,
+        "type_1_num": 3
+    },
+    "body": [
+        {
+            "questions": [
+                "马克思主义强大生命力的根源在于:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 以实践为基础的科学性与革命性的统一",
+                " 科学性",
+                " 与时俱进",
+                " 科学性与阶级性的统一"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "作为中国共产党和社会主义事业指导思想的马克思主义是指:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 列宁创立的基本理论、基本观点和基本方法构成的科学体系",
+                " 不仅指马克思恩格斯创立的基本理论、基本观点和学说的体系,也包括继承者对它的发展",
+                " 无产阶级争取自身解放和整个人类解放的学说体系",
+                " 关于无产阶级斗争的性质、目的和解放条件的学说"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "马克思主义具有强大的生命力,这种强大生命力的根源在于它的丰富内容体现了【 】的统一。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 唯物论与辩证法",
+                " 世界观与方法论",
+                " 科学性与革命性",
+                " 政治与经济"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

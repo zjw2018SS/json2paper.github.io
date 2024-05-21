@@ -1,0 +1,272 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第五章 细菌的耐药性测试题",
+        "type_all_num": 10,
+        "type_1_num": 10
+    },
+    "body": [
+        {
+            "questions": [
+                "\n下列哪种情况属于耐药（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n药物对细菌的治疗浓度小于其最低抑菌浓度",
+                "\n药物对细菌的治疗浓度大于其最低抑菌浓度",
+                "\n药物对细菌的治疗浓度等于其最低抑菌浓度",
+                "\n药物对细菌的治疗浓度小于其最高抑菌浓度",
+                "  药物对细菌的治疗浓度大于其最高抑菌浓度"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n固有耐药性的产生是由于：（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n  染色体突变    ",
+                "\n接合性R质粒介导   ",
+                "\n非接合性R质粒介导  ",
+                "\n转座因子介导  ",
+                "  细菌种属特异性所决定"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n抑制蛋白质合成的药物是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n磺胺类药物",
+                "\n利福平",
+                "  链霉素",
+                "\n喹诺酮类药物",
+                "  青霉素类"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n关于R质粒的描述，下列哪项是错误的：（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\nR质粒是耐药性质粒 ",
+                "\nR质粒可通过接合方式传递 ",
+                "\nR质粒在肠道菌中更为常见 ",
+                "\nR质粒在呼吸道感染细菌中更为常见",
+                "  R质粒由RTF和r决定子组成"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n多黏菌素和酮康唑的作用机制是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 干扰细胞壁合成",
+                " 损伤细胞膜",
+                "\n抑制蛋白质合成",
+                "\n破坏细菌核酸",
+                " 影响叶酸代谢"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n细菌耐药性产生的机制不包括：（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 钝化酶的产生",
+                " 药物作用靶位的改变  ",
+                " 抗菌药物的使用导致细菌发生耐药性基因突变",
+                " 细菌对药物的主动外排   ",
+                " 细菌细胞壁通透性的改变"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n下列基因转移与重组的方式中，哪种与细菌的耐药性形成无关？（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 转化",
+                " 转导",
+                " 接合",
+                " 溶原性转换",
+                " 基因突变",
+                " 以上均不对"
+            ],
+            "answers": [
+                "F"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                5
+            ]
+        },
+        {
+            "questions": [
+                "获得耐药性发生的原因不包括（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n染色体突变   ",
+                "\n整合子介导   ",
+                "  插入序列介导",
+                "\nR质粒介导   ",
+                "  转座子介导"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n细菌耐药性的控制策略，正确的是：（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n合理使用抗菌药物   ",
+                "\n 严格执行消毒隔离制度   ",
+                "\n研制新抗菌药物  ",
+                "\n采用抗菌药物的“轮休”措施",
+                "  以上均对"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n除对多黏菌素外所有临床上的抗菌药物均耐药的细菌，称为（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n泛耐药菌",
+                "\n多重耐药菌",
+                "\n交叉耐药菌",
+                "\n超级细菌",
+                "\n敏感性细菌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.5 转导 单选题",
+        "type_all_num": 6,
+        "type_1_num": 6
+    },
+    "body": [
+        {
+            "questions": [
+                "流产转导是指噬菌体携带的供体菌DN"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不能进入受体菌",
+                "进入受体菌后被降解",
+                "进入受体菌后能自身复制,但不能与染色体整合",
+                "进入受体菌后既不能自身复制,也不能与染色体整合",
+                "与受体菌染色体整合后不能表达相应的性状"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于转导,下述正确的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "只可转移供体菌染色体上特定的基因",
+                "由性菌毛介导",
+                "由R质粒介导",
+                "由F质粒介导",
+                "由噬菌体介导"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细菌的转导和溶原性转换的共同特点是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "需质粒参与",
+                "需处于感受态",
+                "需温和噬菌体参与",
+                "需毒性噬菌体介导",
+                "需性菌毛介导"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "普遍性转导转移的基因包括\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "染色体及质粒上的基因",
+                "质粒上的基因",
+                "染色体上特定部位的基因",
+                "染色体上任何部位的基因",
+                "噬菌体基因"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列关于局限性转导,哪项叙述是错误的\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "又称特异性转导",
+                "仅转导供体菌染色体上特定的基因",
+                "受菌获得供菌染色体DNA特定部位的遗传性状",
+                "转导发生在温和噬菌体的裂解期",
+                "转导频率较普遍性转导高"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "溶原性转换转移的遗传物质是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌染色体基因",
+                "噬菌体基因",
+                "转座子",
+                "插入序列",
+                "质粒"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

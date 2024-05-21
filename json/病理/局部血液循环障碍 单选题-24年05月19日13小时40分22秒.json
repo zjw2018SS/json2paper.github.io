@@ -1,0 +1,1314 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "局部血液循环障碍",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年05月19日13小时40分22秒",
+        "id": "id-lwd3z72m-6sw5acwyg"
+    },
+    "body": [
+        {
+            "questions": [
+                "“槟榔肝”是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝脂肪变性",
+                "肝细胞肿胀",
+                "肝细胞萎缩",
+                "肝慢性淤血",
+                "肝硬化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "“槟榔肝”内可见到：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝小叶周边部肝细胞萎缩",
+                "出血性梗死",
+                "肝小叶结构破坏",
+                "门静脉分支扩张淤血",
+                "肝血窦扩张淤血，肝细胞脂肪变性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "延续性血栓的形成顺序为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "白色血栓,混合血栓,红色血栓",
+                "混合血栓,红色血栓,白色血栓",
+                "红色血栓,白色血栓,混合血栓",
+                "混合血栓.白色血栓.红色血栓",
+                "红色血栓.混合血栓.白色血栓"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在血栓形成中起重要作用的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中性粒细胞",
+                "红细胞",
+                "单核细胞",
+                "淋巴细胞",
+                "血小板"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在机化的血栓中，形成与原血管腔相沟通的毛细血管，使部分血流得以恢复，这种现象称为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血栓脱落",
+                "侧支循环形成",
+                "血栓机化",
+                "血栓硬化",
+                "机化再通"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于淤血组织器官病变描述，不正确的是:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常伴有水肿",
+                "呈暗红色",
+                "温度增加",
+                "可引起出血",
+                "可发生萎缩"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "慢性肝淤血镜下不常会出现下列哪些病理改变？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝窦扩张、淤血",
+                "肝细胞萎缩",
+                "肝细胞脂肪变",
+                "汇管区纤维组织增生",
+                "肝内含铁血黄素沉积"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "充血是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n静脉回流受阻，血液淤积于毛细血管和小静脉内",
+                "\n炎症时血管扩张",
+                "\n动脉输入血量增多",
+                "\n静脉输入血量增多",
+                "\n器官或局部组织血管内血液含量增多"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "微循环血管壁通透性增高引起的出血是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "漏出性出血",
+                "破裂性出血",
+                "渗出性出血",
+                "内出血",
+                "外出血"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肺组织病理学检查显示：肺组织肿胀，重量增加，质地变硬。镜下见纤维组织增生。肺泡壁增厚，可见巨噬细胞吞噬含铁血黄素。最可能的临床诊断是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硅肺",
+                "大叶性肺炎",
+                "肺结核",
+                "慢性肺淤血",
+                "病毒性肺炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "淤血时扩张充盈的血管主要是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动脉",
+                "静脉",
+                "小动脉和毛细血管",
+                "小静脉和毛细血管",
+                "毛细血管、小静脉和小动脉"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "病理表现为透明血栓的疾病是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "弥漫性血管内凝血",
+                "深静脉血栓形成",
+                "风湿性心内膜炎瓣膜赘生物",
+                "冠状动脉内原位血栓",
+                "扩张型心肌病的附壁血栓"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "大手术后卧床患者好发血栓的部位是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大隐静脉",
+                "颈静脉",
+                "冠状动脉",
+                "门静脉",
+                "肾动脉"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“静脉石”的形成是静脉内的血栓发生了：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "机化",
+                "钙化",
+                "包裹",
+                "脱落",
+                "吸收"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "血栓形成是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在活体的心脏和血管内血液成分形成固体质块的过程",
+                "血液发生凝固形成固体质块的过程",
+                "在活体组织内血液发生凝固形成固体质块的过程",
+                "血液在静止状态中发生的异常凝固",
+                "活体组织内红细胞发生凝固形成固体质块的过程"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "血栓形成对机体的影响中，对机体有利的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阻塞血管",
+                "淤血",
+                "止血",
+                "栓塞",
+                "形成心瓣膜病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛细血管内的血栓属于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "白色血栓",
+                "红色血栓",
+                "混合血栓",
+                "透明血栓",
+                "闭塞性血栓"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "导致肺梗死的血栓栓子常来自：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "静脉系统或右心的血栓",
+                "二尖瓣疣状血栓的脱落",
+                "门静脉的血栓脱落",
+                "左心房附壁血栓",
+                "动脉及左心房的血栓脱落"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "羊水栓塞的病理诊断依据是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺广泛出血",
+                "弥漫性肺毛细血管内透明血栓形成",
+                "肺泡内有角化上皮",
+                "肺毛细血管内有角化上皮",
+                "肺泡内透明膜形成"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脂肪栓塞易发生于（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "静脉注射时",
+                "分娩时",
+                "潜水作业时",
+                "输血时",
+                "外伤长骨骨折时"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "男，16岁，右大腿深部巨大血管瘤，入院术后情况良好，伤口一期愈合。拆线后下床活动5min后，突然晕倒，经抢救无效死亡，应考虑：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑血管意外",
+                "心肌梗死",
+                "休克致死",
+                "肺动脉栓塞",
+                "脂肪栓塞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脂肪栓塞患者的死亡原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动脉系统栓塞",
+                "脂肪分解产物引起中毒",
+                "肺水肿和心功能不全",
+                "肾小动脉栓塞",
+                "脑小动脉栓塞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "实施胸部手术时要特别注意防止：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤细胞栓塞",
+                "气体栓塞",
+                "脂肪栓塞",
+                "血栓栓塞",
+                "羊水栓塞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "贫血性梗死主要发生于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心、肝、肾",
+                "心、肺、脾",
+                "心、肾、脾",
+                "大脑、肺、肾",
+                "小肠、肝、心"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪个器官的梗死灶为不规则？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小肠",
+                "脾",
+                "肾",
+                "肺",
+                "心肌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "容易发生出血性梗死的器官是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾、肠",
+                "脾、肺",
+                "肺、肠",
+                "心、肠",
+                "肾、心"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种梗死可发生软化或形成囊腔？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺梗死",
+                "肠梗死",
+                "脾梗死",
+                "脑梗死",
+                "肾梗死"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列不易发生梗死的器官是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心",
+                "脾",
+                "肾",
+                "肝",
+                "肠"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "慢性肺淤血的病变特点，不包括下列哪些选项：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "切面流出淡红色泡沫状液体",
+                "肺泡腔内有心衰细胞",
+                "肺泡壁毛细血管扩张充、充血",
+                "肺内支气管扩张",
+                "肺泡间隔增宽"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列与血栓形成无关的因素是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血管内皮损伤",
+                "血流缓慢",
+                "血小板数量增多",
+                "纤维蛋白溶解酶增加",
+                "涡流产生"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下述不易发生血栓形成的病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n大面积烧伤",
+                "\n直肠癌根治术后",
+                "\n晚期胃癌患者",
+                "\n心房纤颤",
+                "\n肝硬化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列不易引起梗死的病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n血管受压",
+                "\n动脉痉挛",
+                "\n动脉瘤",
+                "\n血栓形成",
+                "\n栓塞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "左心衰首先引起的病理改变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "槟榔肝",
+                "“海蛇头”样形态改变",
+                "脾淤血、水肿",
+                "脑淤血、水肿",
+                "肺淤血、水肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "右心衰竭引起淤血的器官主要是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺、肝及胃肠道",
+                "肝、脾及胃肠道",
+                "肺、脑及胃肠道",
+                "肾、肺及脑",
+                "脾、肺及脑"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "弥漫性血管内凝血发生广泛出血的主要原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝凝血酶原合成减少",
+                "血管壁广泛损伤",
+                "大量血小板及纤维蛋白消耗",
+                "单核吞噬细胞系统功能下降",
+                "血浆中缓激肽浓度增高"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "最常见的栓子来源是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血栓",
+                "脂肪",
+                "空气",
+                "羊水",
+                "寄生虫"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "左心室附壁血栓可引起：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心力衰竭",
+                "肺淤血",
+                "脑动脉栓塞",
+                "肺动脉栓塞",
+                "心壁穿孔"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "白色血栓主要由下列哪种成分构成：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "白细胞、纤维素和血小板",
+                "血小板和纤维素",
+                "红细胞和白细胞",
+                "红细胞和纤维素",
+                "血小板和红细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "因减压病引起的栓塞为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "气体栓塞",
+                "血栓栓塞",
+                "羊水栓塞",
+                "脂肪栓塞",
+                "异物栓塞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "引起肾梗死的原因，最有可能的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "门静脉血栓脱落",
+                "下肢静脉血栓脱落",
+                "左心室附壁血栓脱落",
+                "左心衰竭",
+                "右心衰竭"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "引起梗死最常见的原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血管受压致闭塞",
+                "血栓形成",
+                "动脉痉挛",
+                "淤血",
+                "动脉内膜炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "不符合静脉性充血的描述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局部发绀",
+                "小动脉扩张",
+                "局部温度降低",
+                "局部组织肿胀",
+                "间质水肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列关于血栓的论述，不正确是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "静脉血栓多于动脉血栓",
+                "下肢血栓多于上肢",
+                "动脉瘤内血栓多为混合血栓",
+                "静脉内血栓尾部多为红色血栓",
+                "毛细血管内血栓多为白色血栓"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "机体在处理血栓的过程中，不会出现下列哪些结局？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分离排出",
+                "溶解、吸收",
+                "脱落为栓子",
+                "机化再通",
+                "钙化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "混合血栓的主要病理变化不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "只有在镜下才能观察到微循环的小血管内血栓",
+                "血小板形成珊瑚状小梁",
+                "小梁周边黏附中性粒细胞",
+                "小梁间形成纤维蛋白网，其网眼中含有红细胞",
+                "血栓主要由红细胞、血小板及白细胞构成"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于栓塞的叙述，不正确是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "进入血液的癌细胞可形成栓塞",
+                "长骨粉碎性骨折可引起脂肪栓塞",
+                "羊水可引起栓塞并导致死亡",
+                "引起肺动脉栓塞的血栓栓子多来自下肢深静脉",
+                "减压病是氧气栓塞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺出血性梗死肉眼形态特征，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "梗死灶呈楔形",
+                "梗死灶呈暗红色",
+                "梗死灶与周围正常组织界限不清",
+                "梗死灶镜下呈凝固性坏死",
+                "梗死灶有明显的出血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关脾梗死病理特点的叙述，不正确是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多由血栓栓塞所致",
+                "梗死灶呈灰白色，锥体形",
+                "交界处有明显的充血、出血带",
+                "属出血性梗死",
+                "梗死组织呈凝固性坏死"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于梗死的叙述，不正确是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "双重血液循环的器官不易发生梗死",
+                "全身血液循环状态对梗死的形成无影响",
+                "动脉痉挛促进梗死的形成",
+                "有效的侧支循环的建立可防止梗死的发生",
+                "梗死多由动脉阻塞引起"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关血栓的描述，不正确是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红色血栓主要由纤维蛋白网和红细胞构成。",
+                "混合血栓在光镜下可见灰白和灰褐的相间条纹",
+                "透明血栓常发生于毛细血管",
+                "附壁血栓可发生在左心房，常呈球状",
+                "血栓可钙化形成静脉石"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

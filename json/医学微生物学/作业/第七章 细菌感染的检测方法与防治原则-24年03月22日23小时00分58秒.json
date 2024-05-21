@@ -1,0 +1,271 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第七章 细菌感染的检测方法与防治原则",
+        "type_all_num": 10,
+        "type_1_num": 10
+    },
+    "body": [
+        {
+            "questions": [
+                "采集细菌培养标本正确的做法是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 采集有正常菌群的标本时不需用洁净容器",
+                " 采局部病变标本前应先用消毒剂消毒局部",
+                " 已用抗生素的患者,不可采集标本",
+                " 标本不能及时送检时应置冰箱保存",
+                " 以上都不对"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "从有正常菌群存在的部位所采取的标本应接种在哪种培养基中分离培养病原菌?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 增菌培养基",
+                " 营养培养基",
+                " 选择鉴别培养基",
+                " 基础培养基",
+                " 特殊培养基"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "利用细菌生化反应鉴定细菌是根据\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 细菌酶活性差异",
+                " 细菌毒素活性差异",
+                " 细菌酶含量的差异",
+                " 细菌毒素种类的差异",
+                " 细菌分解代谢产物的差异"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于直接涂片镜检的叙述,下列哪项是正确的?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 适用于所有细菌感染疾病的初步检查",
+                " 方法简便易行,但均不能快速鉴定细菌",
+                " 只适用于形态和染色性上具有特征的病原菌",
+                " 其结果必须结合临床表现方有诊断价值",
+                " 以上都不是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "白百破三联疫苗是指:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 白喉杆菌死疫苗、百日咳杆菌死菌苗、破伤风类毒素",
+                " 白喉杆菌活疫苗、百日咳杆菌活菌苗、破伤风类毒素",
+                " 白喉杆菌死疫苗、百日咳杆菌活菌苗、破伤风类毒素",
+                " 白喉杆菌活疫苗、百日咳杆菌死菌苗、破伤风类毒素",
+                " 白喉杆菌类毒素、百日咳杆菌死菌苗、破伤风类毒素"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于死疫苗的叙述,下列哪项是错误的?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 选用免疫原性强的病原体用理化方法灭活而成",
+                " 较活疫苗易保存",
+                " 副作用较大",
+                " 需多次小剂量注射",
+                " 常制成联合疫苗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "机体获得人工主动免疫的方式是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 注射抗毒素",
+                " 注射类毒素",
+                " 注射细胞因子",
+                " 注射胎盘球蛋白",
+                " 通过胎盘从母体获得"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "机体获得人工被动免疫的方式是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 隐性感染",
+                " 疫苗接种",
+                " 显性感染",
+                " 注射抗毒素",
+                " 注射类毒素"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于活疫苗的叙述,哪项是错误的:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 经人工培养获得的变异株或从自然界筛选出",
+                " 能在机体内繁殖",
+                " 免疫效果好且持久",
+                " 比死疫苗用量小",
+                " 比死疫苗易保存"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "卡介苗(BCG)属于\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 活疫苗",
+                " 死疫苗",
+                " 类毒素",
+                " 抗毒素",
+                " 转移因子"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

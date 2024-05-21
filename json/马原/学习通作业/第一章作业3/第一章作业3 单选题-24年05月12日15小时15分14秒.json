@@ -1,0 +1,113 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第一章作业3 单选题",
+        "type_all_num": 4,
+        "type_1_num": 4
+    },
+    "body": [
+        {
+            "questions": [
+                "\n事物的普遍联系是通过（）来实现的，是通过中间性的联系和过渡性环节而实现的\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 规律",
+                " 中介",
+                " 上帝",
+                " 实践"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于联系，下列说法正确的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 事物的联系是事物本身所固有的，不是主观臆想的",
+                " 人可以将两个事物相联系，也可以完全斩断其联系",
+                " 有些事物之间有联系，有些事物之间没有联系",
+                " 事物之间的联系取决于人的联想"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n（）是揭示事物内在联系和外在表现的一对范畴\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 本质与现象",
+                " 内容与形式",
+                " 现实与可能",
+                " 原因与结果",
+                " 必然与偶然"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n（）是从构成要素和表现方式上反映事物的一对基本范畴\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 本质与现象",
+                " 现实与可能",
+                " 原因与结果",
+                " 内容与形式",
+                " 必然与偶然"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

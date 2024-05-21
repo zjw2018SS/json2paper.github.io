@@ -1,0 +1,51 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第一章作业2 判断题",
+        "type_all_num": 2,
+        "type_3_num": 2
+    },
+    "body": [
+        {
+            "questions": [
+                "世界没有共同的本原\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n我国社会的主要矛盾发生了变化，已经转化为人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾，从而使社会主义初级阶段的长过程中又呈现出更加具体的阶段性特征。因此，我国的基本国情也已经发生了变化。\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

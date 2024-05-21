@@ -1,0 +1,109 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.2 G+菌细胞壁的基本结构 多选题",
+        "type_all_num": 3,
+        "type_2_num": 3
+    },
+    "body": [
+        {
+            "questions": [
+                "组成革兰阴性菌细胞壁的成分是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "聚糖骨架",
+                "四肽侧链",
+                "五肽交联桥",
+                "LPS",
+                "外膜"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细菌的细胞壁具有哪些功能?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "抗低渗",
+                "支持及维持细菌形态",
+                "物质交换",
+                "与细菌致病性有关",
+                "具有抗原结构,与免疫应答有关"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "革兰阳性菌细胞壁聚糖骨架由哪些成分组成? ( )。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "DAP",
+                "L-赖氨酸",
+                "N-乙酰葡糖胺",
+                "N-乙酰胞壁酸",
+                "D-丙氨酸"
+            ],
+            "answers": [
+                "BCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}

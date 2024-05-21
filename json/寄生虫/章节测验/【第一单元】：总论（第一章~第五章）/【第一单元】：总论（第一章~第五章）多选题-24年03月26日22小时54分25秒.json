@@ -1,0 +1,38 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "【第一单元】：总论（第一章~第五章）多选题",
+        "type_all_num": 1,
+        "type_2_num": 1
+    },
+    "body": [
+        {
+            "questions": [
+                "在我国五大寄生虫病中,达到消除的寄生虫为( )\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "蛔虫",
+                "日本血吸虫",
+                "疟原虫",
+                "丝虫"
+            ],
+            "answers": [
+                "CD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                2,
+                3
+            ]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第三章作业3.2",
+        "type_all_num": 10,
+        "type_4_num": 10,
+        "time": "24年05月12日23小时06分42秒",
+        "id": "id-lw3o4jzf-i47rwu8w8"
+    },
+    "body": [
+        {
+            "questions": [
+                "\n经济基础是指由社会一定发展阶段的生产力所决定的（）的（）\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "生产关系",
+                "总和"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n国体是指社会各阶级在国家中的地位，表明国家政权掌握在哪个阶级手里，哪个阶级是统治阶级，哪个阶级是被统治阶级。中华人民共和国的国体是（）\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "人民民主专政"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "（）是政治上层建筑的核心\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "国家政权"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n政体是指统治阶级实现其阶级统治的具体组织形式，也就是政权构成形式，表明统治阶级采取什么样的形式去组织自己的政权，实现自己的统治。中华人民共和国的政体是（）\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "人民代表大会制度"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n上层建筑是建立在一定（）之上的（）以及与之相应的（）、（）和（）\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "经济基础",
+                "意识形态",
+                "制度",
+                "组织",
+                "设施"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n马克思主义依据国家的性质和政权的组织形式，相应地将国家分为（）和（）两个方面。\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "国体",
+                "政体"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n社会主义民主的本质和核心是（）\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "人民当家作主"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n（）是社会基本经济制度所采取的组织形式和管理形式，是（）的具体实现形式\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "经济体制",
+                "生产关系"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "意识形态又称为（）；政治法律制度及设施和政治组织又称为（）\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "观念上层建筑",
+                "政治上层建筑"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n自原始社会解体以来，上层建筑由（）以及（）两部分构成。\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "意识形态",
+                "政治法律制度及设施和政治组织"
+            ],
+            "analysis": []
+        }
+    ]
+}

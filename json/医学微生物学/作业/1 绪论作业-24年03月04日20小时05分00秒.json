@@ -1,0 +1,271 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "tdtft",
+        "type_all_num": 10,
+        "type_1_num": 10
+    },
+    "body": [
+        {
+            "questions": [
+                "下列哪项不是微生物的共同特征？\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 个体微小",
+                " 种类繁多",
+                " 分布广泛",
+                " 结构简单",
+                " 只能在活细胞内生长繁殖"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不属于原核细胞型微生物的是\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 结核分枝杆菌",
+                " 肺炎支原体",
+                " 沙眼衣原体",
+                " SARS-Cov-2病毒",
+                " 梅毒螺旋体"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于非细胞型微生物，错误的是\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 无典型细胞结构",
+                " 是最小的一类微生物",
+                " 核酸为DNA＋RNA",
+                " 只能在活细胞内生长繁殖",
+                " 病毒为此类型微生物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列属于真核细胞型微生物的是\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 白假丝酵母菌 ",
+                " 肺炎衣原体",
+                " 普氏立克次体",
+                " 禽流感病毒",
+                " 金黄色葡萄球菌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "原核细胞型微生物与真核细胞型微生物的根本区别是\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 单细胞",
+                " 有细胞壁",
+                " 仅有原始核结构，无核膜和核仁等",
+                " 对抗生素敏感",
+                " 繁殖方式"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列对原核细胞型微生物结构的描述中，错误的是\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有细胞壁",
+                " 有细胞膜",
+                " 含有线粒体、内质网、溶酶体等细胞器",
+                " 细胞核内含染色体遗传物质",
+                " 无核膜和核仁，核质为裸露环状DNA"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "最先创用固体培养基将细菌进行培养的科学家是\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Louis Pasteur（法国）",
+                " Robert Koch（德国）",
+                " 伊凡诺夫斯基（俄国）",
+                " Joseph Lister（英国）",
+                " Antony van Leeuwenhoek（荷兰）"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "首次用鸡胚卵黄囊分离培养出沙眼衣原体的科学家是\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Louis Pasteur",
+                " Joseph Lister",
+                " Robert Koch  ",
+                " 汤飞凡",
+                " 黄祯祥"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于在微生物学发展史上作出重要贡献的科学家及其贡献，下列哪项叙述是错误的\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Edward Jenner离出天花病毒",
+                " Louis Pasteur首次研制出狂犬病疫苗",
+                " Robert Koch先后分离出炭疽杆菌、结核杆菌和霍乱弧菌",
+                " Joseph Lister创用创用石炭酸喷洒手术室和煮沸手术用具，为无菌操作奠定基础",
+                " Alexander Fleming发现青霉菌产物能抑制金黄色葡萄球菌的生长"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种不属于1973年以来发现的感染人类的新病原体\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 人类免疫缺陷病毒",
+                " 幽门螺杆菌",
+                " 埃博拉病毒",
+                " 伤寒沙门菌",
+                " SARS-Cov-2病毒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

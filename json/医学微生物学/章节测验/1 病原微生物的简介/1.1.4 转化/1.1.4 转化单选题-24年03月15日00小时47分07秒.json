@@ -1,0 +1,141 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.4 转化单选题",
+        "type_all_num": 5,
+        "type_1_num": 5
+    },
+    "body": [
+        {
+            "questions": [
+                "最先发现肺炎链球菌转化现象的科学家是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Griffith",
+                "Avery",
+                "Luria",
+                "Lederberg",
+                "Delbruck"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "转化过程中受体菌获得供体菌遗传物质的方式是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "通过鞭毛",
+                "通过性菌毛",
+                "通过噬菌体",
+                "直接摄取",
+                "细胞融合"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "活ⅡR型链球菌(不产荚膜)与灭活的ⅢS型链球菌(产荚膜)混合培养后,出现了可产生荚膜的活ⅢS型链球菌,这种基因转移方式称为( )。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "转化",
+                "转染",
+                "转导",
+                "接合",
+                "基因转位"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在基因水平转移的方式中,对DNA酶处理敏感的方式是( )。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "转座子的整合",
+                "接合",
+                "转导",
+                "溶原性转换",
+                "转化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细菌基因的转移和重组方式不包括( )。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "转化",
+                "接合",
+                "转导",
+                "突变",
+                "溶原性转换"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

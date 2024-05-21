@@ -1,0 +1,45 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.6 正常菌群 多选题",
+        "type_all_num": 1,
+        "type_2_num": 1
+    },
+    "body": [
+        {
+            "questions": [
+                "正常菌群的生理作用包括:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "生物拮抗(antagonism)",
+                "营养作用:",
+                "免疫作用",
+                "抗衰老作用",
+                "抗肿瘤作用"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}

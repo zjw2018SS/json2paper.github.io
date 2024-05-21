@@ -1,0 +1,107 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "癌基因与抑癌基因 多选题",
+        "type_all_num": 3,
+        "type_2_num": 3
+    },
+    "body": [
+        {
+            "questions": [
+                "原癌基因的特点包括\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 广泛存在于生物界中,从酵母到人的细胞普遍存在。",
+                " 在进化进程中,基因序列呈高度保守性。",
+                " 它的作用是通过其表达产物蛋白质来体现的。",
+                " 在某些因素作用下,一旦被激活,就易形成癌性的细胞转化基因。",
+                " 它们的存在对维持正常生理功能、调控细胞生长和分化起重要作用"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "抑癌基因失活的机制\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 基因突变",
+                " 杂合性丢失",
+                " 细胞凋亡",
+                " 启动子区甲基化",
+                " 细胞坏死"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下属于常见的癌基因家族是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " src家族",
+                " ras家族",
+                " myc家族",
+                " mya家族",
+                " bcr家族"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        }
+    ]
+}

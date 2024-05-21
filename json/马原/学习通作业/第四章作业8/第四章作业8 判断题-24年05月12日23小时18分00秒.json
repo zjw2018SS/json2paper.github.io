@@ -1,0 +1,114 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第四章作业8",
+        "type_all_num": 5,
+        "type_3_num": 5,
+        "time": "24年05月12日23小时18分00秒",
+        "id": "id-lw3oj35z-hpxi1v6jw"
+    },
+    "body": [
+        {
+            "questions": [
+                "国家是从社会分化出来的社会管理机构\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "西方资本主义国家高扬人权，所以他们的政治制度反映了所有人的要求，体现了所有人的利益\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n资本主义宪法的人权原则强调的其实只是政治权利，而忽视和不承认人的生存权、发展权\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在资本主义国家，只要工人阶级政党参政，就能改变资本主义国家的性质。\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "当今世界上的资本主义国家实行的大多是两党制\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

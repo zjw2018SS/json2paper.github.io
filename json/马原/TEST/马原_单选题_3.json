@@ -1,0 +1,2586 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "马原",
+        "filename": "马原_单选题_3",
+        "type_all_num": 104,
+        "type_1_num": 104
+    },
+    "body": [
+        {
+            "questions": [
+                "马克思指出：“如果物没有用，那么其中包含的劳动也就没有用，不能算作劳动，因此不形成价值。”这段话说明( ) \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价值的存在以物的有用性为前提",
+                " 价值的存在与物的有用性互为前提",
+                " 只要物是有用的，它就有价值",
+                " 物越是有用就越有价值"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“物以稀为贵”，这种现象在商品经济关系中主要是指( ) \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品稀少价值就大",
+                " 使用价值决定价值",
+                " 供求关系对价格有重要影响",
+                " 消费者的心理决定价值"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "货币的本质是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 一种商品",
+                " 纸币",
+                " 固定充当一般等价物的商品",
+                " 流通手段"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "资本主义生产过程是( ) \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动过程与价值形成过程的统一",
+                " 劳动过程与价值增殖过程的统一",
+                " 绝对剩余价值生产与相对剩余价值生产的统一",
+                " 绝对剩余价值生产与超额剩余价值生产的统一"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在商品使用价值和价值的关系中，( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使用价值是价值的物质承担者",
+                " 使用价值的大小决定价值的大小",
+                " 价值是使用价值的物质承担者",
+                " 价值的大小决定使用价值的大小"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "资本主义经济危机的本质特征是( ) \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生产过剩",
+                " 生产不足",
+                " 生产相对过剩",
+                " 生产严重短缺"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "剩余价值的唯一源泉是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 雇佣劳动者的抽象劳动",
+                " 雇佣劳动者的具体劳动",
+                " 雇佣劳动者的必要劳动",
+                " 雇佣劳动者的剩余劳动"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "剩余价值和利润二者之间的关系是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 剩余价值是利润的本质，利润是剩余价值的转化形式",
+                " 利润是剩余价值的本质，剩余价值是利润的转化形式",
+                " 剩余价值表现为全部预付资本的产物、利润是可变资本的产物",
+                " 剩余价值和利润在质上相同，在量上相等"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "资本主义工资的本质是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动的使用价值",
+                " 劳动的价值",
+                " 劳动力的使用价值",
+                " 劳动力的价值"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "资本有机构成是指( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 企业的生产资料与劳动力之间的数量比例关系",
+                " 不变资本与可变资本的比例关系",
+                " 固定资本与流动资本的比例关系",
+                " 由资本技术构成决定的不变资本与可变资本的比例关系"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "资本积累是指（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 剩余价值转化为资本",
+                " 分散的小资本合并成大资本",
+                " 企业之间的兼并",
+                " 大资本吞并小资本"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "资本的最初表现形式是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动力",
+                " 厂房、设备",
+                " 工具",
+                " 货币"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "“一手交钱一手交货”中的“钱”所充当的货币职能是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 支付手段",
+                " 价值尺度",
+                " 流通手段",
+                " 贮藏手段"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以私有制为基础的商品经济的基本矛盾是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使用价值和价值的矛盾",
+                " 具体劳动和抽象劳动的矛盾",
+                " 私人劳动和社会劳动的矛盾",
+                " 简单劳动和复杂劳动的矛盾"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "货币的两个基本职能是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价值尺度和流通手段",
+                " 价值尺度和支付手段",
+                " 流通手段和货币计量",
+                " 流通手段和世界货币"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "( ）将会导致生产单位商品的个别劳动时间缩短 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 个别企业的劳动生产率提高",
+                " 整体企业的劳动生产率提高",
+                " 社会劳动生产率提高",
+                " 个人劳动生产率提高"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "生产商品的劳动的二重性是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 具体劳动和抽象劳动",
+                " 脑力劳动和体力劳动",
+                " 具体劳动和体力劳动",
+                " 抽象劳动和脑力劳动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "到了资本主义社会，( ）成为占统治的、最普遍的经济形式 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品经济",
+                " 自然经济",
+                " 封建经济",
+                " 资本主义经济"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "价值规律是商品经济的基本规律，它的作用是通过( ）实现的 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生产者之间的竞争",
+                " 消费者之间的竞争",
+                " 生产者和消费者之间的竞争",
+                " 价格机制、供求机制和竞争机制"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "商品的价值量决定于( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 个别劳动时间",
+                " 社会必要劳动时间",
+                " 必要劳动时间",
+                " 剩余劳动时间"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "商品经济产生和存在的一般基础和条件是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 自然分工",
+                " 社会分工",
+                " 劳动力成为商品",
+                " 货币转化为资本"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "价值规律的表现形式是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价格围绕价值上下波动",
+                " 价值围绕价格上下波动",
+                " 使用价值围绕价值上下波动",
+                " 价值的自发上下波动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "马克思说：“一切商品对它们的所有者是非使用价值，对它们的非所有者是使用价值。”这句话表明（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有使用价值的不一定有价值",
+                " 商品的使用价值是对它的购买消费者而言的",
+                " 商品所有者同时获得使用价值和价值",
+                " 商品是使用价值和价值的对立统一"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "商品经济是通过商品货币关系实行等价交换的经济形式，它的基本规律是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价值规律",
+                " 剩余价值规律",
+                " 竞争规律",
+                " 货币流通规律"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“劳动是财富之父，土地是财富之母。”对这句话的正确理解应该是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动和土地是价值的源泉",
+                " 劳动创造使用价值，土地形成价值",
+                " 劳动是创造价值的外部条件，土地才是价值的真正源泉",
+                " 劳动不是它所生产的使用价值即物质财富的唯一源泉"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "商品的两种属性分别是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使用价值和价值",
+                " 可交易性和规模性",
+                " 规模性和标准型",
+                " 使用价值和价格"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "商品的本质属性是( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使用价值",
+                " 交换价值",
+                " 价值",
+                " 价格"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "资本原始积累有一种方式：即使用暴力剥夺农民的土地，这种现象在( ）最为典型。 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 中国",
+                " 法国",
+                " 美国",
+                " 英国"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "所谓资本原始积累，就是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生产者与生产资料相分离，货币资本迅速集中于少数人手中的历史过程",
+                " 用暴力手段剥夺农民的土地",
+                " 用暴力手段掠夺货币财富",
+                " 利用国家政权的力量进行残酷的殖民掠夺"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "资本主义萌芽于( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 14世纪末15世纪初",
+                " 14世纪初",
+                " 15世纪末",
+                " 16世纪"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "( ）构成社会财富的物质内容 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品",
+                " 货币",
+                " 价值",
+                " 使用价值"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在商品流通阶段，产业资本执行的是( ）的职能 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 流通资本",
+                " 货币资本",
+                " 生产资本",
+                " 商品资本"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在生产阶段上，生产资料与劳动者相结合生产物质财富并使生产资本得以增殖，执行的是( ）的职能 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 流通资本",
+                " 货币资本",
+                " 生产资本",
+                " 商品资本"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "利润转化为平均利润，价值也就转化为( ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生产价格",
+                " 消费价格",
+                " 升值价格",
+                " 运输价格"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对于资本主义的政治制度应该坚持( ）的态度和方法 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 全盘否定",
+                " 辩证批判",
+                " 全盘肯定",
+                " 时刻警惕"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "资本主义意识形态是资产阶级的( ）的集中体现 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 民主意识",
+                " 阶级意识",
+                " 法律意识",
+                " 人权意识"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "《资本论》（德文版）第一卷于1867年9月在汉堡出版，其影响力历经150年风雨而不衰，至今对我们分析、理解现实经济问题依然具有很强的指导意义。马克思主义政治经济学的理论十分丰富，其中“理解政治经济学的枢纽”的理论是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 剩余价值理论",
+                " 价值规律理论",
+                " 劳动二重性理论",
+                " 商品二因素理论"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "与自然经济相比，商品经济最大的特点是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 以交换为目的",
+                " 以使用价值为生产目的",
+                " 所有制是私有制",
+                " 所有制是公有制"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "使用价值不同的商品之所以能按照一定比例相交换，是因为它们都有价值，而价值可以相互比较是因为（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价值是一切劳动产品所共有的属性",
+                " 价值在质的规定性上是相同的",
+                " 价值是具体劳动创造的",
+                " 价值和使用价值具有同一性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下说法正确的是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动是使用价值的唯一源泉",
+                " 不论财富的社会形式如何，使用价值总是构成财富的物质的内容",
+                " 商品不一定是劳动产品",
+                " 具体劳动形成商品的价值实体"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“一个物可以是使用价值而不是价值。在这个物并不是由于劳动而对人有用的情况下就是这样。”这说明（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价值和使用价值互为前提",
+                " 使用价值和价值不可兼得",
+                " 劳动产品一定是商品",
+                " 商品一定是劳动产品"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "“我们从小麦的滋味中尝不出种植小麦的人是俄国农奴、法国小农，还是英国资本家。使用价值虽然是社会需要的对象，因而处于社会联系之中，但是并不反映任何社会生产关系。”马克思的这段话表明（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品的使用价值在质上是一样的",
+                " 商品的使用价值与具体劳动无关",
+                " 使用价值是历史范畴",
+                " 使用价值是商品的自然属性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "“就使用价值说，有意义的只是商品中包含的劳动的质；就价值量说，有意义的只是商品中包含的劳动的量，不过这种劳动已经转化为没有质的区别的人类劳动。”这里所说的没有质的区别的人类劳动是指（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抽象劳动",
+                " 具体劳动",
+                " 脑力劳动",
+                " 体力劳动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“同一时间内，劳动就一种属性来说必然创造价值，就另一种属性来说，必然保持或转移价值。”这一段话说的是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 体力劳动和脑力劳动及其作用",
+                " 具体劳动和抽象劳动及其作用",
+                " 私人劳动和抽象劳动及其作用",
+                " 个别劳动和社会必要劳动及其作用"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“如果物没有用，那么其中包含的劳动也就没有用，不能算作劳动，因此不形成价值，”这段话说明（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价值的存在以物的有用性为前提",
+                " 价值的存在与物的有用性互为前提",
+                " 物只要有用就有价值",
+                " 物越是有用就越有价值"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“一切商品对它们的所有者是非使用价值，对它们的非所有者是使用价值。”也就是说，商品的使用价值和价值不可兼得。“不可兼得”的意思是指（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 要获得商品的价值，就必须放弃是商品的使用价值，反之亦然",
+                " 使用价值和价值没有统一性",
+                " 没有使用价值就没有价值",
+                " 价值寓于使用价值之中"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在资本主义生产过程中，工人的劳动作为具体劳动，它（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 创造商品的价值",
+                " 转移劳动力自身的价值",
+                " 新创造劳动力自身的价值",
+                " 转移生产资料的价值"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "私人劳动要得到社会的承认，必须通过（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品的有用性来体现",
+                " 商品的广告传播来体现",
+                " 商品的交换来体现",
+                " 商品质量的鉴定来体现"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "“商品的价值是由生产商品所耗费的劳动量来决定的，那么一个人越懒，越不熟练，他的商品就越有价值，因为他制造商品需要花费的时间越多。”这说法错在混淆了（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 具体劳动时间和抽象劳动时间",
+                " 简单劳动时间和复杂劳动时间",
+                " 必要劳动时间和剩余劳动时间",
+                " 个别劳动时间和社会必要劳动时间"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在其他条件不变的情况下，随着社会劳动生产率提高而提高的是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 单个商品的价值量",
+                " 单位时间的价值量",
+                " 单位时间生产的商品数量",
+                " 单个商品的社会必要劳动时间"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "提高劳动生产率会使单位时间内生产的商品数量和个别商品的价值量发生变化，即（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品数量增加，个别商品的价值量增大",
+                " 商品数量增加，单位时间内生产的总价值量增大",
+                " 商品数量增加，个别商品的价值量不变",
+                " 商品数量增加，个别商品的价值量减少"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "俗话说“一分钱一分货”，但在实际的商品交换中，既有 “一分钱一分货”的现象。这说明 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价格并不反映价值",
+                " 价格的变化都是价值变化的表现",
+                " 价格围绕商品的价值自发波动",
+                " 供求关系变动决定商品的价值"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "商品内在的使用价值和价值的矛盾，其完备的外在表现形式是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品与商品的对立",
+                " 具体劳动与抽象劳动的对立",
+                " 私人劳动与社会劳动的对立",
+                " 商品与货币的对立"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "充当贮藏手段的货币（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 必须是现实的货币",
+                " 可以是观念上的货币",
+                " 必须是足值的金属货币",
+                " 必须是现实的货币，但不一定是足值的货币"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列行为中，属于货币履行价值尺度职能的是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 缴纳房租9千元",
+                " 购买商品房，合同约定房价70万",
+                " 购买装修材料5万",
+                " 按照合同，次年付款10万"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“实际上，在商品市场上同货币所有者对立的不是劳动，而是工人。”资本家购买的是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 工人的劳动",
+                " 工人的人身自由",
+                " 工人的劳动能力",
+                " 工人的消费能力"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "劳动力商品在使用价值上的重要特点是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动力商品的使用价值是价值的源泉",
+                " 随着劳动力商品使用价值的消失，价值也消失",
+                " 劳动力价值的构成包含着一个历史和和道德的因素",
+                " 劳动力成为商品是货币转化为资本的前提"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "货币所有者只有购买到劳动力这种特殊商品，货币才能转化为资本，这是因为（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动力商品具有使用价值和价值",
+                " 实际生产过程中所耗费的生产资料和消费资料必须得到实物的替换",
+                " 劳动力商品是资本的本",
+                " 劳动力商品在消费过程中能够创造出比自身价值更大的价值"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "与其他商品相比，劳动力商品价值的决定的一个重要特点是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 由生产它所需要的社会必要劳动时间决定",
+                " 可以还原为劳动者维持自己及其家属生存所必需的生活资料的价值",
+                " 由劳动者的劳动能力决定",
+                " 劳动力价值的构成包含这一个历史的和道德的因素"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "资本主义所有制的实质是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 获取尽可能多的剩余价值",
+                " 使劳动力成为商品",
+                " 凭借生产资料的私有制，占有雇佣工人的剩余价值",
+                " 使社会两极化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在资本主义制度下，资本家与工人的关系是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 完全占有",
+                " 人身依附",
+                " 基于劳动者的完全的人身自由",
+                " 私人占有"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "所谓价值增殖过程，是超过劳动力价值的补偿这个一定点而延长了的价值形成过程，这里的“一定点”指的是雇佣工人（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 转移生产资料价值的时间",
+                " 转移劳动力价值的时间",
+                " 创造使用价值的时间",
+                " 再生产自己劳动力价值的时间"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "18世纪后期到19世纪上半叶，资本家依然强破工人每日劳动12个小时以上，甚至达到18个小时。通过这种资本方式，资本家获得是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 超额剩余价值",
+                " 相对剩余价值",
+                " 绝对剩余价值",
+                " 垄断剩余价值"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "绝对剩余价值生产和相对剩余价值生产都是依靠（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 延长工作日获得的",
+                " 提高劳动生产率获得的",
+                " 减少工人的必要劳动时间获得的",
+                " 延长工人的剩余劳动时间获得的"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "剩余价值率反映的是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 预付资本的价值增殖程度",
+                " 资本家对工人的剥削程度",
+                " 固定资本的增殖程度",
+                " 不变资本的价值增殖程度"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“纺纱机是纺棉花的机器。只有在一定的关系下，它才成为资本。脱离了这种关系，它也就不是资本了，就像黄金本身并不是货币，砂糖并不是砂糖的价格一样。”纺纱机之所以能够从纺棉花的机器变成资本，是因为（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 纺纱机与劳动力结合能够生产出社会需要的商品",
+                " 纺纱机可以产生剩余价值",
+                " 资本家购买到劳动力这种特殊商品",
+                " 资本可以通过各种物品表现出来"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "区分不变资本与可变资本的依据是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 资本不同部分在剩余价值生产中的不同作用",
+                " 资本不同部分在周转中的不同方式",
+                " 资本在循环中的不同职能",
+                " 资本投入部门的不同"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "区分固定资本与流动资本的依据是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 资本不同部分在剩余价值生产中的不同作用",
+                " 资本周转方式或价值转移方式的不同",
+                " 资本在循环中的不同职能",
+                " <资本投入部门的不同"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某资本家经营的企业通过改进技术、提高劳动生产率，使其生产商品花费的劳动时间比社会必要劳动时间少10%，由此形成商品个别价值低于社会价值的那部分是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 超额剩余价值",
+                " 绝对剩余价值",
+                " 相对剩余价值",
+                " 剩余价值"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "资本家普遍获得相对剩余价值是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 各个资本家普遍延长雇佣工人工作日的结果",
+                " 各个资本家普遍提高雇佣工人劳动强度的结果",
+                " 各个资本家追求超额剩余价值的结果",
+                " 个别企业提高劳动生产率的结果"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "资本家竞相改进技术的主观动机是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 降低劳动力价值",
+                " 追逐超额剩余价值",
+                " 获取绝对剩余价值",
+                " 获取相对剩余价值"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "资本的价值构成是指（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 从物质形态考察的资本构成",
+                " 反映技术和生产力水平的资本构成",
+                " 劳动力和劳动对象之间的比例",
+                " 不变资本和可变资本之间的比例"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "原材料价格上涨导致变化的资本构成是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 资本技术构成",
+                " 资本价值构成",
+                " 资本物质构成",
+                " 资本有机构成"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "产业资本划分为货币资本、生产资本、商品资本的依据是资本各个部分（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 在价值增殖过程中的作用不同",
+                " 价值周转方式的不同",
+                " 存在的物质形态不同",
+                " 在循环中的职能不同"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "产业资本在资本循环过程中要在不同阶段依次执行不同的职能，其中执行货币资本职能的是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 贮藏阶段",
+                " 生产阶段",
+                " 购买阶段",
+                " 售卖阶段"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某企业原工作时间为每日8小时，其中必要劳动时间为4小时，剩余劳动时间为4小时。如果分别采用绝对剩余价值生产方法和相对剩余价值生产方法，使剩余劳动时间各延长2小时，则它们的剩余价值率分别是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 150%；200%",
+                " 200%；300",
+                " 150%；300",
+                " 125%；200"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某资本家投资100万元，其预付资本的有机构成是4:1，每次投资的剩余价值率为125%，该资本家每次投资的利润为（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 20万元",
+                " 25万元",
+                " 30万元",
+                " 35万元"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "资本主义简单再生产，就其实质而言，是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动过程和价值形成过程的统一",
+                " 劳动过程和价值增殖过程的统",
+                " 物质资料再生产与资本主义生产关系再生产的统一",
+                " 物质资料再生产与劳动力再生产的统一"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "“马克思一有机会就提醒读者注意，决不要把他所说的剩余价值同利润或资本赢利相混淆。”之所以不要把剩余价值同利润或资本赢利相混淆，是因为利润（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 与剩余价值无本质联系",
+                " 掩盖了剩余价值与全部垫付资本的关系",
+                " 与剩余价值的来源不同",
+                " 掩盖了剩余价值与可变资本的关系"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "平均利润的出现是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 同一部门内不同企业之间竞争的结果",
+                " 不同部门之间竞争的结果",
+                " 国际上同类企业之间竞争的结果",
+                " 不同行业之间工人联合斗争的结果"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "资本主义制度下的工资之所以掩盖了资本主义的剥削关系，是因为（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 工资表现为“劳动的价格”",
+                " 工资表现为劳动力的价值",
+                " 工资模糊了个别劳动时间和社会必要劳动时间的界限",
+                " 工资的价值只计算了转移到新产品中去的那一部分"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "资本主义固有的、内在的基本矛盾是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生产社会化和生产资料的资本主义私人占有之间的矛盾",
+                " 无产阶级与资产阶级之间的矛盾",
+                " 个别企业生产的有组织性和整个社会生产的无政府状态之间的矛盾",
+                " 生产无限扩大的趋势与劳动人民有支付能力的需求相对缩小的矛盾"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "资本主义经济危机爆发的根本原因在于（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 货币作为支付手段和流通手段",
+                " 资本主义的基本矛盾",
+                " 生产相对过剩",
+                " 使用价值和价值的矛盾"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "资本主义国家的对内职能，主要是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 社会公共管理职能",
+                " 政治统治职能",
+                " 管理邮政、铁路、水利等事业的职能",
+                " 管理文教、卫生保健、社会福利等事业的职能"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "资本主义国家的公共管理职能与政治统治职能紧密联系，从根本上说，资本主义国家的公共管理职能是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 与政治统治职能并重的",
+                " 服务于政治统治职能",
+                " 高于政治统治职能",
+                " 政治统治职能的核心"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "资本主义国家的对外职能是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 国家对内政治统治职能的延伸",
+                " 国家对内政治统治职能的保障",
+                " 社会公共管理职能的延伸",
+                " 国家对内政治统治职能的强化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“只有音乐才能激起人的音乐感；对于没有音乐感的耳朵来说，最美的音乐也毫无意义。”这表明（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 人的认识是主体和客体相互作用的过程和结果",
+                " 人的感觉能力决定认识的产生和发展",
+                " 人的认识能力是由人的生理结构决定的",
+                " 事物因人的感觉而存在"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "18世纪后期到19世纪上半叶，资本家依然强迫工人每日劳动12个小时以上，甚至达到18个小时。通过这种资本方式，资本家获得的是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 超额剩余价值",
+                " 相对剩余价值",
+                " 绝对剩余价值",
+                " 垄断剩余价值"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下关于商品价值的说法错误的是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品价值是一种社会关系",
+                " 价值是商品所特有的社会属性",
+                " 商品的价值在质上是不同的",
+                " 商品的价值可以相互比较"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "由于唯物史观和（）的发现，社会主义由空想变为科学。 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 辩证法",
+                " 价值规律",
+                " 资本主义基本矛盾",
+                " 剩余价值"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "阶级社会发展的直接动力是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生产力的发展",
+                " 阶级斗争",
+                " 生产关系的变革",
+                " 社会革命"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "资本主义经济危机的本质特征是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动者罢工",
+                " 通货膨胀",
+                " 生产不足",
+                " 生产过剩"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "（ ），标志着简单商品生产发展到资本主义商品生产的的新阶段。 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动力成为商品",
+                " 资本原始积累",
+                " 资本主义制度的确立",
+                " 雇佣劳动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“劳动是财富之父，土地是财富之母”，对这句话的理解正确的是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动必须和自然物相结合才能创造出物质财富",
+                " 劳动创造使用价值，土地形成价值",
+                " 劳动是创造价值的外部条件，土地是价值的真正源泉",
+                " 劳动和土地都是价值的源泉"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（ ）是马克思主义经济理论的基石 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 资本积累",
+                " 剩余价值理论",
+                " 剥削理论",
+                " 物质资料生产方式"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "剩余价值的唯一源泉是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 雇佣劳动者的抽象劳动",
+                " 雇佣劳动者的具体劳动",
+                " 雇佣劳动者的必要劳动",
+                " 雇佣劳动者的剩余劳动"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "生产力中最具有决定性的力量是（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 科学技术",
+                " 劳动者",
+                " 生产工具",
+                " 生产对象"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "生产关系一定要适合生产力状况的规律的含义在于（ ） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 它揭示了社会发展的一般过程",
+                " 它揭示了社会形态由量变到质变这一飞跃过程",
+                " 它揭示了人类社会由必然王国向自由王国飞跃过程",
+                " 它揭示了生产力与生产关系之间内在的、本质的必然联系"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "马克思主义指出，生产（ ）是资本主义生产方式的绝对规律。 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动产品",
+                " 商品",
+                " 使用价值",
+                " 剩余价值"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在商品使用价值和价值的关系中（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使用价值是价值的物质承担者",
+                " 使用价值的大小决定价值的大小",
+                " 价值是实用价值的物质承担者",
+                " 价值的大小决定使用价值的大小"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "物以稀为贵的现象再商品经济关系中主要是指（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品稀少价值就大",
+                " 使用价值决定价值",
+                " 供求关系对价格有重要影响",
+                " 消费者的心理决定价值"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "解决商品经济内在使用价值和价值矛盾的关键是（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动产品成为商品",
+                " 商品的二因素是价值和交换价值的矛盾",
+                " 商品必须顺利通过交换",
+                " 商品生产的目的是满足社会需求"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "商品的本质特征绝不是商品的使用价值而是价值，价值的本质体现（） \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 商品的交换价值",
+                " 商品是用来交换的劳动产品",
+                " 商品的使用价值",
+                " 商品生产者之间的社会经济关系"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

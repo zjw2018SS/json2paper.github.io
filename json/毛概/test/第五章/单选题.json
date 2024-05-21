@@ -1,0 +1,2710 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 108,
+        "type_1_num": 108
+    },
+    "body": [
+        {
+            "questions": [
+                "1978年12月召开的党的（），重新确立了解放思想、实事求是的思想路线，停止使用“以阶级斗争为纲”的错误提法，确定把全党工作的着重点转移到社会主义现代化建设上来。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十一届二中全会",
+                "十二大",
+                "十一届三中全会",
+                "十一届四中全会"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "社会主义基本经济制度是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以公有制经济为主体、多种所有制经济共同发展",
+                "以公有制为主导地位",
+                "非公有制经济是社会主义市场经济的重要组成部分",
+                "非公有制经济是有益补充"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国特色社会主义理论体系的开篇之作是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "毛泽东思想",
+                "邓小平理论",
+                "三个代表重要思想",
+                "《论人民民主专政》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "坚持社会主义初级阶段基本路线一百年不动摇的关键是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持以经济建设为中心不动摇",
+                "坚持四项基本原则不动摇",
+                "坚持改革开放不动摇",
+                "坚持自力更生艰苦创业不动摇"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "社会主义初级阶段理论是邓小平理论的重要组成部分，提出并强调这一理论的根本和意义在于（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "使我们深刻把握我国的基本国情",
+                "使我们把解放和发展生产力作为根本任务",
+                "使我们在工作中避免犯“右”和 “左”的错误",
+                "使我们允分认识改革开放的必要性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在社会主义思想发展史上，最早提到社会主义发展阶段问题的是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "马克思",
+                "列宁",
+                "斯大林",
+                "毛泽东"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "第一次把社会主义初级阶段问题提到全局高度加以论述的会议是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1982年党的十二大",
+                "1987年党的十三大",
+                "1992年党的十四大",
+                "1997年党的十五大"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "党的十八大报告指出，社会主义初级阶段是建设中国特色社会主义的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "总依据",
+                "总任务",
+                "总布局",
+                "总政策"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "社会主义初级阶段是指（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "任何国家进入社会主义都会经历的起始阶段",
+                "资本主义向社会主义的过渡阶段",
+                "我国在生产力发展水平不高、商品经济不发达条件下建设社会主义必然要经历的特定历史阶段",
+                "新民主主义向社会主义过度的阶段"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国进入社会主义初级阶段的起点是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中华人民共和国的成立",
+                "国民经济恢复任务的完成",
+                "社会主义改造的完成",
+                "中共十三大的召开"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "社会主义初级阶段与新民主主义社会因为都存在多种经济成分而有某些相似之处，但却在社会性质上存在着明显的区别。从经济基础方面看，它们之间的根本区别在于（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义国营经济是否掌握了主要经济命脉，具有领导地位",
+                "非公有制经济是否成为社会主义经济的必要补充",
+                "国有经济是否起主导作用",
+                "社会主义公有制经济是否成为社会主义的主体"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "1981年十一届六中全会通过的《关于建国以来党的若干历史问题的决议》对我国社会主要矛盾作了科学表述：“在社会主义改造基本完成以后，我国所要解决的主要矛盾，是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "工人阶级与资产阶级的矛盾",
+                "人民日益增长的物质文化需要同落后的社会生产之间的矛盾",
+                "促进效率提高与体现社会公平之间的矛盾",
+                "人口增长与经济发展不相适应的矛盾"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "社会主义初级阶段的主要矛盾，贯穿于这个阶段整个过程和社会生活的各个方面。在我国社会主要矛盾中，矛盾的主要方面将长期是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人民日益增长的物质文化需要",
+                "生产力落后",
+                "经济文化发展不平衡",
+                "社会需要的动态性和平衡性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在领导改革开放和社会主义现代化建设的过程中，邓小平认为，建设中国特色社会主义的首要基本理论问题是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "建设什么样的党、怎样建设党",
+                "实现什么样的发展、怎样发展",
+                "什么是社会主义、怎样建设社会主义",
+                "实现什么样的现代化、怎样实现"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "1992年初，邓小平在南方谈话中对社会主义本质问题作了总结性的理论概括，他指出“社会主义的本质，是解放生产力，发展生产力，消灭剥削阶级，消除两极分化，最终达到共同富裕。”社会主义本质理论的明显和突出的特点是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "突出强调解放和发展生产力在社会主义发展中的重要地位",
+                "突出强调消灭剥削",
+                "突出强调消除两极分化",
+                "突出强调最终达到共同富裕的发展目标"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我国社会主义的本质指出其根本目是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持人民主体地位",
+                "促进社会和谐",
+                "实现共同富裕，进而实现人的自由而全面的发展",
+                "维护社会公平正义"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国社会主义的根本任务是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "实现共同富裕",
+                "深化改革",
+                "建设现代化强国",
+                "解放和发展生产力"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "改革开放以来，党一直强调，解决我国所有问题的关键是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持创新",
+                "坚持发展",
+                "坚持改革",
+                "坚持开放"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "邓小平提出了“发展才是硬道理”的著名论断。在当代中国，坚持发展是硬道理的本质要求，就是坚持（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "科学发展",
+                "全面发展",
+                "可持续发展",
+                "协调发展"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "发展是硬道理，是党执政兴国的第一要务。引领发展的第一动力是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改革",
+                "科技",
+                "创新",
+                "制度"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东认为，推动社会主义社会向前发展的动力是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "国家的统一",
+                "人民的团结",
+                "道义上一致",
+                "社会主义社会的矛盾"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东指出，社会主义社会基本矛盾运动具有（）的特点。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "相适应",
+                "相矛盾",
+                "相一致",
+                "又相适应又相矛盾"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "社会主义国家的改革，其性质应该是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义基本制度的改革",
+                "社会主义经济运行方式的改变",
+                "社会主义原有体制的修补",
+                "社会主义制度的自我完善和发展"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "2013年11月12日，中共十八届三中全会通过的《中共中央关于全面深化改革若干重大问题的决定》，指出全面深化改革的重点是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "政治体制改革",
+                "经济体制改革",
+                "文化体制改革",
+                "社会体制改革"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "坚持什么样的改革方向，决定改革的性质和最终成败。坚持改革的正确方向，最核心的是在改革中（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持和发展马列主义、毛泽东思想",
+                "坚持和完善人民民主专政",
+                "坚持和完善社会主义经济体制",
+                "坚持和完善党的领导，坚持和完善中国特色社会主义制度"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "首次提出社会主义经济是“公有制基础上有计划的商品经济”的论断是在（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1984年十二届三中全会",
+                "1987年党的十三大",
+                "1992年党的十四大",
+                "1993年党的十四届三中全会"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "经济体制改革是全面深化改革的重点，核心问题是处理好（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中央和地方的关系",
+                "政府和市场的关系",
+                "宏观调控与微观搞活的关系",
+                "公平与效率的关系"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "我国社会主义初级阶段基本经济制度的确立决定于（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "我国生产力发展水平",
+                "所有制结构",
+                "分配制度",
+                "社会主义性质和初级阶段的国情"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "社会主义初级阶段的基本经济制度是公有制为主体、多种所有制共同发展。必须毫不动摇地鼓励、支持和引导非公有制经济发展的依据是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义初级阶段的生产力发展水平和发展的不平衡性",
+                "社会主义市场经济体制决定",
+                "社会主义初级阶段的基本经济制度决定",
+                "社会主义初级阶段的分配制度决定"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "国有经济在国民经济中的主导作用主要表现在（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "国有资产在社会总资产中占有量的优势",
+                "国有经济能控制垄断性行业",
+                "国有经济对国民经济的控制力",
+                "国有经济在国民经济中占主体地位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "公有制经济的性质和实现形式是两个不同层次的问题。公有制经济的性质体现在（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "组织形式上",
+                "所有权的归属上",
+                "经营方式上",
+                "分配方式上"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在社会主义初级阶段，非公有制经济是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义公有制经济的补充",
+                "社会主义市场经济的重要组成部分",
+                "具有公有制性质的经济",
+                "逐步向公有制过度的经济"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "按劳分配是社会主义的分配原则。实行按劳分配的基础是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "公有制",
+                "生产力水平",
+                "基本经济制度",
+                "基本分配制度"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在社会主义初级阶段，多种分配方式并存是收入分配制度的一大特点。按劳分配以外的多种分配方式，其实质就是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "按对生产要素的占有状况进行分配",
+                "按对资本的占有状况进行分配",
+                "按对劳动的占有状况进行分配",
+                "按对知识和知识产权类的占有状况进行分配"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我国存在按劳动力价值进行分配的方式，是因为我国目前存在着（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "个体经济",
+                "私营经济",
+                "集体经济",
+                "国有经济"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "发展是硬道理，是党执政兴国的第一要务。发展要以（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "创新为中心",
+                "科技为中心",
+                "提高发展质量和效益为中心",
+                "稳增长、调结构、惠民生、防风险为中心"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "进入改革开放新时期以来，我们党农村政策的重要基石是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以家庭承包经营为前提、统分结合的双层经营体制",
+                "坚持农村土地集体所有",
+                "开放经营权",
+                "实现承包权和经营权分置进行"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "市场经济作为资源配置的一种方式本身不具有制度属性，可以和不同的社会制度结合，但它和不同的社会制度结合具有不同的性质。社会主义市场经济的特色在于（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持社会主义与市场经济的结合",
+                "坚持所有制结构上以公有制为主体、多种所有制经济共同发展",
+                "坚持分配制度上以按劳分配为主体、多种分配方式并存",
+                "坚持宏观调控上以实现最广大劳动人民利益为出发点和归宿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "1992年党的十四大之所以能够明确地把建立社会主义市场经济体制作为我国经济体制改革目标是因为在社会主义可以实行市场经济的理论上有了重大突破。这个重大突破就是认识到（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "市场经济是由国家宏观凋控的经济",
+                "市场经济是发展经济",
+                "市场经济与计划经济是可以结合的",
+                "市场经济本身不具有制度属性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "党的（ ）进一步阐述了社会主义初级阶段的基本特征，明确指出社会主义初级阶段是逐步摆脱不发达状态，基本实现社会主义现代化的历史阶段。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十三大",
+                "十一届三中全会",
+                "十四大",
+                "十五大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "邓小平在中共十二大开幕词中（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "深刻概括了四项基本原则",
+                "鲜明地提出了四项基本原则",
+                "系统阐述了社会主义初级阶段理论",
+                "明确提出了“建设有中国特色社会主义”的命题"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "1982年，（ ）在党的十二大开幕词中提出了“建设有中国特色社会主义”的重大命题。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "邓小平",
+                "胡耀邦",
+                "江泽民",
+                "胡锦涛"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国特色社会主义理论形成的现实依据是（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "和平与发展成为时代主题",
+                "当代国际局势的新发展",
+                "总结、汲取我国和其他国家社会主义建设的经验教训",
+                "我国改革开放和现代化建设的实践"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "1997年召开的党的（ ）正式提出“邓小平理论”这一概念，并深刻阐述了其的历史地位和指导意义。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十二大",
+                "十二届三中全会",
+                "十四大",
+                "十五大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "我国社会主义市场经济体制已经初步建立，要继续朝着加快完善社会主义市场经济体制的目标努力，着力健全使（ ）在资源配置中起决定性作用和更好发挥（ ）作用的制度体系。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "市场、政府",
+                "政府、市场",
+                "社会、政府",
+                "市场、人民"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "邓小平理论形成的时代主题是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "战争与革命",
+                "经济全球化",
+                "世界政治多极化",
+                "和平与发展"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "十二大以来，我们党的全部理论和实践创新的主题是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发展",
+                "改革开放",
+                "中国特色社会主义",
+                "中国梦"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "党的十三大明确概括和全面阐发了党的（ ）的基本路线。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“一个中心、两个基本点”",
+                "“一化三改”",
+                "“解放思想，实事求是”",
+                "“三步走”"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "邓小平在领导改革开放和现代化建设这一新的革命过程中，不断提出和反复思考的首要的基本的理论问题是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "如何进行改革开放",
+                "如何两手抓，两手都要硬",
+                "如何坚持中国特色社会主义道路",
+                "什么是社会主义、怎样建设社会主义"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "邓小平首次明确指出：“把马克思主义的普遍真理同我国的具体实际结合起来，走自己的道路，建设有中国特色的社会主义，这就是我们总结长期历史经验得出的基本结论”，是在党的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十二大开幕词中",
+                "十三大开幕词中",
+                "十一届三中全会",
+                "十四大开幕词中"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“一个中心、两个基本点”是党在社会主义初级阶段的基本路线的最主要的内容，主要是指（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以国家统一中心；坚持四项基本原则；坚持改革开放",
+                "以经济建设为中心；坚持四项基本原则；坚持改革开放",
+                "以经济建设为中心；坚持解放思想；坚持实事求是",
+                "以经济建设为中心；坚持四项基本原则；坚持实事求是"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "邓小平敏锐地把握了国际形势的重大变化，对时代主题的转换作出了科学判断。他明确指出：“现在世界上真正大的问题，带全球性的战略问题，一个是（ ）问题，一个是经济问题或者说是（）问题。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "和平；发展",
+                "安全；发展",
+                "和平；统一",
+                "开放；和平"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（ ）同志是我国社会主义改革开放和社会主义现代化建设的总设计师。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "邓小平",
+                "毛泽东",
+                "习近平",
+                "江泽民"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我们党的思想路线是（ ），在改革开放和现代化建设进程中，邓小平在关键时刻作出的每一项重大决策，都体现了这一思想路线。。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "解放思想实事求是",
+                "解放思想改革创新",
+                "扩大开放深化改革",
+                "民族独立国家稳定"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "改革开放重大决策的提出是在（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的十三大",
+                "党的十一届三中全会",
+                "党的十五大",
+                "党的十五届四中全会"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "1984年党的十二届三中全会作出了（ ），提出了社会主义经济是“公有制基础上的有计划的商品经济”的论断。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《中共中央关于进一步治理整顿和深化改革的决定》",
+                "《中共中央关于经济体制改革的决定》",
+                "《中共中央关于国有企业改革和发展若干重大问题的决定》 ",
+                "《中共中央关于建立社会主义市场经济体制若干重大问题的决定》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "邓小平指出，社会主义社会发展的直接动力是（ ），他强调坚持社会主义基本制度的同时，还要从根本上改变束缚生产力发展的经济体制。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "创新",
+                "改革",
+                "革命",
+                "教育"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "提出把党和国家工作重点转移到社会主义现代化建设上来的战略决策是在（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的十一届三中全会",
+                "党的十三大",
+                "党的十五届四中全会",
+                "党的十五大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "党的（ ）第一次系统论述了我国社会主义初级阶段理论，提出了党在社会主义初级阶段的基本路线。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十三大",
+                "十一届三中全会",
+                "十四大",
+                "十五大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "党在社会主义初级阶段基本路线的简明概括是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "四项基本原则",
+                "改革开放",
+                "“一个中心，两个基本点”",
+                "“两手抓，两手都要硬”"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "邓小平强调，贫穷不是社会主义，社会主义要消灭贫穷。社会主义的根本任务是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发展生产力",
+                "解放生产力",
+                "实现民族独立",
+                "实现民族复兴"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "邓小平指出，社会生产力的巨大发展，劳动生产率的大幅度提高，最主要的是靠科学的力量与（ ）的力量。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "技术",
+                "创新",
+                "改革",
+                "团结"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "1987年4月，（）第一次提出了分“三步走”基本实现现代化的战略。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "毛泽东",
+                "邓小平",
+                "刘少奇",
+                "陈云"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "把邓小平“三步走”的发展战略构想确定下来是在（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的十三大",
+                "党的十四大",
+                "党的十五大",
+                "党的十六大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "依据邓小平的“三步走”的发展战略，到21世纪中叶，我国人均国民生产总值将( )。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "达到发达国家水平",
+                "达到中等发达国家水平",
+                "达到发展中国家水平",
+                "超过发达国家水平"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "邓小平明确指出：“（ ）是中国的第二次革命。”"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "现代化建设",
+                "创新",
+                "改革",
+                "开放"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "建立（ ）是我们党的一个伟大创举，是我国经济体制改革在实践和理论上的重大突破。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义市场经济体制",
+                "商品经济",
+                "市场经济",
+                "社会主义计划经济"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（ ）是建设中国特色社会主义的一项基本国策,邓小平明确指出，任何一个国家要发展，孤立起来，闭关自守是不可能的。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改革开放",
+                "对外开放",
+                "三个有利于",
+                "四个现代化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对外开放要高度珍惜并坚决维护中国人民经过长期奋斗得来的（ ）权利。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "协商民主",
+                "独立自主",
+                "自力更生",
+                "人民解放"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "改革开放开始后的一个很长时期内，我国经济体制改革的核心问题是如何正确认识和处理（ ）的关系。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义与资本主义",
+                "市场经济与集体经济",
+                "改革与开放",
+                "计划与市场"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "（ ）通过的《中共中央关于经济体制改革的决定》提出了社会主义经济是“公有制基础上有计划的商品经济”的论断。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十二届三中全会",
+                "十一届三中全会",
+                "党的十三大",
+                "党的十五大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "坚持（ ）原则是“和平统一、一国两制”的核心，是发展两岸关系和实现和平统一的基础。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改革开放",
+                "一国两制",
+                "一个中国",
+                "独立自主"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "“一国两制”伟大构想的提出是从解决（ ）开始的。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "台湾问题",
+                "香港问题",
+                "澳门问题",
+                "钓鱼岛问题"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国问题的关键在于党，加强（ ）是我们党领导人民取得革命和建设胜利的一个法宝。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "统一战线",
+                "党的建设",
+                "军队建设",
+                "武装斗争"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "邓小平强调，执政党的（ ）问题是关系党生死存亡的重大问题。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党纪",
+                "核心地位",
+                "性质",
+                "党风"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在社会主义的依靠力量问题上，邓小平理论强调（ ）是我们党的力量源泉和胜利之本。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人民群众",
+                "党的领导",
+                "社会主义制度",
+                "武装力量"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "邓小平指出：“贫穷不是社会主义，社会主义要消灭贫穷”、这个判断（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "指出了社会主义的根本任务",
+                "概括了社会主义生产的目的",
+                "明确了社会主义的发展方向",
+                "体现了社会主义本质的要求"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "邓小平在南方谈话中说：抓住时机，发展自己，关键是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持治理整顿",
+                "坚持改革开放",
+                "发展经济",
+                "发展科技与教育"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "个体、私营等各种形式的非公有制经济是（）的重要组成部分，对充分调动社会各方面的积极性、加快生产力发展具有重要作用。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义市场经济",
+                "国营经济",
+                "社会主义初级阶段公有制经济",
+                "社会主义性质经济"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国特色社会主义经济纲领、政治纲领、文化纲领（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是基本目标和基本政策的统一",
+                "是在党的十四大上首次提出来的",
+                "党的基本路线理论的有机组成部分",
+                "不仅是社会主义初级阶段的基本纲领，也是社会主义乃至共产主义建设的思想指南"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“三个代表”重要思想创造性地回答的一个主要理论问题是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "什么是社会主义，怎样建设社会主义",
+                "建设什么样的党，怎样建设党",
+                "什么是解放思想，实事求是",
+                "怎样实现社会主义现代化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "党的（）通过了《中共中央关于加强党的建设几个重大问题的决定》，分析了党的建设面临的形势。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的十四届四中全会",
+                "党的十五大",
+                "党的十六大",
+                "党的十三届四中全会"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "2000年2月25日，江泽民在（）考察工作时，首次对“三个代表”进行了比较全面的阐述。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "河南省",
+                "广东省",
+                "江苏省",
+                "上海市"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“三个代表”重要思想的科学内涵确立于（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2001年",
+                "2013年",
+                "2000年",
+                "2002年"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“三个代表”重要思想是在（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "科学判断党的历史方位和总结历史经验的基础上提出来的  ",
+                "发展社会主义经济条件下提出来的",
+                "中国共产党成为执政党的条件下提出来的",
+                "是在开始全面建设小康社会的形势下提出来的"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "2002年，江泽民深刻阐述了“三个代表”重要思想的内在联系，提出“贯彻‘三个代表’重要思想的根本要求，核心在于（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持与时俱进",
+                "保持党的先进性",
+                "坚持执政为民",
+                "坚持走群众路线"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "2002年，江泽民深刻阐述了“三个代表”重要思想的内在联系，提出“贯彻‘三个代表’重要思想的根本要求，本质在于（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持与时俱进",
+                "保持党的先进性",
+                "坚持执政为民",
+                "坚持走群众路线"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "将“三个代表”重要思想与马克思列宁主义、毛泽东思想和邓小平理论一道确立为党必须长期坚持的指导思想，并写入党章，是在（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的十四大",
+                "党的十五大",
+                "党的十六大",
+                "党的十七大"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "（）是第一生产力，是先进生产力的集中体现和主要标志。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "知识创新",
+                "科学技术",
+                "人才资源",
+                "先进制度"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "科技进步和创新是发展生产力的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "决定因素",
+                "关键支撑",
+                "前提条件",
+                "重要保障"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“三个代表”重要思想的核心观点中，科学的本质是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发展",
+                "创新",
+                "变革",
+                "更替"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "江泽民指出，（）是我们进行改革开放和现代化建设的重要目标，也是搞好改革开放和现代化建设的重要保证。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义精神文明",
+                "社会主义物质文明",
+                "社会主义政治文明",
+                "社会主义制度文明"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "发展社会主义先进文化，必须弘扬民族精神。在五千多年的发展中，中华民族形成了以（）为核心伟大民族精神。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "爱国主义",
+                "集体主义",
+                "奉献主义",
+                "利他主义"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "发展社会主义先进文化，必须加强社会主义（）建设，这是发展先进文化的重要内容和中心环节。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精神文明",
+                "先进文化",
+                "物质文化",
+                "思想道德"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "（）是经济工作和其他一切工作的生命线，是我们党和社会主义国家的重要政治优势。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "思想政治工作",
+                "道德建设工作",
+                "文化建设工作",
+                "精神文明工作"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是我们国家的主人，是决定我国前途和命运的根本力量，是历史的真正创造者。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "执政党",
+                "百姓",
+                "人民",
+                "共产党"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "党要承担起推动中国社会进步的历史责任，必须始终紧紧抓住（）这个执政兴国的第一要务。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发展",
+                "解放生产力",
+                "实现共同富裕",
+                "创新"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "党的（）正式把建立社会主义市场经济体制确立为我国经济体制改革的目标。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十三大",
+                "十四大",
+                "十五大",
+                "十六大"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "十四届三中全会通过的（），勾画了建立社会主义市场经济体制的蓝图和基本框架。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《关于实行分税制财政管理体制的决定》",
+                "《关于建立社会主义市场经济体制若干问题的决定》",
+                "《关于金融体制改革的决定》",
+                "《关于转换国有企业经营机制建立现代企业制度的若干意见》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "到（），我国初步建立了社会主义市场经济体制。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "20世纪末",
+                "20世纪初",
+                "21世纪初",
+                "21世纪中叶"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "建设社会主义政治文明，最根本的是要坚持党的领导、人民当家做主和依法治国的有机统一。其中，党的领导是人民当家作主和依法治国的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "根本前提",
+                "重要保障",
+                "根本保证",
+                "重要前提"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "建设社会主义政治文明，最根本的是要坚持党的领导、人民当家做主和依法治国的有机统一。其中，（）是社会主义民主政治的本质要求。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "实现共同富裕",
+                "消灭剥削阶级",
+                "实现民族独立",
+                "人民当家作主"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "江泽民强调，领导干部一定要讲学习、讲政治、讲正气，（）是前提。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "讲学习",
+                "讲政治",
+                "讲正气",
+                "讲民主"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "江泽民强调，领导干部一定要讲学习、讲政治、讲正气，（）是核心。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "讲学习",
+                "讲政治",
+                "讲正气",
+                "讲民主"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“三个代表”重要思想强调要努力促进（）的全面发展。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "经济",
+                "人",
+                "政治",
+                "文化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "我们党从诞生之日起就把（ ）确立为自己的指导思想。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义",
+                "马克思主义",
+                "毛泽东思想",
+                "邓小平理论"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "系统论述加强党的建设和改善党的领导问题的是（），强调坚持党要管党和从严治党。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的十四大",
+                "党的十五大",
+                "党的十六大",
+                "党的十七大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "广大工人、农民和知识分子始终是推动我国先进生产力发展和社会进步的根本力量。其中，（）是先进生产力的开拓者，在改革开放和现代化建设中有着特殊重要的作用。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "知识分子",
+                "农民",
+                "工人",
+                "资产阶级"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

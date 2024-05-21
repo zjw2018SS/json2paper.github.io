@@ -1,0 +1,452 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "癌基因与抑癌基因 单选题",
+        "type_all_num": 17,
+        "type_1_num": 17
+    },
+    "body": [
+        {
+            "questions": [
+                "在射线或化学致癌剂作用下,原癌基因发生的单个碱基的替换的现象叫做\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 重组",
+                " 点突变",
+                " 插入",
+                " 缺失",
+                " 移码突变"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "原本无活性的原癌基因移至强的启动子或增强子附近,表达增强的现象叫做\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 获得启动子",
+                " 点突变",
+                " 染色体易位",
+                " 扩增",
+                " 激活"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "原癌基因的激活机制是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 点突变",
+                " 启动子插入",
+                " 增强子的插入",
+                " 染色体易位",
+                " 以上均是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "原癌基因的激活机制不包括\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 染色体易位",
+                " 强启动子或增强子插入",
+                " 原癌基因扩增",
+                " 抑癌基因失活"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下关于肿瘤抑制基因的说法,错误的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 可促进细胞的生长和增殖",
+                " 促进细胞分化、成熟和衰老",
+                " 诱导细胞凋亡",
+                " 与癌基因相互制约",
+                " 发生变化时有可能引起肿瘤的发生"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下关于p53基因说法错误的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 在生长增殖的细胞中其编码的蛋白含量增加",
+                " 野生型p53是抑癌基因",
+                " 其编码产物被称为“基因卫士”",
+                " 是一种癌基因",
+                " 与人类肿瘤相关性最高的基因"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列有关癌基因的论述正确的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 癌基因只存在病毒中",
+                " 细胞癌基因来源于病毒基因",
+                " 有癌基因的细胞迟早都会发生癌变",
+                " 癌基因是根据其功能命名的",
+                " 细胞癌基因是正常基因的一部分"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种是抑癌基因\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Rb",
+                " myc",
+                " ras",
+                " c-erbB-2",
+                " sis"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况有可能导致肿瘤的发生\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肿瘤细胞与正常细胞融合",
+                " 两种不同肿瘤细胞融合",
+                " 正常细胞失去原癌基因",
+                " 正常细胞失去抑癌基因",
+                " 原癌基因与抑癌基因相互拮抗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列何者是抑癌基因\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ras",
+                " sis",
+                " p53",
+                " src",
+                " myc"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "属于抑癌基因失活机制的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因扩增",
+                " 获得强启动子",
+                " 获得增强子",
+                " 染色体易位",
+                " 杂合性丢失"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于病毒癌基因论述正确的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 主要存在于朊病毒中",
+                " 在体外不能引起细胞转化",
+                " 感染宿主细胞能随机整合于宿主细胞基因组",
+                " 又称原癌基因",
+                " 可直接合成蛋白质"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "不属于原癌基因活化机制的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因扩增",
+                " 启动子区高度甲基化",
+                " 基因突变",
+                " 染色体易位",
+                " 获得启动子或增强子"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "SRC癌基因编码的蛋白是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生长因子",
+                " 跨膜生长因子受体",
+                " 酪氨酸蛋白激酶",
+                " 定位于胞质中，将接受到的生长信号传至核内",
+                " 转录因子"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "RAS癌基因编码的蛋白是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生长因子",
+                " 跨膜生长因子受体",
+                " G蛋白",
+                " 酪氨酸蛋白激酶",
+                " 转录因子"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "MYC癌基因编码的蛋白是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生长因子",
+                " 跨膜生长因子受体",
+                " 酪氨酸蛋白激酶",
+                " 定位于胞质中，将接受到的生长信号传至核内",
+                " 转录因子"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于视网膜母细胞瘤基因(Rb基因)的描述最准确的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 细胞内的正常基因",
+                " 细胞内的非正常基因",
+                " 一种抑癌基因",
+                " 一种癌基因",
+                " 一种生长因子"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

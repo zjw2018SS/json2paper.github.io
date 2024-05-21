@@ -1,0 +1,1314 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "炎症",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年05月19日13小时40分48秒",
+        "id": "id-lwd3zr8n-9zdpyax1y"
+    },
+    "body": [
+        {
+            "questions": [
+                "脓肿的含义是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可形成空腔的变质性炎",
+                "常见于实质性脏器的化脓性炎症",
+                "伴有明显组织坏死溶解的化脓性炎症",
+                "组织坏死，经溶解后形成脓腔的局限性化脓性炎症",
+                "愈合后常有瘢痕形成的化脓性炎症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "炎症灶中巨噬细胞的主要作用是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "形成浆细胞",
+                "吞噬较大的病原体及组织碎片",
+                "释放血管活性胺",
+                "释放氧自由基",
+                "吞噬抗原抗体复合物"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "上皮样细胞来源于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "嗜酸性粒细胞",
+                "淋巴细胞",
+                "中性粒细胞",
+                "浆细胞",
+                "巨噬细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "伤寒小结中的伤寒细胞来源于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中性粒细胞",
+                "肥大细胞",
+                "单核细胞",
+                "淋巴细胞",
+                "嗜酸性粒细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于浆液性炎病变的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸膜炎积液",
+                "早期感冒黏膜炎",
+                "肾盂积水",
+                "昆虫毒素引起的皮下水肿",
+                "皮肤Ⅱ度烧伤水疱"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列化脓性炎性疾病，哪个不易发生积脓？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "化脓性输卵管炎",
+                "化脓性胆囊炎",
+                "化脓性支气管炎",
+                "化脓性胸膜炎",
+                "化脓性脑膜炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脓肿的病变特点，不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "好发于皮肤、肺、肝、肾、脑等实质性脏器",
+                "可继发为蜂窝织炎",
+                "脓肿中央为坏死区，周围含有大量中性粒细胞",
+                "外周血管扩张充血，成纤维细胞增生",
+                "金黄色葡萄球菌产生的凝血酶，使纤维蛋白原转化为纤维素，可阻止炎症的扩散。"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列不是引起异物肉芽肿的因素是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手术缝线",
+                "注入的油脂",
+                "植物纤维",
+                "寄生虫",
+                "滑石粉"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列有关炎症的描述，正确的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "炎症是一种疾病",
+                "炎症均对机体有利",
+                "凡是炎症都运用抗生素治疗",
+                "炎症的本质是以防御为主",
+                "炎症的基本病理变化为红、肿、热、痛、功能障碍"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在炎症过程中，最早出现的血管反应是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细动脉扩张、充血",
+                "细动脉收缩",
+                "毛细血管扩张",
+                "细动脉和毛细血管扩张",
+                "细静脉和毛细血管扩张"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "不具有防御作用的病理变化是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维蛋白渗出",
+                "白细胞渗出",
+                "红细胞漏出",
+                "血浆渗出",
+                "炎性增生"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "纤维素性炎主要表现为（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维素样变性",
+                "纤维素样坏死",
+                "纤维化",
+                "纤维组织增生",
+                "纤维素渗出"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以变质为主的炎症，其实质细胞的主要变化是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增生和再生",
+                "萎缩和变性",
+                "变性和坏死",
+                "增生和变性",
+                "坏死和萎缩"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "由血吸虫感染引起的急性虫卵结节中，最突出的炎细胞是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴细胞",
+                "浆细胞",
+                "中性粒细胞",
+                "嗜酸性粒细胞",
+                "单核巨噬细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男性，26岁，肛门旁脓肿破溃后流脓不断。入院检查，肛门旁创口为外口，内口与直肠相通，此病理管道为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "空洞",
+                "瘘管",
+                "窦道",
+                "溃疡",
+                "糜烂"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肉芽肿性炎的主要细胞是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中性粒细胞",
+                "淋巴细胞",
+                "巨噬细胞",
+                "嗜酸性粒细胞",
+                "浆细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肉芽肿是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结缔组织增生而形成境界清楚的结节状病灶",
+                "淋巴、网状组织增生形成的结节状病灶",
+                "多核巨噬细胞形成的结节状病灶",
+                "巨噬细胞及其演化细胞呈局部浸润和增生形成的境界清楚的结节状病灶",
+                "黏膜上皮、腺体和结缔组织增生并向黏膜表面突出的肿物常形成蒂"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "女性，36岁，颈部淋巴结肿大，手术切除。病检：肿大的淋巴结内可见淡黄色、质软的干酪样坏死，符合淋巴结病变的描述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "化脓性炎",
+                "纤维素性炎",
+                "浆液性炎",
+                "出血性炎",
+                "肉芽肿性炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "白细胞在炎症局部的作用不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吞噬作用",
+                "趋化作用",
+                "免疫作用",
+                "组织损伤作用",
+                "以上都不包括"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "纤维素性炎的好发于哪些部位，除了：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心包",
+                "皮肤",
+                "胸膜",
+                "气管",
+                "结肠"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于纤维素性炎的疾病是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌性痢疾",
+                "绒毛心",
+                "大叶性肺炎",
+                "气管白喉",
+                "慢性胆囊炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "炎性假瘤的病理改变不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "非典型增生性炎",
+                "慢性增生性炎",
+                "仅有炎症性改变而无肿瘤的病变特点",
+                "假瘤呈灰黄白色巨大肿块，边界清楚",
+                "肉眼似肿瘤，其病变性质为炎性增生"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列关于炎性息肉特点的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "突出于黏膜表面",
+                "仅由实质细胞增生形成",
+                "属于慢性炎症",
+                "常有蒂与黏膜相连",
+                "常发生于鼻黏膜和子宫颈"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "炎性肉芽肿内的细胞成分不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上皮细胞",
+                "淋巴细胞",
+                "巨噬细胞",
+                "多核巨细胞",
+                "纤维细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "渗出液的特点是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "液体中蛋白质含量较少",
+                "比重小于1.018",
+                "外观清亮",
+                "静置时液体不出现自凝",
+                "液体中细胞数量较多"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种病变不属于变质？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "足干性坏疽",
+                "心肌细胞水变性",
+                "脑软化",
+                "胸腔积液",
+                "肝脂肪变性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "化脓性炎主要渗出的细胞是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中性粒细胞",
+                "淋巴细胞",
+                "巨噬细胞",
+                "嗜酸性粒细胞",
+                "浆细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "细菌进入血液中大量繁殖并引起全身中毒症状，称为:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "菌血症",
+                "毒血症",
+                "败血症",
+                "病毒血症",
+                "脓毒败血症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "炎症时的渗出主要是由于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血流动力学改变",
+                "血管壁通透性增高",
+                "小静脉血栓形成",
+                "循环血量增加",
+                "组织间液比重降低"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "卡他性炎症指的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "皮肤的浆液性炎",
+                "浆膜的浆液性炎",
+                "黏膜的浆液性炎",
+                "关节的浆液性炎",
+                "脑膜的浆液性炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "急性炎性反应中出血的原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血小板减少",
+                "白细胞溶酶体酶的释放",
+                "纤维蛋白溶解",
+                "血管壁损伤",
+                "凝血因子缺乏"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "引起出血性炎的主要原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血管破裂",
+                "血管壁损伤严重",
+                "组织缺血缺氧",
+                "组织内胶体渗透压升高",
+                "以上都不对"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "具有高比重、静置凝固、黄色浑浊等性状的腹腔积液见于（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "门脉性肝硬化",
+                "右心衰竭",
+                "严重营养不良",
+                "低蛋白血症",
+                "腹膜炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "链球菌感染引起的炎症反应中浸润炎细胞主要是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴细胞",
+                "单核细胞",
+                "嗜酸性粒细胞",
+                "嗜碱性粒细胞",
+                "中性粒细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性炎症最先渗出的白细胞是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴细胞",
+                "巨噬细胞",
+                "浆细胞",
+                "嗜酸性粒细胞",
+                "中性粒细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "女性，20岁，阑尾切除术后，发现部分缝线残留在体内。考虑其周围会发生的病理改变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "炎性假瘤",
+                "肉芽肿性炎",
+                "机化",
+                "化脓性炎",
+                "蜂窝织炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于浆液性炎的病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "水疱",
+                "门脉高压时的腹腔积液",
+                "关节腔积液",
+                "炎性水肿",
+                "卡他性炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "急性炎症时白细胞渗出的描述，错误的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在炎症反应中，白细胞靠近边流、附壁",
+                "内皮细胞收缩，使中性粒细胞从间隙游出血管",
+                "中性粒细胞通过伸出伪足，逐渐从内皮细胞间隙游出血管",
+                "在趋化因子的作用下，中性粒细胞到达炎症部位",
+                "补体C3、C5是重要的炎性介质"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "假膜性炎的假膜成分一般不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维素",
+                "增生的成纤维细胞",
+                "中性粒细胞",
+                "病原体",
+                "坏死细胞碎片"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "不符合脓肿的病变是？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病灶内有大量中性粒细胞",
+                "周围可有肉芽组织增生",
+                "中心部分常发生凝固性坏死",
+                "有脓液形成",
+                "病灶中可见细菌菌落"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列细胞来源与巨噬细胞无关的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "印戒细胞",
+                "泡沫细胞",
+                "风湿细胞",
+                "心衰细胞",
+                "上皮样细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于肉芽肿性炎的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肉芽组织增生形成的结节状病灶",
+                "病灶呈结节状，境界清楚",
+                "结核病为肉芽肿性炎",
+                "肉芽肿性炎由巨噬细胞构成",
+                "属于慢性炎症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "炎症反应的中心环节是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "白细胞的渗出",
+                "液体的渗出",
+                "血管反应",
+                "组织的损伤",
+                "免疫反应"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "急性病毒性肝炎时，常见浸润的炎症细胞是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "嗜酸性粒细胞",
+                "巨噬细胞",
+                "单核细胞",
+                "淋巴细胞",
+                "浆细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "蜂窝织炎的概念应为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是发生于疏松结缔组织及阑尾的急性炎症",
+                "是以中性粒细胞渗出为主的炎症",
+                "是发生在疏松结缔组织的一种弥漫性化脓性炎症",
+                "由链球菌感染所引起的化脓性炎症",
+                "没有明显坏死的渗出性炎症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "纤维素性炎症发生后，对患者危害最大的部位在：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心包",
+                "胸膜",
+                "腹膜",
+                "气管",
+                "结肠"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性炎症主要的病理改变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "炎性充血、渗出，细胞变质",
+                "实质细胞增生",
+                "纤维组织增生",
+                "细菌大量入血繁殖",
+                "肉芽组织增生"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性炎症时引起组织肿胀的主要原因是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "组织增生",
+                "动脉充血",
+                "静脉淤血",
+                "富含蛋白的液体进入组织间隙",
+                "局部组织分解代谢增强"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于败血症的描述，错误的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在皮肤、黏膜处可发现出血点",
+                "血液中有细菌生长繁殖并产生毒素",
+                "血液中常可培养出病原菌",
+                "常有较重的全身中毒症状",
+                "常形成转移性脓肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "化脓性炎时，与脓液形成有关的细胞是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "嗜酸性粒细胞",
+                "巨噬细胞",
+                "淋巴细胞",
+                "嗜碱性粒细胞",
+                "变性坏死的中性粒细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

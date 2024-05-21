@@ -1,0 +1,1060 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 42,
+        "type_1_num": 42
+    },
+    "body": [
+        {
+            "questions": [
+                "（）和经济全球化相互促进，信息资源日益成为重要生产要素和社会财富，信息掌握的多寡成为衡量国家软实力和竞争力的重要标志。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "信息化",
+                "文化多样性",
+                "政治全球化",
+                "世界多极化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是人类文明进步的重要动力，维护和促进世界文化多样化是大多数国家的共同愿望。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "文化多样性",
+                "世界多极化",
+                "经济全球化",
+                "社会信息化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "社会信息化的一个重要标志是（）的飞速发展和广泛应用。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人工智能",
+                "互联网",
+                "云计算",
+                "大数据"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "十八大召开后不久，习近平在参观（）展览时，首次提出并深刻阐述了实现中华民族伟大复兴的中国梦的奋斗目标。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《复兴之路》",
+                "砥砺奋进的五年",
+                "建军90年",
+                "纪念中国人民抗日战争暨世界反法西斯战争胜利70周年"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "新型国际关系，“新”在相互尊重，“新”在公平正义，特别是“新”在（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "合作共赢",
+                "共同发展",
+                "开放合作",
+                "独立自主"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "推动建立新型国际关系，要按照（）是关键、（）是首要、（）是基础、（）是舞台的外交工作布局，建立新型国际关系。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大国周边发展中国家多边",
+                "发展中国家周边大国多边",
+                "大国多边发展中国家周边",
+                "大国周边发达国家多边"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "习近平在出席博鳌亚洲论坛（）年会时提出了“通过迈向亚洲命运共同体，推动建设人类命运共同体”的倡议。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2010年",
+                "2015年",
+                "2013年",
+                "2018年"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "推进（）是习近平深刻思考人类前途命运及中国和世界发展大势所提出的宏伟构想和中国方案。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "构建人类命运共同体",
+                "和平发展道路",
+                "“一带一路”建设",
+                "军民融合发展"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "丝绸之路，这个名称其实是由（）的地理学家李希霍芬片次提出。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "美国",
+                "日本",
+                "德国",
+                "意大利"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "古代陆上丝绸之路的主要运输工具是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "牦牛",
+                "骆驼和马",
+                "帆船",
+                "鸽子"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中国历史上的丝绸之路是中国通往（）著名的商路。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "西亚和欧洲",
+                "日本",
+                "朝鲜",
+                "东南亚"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "当今世界面临的难题是，某些问题的（）突出，但解决这些问题却仍用传统的民族国家框架，两者之间明显矛盾。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "独特性",
+                "特殊性",
+                "全球性",
+                "可逆性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "进入全球化时代后，（）成为主流，可以代替战争等极端手段来实现国家发展的目标。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "独立发展",
+                "和平竞争",
+                "互不干涉",
+                "占有资源"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（）是通向人类命运共同体的康庄大道。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义",
+                "马克思主义理论",
+                "“一带一路”",
+                "共产主义"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "“一带一路”规划的任何项目都不能由某个国家说了算，而是由相关国家（），确保“一带一路”建设的项目能兼顾各方的利益诉求，体现各方的共同意志。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "共同商讨",
+                "“天人合一”",
+                "互相干政",
+                "以利相交"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "当今世界局势发展的方向是（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单极化",
+                "两极化",
+                "三极化",
+                "多极化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "解决争端、维护和平的正确途径是（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "世界裁军",
+                "发展本国军事力量",
+                "平等对话、协商谈判",
+                "和平共处"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "实施互利共赢的开放战略符合世界各国同舟共济的客观要求。确立互利共赢的思想基础是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全球化意识",
+                "现代化意识",
+                "历史意识",
+                "“命运共同体意识”"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当今时代的主题是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "战争与革命",
+                "和平与发展",
+                "开放与合作",
+                "和谐与共赢"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中国指导国家关系的基本准则是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "和平共处五项原则",
+                "独立自主",
+                "加强同发展中国家的团结合作",
+                "坚持爱国主义与履行国际义务相统一"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国外交政策的宗旨是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "维护世界和平、促进共同发展",
+                "独立自主",
+                "和平共处五项原则",
+                "加强和巩固同广大发展中国家的团结合作"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "2015年9月，习近平在纽约联合国总部发表重要讲话指出，当今世界，各国相互依存、休戚与共，我们要继承和弘扬联合国宪章的宗旨和原则，构建以（）为核心的新型国际关系，打造人类命运共同体。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "相互尊重",
+                "公平正义",
+                "合作共赢",
+                "平等协商"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "（）是改革开放以来党的全部理论和实践的主题，是党和人民历尽千辛万苦、付出巨大代价取得的根本成就。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“五位一体”总体布局",
+                "中国特色社会主义",
+                "“四个全面”战略布局",
+                "中国特色社会主义文化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“四个伟大”中，伟大斗争是（），激发前进动力。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "目标",
+                "手段",
+                "保障",
+                "主题"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“四个伟大”中，伟大梦想是（），指引前进方向。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "目标",
+                "手段",
+                "保障",
+                "主题"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在“四个伟大”中，伟大工程是（），提供前进保证。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "目标",
+                "手段",
+                "保障",
+                "主题"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在“四个伟大”中，伟大事业是（），开辟前进道路。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "目标",
+                "手段",
+                "保障",
+                "主题"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "（），为实现伟大梦想奠定坚实的政治基础，是新时代中国共产党人实现中华民族伟大复兴这一历史使命的根本要求。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "完成伟大斗争",
+                "成就伟大事业",
+                "建设伟大工程",
+                "创造伟大奇迹"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "实现伟大梦想，必须进行具有许多新的历史特点的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伟大斗争",
+                "伟大事业",
+                "伟大工程",
+                "伟大发展"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "实现伟大梦想，必须深入推进党的建设新的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伟大斗争",
+                "伟大事业",
+                "伟大工程",
+                "伟大发展"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "实现伟大梦想，必须推进中国特色社会主义（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伟大斗争",
+                "伟大事业",
+                "伟大工程",
+                "伟大发展"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "实现社会主义现代化、创造人民美好生活的必由之路是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国特色社会主义道路",
+                "中国特色社会主义理论",
+                "中国特色社会主义制度",
+                "中国特色社会主义文化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是指导党和人民实现中华民族伟大复兴的正确理论。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国特色社会主义道路",
+                "中国特色社会主义理论",
+                "中国特色社会主义制度",
+                "中国特色社会主义文化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "当代中国发展进步的根本制度保障是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国特色社会主义道路",
+                "中国特色社会主义理论",
+                "中国特色社会主义制度",
+                "中国特色社会主义文化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "（）是激励全党全国各族人民奋勇前进的强大精神力量。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国特色社会主义道路",
+                "中国特色社会主义理论",
+                "中国特色社会主义制度",
+                "中国特色社会主义文化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "（）是新的历史条件下党执政的基本方式。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "依宪执政",
+                "依法执政",
+                "科学执政",
+                "依规执政"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "加强党的执政能力建设的核心是（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "保持党同人民群众的血肉联系为核心",
+                "建设高素质干部队伍为关键",
+                "改革和完善党的领导体制和工作机制",
+                "加强党的基层组织和党员队伍建设"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党的阶级基础是（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "农民阶级",
+                "工人阶级",
+                "知识分子",
+                "民主人士"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党的宗旨是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "为共产主义而奋斗",
+                "全心全意为人民服务",
+                "解放和发展生产力",
+                "人的自由与全面的发展"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在新的发展阶段，把党的建设作为一个新的伟大工程来抓，要紧紧抓住主线，这条主线是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的执政能力建设、先进性和纯洁性建设",
+                "党要管党、从严治党",
+                "为民、务实、清廉",
+                "反腐倡廉建设"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党自身建设的显著特点和特有优势是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "把思想建设作为党的各项建设包括制度建设的基础",
+                "把制度治党作为各项建设的根本之道",
+                "把作风建设作为党的各项建设的基础",
+                "将思想建党和制度治党紧密结合"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "全面从严治党，作风建设至关重要。作风建设的核心是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "保持党同人民群众的血肉联系",
+                "坚持和发扬艰苦奋斗精神",
+                "严格党内生活，开展积极的批评和自我批评",
+                "建立抓作风的长效机制"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

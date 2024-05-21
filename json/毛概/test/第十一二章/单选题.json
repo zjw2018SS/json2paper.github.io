@@ -1,0 +1,1285 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 51,
+        "type_1_num": 51
+    },
+    "body": [
+        {
+            "questions": [
+                "2014年，十八届四中全会通过了（），明确提出全面依法治国，加快建设法治国家，开启了中国特色社会主义法治道路的新征程。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《中共中央关于全面深化改革若干重大问题的决定》",
+                "《中共中央关于推进全面从严治党若干重大问题的决定》",
+                "《中共中央关于推进全面建成小康社会若干重大问题的决定》",
+                "《中共中央关于全面推进依法治国若干重大问题的决定》"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "习近平总书记在江苏调研时,首次并提出“四个全面”,全面吹响了治国理政的“集结号”,不仅让人回味无穷,而且令人热血沸腾,“四个全面”是指（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全面建成小康社会、全面深化改革、全面推进依法治国、全面从严治党",
+                "全面实现中国梦、全面深化改革、全面推进依法治国、全面从严治党 ",
+                "全面建成小康社会、全面改革开放、全面推进依法治国、全面推进“一带一路”建设",
+                "全面实现民族复兴、全面深化改革、全面推进依法治国、全面反腐倡廉"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "全面建成小康社会的目标要求，经济保持中高速增长，到2020年国内生产总值和城乡居民人均收入比2010年（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "翻两番",
+                "翻三番",
+                "翻四番",
+                "翻一番"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于“四个全面”战略布局的说法不正确的是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的十七大最早提出全面建设惠及十几亿人的更高水平的小康社会",
+                "党的十八大提出全面建成小康社会和全面改革开放的目标",
+                "党的十八届四中全会提出全面推进依法治国",
+                "党的群众路线教育实践活动总结大会宣示全面从严治党"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "实现“两个一百年”奋斗目标，走向中华民族伟大复兴中国梦的“路线图”是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“四个全面”战略布局",
+                "“五位一体”总体布局",
+                "“一带一路”倡议",
+                "中国梦"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "党的十八大提出了到2020年（）的奋斗目标。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全面依法治国",
+                "全面建成小康社会",
+                "全面从严治党",
+                "全面深化改革"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "党的（）通过了《中共中央关于全面深化改革若干重大问题的决定》，提出全面深化改革的总目标。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十七大",
+                "十八大",
+                "十八届三中全会",
+                "十八届四中全会"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "全面深化改革的总目标是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "完善和发展中国特色社会主义制度，推进国家治理体系和治理能力现代化",
+                "积极创造社会财富，提高人民物质水平",
+                "提高综合国力，增强国际竞争力",
+                "加大改革开放的深度和广度，推进社会全面进步"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "全面深化改革必须长期坚持党的思想路线，即坚持（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "解放思想实事求是与时俱进求真务实",
+                "解放思想实事求是与时俱进",
+                "解放思想实事求是",
+                "解放思想"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "改革、发展、稳定是我国社会主义现代化建设的三个重要支点，（）是经济社会发展的强大动力，（）是解决一切经济社会问题的关键，（）是改革发展的前提。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改革发展稳定",
+                "发展改革稳定",
+                "发展稳定改革",
+                "改革稳定发展"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）明确把依法治国确立为治理国家的基本方略，把建设社会主义法治国家确定为社会主义现代化建设的重要目标。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十五大",
+                "十四大",
+                "十三大",
+                "十一届三中全会"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "1999年3月，九届全国人大二次会议通过的（）将“依法治国”正式写入宪法。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《中国共产党章程（修正案）》",
+                "《中华人民共和国宪法修正案》",
+                "《全国人民代表大会组织法》",
+                "《国务院令》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "2014年十八届四中全会通过了《关于全面推进依法治国若干重大问题的决定》，明确提出全面推进（），加快建设法治中国，开启了中国特色社会主义法治道路的新征程。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以德治国",
+                "依法治国",
+                "以人为本",
+                "改革开放"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（）是社会主义法治最根本的保证。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "依法治国",
+                "党的领导",
+                "人民当家做主",
+                "以人为本"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（）既是管党治党的重要依据，也是建设社会主义法治国家的有力保障。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党内法规",
+                "法治保障体系",
+                "法治监督体系",
+                "法律体系"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "全面从严治党，其中“全面”是基础，“严”是（），“治”是要害。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "核心",
+                "保证",
+                "依托",
+                "关键"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "首次把党的政治建设纳入党的建设总体布局是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的十九大",
+                "党的十八大",
+                "党的十七大",
+                "党的十六大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是政党第一位的属性。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "政治属性",
+                "文化属性",
+                "经济属性",
+                "社会属性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是党的基础性建设。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "政治建设",
+                "思想建设",
+                "组织建设",
+                "纪律建设"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（）是实现民族振兴、赢得国际竞争主动的战略资源。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人才",
+                "教育",
+                "科技",
+                "创新"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我们党的最大政治优势是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以人为本",
+                "依法治国",
+                "政治建设",
+                "密切联系群众"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "“四个全面”战略布局是我们党站在新的历史起点上，总结我国发展实践，适应新的发展要求，坚持和发展中国特色社会主义新探索新实践的重要成果。在“四个全面”战略布局中，居于引领地位的是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全面建成小康社会",
+                "全面深化改革",
+                "全面依法治国",
+                "全面从严治党"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“四个全面”战略布局是我们党站在新的历史起点上，总结我国发展实践，适应新的发展要求，坚持和发展中国特色社会主义新探索新实践的重要成果。在“四个全面”战略布局中，具有突破性和先导性的关键环节是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全面建成小康社会",
+                "全面深化改革",
+                "全面依法治国",
+                "全面从严治党"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "确保如期全面建成小康社会，必须紧紧扭住全面建成小康社会存在的短板，在补齐短板上多用力。全面建成小康社会的突出短板、最艰巨的任务是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "农村贫困人口脱贫",
+                "民生保障",
+                "社会事业发展",
+                "生态环境保护"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我国社会主义法治建设的一条基本经验是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持依法治国和以德治国相结合",
+                "把依法治国基本方略同依法执政基本方式统一起来",
+                "把党的领导贯彻到依法治国全过程和各方面",
+                "坚持从中国实际出发"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "社会主义法治最根本的保证是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的领导",
+                "坚持人民主体地位",
+                "坚持法律面前人人平等",
+                "坚持从中国实际出发"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "法律是治国之重器，良法是善治之前提。建设中国特色社会主义法治体系，必须坚持先行的是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "立法",
+                "执法",
+                "司法",
+                "守法"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“全面从严治党”是“四个全面”战略布局的基本内容之一。从严治党的根本之道是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "先进性和纯洁性建设",
+                "思想建设",
+                "制度治党",
+                "法治化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "革命理想高于天，共产主义远大理想和中国特色社会主义共同理想，是中国共产党人的精神支柱和（），也是保持党的团结统一的思想基础。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "政治灵魂",
+                "精神核心",
+                "精神依托",
+                "政治核心"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "没有（）的全面小康和（）的全面小康，就没有全国的全面小康。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "农村；欠发达地区",
+                "城镇；欠发达地区",
+                "农村；较发达地区",
+                "城镇；不发达地区"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是治国之重器，良法是善治之前提。全面依法治国是关系我们党执政兴国、人民幸福安康、党和国家长治久安的重大战略问题。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "道德",
+                "伦理",
+                "法律",
+                "传统"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "党的思想建设、组织建设、作风建设、纪律建设最终必须落实到（）上。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "道德建设",
+                "政治建设",
+                "法制建设",
+                "制度建设"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "习近平强军思想指出，（）是兴国之举、强军之策，必须坚持发展和安全兼顾、富国和强军统一。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的绝对领导",
+                "军民融合发展",
+                "作风优良",
+                "改革"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "坚持（）和强军相统一是经济建设和国防建设协调发展规律的内在要求。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "富国",
+                "民强",
+                "和平",
+                "开放"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "建设世界一流军队，必须坚持政治建军、改革强军、科技兴军、依法治军。其中，（）是人民军队的立军之本。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改革强军",
+                "科技兴军",
+                "政治建军",
+                "依法治军"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "历史告诉我们，（）是保持人民军队本质和宗旨的根本保障，这是我们党在血与火的斗争中得出的颠扑不破的真理。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党指挥枪",
+                "解放思想",
+                "密切联系群众",
+                "实事求是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "党在新时代的强军目标必须同国家现代化进程相一致，力争到（）基本实现国防和军队现代化，到本世纪中叶把人民军队全面建成世界一流军队。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2010年",
+                "2025年",
+                "2030年",
+                "2035年"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "党对军队的绝对领导是人民军队的建军之本、（），必须全面贯彻党领导军队的一系列根本原则和制度。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "强军之魂",
+                "强军保证",
+                "强军之基",
+                "强军之本"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "军队是要准备打仗的，必须聚焦（）、（），创新发展军事战略指导，构建中国特色现代化作战体系。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "能打仗；打胜仗",
+                "会打仗；打胜仗",
+                "能打仗；战斗力强",
+                "会打仗；战斗力强"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是我军鲜明特色和政治优势，必须大力弘扬我党我军光荣传统和优良作风。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "听党指挥",
+                "作风优良",
+                "能打胜仗",
+                "战斗力强"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "习近平强军思想指出，（）是强军的必由之路，必须推进军队组织形式现代化，构建中国特色现代军事力量体系。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改革",
+                "政治建军",
+                "坚持党的领导",
+                "依法治军"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是引领发展的第一动力，必须坚持向科技创新要战斗力，统筹推进军事理论、技术、组织、管理等各方面的创新。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人才",
+                "科技",
+                "创新",
+                "改革"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "党的十九大对全面推进国防和军队现代化作出新的战略安排，到2020年，国防和军队建设要基本实现（），信息化建设取得重大进展，战略能力有大的提升。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "机械化",
+                "智能化",
+                "创新化",
+                "系统化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "把（）作为唯一的根本的标准，是有效履行我军根本职能的内在要求，也是提高军队建设质量效益的客观需要。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "政治方向",
+                "战斗力",
+                "军队素质",
+                "政治立场"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（）是现代战争的核心战斗力，一流军队必须有一流军事科技。。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "科技",
+                "创新",
+                "人才",
+                "武器"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "构建（）是建设世界一流军队的力量基础。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国特色现代军事力量体系",
+                "中国特色现代科技体系",
+                "中国特色现代强军体系",
+                "中国特色现代武装体系"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "走（）发展路子，是实现富国和强军统一的重要途径。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "军民融合式",
+                "中国特色强军",
+                "改革强军",
+                "科技兴军"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "军民融合，源于我们党的（）思想，其目的是在更广范围、更高层次、更深程度上把国防和军队现代化建设有机融入经济社会发展体系之中。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“军民鱼水情”",
+                "“船能载舟，亦能覆舟”",
+                "“军民结合，寓军于民”",
+                "“军民一家亲”"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "中国人民解放军的唯一宗旨是（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "绝对服从党的领导",
+                "誓死保卫祖国",
+                "全心全意为人民服务",
+                "坚决捍卫社会主义制度"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "新时期我军建设的总目标是（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "革命化、现代化",
+                "现代化、正规化",
+                "现代化、革命化、政治化",
+                "革命化、现代化、正规化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "（）是人民军队战无不胜的根本保证。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改革",
+                "党的领导",
+                "创新",
+                "科技"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

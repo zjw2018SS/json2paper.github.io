@@ -1,0 +1,1296 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "细胞和组织的适应与损伤及修复",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年05月19日13小时38分36秒",
+        "id": "id-lwd3wxt6-cvagz3jiy"
+    },
+    "body": [
+        {
+            "questions": [
+                "增生是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "器官和组织体积缩小",
+                "器官和组织体积增大",
+                "一种分化组织转化为另一种相似性质的分化组织",
+                "由于实质细胞增多而造成器官、组织体积增大",
+                "器官和组织先天发育异常"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列属于液化性坏死的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心肌梗死",
+                "脑梗死",
+                "肠梗死",
+                "淋巴结干酪样坏死",
+                "足坏疽"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于细胞凋亡的形态学特征是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞凋亡的形态学与生化特征与坏死完全不同",
+                "细胞皱缩，胞质致密，水分减少，胞质呈高度嗜酸性",
+                "染色质凝聚成致密团块或集结排列于核膜内面，",
+                "凋亡小体形成，是细胞凋亡的重要形态学标志",
+                "可见细胞膜溶解，细胞核碎裂消失"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肉眼观察肉芽组织呈颗粒状的主要原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新生的毛细血管灶性集聚",
+                "新生的毛细血管网呈袢状弯曲",
+                "成纤维细胞灶性集聚",
+                "大量炎细胞灶性集聚",
+                "感染、炎性水肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肉芽组织内能产生基质和胶原并具有收缩功能的细胞是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中性粒细胞",
+                "成纤维细胞",
+                "纤维细胞",
+                "血管内皮细胞",
+                "肥大细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肉芽组织可以：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "为细菌感染提供条件",
+                "造成局部皱缩、引起器官变形",
+                "保护创面、填补伤口",
+                "恢复原有组织的功能",
+                "无任何有利于机体的作用"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "营养不良性萎缩时，最早发生萎缩的组织是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脂肪组织",
+                "脑组织",
+                "骨骼肌组织",
+                "心肌组织"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在下列叙述中，不会发生的化生是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃腺上皮化生肠腺上皮",
+                "柱状上皮化生为鳞状上皮",
+                "纤维组织化生为软骨组织",
+                "鳞状上皮化生为纤维组织"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "虎斑心的组织学改变是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心肌纤维间大量淋巴细胞浸润",
+                "心肌纤维间出现脂肪沉积",
+                "心肌细胞中出现脂肪沉积",
+                "心肌细胞中出现透明蛋白小体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在下列坏死中，有特征性钙皂形成的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "凝固性坏死",
+                "液化性坏死",
+                "干酪样坏死",
+                "脂肪坏死"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下述改变哪项不符合变性的病变特点？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾小管上皮细胞内出现圆形、红染的小滴",
+                "肝细胞内出现脂滴",
+                "血管壁出现半透明、均匀红染的物质",
+                "心肌细胞内水分增多",
+                "细胞核破碎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "血管壁玻璃样变多见于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小静脉",
+                "大动脉",
+                "中型动脉",
+                "细动脉",
+                "大静脉"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "病理营养不良性钙化镜下观察，一般呈：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黑色碳末状",
+                "蓝色颗粒状",
+                "灰白色颗粒状",
+                "棕黄色颗粒状",
+                "褐色颗粒状"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "老年人心肌细胞内常出现的色素是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维素",
+                "胆色素",
+                "含铁血黄素",
+                "脂褐素",
+                "黑色素"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于细小动脉玻璃样变的描述，错误的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常见于缓进型高血压和糖尿病的肾、脑、脾的小动脉",
+                "细小动脉玻璃样变性常伴有坏死、钙化",
+                "视网膜细动脉玻璃样变在良性高血压中常见",
+                "小动脉血管壁增厚变硬、管腔狭窄",
+                "细小动脉壁弹性减弱，脆性增加，易破裂出血"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于肉芽组织结局的正确叙述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "最终填补缺损",
+                "最终纤维化形成瘢痕",
+                "抗感染的过程",
+                "产生细胞外基质的过程",
+                "分泌大量生长因子，调控细胞增生的过程"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肉芽组织取代血栓的过程称为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血栓钙化",
+                "血栓脱落",
+                "血栓软化溶解",
+                "血栓机化",
+                "血栓再通"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪些不是肉芽组织成熟的标志：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "间质内水分逐渐增多",
+                "炎细胞逐渐减少，最后消失",
+                "间质内的水分逐渐吸收、减少",
+                "成纤维细胞逐渐演变为纤维细胞",
+                "部分毛细血管腔闭塞、数目减少，部分改建为小血管"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列形态学改变中属于凋亡特征的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多为片状细胞死亡",
+                "细胞核固缩、碎裂",
+                "常为炎症反应和修复再生",
+                "细胞膜完整，发泡成芽"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "阑尾切除术后切口处有肠内容物流出，该病变称为（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瘘管",
+                "窦道",
+                "脓肿",
+                "溃疡"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列可以发生坏疽的病变是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝大片状坏死",
+                "脾梗死",
+                "脑梗死",
+                "肠套叠"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列肝细胞的病理改变中，属于凋亡的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脂肪空泡形成",
+                "嗜酸性小体形成",
+                "Mallory 小体形成",
+                "病毒包涵体形成"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列选项中，不符合萎缩特点的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "自噬小体增多",
+                "器官均匀性缩小",
+                "器官功能低下",
+                "细胞核固缩"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "萎缩发生时，细胞内常出现（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脂褐素",
+                "含铁血黄素",
+                "胆红素",
+                "黑色素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "化生不发生于（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾盂黏膜",
+                "结缔组织",
+                "支气管黏膜",
+                "子宫颈黏膜",
+                "神经纤维"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下述肝脂肪变性的描述中，哪一项是错误的（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "化学毒物使脂蛋白合成障碍，导致肝脂肪变",
+                "糖尿病时，脂肪酸入肝过多，导致肝脂肪变",
+                "缺氧时，可导致肝脂肪变",
+                "食入脂肪过多，导致肝脂肪变",
+                "白喉杆菌外毒素影响脂肪酸代谢，导致肝脂肪变"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列有关细胞死亡的描述中，哪项不正确（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "核缩、核碎、核溶是细胞坏死的主要形态改变",
+                "干酪样坏死常由结核杆菌引起",
+                "胰腺坏死常为液化性坏死",
+                "凋亡只见于细胞的生理性死亡",
+                "坏疽是坏死组织经腐败菌作用的结果"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "变性的错误描述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "变性时不伴有炎细胞的浸润",
+                "可逆性损伤的组织细胞可永久性丧失功能",
+                "细胞内或细胞间质出现异常物质或正常物质异常增多",
+                "细胞水肿、脂肪变、玻璃样变等均属细胞可逆性损伤",
+                "细胞可逆性损伤的形态学变化称之为变性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于干性坏疽病理改变的描述，错误的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常见于动脉与静脉闭塞的四肢末端",
+                "常发生于动脉闭塞而静脉回流畅通的四肢末端",
+                "因降解血红蛋白后形成硫化亚铁的沉积，病变区常呈黑色",
+                "因水分丢失较多，局部坏疽组织干燥皱缩。",
+                "坏疽与正常组织有明显界限。"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "萎缩病变的错误描述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发育不良的组织或器官属于萎缩",
+                "发育正常的细胞、组织或器官的体积缩小，重量减轻。",
+                "萎缩的细胞蛋白合成代谢降低，原有功能降低。",
+                "萎缩除实质细胞内物质减少外，还可伴有数量减少",
+                "持续性萎缩可导致细胞死亡"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肉芽组织中抗感染的主要成分是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "炎细胞",
+                "成纤维细胞",
+                "毛细血管",
+                "细胞外基质",
+                "肌纤维细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肉芽组织中一般不会出现？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单核巨噬细胞",
+                "中性粒细胞",
+                "神经纤维",
+                "胶原纤维",
+                "淋巴细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肉眼观察不良肉芽组织，其特征为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鲜红色",
+                "苍白色，并高出创面",
+                "颗粒状",
+                "表面无脓性渗出",
+                "表面湿润"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肉芽组织演变为瘢痕组织过程中可见到：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "毛细血管的数量逐渐增多",
+                "胶原纤维的数量逐渐增多",
+                "成纤维细胞的数量逐渐增多",
+                "炎性细胞的数量逐渐增多",
+                "组织内水分的含量逐渐增多"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是肉芽组织的功能？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "保护创面",
+                "修复缺损",
+                "吞噬、运输坏死组织",
+                "抗感染",
+                "机化坏死组织"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在下列病变中肉芽组织不会出现的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脓肿壁",
+                "小动脉玻璃样变性",
+                "纤维素性心外膜炎",
+                "溃疡底部",
+                "手术切口修复过程"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肉芽组织不具备的功能是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "机化血凝块与坏死组织",
+                "包裹异物",
+                "分解、液化坏死物",
+                "抗感染、保护创面",
+                "填补伤口及组织缺损"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列肉芽组织光镜下特点的描述，不正确是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新生的毛细血管",
+                "增生的成纤维细胞",
+                "毛细血管排列与创面垂直",
+                "有神经纤维",
+                "有少量中性粒细胞、巨噬细胞渗出"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "凝固性坏死的形态学特点是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "形成筛状软化灶",
+                "病灶中出现炎症细胞",
+                "细胞胞膜及细胞器膜完整",
+                "保持原有组织轮廓"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "男性，16岁。左手烫伤，红肿，少数水泡，无感染。经治疗痊愈，局部皮肤组织的病理变化表现为（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维瘢痕形成",
+                "皮肤附属器破坏",
+                "毛细血管增生",
+                "正常皮肤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列选项中，不属于化生的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃黏膜内出现肠上皮",
+                "舌根部出现甲状腺组织",
+                "气管内出现鳞状上皮",
+                "子宫内膜出现鳞状上皮"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在下列病变中，含铁血黄素主要出现在（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺褐色硬化",
+                "小叶性肺炎",
+                "急性呼吸窘迫综合征",
+                "间质性肺炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "镜下坏死组织结构的轮廓消失，呈现一片嗜酸性颗粒状物，其坏死类型是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "凝固性坏死",
+                "液化性坏死",
+                "干酪样坏死",
+                "脂肪坏死"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列选项中，属于凋亡特征的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "死亡细胞质膜破裂",
+                "活体内单个细胞死亡",
+                "死亡细胞自溶",
+                "伴有急性炎症反应"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列钙化中，属于转移性钙化的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝内血吸虫卵钙化",
+                "肾小管钙化",
+                "淋巴结干酪样坏死钙化",
+                "主动脉粥瘤钙化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "光镜下，干酪样坏死的病理改变是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "属于凝固性坏死，但保存原有的组织轮廓",
+                "属于凝固性坏死，原有的组织轮廓消失",
+                "属于液化性坏死，但仍保持细胞周围网架结构",
+                "属于液化性坏死，细胞周围网架结构被破坏"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肝细胞气球样变属于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淀粉样变性",
+                "细胞水肿",
+                "脂肪变性",
+                "玻璃样变性",
+                "纤维蛋白样坏死"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "HE染色切片中，发现肝细胞体积变大，胞浆淡染，呈空泡状，核位于一侧，为确定空泡的性质，最常用：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "苏丹Ⅲ染色",
+                "普鲁士蓝染色",
+                "嗜银染色",
+                "免疫组化",
+                "电镜检查"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "表皮或黏膜坏死脱落后，形成深达黏膜下层的缺损改变称为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "糜烂",
+                "瘘管",
+                "窦道",
+                "空洞",
+                "溃疡"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "老年人产生萎缩的器官主要有（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心、肾",
+                "脑、心",
+                "肝、肺",
+                "心、肺",
+                "肾、脑"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

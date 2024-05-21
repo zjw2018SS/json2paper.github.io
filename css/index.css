@@ -1,0 +1,199 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+
+}
+
+body {
+  --nav_height: 40px;
+  --home_height: 32px;
+  --search_height: 26px;
+  --search_svg_height: 20px;
+  /* background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%); */
+  background-color: #D4FFEC;
+  /* background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%); */
+  min-height: 100vh;
+  width: 100vw;
+}
+
+#nav {
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: var(--nav_height);
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  background-image: linear-gradient(225deg, #D4FFEC 0%, #57F2CC 48%, #4596FB 100%);
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(30px);
+  -webkit-backdrop-filter: blur(30px);
+  /* border: 1px solid rgba(255, 255, 255, 0.18); */
+  box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+  -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+  /* border-radius: 1px; */
+  /* -webkit-border-radius: 1px; */
+  color: rgba(255, 255, 255, 0.45);
+}
+
+#home {
+  position: relative;
+  margin: calc((var(--nav_height) - var(--home_height))/2) 20px;
+  height: var(--home_height);
+  width: var(--home_height);
+}
+
+#search {
+  --border_radius: 10px;
+  position: relative;
+  width: 40vw;
+  height: var(--search_height);
+  margin: calc((var(--nav_height) - var(--search_height))/2) auto;
+  background-color: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(4.5px);
+  -webkit-backdrop-filter: blur(4.5px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+  -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
+  border-radius: 12px;
+  -webkit-border-radius: 12px;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+#search_input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(40vw - 100px);
+  height: var(--search_height);
+  border: 0;
+  padding: 0 5px;
+  border-radius: 5px;
+}
+
+#del {
+  position: absolute;
+  top: 0;
+  right: 60px;
+  height: var(--search_svg_height);
+  width: var(--search_svg_height);
+  margin: calc((var(--search_height) - var(--search_svg_height))/2) 0;
+}
+
+#search_svg {
+  position: absolute;
+  top: 0;
+  right: 20px;
+  height: var(--search_svg_height);
+  width: var(--search_svg_height);
+  margin: calc((var(--search_height) - var(--search_svg_height))/2) 0;
+}
+
+.highlight {
+  color: rgb(255, 0, 0);
+}
+
+#container {
+  position: absolute;
+  top: 60px;
+
+}
+
+#container a {
+  display: block;
+
+}
+
+#bookshelf {
+  position: absolute;
+  top: var(--nav_height);
+  /* min-height: calc(100vh - var(--nav_height)); */
+  height: fit-content;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
+  flex-wrap: wrap;
+  overflow-x: hidden;
+  /* background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%); */
+  user-select: none;
+}
+
+.book_div {
+  --book_width: 100px;
+  --book_height: 150px;
+  --book_margin: 65px;
+  position: relative;
+  width: var(--book_width);
+  height: var(--book_height);
+  margin: calc(var(--book_margin)/2) var(--book_margin) calc(var(--book_margin)/2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(-37deg) skewX(10deg);
+  background-color: #00aeeb;
+  box-shadow: -8.75px 8.75px 12.5px rgb(0, 0, 0, 1);
+  transition: 0.1s;
+}
+
+.book_div::before {
+  content: "";
+  height: 100%;
+  width: 7.5px;
+  background-color: rgb(66, 192, 241);
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: skewY(-45deg) translate(-7.5px, -3.75px);
+}
+
+.book_div::after {
+  content: "";
+  height: 7.5px;
+  width: 100%;
+  background-color: wheat;
+  position: absolute;
+  top: 0;
+  transform: skewX(317deg) translate(137px, 150px);
+}
+
+.book_div:hover {
+  box-shadow: -13.75px 13.75px 17.5px rgb(0, 0, 0, 1);
+}
+
+.book_div:hover::before {
+  background-color: #0095eb;
+}
+
+.book_div:hover::after {
+  background-color: #2acbfc;
+}
+
+.book {
+  --line_height: 10px;
+  position: absolute;
+  line-height: calc(var(--line_height)*2);
+  bottom: var(--line_height);
+  text-align: center;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  color: aliceblue;
+}
+
+.a_div {
+  margin-bottom: 5px;
+  margin-left: 10vw;
+}
+
+.a_div a {
+  color: #2a00ff;
+}
+
+.a_div a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 600px) {}

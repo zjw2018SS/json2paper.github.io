@@ -1,0 +1,510 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 25,
+        "type_3_num": 25
+    },
+    "body": [
+        {
+            "questions": [
+                "“三个代表”重要思想是一个完整的思想体系，经历了一个酝酿、形成到逐步深化的过程。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "江泽民根据邓小平南方谈话精神，明确提出使用“社会主义市场经济体制”这个提法。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "坚持党的领导，核心是坚持党的先进性。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "我们党的最大政治优势是密切联系群众，党执政后的最大危险是脱离群众。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "坚决反对和防止腐败是全党一项重大的政治任务，是关系党和国家生死存亡的严重政治斗争。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“三个代表”重要思想是对马克思列宁主义、毛泽东思想和邓小平理论的继承和发展，是中国特色社会主义理论体系的重要组成部分。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党是中国人民和中华民族的先锋队，就不需要再讲它是中国工人阶级的先锋队。因为，中国人民和中华民族包括了中国工人阶级。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "false"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党是中国工人阶级的先锋队，同时是中国人民和中华民族的先锋队。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "科学发展观是中国特色社会主义理论体系最新成果，是中国共产党集体智慧的结晶，是指导党和国家全部工作的强大思想武器。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以人为本的“人”，包括社会各阶层人民在内的中国最广大人民。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以人为本的“本”，就是根本，就是出发点和落脚点。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胡锦涛指出，我们推进发展的根本目的就是造福人民。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "人民群众是发展的主体，也应是发展的最大受益者。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "统筹城乡发展，就是增强农村发展活力，逐步缩小城乡差距，促进城乡共同繁荣，推动城乡发展一体化。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "政治协商是社会主义的生命，是我们党始终高扬的光辉旗帜。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "false"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "物质贫乏有可能是社会主义，精神空虚一定不是社会主义。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "false"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "没有社会主义文化繁荣发展，就没有社会主义现代化。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "构建社会主义和谐社会，我们既要从“大社会”着眼，又要从“小社会”着手。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "党的先进性是历史的具体的，既是一以贯之的，又是与时俱进的。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "坚持统筹兼顾，必须认真考虑和对待各方面的发展需要，正确反映和兼顾各阶层各群体的利益要求。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "科学发展观的核心立场是以人为本。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中国精神就是以爱国主义为核心的民族精神和以改革创新为核心的时代精神。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "协商民主是中国社会主义民主政治的特有形式和独特优势。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "社会和谐是中国特色社会主义的本质属性。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "生态文明的核心是坚持人与自然和谐共生。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "true"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

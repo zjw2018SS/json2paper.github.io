@@ -1,0 +1,61 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第一章作业1 单选题",
+        "type_all_num": 2,
+        "type_1_num": 2
+    },
+    "body": [
+        {
+            "questions": [
+                "古代朴素唯物主义的局限性在于\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 没有科学的支撑",
+                " 具有地域性",
+                " 把物质等同于具体的物质形态",
+                " 代表了资产阶级的利益"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "物质的根本属性是：\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 具有质量",
+                " 暂时性",
+                " 运动",
+                " 占有空间"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

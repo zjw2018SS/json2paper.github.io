@@ -1,0 +1,1314 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "肿瘤",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年05月19日13小时41分17秒",
+        "id": "id-lwd40e3w-rdzdkvgpp"
+    },
+    "body": [
+        {
+            "questions": [
+                "下列符合远隔器官转移瘤的特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "与原发瘤组织学类型不同",
+                "在远隔器官内形成单个转移灶",
+                "分化程度同原发肿瘤",
+                "数个圆形结节，散在分布于脏器边缘，可形成“癌脐”",
+                "淋巴道转移的结果"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胃肠道的恶性肿瘤经血道首先转移到：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺",
+                "淋巴结",
+                "肝",
+                "骨",
+                "脑"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肿瘤的异型性主要反映：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤体积的大小",
+                "肿瘤的生长速度",
+                "肿瘤的组织起源",
+                "肿瘤的分化程度",
+                "肿瘤的生长部位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肿瘤的特性取决于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤的生长速度",
+                "肿瘤的生长方式",
+                "肿瘤的生长部位",
+                "肿瘤的实质",
+                "肿瘤的间质"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肿瘤性增殖与非肿瘤性增殖的根本区别为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞增殖呈现不可逆的自主性生长",
+                "有核分裂象",
+                "生长快",
+                "有肿块形成",
+                "血管及纤维组织增生"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列判断良恶性肿瘤的主要组织学特征是；（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤细胞排列紊乱",
+                "肿瘤细胞核的异型性",
+                "肿瘤细胞质嗜碱性",
+                "肿瘤细胞的多形性",
+                "上皮细胞层次增多"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下好发于儿童的恶性肿瘤为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾母细胞瘤",
+                "黑色素瘤",
+                "鳞状细胞癌",
+                "骨髓瘤",
+                "腺癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下不符合毛细血管瘤特征的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "儿童常见的良性肿瘤",
+                "多为先天性发生",
+                "多见于皮肤，也可以发生于肝脏等脏器",
+                "成年后停止发展，甚至可以自行消退",
+                "包膜形成"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列不属间叶组织来源的肿瘤是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血管瘤",
+                "平滑肌瘤",
+                "乳头状瘤",
+                "脂肪瘤",
+                "纤维瘤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男性，29岁，腹壁皮下肿物10年，无痛，无发热。手术见：肿物位于皮下，有完整包膜，切面淡黄色，油腻感。最可能诊断是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脂肪肉瘤",
+                "脂肪瘤",
+                "脂肪增生",
+                "纤维瘤",
+                "纤维肉瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "纤维组织来源的恶性肿瘤应命名为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "恶性纤维瘤",
+                "纤维肉瘤",
+                "纤维瘤",
+                "纤维母细胞瘤",
+                "纤维组织细胞瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "癌与肉瘤的主要区别点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发病年龄",
+                "大体特点",
+                "组织结构",
+                "恶性程度",
+                "转移途径"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "鉴别脂肪瘤与脂肪肉瘤的主要依据是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤的体积",
+                "肿瘤的分化程度",
+                "肿瘤的活动度",
+                "肿瘤的硬度",
+                "肿瘤的颜色"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "淋巴结转移癌的诊断依据是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴结的正常结构被破坏",
+                "淋巴结肿大、变硬",
+                "淋巴结内形成癌巢",
+                "淋巴结内出现异型细胞",
+                "淋巴结切面有坏死"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男性，49岁，发现左足跟部黑痣溃烂半年，同侧腹股沟肿块1周。查体：左足跟部0.4cm×0.7cm大小黑色突起，糜烂，无痛；左侧腹股沟肿块大小约2cm×4cm，质地质地中等硬度，无痛。最可能诊断的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左足跟部黑痣发炎",
+                "左足跟部黑色素瘤",
+                "左腹股沟淋巴结炎",
+                "左足跟部黑色素瘤转移至左腹股沟淋巴结",
+                "左足跟部慢性溃疡"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "左锁骨上淋巴结转移性鳞癌的原发部位最可能是？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲状腺",
+                "胃",
+                "食管下端",
+                "乳腺",
+                "肝"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胃癌癌细胞穿透浆膜脱落于腹膜上形成的转移瘤称为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "远处转移",
+                "接触性转移",
+                "肿瘤直接蔓延",
+                "种植性转移",
+                "器官转移"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于平滑肌瘤病变特点的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瘤细胞为纤维及平滑肌细胞",
+                "瘤细胞类似正常平滑肌",
+                "瘤细胞与平滑肌无明显异型性，核分裂像少见",
+                "无出血坏死",
+                "大多肿瘤有纤维组织包绕"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "诊断腺癌的依据是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发生于复层扁平上皮",
+                "呈结节状外观",
+                "有包膜形成",
+                "发生于腺上皮，癌细胞排列成不规则腺管状排列，细胞异型性明显",
+                "肿瘤质地硬"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "癌多见于下列哪种形状的肿瘤（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳头状",
+                "息肉状",
+                "火山口状溃疡",
+                "结节状",
+                "囊状"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肺转移性肾癌是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺癌转移到肾",
+                "肺癌和肾癌相互转移",
+                "肾癌转移到肺",
+                "肺、肾癌转移到它处",
+                "它处转移到肺肾的癌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肿瘤血道转移的确切依据是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "恶性肿瘤细胞侵入静脉",
+                "恶性肿瘤细胞侵入动脉",
+                "血液中查见肿瘤细胞",
+                "肿瘤细胞栓塞于远隔器官",
+                "在远隔器官形成同一类型的肿瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺转移性癌指的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺癌转移至肝",
+                "肺癌转移至肺",
+                "肝癌和肺癌同时转移到它处",
+                "肝癌和肺癌互相转移",
+                "它处的癌转移到肺"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肿瘤实质是指:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤内神经组织",
+                "肿瘤内淋巴管",
+                "肿瘤组织内的肿瘤细胞",
+                "肿瘤内血管",
+                "肿瘤内结缔组织"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "癌（巢）细胞中有较多角化珠出现，可诊断为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低分化鳞状细胞癌",
+                "高分化鳞状细胞癌",
+                "高分化腺癌",
+                "低分化腺癌",
+                "未分化癌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "恶性肿瘤最本质的表现为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n生长迅速",
+                "\n浸润性生长",
+                "\n出现转移",
+                "\n异型性明显",
+                "\n继发出血坏死"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "交界性肿瘤是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有两个胚层组织构成的肿瘤",
+                "介于良性与恶性肿瘤之间的肿瘤",
+                "具有癌和肉瘤结构的肿瘤",
+                "发生于表皮与真皮交界处的肿瘤",
+                "既有鳞癌又有腺癌结构的肿瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "上皮内瘤变是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上皮细胞增生，但极性不丧失",
+                "不转移",
+                "未浸润上皮下层",
+                "上皮细胞异型增生，排列紊乱，极性消失",
+                "不会进一步发展为原位癌或浸润癌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胃癌的治疗方案常依据：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细针穿刺病理诊断",
+                "脱落细胞学诊断",
+                "冷冻切片病理诊断",
+                "活体组织检查及手术标本的病理诊断",
+                "影像学资料"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男性，25岁，右胫骨上端病理性骨折，X线：见放射状条纹和Codman三角。手术后病理诊断为“普通型骨肉瘤”。最符合此诊断的镜下病变特点：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "交界性肿瘤",
+                "出血、坏死",
+                "肿瘤性骨样组织及骨组织",
+                "肿瘤性软骨",
+                "间变的梭形或多边形瘤细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "平滑肌瘤最常发生于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹膜后",
+                "子宫",
+                "胃肠道",
+                "膀胱",
+                "呼吸道"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "骨肉瘤是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨原发性的恶性肿瘤，有反应性骨质增生",
+                "肉瘤细胞直接形成肿瘤性骨样组织或骨组织的肿瘤",
+                "骨组织起源的肉瘤",
+                "骨组织中肉瘤的总称",
+                "骨组织来源的未分化肿瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "淋巴结内癌转移时，癌细胞首先出现在：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "边缘窦",
+                "髓窦",
+                "淋巴滤泡内",
+                "副皮质区",
+                "淋巴结门部"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "男性患者，40岁，近3个月来流涕，并涕中带血，时而伴有右侧耳鸣和闭塞感；近日在右侧胸锁乳头肌上端前缘出现一无痛性硬结，首先应考虑下列哪种疾病？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴瘤",
+                "淋巴结结核",
+                "淋巴结反应性增生",
+                "肺癌淋巴结转移",
+                "鼻咽癌淋巴结转移"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下描述，不属于肿瘤实质的特征是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤细胞和血管",
+                "决定肿瘤的生物学性质",
+                "判断肿瘤类型、分化程度、良恶性的主要依据",
+                "是决定其治疗方案、估价预后的主要依据",
+                "具有特异性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "色素痣恶变的依据，不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病程长",
+                "周围出现结节",
+                "表面破溃",
+                "体积突然增大、局部发炎",
+                "色素加深、生长加快"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肿瘤的质地与下列哪些因素有关？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤类型",
+                "实质与间质的比例",
+                "肿瘤的生长速度",
+                "肿瘤细胞的大小",
+                "A+B"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列关于癌前病变的描述，不正确是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "具有癌变倾向的良性病变",
+                "癌前病变可以表现为非典型增生",
+                "癌前病变不一定发展为癌",
+                "癌前病变是可逆的",
+                "所有的癌均由癌前病变发展而来"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肿瘤的分化程度高，说明（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤恶性程度高",
+                "肿瘤的异型性小",
+                "肿瘤的生长速度快",
+                "肿瘤的预后差",
+                "肿瘤易复发"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "左锁骨上淋巴结的转移性腺癌的最可能的来源是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳腺癌",
+                "卵巢癌",
+                "胃癌",
+                "肝癌",
+                "食管癌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "恶性肿瘤患者的主要死亡原因为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "继发感染",
+                "继发出血",
+                "广泛转移",
+                "疼痛",
+                "代谢紊乱"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "病理活检时，支持癌的诊断依据是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "出现大量鳞状上皮细胞",
+                "出现中性粒细胞",
+                "出现大量腺上皮细胞",
+                "出现核大、深染、核仁明显的细胞",
+                "出现大量红细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于未分化癌的正确叙述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "由腺上皮发生",
+                "由鳞状上皮发生",
+                "由上皮组织发生，缺乏分化状态",
+                "对放射治疗不敏感",
+                "对化疗不敏感"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下不属于肉瘤的特征是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "间质结缔组织少",
+                "瘤细胞呈巢状",
+                "多经血道转移",
+                "切面呈鱼肉状",
+                "瘤组织内血管丰富"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "骨肉瘤易血道转移到下列哪一器官形成转移瘤？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑",
+                "肝",
+                "肺",
+                "脾",
+                "肾"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "手术切除皮下一肿块，边界清楚，有包膜，质硬，灰白色，切面：实质均匀一致，无继发改变，可见纤细的编织状条纹，该肿物可能诊断为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维瘤",
+                "纤维肉瘤",
+                "平滑肌瘤",
+                "平滑肌肉瘤",
+                "脂肪瘤"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肉瘤的肉眼特征为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结节状、有包膜，切面灰白质硬",
+                "结节状、有包膜，切面灰白质软",
+                "分叶状，可有或无包膜，切面灰红或粉红色，质硬",
+                "形状不定，切面灰白色，质硬，干燥",
+                "不规则结节状，有或无完整包膜，切面灰红色，湿润质软如鱼肉状"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "分化差的恶性肿瘤不具有以下哪种特点：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤细胞的异型性大",
+                "恶性程度高",
+                "易浸润和转移",
+                "肿瘤细胞异型性小",
+                "预后差"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪些肿瘤有被膜？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳腺纤维腺瘤",
+                "肌肉内血管瘤",
+                "皮肤基底细胞癌",
+                "淋巴管瘤",
+                "甲状腺腺癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "高分化鳞癌的组织学特点，不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "实质与间质分界清楚",
+                "可见细胞间桥",
+                "基底膜完整",
+                "常形成癌巢",
+                "癌巢中有角化珠形成"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

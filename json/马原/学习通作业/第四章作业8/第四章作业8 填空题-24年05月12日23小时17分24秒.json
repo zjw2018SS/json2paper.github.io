@@ -1,0 +1,30 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第四章作业8",
+        "type_all_num": 1,
+        "type_4_num": 1,
+        "time": "24年05月12日23小时17分24秒",
+        "id": "id-lw3oibjs-1h97zvp39"
+    },
+    "body": [
+        {
+            "questions": [
+                "\n政党是（）的集中代表，是代表一定阶级、阶层或集团的根本利益，为达到政治目的，特别是为了（）和（）而建立的一种政治组织。\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "特定阶级利益",
+                "取得政权",
+                "保持政权"
+            ],
+            "analysis": []
+        }
+    ]
+}

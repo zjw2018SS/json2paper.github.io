@@ -1,0 +1,54 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第五章作业1",
+        "type_all_num": 2,
+        "type_3_num": 2,
+        "time": "24年05月12日23小时29分16秒",
+        "id": "id-lw3oxkrk-fihsw5xhs"
+    },
+    "body": [
+        {
+            "questions": [
+                "垄断资本所获得的高额利润，归根到底来自垄断资本对中小企业主的剥削\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n生产集中和资本集中是资本家追求剩余价值的结果\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第五章作业1",
+        "type_all_num": 7,
+        "type_1_num": 7,
+        "time": "24年05月12日23小时27分47秒",
+        "id": "id-lw3ovnzs-1xf3kkh4u"
+    },
+    "body": [
+        {
+            "questions": [
+                "资本主义从自由竞争阶段发展到垄断阶段是在\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 19世纪末20世纪初",
+                " 20世纪中期",
+                " 19世纪中期",
+                " 18世纪末19世纪初"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n资本集中的结果是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 越来越多的资本为少数大资本家所支配",
+                " 企业集团化",
+                " 大企业所占的比重不断增加",
+                " 私有企业越来越多"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "19世纪末20世纪初的垄断资本主义又叫\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 国家垄断资本主义",
+                " 私人垄断资本主义",
+                " 金融垄断资本主义",
+                " 工业垄断资本主义"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于垄断利润的形成，下列说法错误的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 垄断利润的形成，关键在于垄断组织在经济生活中起了决定作用",
+                " 资本在各部门之间的自由转移受到了阻碍",
+                " 垄断资产阶级对工业资产阶级进行了残酷的压迫和剥削",
+                " 利润平均化的趋势受到了限制"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在垄断资本主义形成的过程中，银行和信用的发展\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 延缓了这一进程",
+                " 与垄断资本主义的发展没有关系",
+                " 加速了这一进程",
+                " 受到阻碍"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n生产集中的结果是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 企业集团化、国际化",
+                " 越来越多的资本为少数大资本家所支配",
+                " 私营企业越来越多",
+                " 大企业所占的比重不断增加"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于金融资本，下列说法错误的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 金融资本是由工业垄断资本和银行垄断资本融合在一起而形成的一种垄断资本",
+                " 随着生产集中和垄断的发展，银行资本由集中走向垄断，银行垄断资本和工业垄断资本，通过金融联系、资本参与和人事参与，密切地融合在一起，产生了一种新型的垄断资本，即金融资本",
+                " 在金融资本形成的基础上，产生了金融寡头",
+                " 随着生产集中和垄断的发展，银行资本由集中走向垄断，工业垄断资本对银行的控制增强，大银行同大企业的金融联系更加密切，形成了固定的关系，产生了一种新型的垄断资本，即金融资本"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

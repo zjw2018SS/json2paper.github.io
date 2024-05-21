@@ -1,0 +1,165 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.3 细菌的特殊结构 多选题",
+        "type_all_num": 5,
+        "type_2_num": 5
+    },
+    "body": [
+        {
+            "questions": [
+                "与细菌致病性有关的结构主要是( )\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "普通菌毛",
+                "荚膜",
+                "性菌毛",
+                "芽胞",
+                "鞭毛"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细菌的荚膜有何作用?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "抗有害物质的损伤作用",
+                "抗吞噬作用",
+                "具有抗原性,可用于细菌分型",
+                "具有粘附作用",
+                "是细菌的运动器官"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "荚膜的化学组成可为( )。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "多糖",
+                "多肽",
+                "胆固醇",
+                "脂类",
+                "脂蛋白"
+            ],
+            "answers": [
+                "AB"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于鞭毛的叙述,哪些正确? ( )。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "与细菌运动有关",
+                "某些与细菌致病性有关",
+                "与细菌的粘附有关",
+                "与细菌的抵抗力有关",
+                "与细菌染色有关"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "细菌芽胞的特点是( )。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "芽胞的形态、大小和位置有助于细菌的鉴定",
+                "一般在机体外形成芽胞",
+                "芽胞是所有细菌生活周期中的一种生命形式",
+                "芽胞不是细菌的繁殖方式",
+                "芽胞一旦污染周围环境,其传染性可保持多年"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1958 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 78,
+        "type_1_num": 78
+    },
+    "body": [
+        {
+            "questions": "不属于中国共产党在中国革命中战胜敌人的主要法宝的是（ ）",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "统一战线",
+                "武装斗争",
+                "党的建设",
+                "实事求是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想形成和发展的实践基础是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国共产党领导的革命和建设成功实践",
+                "中国共产党领导的农民运动",
+                "中国共产党领导的人民革命",
+                "中国共产党领导的农民战争"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列著作中，被认为是中国共产党人第一篇反对教条主义的重要文献是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《井冈山的斗争》",
+                "《反对本本主义》",
+                "《中国的红色政权为什么能够存在？》",
+                "《星星之火，可以燎原》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想的直接理论来源是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "科学社会主义理论",
+                "中国的现代化建设和改革开放的实践",
+                "马克思列宁主义",
+                "“三民主义”"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "1978年5月11日，《光明日报》发表本报特约评论员文章《实践是检验真理的唯一标准》，由此引发了一场关于真理标准问题的大讨论。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“两个凡是”",
+                "“以阶级斗争为纲”",
+                "苏联模式",
+                "农村家庭联产承包责任制"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党在历史上第一次独立自主地解决党内重大问题的会议是()。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瓦窑堡会议",
+                "中共六大",
+                "中共七大",
+                "遵义会议"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "一切从实际出发，是实事求是思想路线的（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前提和基础",
+                "根本途径和方法",
+                "验证条件和目的",
+                "实质和核心"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在中国共产党历史上，最早提出“马克思主义中国化”这个命题的是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "李大钊",
+                "陈独秀",
+                "毛泽东",
+                "张闻天"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "推进马克思主义中国化，从而更好地指导中国革命，这种认识成为全党的共识是在（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "遵义会议上",
+                "延安整风以后",
+                "中共六届六中全会上",
+                "中共七大以后"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想达到成熟的主要标志是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新民主主义革命理论的系统阐释",
+                "中国革命道路理论的提出",
+                "革命军队建设和军事战略理论的创立",
+                "党的建设理论的创立"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "正式把毛泽东思想确立为党的指导思想并写入党章的是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瓦窑堡会议",
+                "中共七大",
+                "六届七中全会",
+                "遵义会议"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想的精髓是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "实事求是",
+                "群众路线",
+                "独立自主",
+                "艰苦奋斗"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "一切从实际出发是实事求是思想路线的前提和基础，当前中国最大的实际就是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "目前正处于并将长期处于社会主义初级阶段",
+                "人口多、底子薄",
+                "生产力不发达",
+                "上层建筑不完善"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "从党的十二大开始，《中国共产党章程》一直明确规定：“党的思想路线是一切从实际出发，理论联系实际，实事求是，在实践中检验真理和发展真理。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前提和基础",
+                "实质和核心",
+                "根本途径和方法",
+                "目的"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党领导人民在革命、建设和改革中取得的一切胜利，从根本上说，都是因为坚持了（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "群众路线",
+                "实事求是的思想路线",
+                "民主集中制",
+                "党的优良传统和作风"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在中国革命、建设、改革的历史进程中，马克思主义中国化实现了（ ）历史性飞跃。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "两次",
+                "三次",
+                "四次",
+                "五次"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想形成和发展时期，时代的主题是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "战争与革命",
+                "和平与发展",
+                "竞争与垄断",
+                "多极化与全球化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（ ）给中国送来了马克思列宁主义，帮助中国的先进分子开始用无产阶级的世界观作为观察国家命运的工具，中国革命从此有了科学的指导思想。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "辛亥革命",
+                "五四运动",
+                "俄国十月革命",
+                "新文化运动"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想初步形成于（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "第一次国内革命战争时期",
+                "土地革命战争的前期和中期",
+                "土地革命战争后期",
+                "抗日战争时期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想初步形成的主要标志是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "关于中国社会各阶级划分理论的形成",
+                "关于革命统一战线政策的制定",
+                "关于农村包围城市，武装夺取政权革命道路理论的提出",
+                "关于武装斗争和土地革命方针的提出"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想得到多方面展开并趋于成熟是在（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "国民革命时期",
+                "土地革命战争时期",
+                "解放战争时期",
+                "土地革命战争后期和抗日战争时期"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "（ ）以后，毛泽东系统分析了党内“左”的和右的错误的思想根源。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "八七会议",
+                "古田会议",
+                "遵义会议",
+                "中央工作会议"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在毛泽东思想的（ ）时期，实现了马克思主义与中国革命实践相结合的历史性飞跃。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "萌芽",
+                "形成",
+                "成熟",
+                "丰富和发展"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "中国革命中，既有革命要求又有动摇性的阶级是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "民族资产阶级",
+                "大资产阶级",
+                "小资产阶级",
+                "农民阶级"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东提出了以人民军队为骨干，依靠广大人民群众，建立农村根据地，进行（ ）思想。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "武装斗争",
+                "人民战争",
+                "游击战争",
+                "阶级斗争"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东提出经济工作和其他一切工作的生命线是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "群众工作",
+                "统一战线工作",
+                "武装斗争",
+                "思想政治工作"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东特别注重从（ ）建党。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "政治上",
+                "思想上",
+                "组织上",
+                "作风上"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东创造了全党通过（ ）进行马克思列宁主义思想教育的整风形式。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "批评与自我批评",
+                "理论联系实际",
+                "“惩前毖后、治病救人”",
+                "忆苦思甜"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（ ），就是一切从实际出发，理论联系实际，坚持在实践中检验真理和发展真理。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有的放矢",
+                "量力而行",
+                "实事求是",
+                "脚踏实地"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "党的思想路线的实质和核心是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "解放思想",
+                "实事求是",
+                "与时俱进",
+                "求真务实"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "坚持实事求是，就要清醒认识和正确把握我国的（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "基本国情",
+                "基本方针",
+                "基本形势",
+                "基本立足点"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "坚持实事求是，要努力避免任何超越现实、超越阶段而（ ）倾向。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "因循守旧",
+                "故步自封",
+                "大干快上",
+                "急于求成"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "要把（ ）深深植根于全党同志思想中，真正落实到每个党员行动上。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "群众观点、群众思想",
+                "群众观点、群众路线",
+                "群众路线、群众工作",
+                "群众觉悟、群众实践"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（ ）是中华民族的优良传统，是中国共产党、中华人民共和国立党立国的重要原则。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "四项基本原则",
+                "对外开放",
+                "独立自主",
+                "改革开放"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东为党领导革命和建设事业的发展奠定了坚实的（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "思想理论基础",
+                "思想前提",
+                "物质基础",
+                "政治经济前提"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "马克思主义中国化第一次历史性飞跃的理论成果是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "习近平新时代中国特色社会主义思想",
+                "新三民主义",
+                "毛泽东思想",
+                "邓小平理论"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "（ ）关于社会主义理论建设的理论，为开创和发展中国特色社会主义作了重要的理论准备。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "毛泽东思想",
+                "邓小平理论",
+                "党的十二大开幕词",
+                "党的八大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想所体现的独特理论风格为新时期党的理论创新、进一步推进马克思主义（ ）以重要的启迪。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "民族化",
+                "大众化",
+                "通俗化",
+                "特色化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想是中国革命和建设的科学指南，是中国共产党和中国人民（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "强大的精神动力",
+                "宝贵的精神财富",
+                "力量的源泉",
+                "共同的理论基础"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中国革命的基本问题是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "工人问题",
+                "农民问题",
+                "土地问题",
+                "政权问属"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想形成和发展的时代条件是( )。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "俄国十月革命开辟了世界无产阶级社会主义革命的新时代",
+                "1840年以后中国成为一个半殖民地半封建的社会",
+                "1919年以后中国革命进入新民主主义革命时期",
+                "1927年以后中国共产党独立担负起领导中国革命的重任"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东在下列哪一部文献中首次提出了“新民主主义革命”的科学概念（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《新民主主义论》",
+                "《中国革命与中国共产党》",
+                "《中国红色政权为什么能够存在》",
+                "《中国社会各阶级分析》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（）是中国共产党人认识世界、改造世界的根本要求，是我们党的基本思想方法、工作方法、领导方法。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "群众路线",
+                "独立自主",
+                "自我批评",
+                "实事求是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在中国共产党的历史上，（ ）第一个明确提出了“马克思主义中国化”的科学命题和重大任务，深刻论证了马克思主义中国化的必要性和极端重要性。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "陈独秀",
+                "李大钊",
+                "毛泽东",
+                "刘少奇"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "认清国情，是认清和解决革命问题的基本依据。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国是一个半殖民地半封建的社会",
+                "中国政府政治经济发展不平衡",
+                "中国是东方的大国",
+                "中国是一个农民占人口多数的国家"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "近代中国社会各种矛盾中最主要的矛盾是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "资产阶级和无产阶级的矛盾",
+                "帝国主义和中华民族的矛盾",
+                "封建主义和人民大众的矛盾",
+                "地主阶级和农民阶级的矛盾"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "解放战争时期，毛泽东在《在晋绥干部会议上的讲话》中对新民主主义革命的总路线作了完整地概括。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "帝国主义",
+                "封建主义",
+                "民族资本主义",
+                "官僚资本主义"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "新民主主义革命的性质是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无产阶级革命",
+                "农民阶级革命",
+                "新式的特殊的资产阶级民主主义革命",
+                "旧式资产阶级民主主义革命"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "区别新民主主义革命与旧民主主义革命的根本标志是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "革命指导思想不同",
+                "革命领导权不同",
+                "革命前途不同",
+                "革命对象不同"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中国民主主义革命经历了旧民主主义革命和新民主主义革命两个阶段，“旧”阶段转变到“新”阶段的根本标志是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国革命领导阶级的变化",
+                "中国革命主要对象的变化",
+                "中国革命基本性质的变化",
+                "中国社会主要矛盾的变化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国革命的中心问题是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "农民土地问题",
+                "统一战线问题",
+                "武装斗争问题",
+                "领导权问题"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "工人阶级实现革命领导权的基础是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对于农民的领导",
+                "对于小资产阶级的领导",
+                "对于民族资产阶级的领导",
+                "对于军队的领导"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东第一次提出新民主主义革命的科学概念和总路线的著作是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《中国革命和中国共产党》",
+                "《新民主主义论》",
+                "《在晋绥干部会议上的讲话》",
+                "《论人民民主专政》"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东完整地提出新民主主义革命总路线的著作是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《中国革命和中国共产党》",
+                "《新民主主义论》",
+                "《在晋绥干部会议上的讲话》",
+                "《论人民民主专政》"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "近代中国社会的性质和主要矛盾，决定了中国革命的主要敌人。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "帝国主义",
+                "封建主义",
+                "官僚资本主义",
+                "民族资本主义"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "新民主主义革命的最基本的动力是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "贫农",
+                "知识分子",
+                "无产阶级",
+                "工人和农民"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "“统帅革命的资产阶级，联合革命的无产阶级，实行资产阶级民主革命。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抹杀农民阶级的革命性",
+                "夸大资产阶级的作用",
+                "放弃无产阶级的领导权",
+                "忽视武装斗争的重要性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东明确把“官僚资本主义”列为革命的对象之一的著作是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "反对《本本主义》",
+                "《论人民民主专政》",
+                "《改造我们的学习》",
+                "《在晋绥干部会议上的讲话》"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "新民主主义革命理论的核心问题是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分清敌友",
+                "农民问题",
+                "无产阶级领导权",
+                "土地问题"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "新民主主义革命的主要内容是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "没收封建地主阶级的土地归新民主主义国家所有",
+                "没收官僚资产阶级的垄断资本归新民主主义国家所有",
+                "没收封建地主阶级的土地归农民所有",
+                "保护民族工商业"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "中国革命走农村包围城市、武装夺取政权的道路，根本在于处理好（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "土地革命、武装斗争、农村革命根据地建设三者之间的关系",
+                "统一战线、武装斗争、党的建设三者之间的关系",
+                "工人阶级、农民阶级、民族资产阶级三者之间的关系",
+                "进步势力、中间势力、顽固势力三者之间的关系"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东系统阐述中国革命三大法宝的文章是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《共产党人发刊词》",
+                "《中国革命和中国共产党》",
+                "《新民主主义论》",
+                "《论联合政府》"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东提出“须知政权是由枪杆子中取得的”著名论断的会议是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中共四大",
+                "八七会议",
+                "古田会议",
+                "遵义会议"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "新民主主义革命时期，中国共产党积累了丰富的统一战线的经验，其中最根本的经验就是要正确处理好（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "与资产阶级的关系",
+                "与农民的关系",
+                "与知识分子的关系",
+                "与国际无产阶级的关系"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在同资产阶级的联盟中必须实行的方针是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "既联合又斗争",
+                "一切经过统一战线",
+                "一切服从统一战线",
+                "团结——批评——团结"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东思想关于党的建设的理论中，始终放在党的建设的首位的是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "加强党的思想建设",
+                "加强党的组织建设",
+                "加强党员的党性修养",
+                "保持党的优良作风"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "新民主主义社会的五种经济成分中处于领导地位的是（　）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "国营经济",
+                "合作社经济",
+                "私人资本主义经济",
+                "国家资本主义经济"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东提出社会主义社会基本矛盾和两类不同性质矛盾学说的著作是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《论十大关系》",
+                "《矛盾论》",
+                "《论人民民主专政》",
+                "《关于正确处理人民内部矛盾的问题》"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以（）为标志，中国民主革命进入新民主主义革命阶段。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "辛亥革命",
+                "中国共产党成立",
+                "俄国十月革命",
+                "五四运动"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "区别新旧两种不同范畴的民主主义革命，其根本的标志是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "革命的领导权掌握在哪个阶级手里",
+                "革命的指导思想不同",
+                "革命的对象不同",
+                "革命的前途不同"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党在中国革命中战胜敌人的两个基本武器是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "统一战线和武装斗争",
+                "统一战线和党的建设",
+                "党的建设和武装斗争",
+                "实事求是和人民战争"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国新民主主义革命的实质是无产阶级领导的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "政治革命",
+                "农民革命",
+                "土地革命",
+                "群众运动"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "新民主主义革命的前途是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义",
+                "资本主义",
+                "新民主主义社会",
+                "共产主义"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国革命的主要斗争形式是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "议会斗争",
+                "合法斗争",
+                "武装斗争",
+                "民众运动"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "无产阶级实现对新民主主义革命领导权的根本保证是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持独立自主的原则",
+                "实行又联合又斗争的方针",
+                "坚持党指挥枪的原则",
+                "加强无产阶级政党的建设"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "中国革命取得胜利的根本保证是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚持实事求是的思想路线",
+                "坚持马列主义的指导",
+                "无产阶级及其政党的的正确领导",
+                "农村包围城市革命道路"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东批评城市中心论，提出以乡村为中心的文章是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《中国的红色政权为什么能够存在？》",
+                "《井冈山的斗争》",
+                "《星星之火，可以燎原》",
+                "《反对本本主义》"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东党建思想的核心内容是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "着重从思想上建设党",
+                "加强党的组织建设",
+                "加强党员的党性修养",
+                "从作风上建设党"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

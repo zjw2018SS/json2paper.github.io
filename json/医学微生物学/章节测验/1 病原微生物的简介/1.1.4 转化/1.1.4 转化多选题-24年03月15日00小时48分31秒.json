@@ -1,0 +1,143 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.4 转化多选题",
+        "type_all_num": 4,
+        "type_2_num": 4
+    },
+    "body": [
+        {
+            "questions": [
+                "下列基因转移与重组的方式中,哪些与细菌的耐药性形成有关\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "转化",
+                "接合",
+                "局限性转导",
+                "溶原性转换",
+                "普遍性转导"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪些属于细菌的遗传物质?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "染色体",
+                "质粒",
+                "插入序列",
+                "转座子",
+                "噬菌体基因组"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列关于转化的叙述,哪些是正确的?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "被转化的DNA片段称为转化因子",
+                "转化转移的DNA片段比转导要小",
+                "转化比转导的效率高",
+                "只有受体菌处于感受态才能进行转化",
+                "Ca2+与Mg2+处理,可增加感受态细菌摄取DNA的能力"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细菌间进行基因转移和重组的外源性遗传物质包括:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "核质",
+                "核糖体",
+                "质粒DNA",
+                "转座子",
+                "噬菌体基因"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}

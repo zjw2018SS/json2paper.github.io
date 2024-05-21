@@ -1,0 +1,271 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第三章 噬菌体测试题",
+        "type_all_num": 10,
+        "type_1_num": 10
+    },
+    "body": [
+        {
+            "questions": [
+                "\n 哪种细菌毒素产生与噬菌体有关（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 破伤风梭菌",
+                " 白喉棒状杆菌",
+                " 霍乱弧菌",
+                "\n产气荚膜梭菌",
+                " 大肠埃希菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是噬菌体的特征（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 个体微小",
+                " 具备完整的细胞结构",
+                " 由衣壳和核酸组成",
+                " 专性细胞内寄生",
+                " 以复制方式繁殖"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "前噬菌体是指（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 已整合到宿主菌染色体上的噬菌体基因组",
+                "\n进入宿主菌体内的噬菌体",
+                " 尚未感染细菌的游离噬菌体",
+                " 尚未完成装配的噬菌体",
+                " 成熟的子代噬菌体"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于噬菌体的描述，下列哪项是错误的____________."
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 可用噬菌体进行细菌鉴定",
+                " 可用噬菌体作载体进行分子生物学研究",
+                " 细菌带有噬菌体后发生的性状改变，均称为溶源性转换",
+                " 噬菌体溶解细菌后，可形成噬斑",
+                "\n噬菌体基因可与细菌DNA发生整合"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种微生物不能使人或动物致病（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\nL-型细菌",
+                "\n螺旋体.",
+                " 噬菌体",
+                "\n.立克次体",
+                " 支原体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毒性噬菌体的溶菌周期不包括（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " .吸附和穿入宿主菌　",
+                " 进行噬菌体的生物合成　",
+                " 装配成完整成熟的病毒体",
+                " 合成溶菌酶，裂解细菌",
+                " 整合于宿主菌染色体上"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "噬菌体的复制周期不包括____________."
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n吸附和穿入",
+                "\n脱壳",
+                "\n.生物合成",
+                "\n组装、成熟",
+                " 释放"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n整合在细菌染色体上的噬菌体基因组称____________."
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " prophage",
+                "\nvirulentphage",
+                "\nlysogenicbacterium",
+                " lysogeny",
+                " temperatephage"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于噬菌体的形态结构，错误的是____________."
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 大多数噬菌体呈蝌蚪形",
+                "\n由头部和尾部组成",
+                "\n.头部多呈六边形立体对称",
+                " 尾部内含核酸，外包蛋白质外壳",
+                "\n尾部由尾髓和尾鞘组成，末端由尾板、尾刺和尾丝。"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列微生物中，不受噬菌体侵袭的是:（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n真菌  ",
+                "\n细菌  ",
+                "\n螺旋体  ",
+                "\n病毒",
+                "\n放线菌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

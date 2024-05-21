@@ -1,0 +1,531 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第一章 微生物的形态与结构测试题",
+        "type_all_num": 20,
+        "type_1_num": 20
+    },
+    "body": [
+        {
+            "questions": [
+                "细菌属于原核细胞型微生物的主要依据是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  形态微小，结构简单",
+                "\n 有细胞壁",
+                "\n 二分裂方式繁殖",
+                "\n原始核、细胞器不完善",
+                "  对抗生素敏感"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "细菌的测量单位是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " nm",
+                " μm",
+                "  mm ",
+                " cm",
+                " pm"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "革兰阴性细菌细胞壁不具有的成分是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粘肽",
+                " 磷壁酸",
+                " .脂蛋白",
+                " 脂多糖",
+                " 外膜"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "革兰阳性细菌与革兰阴性细菌的细胞壁肽聚糖结构的主要区别在于（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 聚糖骨架",
+                " 四肽侧链",
+                " 五肽交联桥",
+                " β-1,4糖苷键",
+                " N-乙酰葡糖胺与N-乙酰胞壁酸的排列顺序"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "青霉素的抗菌作用机理是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 干扰细菌蛋白质的合成",
+                " 抑制细菌的核酸代谢",
+                " 抑制细菌的酶活性",
+                " 破坏细胞膜",
+                " 破坏细胞壁中的肽聚糖"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关革兰阳性细菌细胞壁的特点不正确的是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 主要成分是粘肽",
+                " 含有磷壁酸",
+                " .对青霉素敏感",
+                " 含有大量脂多糖",
+                " 易被溶菌酶裂解"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "内毒素的主要成分为（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脂多糖",
+                " 蛋白质",
+                " .鞭毛",
+                " .核酸",
+                " 肽聚糖"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于细胞壁的功能不包括（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " .维持细菌固有形态",
+                " .保护细菌抵抗低渗环境",
+                " 具有抗吞噬作用",
+                "\n具有免疫原性",
+                "\n与细胞膜共同完成细菌细胞内外物质交换"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于细菌L型的叙述，不正确的是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  细菌细胞壁缺陷",
+                " 能通过滤菌器",
+                "\n高度多形性",
+                " 高渗环境下可存活",
+                " 只在实验室培养过程中诱导形成"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关质粒的描述哪项是错误的（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 细菌生命活动不可缺少的基因",
+                " 为细菌染色体以外的遗传物质",
+                " 能自我复制，随细菌分裂传给子代",
+                " 可从一个细菌转移至另一个细菌体内",
+                " 可自行丢失"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "细菌核质的特点是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n有典型细胞核结构  ",
+                " 含组蛋白",
+                " 无核膜与核仁",
+                " 含两条染色体 ",
+                "\nDNA呈线状"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关细菌荚膜描述错误的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 具有免疫原性，可用于鉴别细菌",
+                " 可增强细菌对热的抵抗力",
+                " 具有抗吞噬作用",
+                " 一般在机体内形成",
+                "\n化学成分可是多糖，也可是多肽等"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于细菌芽胞的特点错误的是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 芽胞的形态、大小、位置有助于细菌的鉴定 ",
+                " 芽胞不是细菌的繁殖方式",
+                " 芽胞壁厚，折光性强，不易染色",
+                " 一般在机体内形成芽孢",
+                " 芽胞一旦污染周围环境，其传染性可保持多年"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "细菌菌毛的特点错误的是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 多见于革兰阴性细菌 ",
+                " 是细菌的运动器官",
+                " 分为普通菌毛与性菌毛 ",
+                " 普通菌毛具有粘附作用",
+                " 性菌毛可通过接合的方式传递遗传物质"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪组物质或结构与细菌致病性有关（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毒素和靛基质   ",
+                " 细菌素和热原质  ",
+                " 磷壁酸和普通菌毛",
+                "\n异染颗粒和侵袭性酶   ",
+                " 荚膜和中介体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "抵抗力最强的细菌是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  葡萄球菌 ",
+                " 炭疽芽孢杆菌",
+                " 大肠埃希菌",
+                " 痢疾志贺菌",
+                "\n肺炎链球菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "细菌芽胞所特有，并与其高度耐热性有关的成分是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 磷脂 ",
+                " 肽聚糖 ",
+                " 磷壁酸",
+                " 吡啶二羧酸",
+                "\n二氨基庚二酸"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "与细菌致病无关的结构是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肽聚糖",
+                "\n脂磷壁酸",
+                "\n脂多糖",
+                "\n荚膜",
+                " 普通菌毛"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n革兰阳性细菌细胞壁具有很强抗原性的成分是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 外膜",
+                " 肽聚糖",
+                " 磷壁酸",
+                " 聚糖骨架",
+                " 五肽交联桥"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n下列对细菌鞭毛表述不正确的是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是由细胞质伸出的蛋白质丝状物",
+                " 长度超过菌体数倍",
+                "\n弧菌都具有鞭毛",
+                " 革兰阴性杆菌都具有鞭毛",
+                " 螺菌都具有鞭毛"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

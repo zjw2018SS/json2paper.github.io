@@ -1,0 +1,386 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "导论课前作业4 单选题",
+        "type_all_num": 15,
+        "type_1_num": 15
+    },
+    "body": [
+        {
+            "questions": [
+                "“哲学把无产阶级当作自己的物质武器，同样，无产阶级把哲学当作自己的精神武器”，这个论断的含义是（     ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 无产阶级掌握哲学就由自在阶级转变为自为阶级",
+                " 无产阶级是哲学的自觉传播者",
+                " 哲学是无产阶级的思想武器",
+                " 马克思主义是无产阶级的世界观和方法论"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "马克思恩格斯系统阐述历史唯物主义基本观点、实现历史观伟大变革的著作是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 《德意志意识形态》",
+                " 《资本论》",
+                " 《神圣家族》",
+                " 《共产党宣言》"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "马克思主义产生的经济根源是（     ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 科技革命与社会关系的根本对立",
+                " 资本主义生产方式在西欧已有相当的发展",
+                " 封建贵族与资产者矛盾的尖锐化",
+                " 封建社会生产力与生产关系矛盾对立"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n1894年1月3日，意大利人卡内帕给恩格斯写信，请求他为即将在日内瓦出版的《新纪元》周刊的创刊号题词，而且要求尽量用简短的字句来表述未来的社会主义纪元的基本思想，以区别于伟大诗人但丁的对旧纪元所作的“一些人统治，另一些人受苦难”的界定。恩格斯回答说，这就是：“代替那存在着阶级和阶级对立的资产阶级旧社会的，将是这样一个联合体，在那里，每个人的自由发展是一切人的自由发展的条件。”这段话表明，马克思主义追求的根本价值目标是（    ）。\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 建立一个四海之内皆兄弟的大同世界",
+                " 实现人类永恒不变的普适价值",
+                " 建立一个自由、平等、博爱的理性王国",
+                " 实现人的自由而全面的发展"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "马克思系统阐述剩余价值学说，揭示资本主义生产关系秘密的著作是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 《共产党宣言》",
+                " 《资本论》",
+                " 《哥达纲领批判》",
+                " 《德意志意识形态》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在19世纪30-40年代西欧工人运动中，持续时间最长的是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 英国宪章运动",
+                " 德国西里西亚纺织工人起义",
+                " 法国里昂工人起义",
+                " 芝加哥工人起义"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "马克思主义政党是科学社会主义与工人运动相结合的产物，是工人阶级的先锋队，这表明（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 马克思主义政党即工人阶级本身",
+                " 马克思主义政党的阶级性是其先进性根本前提",
+                " 马克思主义政党以工人阶级为基础",
+                " 马克思主义政党的先进性决定了工人阶级的先进性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "使科学社会主义由理论开始变为现实的革命者是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 马克思",
+                " 列宁",
+                " 毛泽东",
+                " 恩格斯"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "19世纪西欧三大先进思潮为马克思主义的创立提供了直接的理论来源，其中为马克思主义哲学思想提供直接理论来源的是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 近代欧洲哲学",
+                " 德国古典哲学",
+                " 英国经验论哲学",
+                " 古希腊哲学"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "马克思恩格斯在家庭、学校和社会的影响下，曾经接受过那个时代唯心主义和资产阶级民主主义思想。他们后来能够创立马克思主义，就在于实现了（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 从资产者向无产者的转变",
+                " 从唯心主义向唯物主义的思想转变",
+                " 从黑格尔辩证法思想向唯物辩证法思想的转变",
+                " 从唯心主义向唯物主义、从革命民主主义向共产主义的转变"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "判断当时资本主义发达国家已经进入垄断阶段的伟人是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 恩格斯",
+                " 列宁",
+                " 马克思",
+                " 毛泽东"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "马克思主义产生的阶级基础是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 农民阶级",
+                " 资产阶级",
+                " 手工业阶级",
+                " 无产阶级"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "马克思恩格斯通过不倦的理论求索和社会实践，特别是考察和总结工人生活和斗争，实现了世界观和政治立场的彻底转变。表明这一转变实现的初始著作是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 合著的第一部著作《神圣家族》",
+                " 发表在《德法年鉴》上的论文",
+                " 合写的《德意志意识形态》",
+                " 第一个无产阶级政党的党纲《共产党宣言》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "马克思“包含着新世界观的天才萌芽的第一个文件”是（     ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 《资本论》",
+                " 《德意志意识形态》",
+                " 《关于费尔巴哈的提纲》",
+                " 《共产党宣言》"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "科学社会主义的第一个纲领性文件是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 《关于费尔巴哈的提纲》",
+                " 《德意志意识形态》",
+                " 《资本论》",
+                " 《共产党宣言》"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

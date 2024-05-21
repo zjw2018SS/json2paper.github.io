@@ -1,0 +1,339 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": " 【第一单元】：总论（第一章~第五章）单选题",
+        "type_all_num": 13,
+        "type_1_num": 13
+    },
+    "body": [
+        {
+            "questions": [
+                "下列哪种寄生虫具有伴随免疫( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血吸虫",
+                "丝虫",
+                "蛔虫",
+                "钩虫"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n\n\n寄生虫生活史的世代交替是指\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B.有性生殖和无性生殖交替",
+                "C.自由生活与寄生生活交替",
+                "A.有宿主更换   ",
+                " D.卵生与胎生交替 "
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n\n\n带虫免疫是指宿主感染寄生虫后产生的免疫力，其表现为\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "D.能将寄生虫完全清除，对再感染亦有完全的免疫力",
+                "A.能将寄生虫完全清除，但对再感染无免疫力  ",
+                "B.虽不能将虫体全部清除，但对再感染具有一定的免疫力 ",
+                "C.不能清除寄生虫，对再感染也无免疫力"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "两种生物共同生活,其中一方受益,另一方既不受益也不受害,两者是( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "寄生",
+                "合作",
+                "共栖",
+                "依赖",
+                "互利共生"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "寄生虫生活史的世代交替是指（）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "卵生与胎生交替",
+                "有宿主更换",
+                "自由生活与寄生生活交替",
+                "水生,陆生交替",
+                "有性生殖和无性生殖交替"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "寄生虫病流行的四个特点是( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "地方性,季节性,传染性,自然疫源性",
+                "散发性,连续性,传染性,季节性",
+                "自然疫源性,季节性,传染性,阶段性",
+                "多发性,自然疫源性,传染性,连续性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "寄生虫的幼虫期或无性繁殖阶段寄生的宿主称\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "传播媒介",
+                "中间宿主",
+                "保虫宿主",
+                "转续宿主",
+                "终宿主"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n寄生虫的幼虫期或无性生殖阶段寄生的宿主称\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " C.终宿主   ",
+                "B.转续宿主  ",
+                "A.保虫宿主   ",
+                "D.中间宿主   "
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "寄生虫病的流行环节是( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "传染源,传播途径,易感人群",
+                "自然因素,生物因素,社会因素",
+                "传染源,中间宿主,传播媒介",
+                "温度,温度,地质"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n\n\n机会致病性寄生虫指的是\n\n\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  B.免疫功能低下时致病的寄生虫",
+                "A.免疫功能正常时易感染的寄生虫   ",
+                "C.偶然寄生虫                    ",
+                "   D.体外寄生虫   "
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n\n\n六类主要热带病中，除麻风外，其余的寄生虫病种类是\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "D.血吸虫病，锥虫病，黑热病，疟疾，旋毛虫病",
+                "B.血吸虫病，疟疾，阿米巴痢疾，蛔虫病，黑热病",
+                "A.血吸虫病, 锥虫病，疟疾，蛔虫病，黑热病",
+                "C.疟疾，丝虫病，血吸虫病，锥虫病，黑热病"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n\n\n兼性寄生虫指的是\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B.雌虫和雄虫分别营自由生活和寄生生活",
+                " D.既可营自生生活，又可营寄生生活",
+                "C.成虫和幼虫均营寄生生活   ",
+                "A.成虫和幼虫均营自由生活    "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "终宿主是指寄生虫的 ( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有性生殖阶段或成虫期寄生的宿主",
+                "无性生殖阶段或幼虫期寄生的宿主",
+                "无性生殖阶段或成虫期寄生的宿主",
+                "有性生殖阶段或幼虫期寄生的宿主"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

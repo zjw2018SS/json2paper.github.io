@@ -1,0 +1,141 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.3 细菌的特殊结构单选题",
+        "type_all_num": 5,
+        "type_1_num": 5
+    },
+    "body": [
+        {
+            "questions": [
+                "细菌的基本结构不包括哪项?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞膜",
+                "细胞质",
+                "核质",
+                "细胞壁",
+                "菌毛"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是细菌的特殊结构\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "质粒",
+                "荚膜",
+                "芽胞",
+                "菌毛",
+                "鞭毛"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "细菌具有抗吞噬作用的结构是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "芽胞",
+                "菌毛",
+                "荚膜",
+                "鞭毛",
+                "中介体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于细菌菌毛叙述,正确的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "与细菌运动有关",
+                "与细菌染色有关",
+                "与细菌分裂有关",
+                "与细菌粘附有关",
+                "与细菌抵抗力有关"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "芽胞与下列哪项性状有关?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌的运动",
+                "细菌的基因重组",
+                "细菌的耐热特性",
+                "细菌的粘附",
+                "细菌的分裂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

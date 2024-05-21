@@ -1,0 +1,539 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第三章作业3",
+        "type_all_num": 21,
+        "type_1_num": 21,
+        "time": "24年05月12日23小时02分45秒",
+        "id": "id-lw3nzgxk-qpq2azfn0"
+    },
+    "body": [
+        {
+            "questions": [
+                "上层建筑对社会发展的作用性质取决于它（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是否符合经济基础的性质",
+                " 所服务的经济基础的性质",
+                " 是否推动经济基础的发展",
+                " 是否符合统治阶级的愿望"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "“英雄造时势”是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 历史唯物主义观点",
+                " 形而上学唯物主义观点",
+                " 历史唯心主义观点",
+                " 庸俗唯物主义观点"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "划分阶级的唯一标准是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 政治标准",
+                " 经济标准",
+                " 道德标准",
+                " 社会标准"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "人民群众对历史的创造作用总是受到（      ）等社会历史条件的制约。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生产力和生产关系的状况",
+                " 人们头脑中的传统观念",
+                " 科学文化水平",
+                " 人们的生活水平"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "划分阶级的根本标准是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 人们对生产资料的不同关系所造成的不同经济地位",
+                " 人们在生产过程中的地位和作用",
+                " 人们在社会生活中的政治地位和思想状况",
+                " 人们的社会分工状况"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "判断一种生产关系是否先进的根本标志在于它是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生产资料公有制还是生产资料私有制",
+                " 社会化大生产还是个体小生产",
+                " 促进生产力发展还是阻碍生产力发展",
+                " 封闭的自然经济还是开放的市场经济"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在意识形态中居于核心的是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 道德",
+                " 宗教",
+                " 哲学",
+                " 政治法律思想"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "阶级和阶级斗争现象是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 人类社会的普遍现象",
+                " 资本主义社会的特有现象",
+                " 阶级社会的普遍现象",
+                " 一切社会的永恒现象"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "社会存在是指社会的物质生活条件，它有多方面的内容，其中最能集中体现人类社会物质性的是（     ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生产方式",
+                " 人口因素",
+                " 地理环境",
+                " 社会形态"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "生产关系一定要适合生产力状况的规律是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 只对资本主义社会发生作用的规律",
+                " 某些社会发展的共有规律",
+                " 阶级社会的普遍规律",
+                " 在一切社会中都起作用的规律"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "“社会形态的发展是自然历史过程”，指的是（   ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 社会形态的发展与主体的选择无关",
+                " 社会形态的发展是一种合乎规律的辩证运动过程",
+                " 社会形态的发展与自然界的发展完全一样",
+                " 社会形态的发展是纯粹自发的过程"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n历史人物分为杰出人物和反动人物。杰出人物是指（     ）\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 历史上被剥削阶级的领袖",
+                " 上升时期的剥削阶级的先进代表",
+                " 对历史发展起促进作用的伟大人物",
+                " 无产阶级的伟大政治家和思想家"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "社会意识相对独立性最突出的表现是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 社会意识内部各种形式之间的相互作用和影响",
+                " 社会意识与社会存在发展的不完全同步性",
+                " 社会意识对社会存在具有能动的反作用",
+                " 社会意识各种形式各自具有其历史继承性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列选项中，全部属于非意识形态的是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 法律思想、文学、宗教",
+                " 技术科学、哲学、艺术",
+                " 自然科学、语言学、形式逻辑",
+                " 政治思想、语言学、道德"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "经济基础决定上层建筑，就是说（     ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 一切社会的上层建筑的变化，都同经济基础的变化是同步的",
+                " 一切社会的上层建筑都要在它的经济基础建立之后才能产生",
+                " 社会中一切经济基础成分都决定该社会的上层建筑",
+                " 一切社会的上层建筑都根源于经济基础"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在唯物史观中，人类的第一历史活动是（     ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生儿育女",
+                " 吃喝住穿",
+                " 物质生活资料的生产",
+                " 结成社会关系"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "社会主义社会开始了人民群众自觉创造历史的新时代，这是指（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 人民群众可随意按照自己的意志创造历史",
+                " 人民群众可以制定社会规律创造历史",
+                " 人民群众可以改造社会规律创造历史",
+                " 人民群众自觉地按照社会规律创造历史"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "反映生产力发展水平的主要标志是（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动者的经验技能",
+                " 生产工具的水平",
+                " 劳动对象的质量",
+                " 运输设备的状况"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n理解人类社会发展史的“钥匙”是把社会历史理解为（      ）\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 政治制度的演变史",
+                " 思想文化的交流史",
+                " 生产劳动的发展史",
+                " 阶级斗争的发展史"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在阶级社会里，统治阶级的思想之所以处于统治地位，其根本原因是他们（    ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 掌握了宣传机器",
+                " 代表了历史发展方向",
+                " 人才众多，力量强大",
+                " 在经济上占统治地位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "划分历史唯物主义和历史唯心主义的根本标准是（   ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是否承认社会发展具有规律性",
+                " 是否承认社会存在决定社会意识",
+                " 是否承认阶级和阶级斗争",
+                " 是否承认社会意识具有相对独立性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

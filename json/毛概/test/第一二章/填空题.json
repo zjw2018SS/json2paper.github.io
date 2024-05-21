@@ -1,0 +1,387 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 26,
+        "type_4_num": 26
+    },
+    "body": [
+        {
+            "questions": [
+                "毛泽东指出， 和，是战胜敌人的两个基本武器。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "统一战线",
+                "武装斗争"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "的胜利开辟了世界无产阶级社会主义革命的新时代。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "十月革命"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "是对中国革命和建设中的经验教训进行深刻总结而形成的理论成果。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "毛泽东思想"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "之后，毛泽东思想得到多方面展开而趋于成熟。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "遵义会议"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "对人民内部的民主和对敌人的专政互相结合起来就是 。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "人民民主专政"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "，就是一切从实际出发，理论联系实际，坚持在实践中检验真理和发展真理。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "实事求是"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "毛泽东思想的活的灵魂，有三个基本方面，即 、、  。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "实事求是",
+                "群众路线",
+                "独立自主"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "马克思主义中国化的第一个重大理论成果是 。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "毛泽东思想"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "是党的根本工作路线。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "群众路线"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "为中国特色社会主义理论体系的形成奠定了理论基础。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "毛泽东思想"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "新民主主义革命的动力包括： 、  、  、  。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "无产阶级",
+                "农民阶级",
+                "城市小资产阶级",
+                "民族资产阶级"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "没收封建地主阶级的土地归 所有，是新民主主义革命的主要内容。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "农民"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "，是新民主主义经济纲领中极具特色的一项内容。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "保护民族工商业"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "党成立初期，首先把工作重心放在 ，领导工人阶级，开展。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "城市",
+                "工人运动"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "革命根据地是中国革命建立的第一块农村革命根据地。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "井冈山"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "在革命进程中，坚持 、、的策略方针。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "发展进步势力",
+                "争取中间势力",
+                "孤立顽固势力"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "1948年，毛泽东在《晋绥干部会议上的讲话》中完整地表述了总路线的内容，即无产阶级领导，人民大众的，反对 、和的革命。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "帝国主义",
+                "封建主义",
+                "官僚资本主义"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "中国共产党要领导革命取得胜利，必须不断加强党的思想建设、组织建设和 。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "作风建设"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "中共八七会议上，提出了 观点。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "政权是由枪杆子中取得的"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "是中国革命的首要对象。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "帝国主义"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "1940年，毛泽东在 中阐述了新民主主义的政治、经济、文化。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "《新民主主义论》"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "是中国革命的基本问题。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "农民问题"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "国营经济是通过 建立起来的。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "没收官僚资本"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "是中国革命的主力军。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "农民"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "是中国革命的中心问题，也是新民主主义革命理论的核心问题。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "无产阶级的领导权"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "新民主主义革命的三大法宝是 、、。"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": [],
+            "answers": [
+                "统一战线",
+                "武装斗争",
+                "党的建设"
+            ],
+            "analysis": []
+        }
+    ]
+}

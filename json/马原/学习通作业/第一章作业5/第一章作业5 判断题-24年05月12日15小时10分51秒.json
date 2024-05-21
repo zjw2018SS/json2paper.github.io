@@ -1,0 +1,91 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第一章作业5 判断题",
+        "type_all_num": 4,
+        "type_3_num": 4
+    },
+    "body": [
+        {
+            "questions": [
+                "\n在质变过程中也有旧质在量上的收缩和新质在量上的扩张\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "辩证否定观的实质是新事物对旧事物的完全否定、完全抛弃和完全替代。\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n恩格斯指出，在辩证哲学面前，“不存在任何最终的东西、绝对的东西、神圣的东西；它指出所有一切事物的暂时性；在它面前，除了生成和灭亡的不断过程、无止境地由低级上升到高级的不断过程，什么都不存在。它本身就是这个过程在思维着的头脑中的反映”\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n总的量变过程中有阶段性和局部性的部分质变\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

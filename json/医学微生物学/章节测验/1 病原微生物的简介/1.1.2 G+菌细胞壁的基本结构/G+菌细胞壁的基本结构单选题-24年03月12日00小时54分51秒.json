@@ -1,0 +1,141 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "G+菌细胞壁的基本结构单选题",
+        "type_all_num": 5,
+        "type_1_num": 5
+    },
+    "body": [
+        {
+            "questions": [
+                "N-乙酰葡糖胺与N-乙酰胞壁酸通过什么联结形成细胞壁聚糖骨架?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "β-1,4糖苷键",
+                "二硫键",
+                "氢键",
+                "α-1,4糖苷键",
+                "共价键"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "溶菌酶溶菌作用的机制是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "切断肽聚糖的聚糖骨架",
+                "抑制四肽侧链与五肽交联桥的联结",
+                "干扰细菌DNA的分裂",
+                "干扰细菌蛋白质的合成",
+                "损害细胞膜"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "革兰阳性菌细胞壁特有成分为\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "外膜",
+                "磷壁酸",
+                "脂多糖",
+                "肽聚糖",
+                "脂蛋白"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "青霉素对细菌的作用机制是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "裂解肽聚糖中β-1,4糖苷键",
+                "抑制四肽侧链与五肽交联桥的联结",
+                "与细菌核蛋白体结合,干扰蛋白质合",
+                "大剂量可作用于革兰阴性菌细胞壁",
+                "干扰细菌的二分裂"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "细菌的结构中与革兰染色性有关的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中介体",
+                "核质",
+                "细胞膜",
+                "细胞壁",
+                "质粒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

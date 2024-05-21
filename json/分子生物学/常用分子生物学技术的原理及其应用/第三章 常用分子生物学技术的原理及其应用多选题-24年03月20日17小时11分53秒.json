@@ -1,0 +1,161 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第三章 常用分子生物学技术的原理及其应用多选题",
+        "type_all_num": 5,
+        "type_2_num": 5
+    },
+    "body": [
+        {
+            "questions": [
+                "核酸分子杂交的探针是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 带有某种标记",
+                " 序列未知",
+                " 具有很强的特异性",
+                " 单链核酸",
+                " RNA或DNA"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "Western免疫印迹技术是 \n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 用于检测蛋白质",
+                " 用于基因结构异常检测",
+                " 不须电泳分离",
+                " 用核酸作为探针",
+                " 探针是待测蛋白的抗体"
+            ],
+            "answers": [
+                "AE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n有关双脱氧末端终止法序列分析描述正确的是\n\n\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 原理等同化学降解法",
+                " 在体外进行了DNA的合成",
+                " 引物标记是关键",
+                " 类似原理用于了DNA序列自动化分析",
+                " 得到特异的ddNTP末端片断是关键"
+            ],
+            "answers": [
+                "BDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "实时荧光定量RT-PCR是 \n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 特异的分子信标探针可以提高定量的准确性",
+                " SYBR Green Ⅰ特异性强",
+                " 利用PCR最终产物量高低进行定量",
+                " 原理利用了临界点循环",
+                " 可以实现初始模板拷贝数的定量"
+            ],
+            "answers": [
+                "ADE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关基因芯片描述正确的是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 是有规则排列的cDNA或寡核苷酸阵列",
+                " 微阵列样本密度很小",
+                " 可用于多个基因的表达研究 ",
+                " 主要用于单基因的结构变异分析",
+                "\n可同时进行多个基因的变异分析"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        }
+    ]
+}

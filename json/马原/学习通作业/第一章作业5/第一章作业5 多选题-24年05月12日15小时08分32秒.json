@@ -1,0 +1,176 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第一章作业5 多选题",
+        "type_all_num": 11,
+        "type_4_num": 11
+    },
+    "body": [
+        {
+            "questions": [
+                "\n事物的辩证发展过程经过（）一（）一（）三个阶段\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "肯定",
+                "否定",
+                "否定之否定"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n（）是指客观事物或客观存在的辩证法，即客观事物以相互作用、相互联系的形式呈现出的各种物质形态的辩证运动和发展规律\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "客观辩证法"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n恩格斯指出：“马克思的整个世界观不是（），而是（）。它提供的不是现成的（），而是进一步研究的出发点和供这种研究使用的（）。”\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "教义",
+                "方法",
+                "教条",
+                "方法"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n否定是事物发展的（），是旧事物向新事物的转变，是从旧质到新质的飞跃。只有经过（），旧事物才能向新事物转变\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "环节",
+                "否定"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n（）是指人类认识和思维运动的辩证法，即以概念作为思维细胞的辩证思维运动和发展规律\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "主观辩证法"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n（）是事物的规模、程度、速度等可以用数量关系表示的规定性。（）是一事物区别于其他事物的内在规定性。事物的量和质是统一的，量和质的统一在（）中得到体现。\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "量",
+                "质",
+                "度"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n唯物辩证法按其本质来说，具有（）的、（）的精神\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "批判",
+                "革命"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n否定是新旧事物联系的环节，新事物孕育产生于旧事物，新旧事物是通过（）环节联系起来的\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "否定"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n否定是事物的（）否定，是事物（）矛盾运动的结果\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "自我",
+                "内部"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "在马克思主义哲学中，唯物论和辩证法是（）的\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "统一"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n在马克思主义的世界观和方法论中，（）是其核心内容。恩格斯曾经深刻地指出，唯物辩证法具有（）的特点。\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "唯物辩证法",
+                "超越时空"
+            ],
+            "analysis": []
+        }
+    ]
+}

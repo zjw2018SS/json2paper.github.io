@@ -1,0 +1,114 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第一章作业4 单选题",
+        "type_all_num": 4,
+        "type_1_num": 4
+    },
+    "body": [
+        {
+            "questions": [
+                "（）是揭示事物产生、发展和衰亡过程中的不同趋势的一对范畴\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 现实与可能",
+                " 本质与现象",
+                " 必然与偶然",
+                " 原因与结果",
+                " 内容与形式"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n（）是反映事物的过去、现在和将来关系的一对范畴\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 原因与结果",
+                " 内容与形式",
+                " 现实与可能",
+                " 本质与现象",
+                " 必然与偶然"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "唯物辩证法的实质与核心是：\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 否定之否定规律",
+                " 对立统一规律",
+                " 唯物辩证规律",
+                " 量变质变规律"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n（）是揭示事物引起和被引起关系的一对范畴\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 现实与可能",
+                " 原因与结果",
+                " 本质与现象",
+                " 必然与偶然",
+                " 内容与形式"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

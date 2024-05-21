@@ -457,7 +457,7 @@
   }
 
   #drop_box {
-/*       position: absolute;
+      /*       position: absolute;
       top: 20px;
       left: 0vw; */
       position: relative;
@@ -526,10 +526,10 @@
 
   /* 文件夹 */
   #drop_dir_box {
-/*       position: absolute;
+      /*       position: absolute;
       top: 300px;
       left: 0vw; */
-    position: relative;
+      position: relative;
       margin: 30px auto 0;
       width: fit-content;
       padding: 0 20px;
@@ -642,15 +642,16 @@
       padding-left: 0px;
   }
 
-  .option_wrap {
 
-    display: flex;
-    flex-direction: row;
+  .option_wrap {
+      display: flex;
+      flex-direction: row;
       position: relative;
       height: fit-content;
       min-height: 30px;
       padding: 5px 0px 0px 10px;
   }
+
 
   .option_code {
       display: block;
@@ -739,7 +740,7 @@
   }
 
   .input {
-  
+      /* width: 85%; */
       height: 24px;
       font-size: 20px;
       caret-color: #ffa502;

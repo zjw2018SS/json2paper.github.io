@@ -1,0 +1,531 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "基因诊断和基因治疗 单选题",
+        "type_all_num": 20,
+        "type_1_num": 20
+    },
+    "body": [
+        {
+            "questions": [
+                "有关基因诊断描述错误的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是对基因结构或表达异常的检测",
+                " 检测对象包括DNA或RNA",
+                " 可以利用连锁的遗传标记进行间接诊断",
+                " 靶基因包括病原微生物的特定基因",
+                " 仅适合遗传病的诊断"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "利用几根毛发进行基因诊断主要体现了基因诊断的哪项特点\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 高特异性",
+                " 应用广泛性",
+                " 高灵敏性",
+                " 早期诊断性 ",
+                " 唯一性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列方法不属于基因诊断范畴的是  \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 光学显微镜下观察到镰刀型红细胞推测患者可能罹患镰状细胞贫血病 ",
+                " 以古生物化石标本中残液为模板进行多态性位点相关的PCR以判别生物种类",
+                " 用RT-PCR对乙肝病毒携带者进行病毒复制水平检测",
+                " 用反向点杂交方法对高风险家庭进行β-珠蛋白生成障碍性贫血的产前诊断",
+                " 用基因表达芯片分析肿瘤相关基因表达变化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "常用核酸分子杂交技术不包括\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  Southern印迹杂交",
+                " Northern 印迹杂交",
+                " Western印迹杂交",
+                " 菌落原位杂交",
+                " 反向斑点杂交"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关间接基因诊断描述正确的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突变基因的异常结构检测",
+                " 针对是基因的表达产物",
+                " 比直接诊断效果好",
+                " 完全可以替代直接诊断",
+                " 利用连锁遗传标记进行连锁分析"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "基因诊断的目标分子不可以是 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA",
+                " 基因的表达产物",
+                "\n脂多糖",
+                "\nRNA",
+                " mRNA"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n对于镰状细胞贫血病的突变机理可以采用的基因诊断方法不可以是 \n\n \n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 设计等位基因特异性引物进行PCR",
+                " 测序",
+                " PCR与限制性核酸内切酶技术结合",
+                " 核酸分子杂交",
+                " 在突变位点两侧设计引物再电泳分析PCR产物长度变化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "基因诊断不可能实现 \n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 对某种遗传疾病发生的预知",
+                " 改变基因的原有表达方式",
+                " 对个体身份的鉴定",
+                " 对病毒的亚型准确判断",
+                " 判定某种肿瘤疾病的易感性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n以下哪种检测技术不属于DNA水平的基因诊断 \n\n\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " PCR",
+                " Northern blot",
+                " Southern blot",
+                " RFLP分析",
+                " ASO"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "理论上讲，基因治疗最理想的策略是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因置换",
+                " 基因替代",
+                " 基因失活",
+                " 免疫调节",
+                " 导入“自杀基因”"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "目前基因治疗所采用的方法中，最主要的治疗策略是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因置换",
+                " 基因增补",
+                " 基因失活",
+                " 免疫调节",
+                " 导入“自杀基因”"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "利用反义核酸阻断基因异常表达的基因治疗方法是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因置换",
+                " 基因替代",
+                " 基因矫正",
+                " 基因失活",
+                " 免疫调节"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "将白细胞介素-2基因导入肿瘤病人体内，提高病人IL-2的表达水平，进行抗肿瘤辅助治疗。这种基因治疗方法是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因置换",
+                " 基因替代",
+                " 基因矫正",
+                " 基因失活",
+                " 基因增补"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种方法不是目前基因治疗所采用的方法\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因缺失",
+                " 基因置换",
+                " 基因替代",
+                " 基因失活",
+                " 自杀基因"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "基因治疗的基本程序中不包括\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 选择治疗基因",
+                " 选择载体",
+                " 选择靶细胞",
+                " 将载体直接注射体内",
+                " 将治疗基因导入靶细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "目前在基因治疗的临床实施中，最常使用的载体是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 逆转录病毒载体",
+                " pBR322",
+                " λ噬菌体",
+                " pUC18",
+                " YAC"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "逆转录病毒载体的特点中不包括\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 容量约10kb",
+                " 有潜在危险性",
+                " 基因转移效率较高",
+                " 只感染分裂状态的细胞",
+                " 感染细胞后产生高滴度病毒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "腺病毒载体的特点中不包括\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 所获病毒滴度高",
+                " 外源基因可瞬时高表达",
+                " 外源基因长期稳定表达",
+                " 基因组结构复杂",
+                " 能感染分裂或非分裂状态的细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在基因治疗时，目前哪一种细胞不能作为靶细胞\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 淋巴细胞",
+                " 肿瘤细胞",
+                " 生殖细胞",
+                " 干细胞",
+                " 造血细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "目前下列哪类疾病基因治疗效果最确切\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 单基因遗传病",
+                " 多基因遗传病",
+                " 恶性肿瘤",
+                " 感染性疾病",
+                " 心血管疾病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

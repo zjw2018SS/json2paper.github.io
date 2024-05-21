@@ -1,0 +1,858 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 34,
+        "type_1_num": 34
+    },
+    "body": [
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "自愿互利、典型示范、国家帮助",
+                "稳步前进",
+                "说服教育的原则",
+                "依靠贫下中农兴办合作社"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我国对个体手工业进行社会主义改造的主要方式是（ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "赎买",
+                "统购统销",
+                "公私合营",
+                "合作化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "中国民族资产阶级在社会主义改造时期仍有两面性，其表现为（ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "革命性和妥协性",
+                "主动性和被动性",
+                "剥削工人的一面和接受改造的一面",
+                "进步性和顽固性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国对资本主义工商业的社会主义改造所采取的基本政策是（ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "加工订货",
+                "统购包销",
+                "和平赎买",
+                "公私合营"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国从新民主主义社会进入社会主义社会的标志是（ ） 。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中华人民共和国的成立",
+                "社会主义改造的基本完成",
+                "第一部《中华人民共和国宪法》的通过",
+                "十一届三中全会"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "我国社会主义制度基本建立起来后，党和全国人民的主要任务是（ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "进行思想上、政治上的社会主义革命",
+                "继续进行两个阶级、两条道路的斗争",
+                "大力发展社会生产力",
+                "坚持无产阶级专政下的继续革命"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "建国初期，我国社会主义国营经济建立的最主要的途径和手段是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "没收帝国主义在华企业",
+                "没收官僚资本",
+                "没收民族资本",
+                "没收地主阶级的土地和财产"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "新民主主义社会在经济上实行国营经济、合作社经济、个体经济、私人资本主义经济和国家资本主义经济五种经济成分并存的经济制度。五种经济成分中，在国民经济中居于领导地位的是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "国营经济",
+                "个体经济",
+                "国家资本主义经济",
+                "私人资本主义经济"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "建国初期，随着全国土地改革的基本完成，国内的主要矛盾是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人民大众同帝国主义、封建主义和国民党反动派残余势力之间的矛盾",
+                "工人阶级和资产阶级的矛盾",
+                "生产力与生产关系的矛盾和经济基础与上层建筑的矛盾",
+                "人民日益增长的物质文化需要同落后的社会生产之间的矛盾"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在新民主主义社会的民族资产阶级仍然是个具有两面性的阶级。这种两面性是指（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "既有剥削工人的一面，又有接受工人阶级及其政党领导的一面",
+                "既有剥削者与被剥削者的阶级利益相互对立的对抗性的一面，又有相互合作、具有相同利益的非对抗性的一面",
+                "既有走资本主义道路的一面，又有走社会主义道路的一面",
+                "作为一个剥削阶级是被消灭的对象，作为可以接受共产党和工人阶级领导的社会力量，又是团结和改造的对象"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "党在过渡时期总路线的主要内容被概括为“一化三改”，也曾被比喻为鸟的“主体”和“两翼”。主体是指（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对个体农业的社会主义改造",
+                "对手工业的社会主义改造",
+                "对资本主义工商业的社会主义改造",
+                "实现社会主义工业化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在农业合作化进程中，具有半社会主义性质的组织形式是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "临时互助组",
+                "常年互助组",
+                "初级合作社",
+                "高级合作社"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国在对资本主义工商业的社会主义改造的过程中，在实行个别企业的公私合营中，企业利润分配上采取的政策是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“定股定息”",
+                "“四马分肥”",
+                "“和平赎买”",
+                "“公私兼顾”"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "我们党在（）年正式提出过渡时期的总路线。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1950年",
+                "1953年",
+                "1956年",
+                "1952年"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "新民主主义时期三种不同性质的经济成分及与之相联系的三种基本的阶级力量之间的矛盾，集中表现为（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "资本主义和社会主义两条道路的矛盾",
+                "资产阶级和工人阶级两个阶级的矛盾",
+                "人民对于经济文化迅速发展的需要同经济文化不能满足人民需要的状况之间的矛盾",
+                "人民对于建立先进的工业国的要求同落后的农业国的现实之间的矛盾"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中华人民共和国的成立，标志着中国进入（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "封建社会",
+                "资本主义社会",
+                "新民主主义社会",
+                "社会主义社会"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国的新民主主义社会是一个过渡性的社会，它属于（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "旧民主主义体系",
+                "半封建、半殖民地体系",
+                "资本主义体系",
+                "社会主义体系"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "通过没收官僚资本，新中国建立了社会主义性质的 （ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "集体经济",
+                "国营经济",
+                "混合经济",
+                "国家资本主义经济"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在新民主主义社会的五种经济成分中，居于领导地位的是（ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "合作社经济",
+                "国营经济",
+                "个体经济",
+                "国家资本主义经济"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "1952年，党中央提出了加快从新民主主义社会向社会主义社会转变的（ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "土地革命总路线",
+                "过渡时期总路线",
+                "无产阶级专政下继续革命的理论",
+                "社会主义初级阶段的理论"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "党在过渡时期总路线的主要内容被概括为“一化三改”，其中实现工业化是主体，两翼是（ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对农业、手工业和资本主义工商业的改造",
+                "正确处理农轻重关系",
+                "正确处理国家、集体、个人三者关系",
+                "正确处理工业化与三大改造关系"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "党在过渡时期总路线的特点是（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一条社会主义改造的路线",
+                "一条社会主义建设的路线",
+                "一条社会主义建设和社会主义改造同时并举的路线",
+                "一条社会主义工业化路线"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "使个体农业和个体手工业跨入社会主义的必由之路是（ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "工业化道路",
+                "合作化道路",
+                "机械化道路",
+                "现代化道路"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对农业、手工业社会主义改造，党和政府采取的基本方针是积极领导，（ ）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "自愿互利",
+                "典型示范",
+                "国家帮助",
+                "稳步前进"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东探索中国社会主义建设道路第一个标志性的重要理论成果是（）。 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《论人民民主专政》",
+                "《论十大关系》",
+                "《关于正确处理人民内部矛盾的问题》 ",
+                "《目前形势和我们的任务》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "成为党探索中国社会主义建设道路良好开端的文章，是毛泽东发表的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《论人民民主专政》",
+                "《论十大关系》",
+                "《纪念孙中山先生》",
+                "《关于正确处理人民内部矛盾的问题》"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "20世纪50年代至60年代初，在对中国社会主义建设道路的初步探索中，提出“两参一改三结合”的领导人是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "毛泽东",
+                "周恩来",
+                "刘少奇",
+                "陈云"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东在1957年2月所作的《关于正确处理人民内部矛盾的问题》的报告中，系统论述了社会主义矛盾的理论。毛泽东强调，社会主义国家政治生活的主题是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "正确区分和处理两类不同性质矛盾的问题",
+                "正确处理人民内部矛盾的问题",
+                "正确处理敌我矛盾的问题",
+                "正确是认识处理阶级斗争的问题"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在《关于正确处理人民内部矛盾的问题》中，毛泽东明确提出中国工业化道路的问题，主要强调正确处理（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "信息化和工业化的关系",
+                "工业化和农业现代化的关系",
+                "农业现代化和城镇化的关系",
+                "重工业和轻工业、农业的关系"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在《关于正确处理人民内部矛盾的问题》一文中，毛泽东明确提出要走一条中国工业化道路。毛泽东所说的中国工业化道路，是有别于（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "美国的工业化道路",
+                "欧洲和日本的工业化道路",
+                "苏联的工业化道路",
+                "旧中国的工业化道路"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东同志在《论十大关系》的报告中确定了党关于社会主义建设的一个极为重要的基本方针是（ ） 。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "工业化建设和社会主义三大改造",
+                "调动一切积极因素为社会主义事业服务",
+                "从落后的农业国转变为先进的工业国",
+                "以农立国"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在社会主义建设道路初步探索的过程中，毛泽东提出了（ ）发展国民经济的总方针。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以农业为基础，以工业为主导，以农轻重为序",
+                "以农业为基础，以重工业为主导，以农轻重为序",
+                "以工业为基础，以农业为主导，以工农兵为序",
+                "全面发展，综合平衡"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东在《论十大关系》中论述的第一大关系，是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "沿海工业和内地工业的关系",
+                "重工业、轻工业和农业的关系",
+                "经济建设和国防建设的关系",
+                "革命和反革命的关系"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "毛泽东提出，对于政治思想领域的人民内部矛盾，实行（ ）的方针。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“长期共存、互相监督”的方针",
+                "“百花齐放，百家争鸣”的方针",
+                "“团结—批评—团结”的方针",
+                "民族平等、团结互助的方针"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

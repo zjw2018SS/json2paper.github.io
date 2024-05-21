@@ -1,0 +1,103 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.5 转导 多选题",
+        "type_all_num": 3,
+        "type_2_num": 3
+    },
+    "body": [
+        {
+            "questions": [
+                "关于普遍性转导的特点,下列哪些叙述是正确的\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "由温和噬菌体介导",
+                "能转导供体菌染色体DNA的任何部位",
+                "能转导质粒",
+                "发生在温和噬菌体的裂解期",
+                "转导频率比局限性转导高"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于流产转导,下述正确的是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "外源性DNA片段不能进入受体菌",
+                "外源性DNA片段不能与受体菌染色体整合",
+                "外源性DNA片段不能自身复制",
+                "流产转导是普遍性转导的一种类型",
+                "流产转导不是普遍性转导的一种类型"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于局限性转导,下列叙述正确的是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "由温和噬菌体介导",
+                "由毒性噬菌体介导",
+                "所转导的只限于供体菌染色体上特定的基因",
+                "受体菌获得供体菌DNA特定部位的遗传特性",
+                "转导频率较普遍性转导低"
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        }
+    ]
+}

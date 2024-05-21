@@ -1,0 +1,193 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.6 正常菌群 单选题",
+        "type_all_num": 7,
+        "type_1_num": 7
+    },
+    "body": [
+        {
+            "questions": [
+                "关于正常菌群的叙述,错误的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "正常菌群、宿主与外界环境间应维持动态平衡",
+                "一般情况下正常菌群对人体有益无害",
+                "口腔中的正常菌群主要为厌氧菌",
+                "肠道正常菌群随饮食种类的变化而变化",
+                "即使是健康胎儿,也携带正常菌群"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不属于正常菌群生理作用的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "生物拮抗",
+                "营养作用",
+                "免疫作用",
+                "抗衰老作用",
+                "一定条件下,可转化为致病菌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "正常菌群转化为机会性致病菌的条件不包括( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "宿主免疫功能下降",
+                "菌群失调",
+                "细菌毒力增强",
+                "定位转移",
+                "宿主转换"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "导致菌群失调的主要原因是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "正常菌群的定位转移",
+                "细菌从无(弱)毒株突变成为有(强)毒菌株",
+                "长期使用广谱抗生素",
+                "使用免疫抑制剂",
+                "微生态制剂的大量使用"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "正常情况下,机体有菌的部位是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血液",
+                "肝脏",
+                "肾脏",
+                "骨髓",
+                "上呼吸道"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "正常菌群引起感染的条件之一是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发生基因突变",
+                "定位转移",
+                "变为L型细菌",
+                "变为耐药性菌",
+                "细菌菌落发生变异"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "随着年龄的增长,人体肠道内的哪种细菌明显减少?( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "双歧杆菌",
+                "乳酸杆菌",
+                "大肠杆菌",
+                "葡萄球菌",
+                "肠球菌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,531 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第六章 细菌的感染与免疫测试题",
+        "type_all_num": 20,
+        "type_1_num": 20
+    },
+    "body": [
+        {
+            "questions": [
+                "\n关于正常菌群的生理作用，正确的是（）\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n生物拮抗",
+                "     营养作用",
+                "\n    免疫作用",
+                "\n   抗衰老作用",
+                "    以上都对"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于菌群失调，错误的是（）\n \n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n是指在应用抗生素治疗感染性疾病等过程中，宿主某部位寄居细菌的种群发生改变或种群的数量发生大幅度变化",
+                "\n可表现为二重感染",
+                " 引起二重感染的细菌多为致病菌。",
+                "\n引起二重感染的常见细菌有金黄色葡萄球菌、白假丝酵母和一些革兰阴性菌",
+                " 临床表现有假膜性肠炎、鹅口疮、肺炎、泌尿道感染等。"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况不是导致正常菌群成为机会致病菌的原因（）\n  \n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n正常菌群寄居部位改变",
+                "\n应用大剂量皮质激素治疗患者",
+                "\nAIDS病人晚期",
+                "\n菌群失调",
+                " 正常菌群变异毒力增强"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列结构中，与细菌侵袭力有关的是：\n\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 芽孢",
+                " 荚膜",
+                "\n细胞壁",
+                "\n中介体",
+                " 核糖体 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n不同细菌产生的内毒素引起毒性效应大致相同，其原因是内毒素毒性成分：（）\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 化学组成基本相似",
+                "\n受体基本相似",
+                "\n 抗原性基本相似  ",
+                "\n抗原性",
+                " 以上都不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "细菌的侵袭力不包括：（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n.黏附素",
+                "\n荚膜",
+                "\n生物被膜",
+                "\n侵袭性酶",
+                "  超抗原"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "毒性最强的外毒素是：（）\n \n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  破伤风溶血毒素",
+                "  肉毒毒素",
+                "\n产气荚膜杆菌ε毒素",
+                "\n产气荚膜杆菌α毒素",
+                "\n 破伤风痉挛毒素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "革兰阳性菌中，类似普通菌毛作用的成分是：（）\n\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  膜磷壁酸",
+                "\n 肽聚糖",
+                "\nM蛋白",
+                "\n 荚膜",
+                "  外膜蛋白"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于细菌内毒素的叙述，下列哪项是错误的？（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n由革兰阴性菌产生",
+                "\n其化学成分是 LPS",
+                "\n对热不稳定",
+                "\n可激活补体旁路途径",
+                "  不能制成类毒素"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "内毒素不具有的毒性作用是：（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  食物中毒",
+                "\n.发热",
+                "\n休克",
+                "\nDIC",
+                "  白细胞反应"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "细菌的外毒素的特性叙述错误的是：（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n化学成分是蛋白质",
+                "\n毒性作用有选择性",
+                "\n受甲醛作用变成类毒素",
+                "\n毒性部分是脂质A",
+                "\n不耐热"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "由神经毒素致病的细菌是（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n霍乱弧菌",
+                "  肉毒梭菌",
+                "\n伤寒沙门菌",
+                "\n脑膜炎奈氏菌",
+                "\n乙型溶血性链球菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "可经多途径感染的细菌是：（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n脑膜炎球菌",
+                "\n淋球菌",
+                "\n伤寒沙门菌",
+                "\n破伤风梭菌",
+                "  结核分枝菌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "化脓性细菌在机体血液中大量繁殖产生毒素，并随血流到达其他器官，产生性的化脓性病灶称为：（）\n\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n菌血症",
+                "  脓毒血症",
+                "\n内毒素血症  ",
+                "  毒血症 ",
+                " 败血症"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "机体正常组织和体液中存在的抗菌物质，错误的是（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n补体",
+                "\n溶菌酶",
+                "\n抗微生物肽",
+                "\n抗毒素",
+                "  乙型溶素"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "易出现带菌状态的细菌是：（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n白假丝酵母",
+                "\n肺炎链球菌",
+                "\n伤寒沙门菌",
+                "\n产气荚膜梭菌",
+                "\n 金黄色葡萄球菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n关于内源性感染，正确的叙述是：（）\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 病原菌均属正常菌群",
+                " 常发生于大量使用抗生素后，均为菌群失调症",
+                " 也可发生于使用激素后，即为医院内感染",
+                " 是一种自身感染",
+                " 以上都不是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "抗细胞内寄生菌感染的主要免疫因素是（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n补体",
+                "\n抗体",
+                "\nNK细胞",
+                "\nT细胞",
+                "  巨噬细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于医院感染的微生态特征，错误的是（）\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n 主要为机会致病菌",
+                "\n主要为致病菌",
+                "        常具耐药性 ",
+                "\n常发生种类变迁",
+                "\n引起医院感染的病原体中，细菌约占90%"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于医院感染，错误的是（）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "    医院感染是指病人或医务人员在医院环境内发生的感染，包括入院前处于潜伏期，入院后发生的感染。",
+                "\n 诊疗技术和侵入性检查易导致医院感染",
+                "\n合理使用抗生素是预防和控制医院感染的一种措施",
+                "\n外源性医院感染可分为交叉感染、环境感染和医源性感染",
+                "\n 内源性医院感染的病原体主要是正常菌群"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

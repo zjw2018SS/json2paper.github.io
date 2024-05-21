@@ -1,0 +1,531 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "第八章 肺炎链球菌+奈瑟菌+第九章 大肠埃希菌",
+        "type_all_num": 20,
+        "type_1_num": 20
+    },
+    "body": [
+        {
+            "questions": [
+                "与肺炎链球菌在鼻咽部和支气管黏膜上定居、繁殖和扩散有关的物质是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 荚膜",
+                " 溶血素",
+                " 神经氨酸酶",
+                " 自溶酶",
+                " 胆汁溶菌酶"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脑脊液离心后取沉淀物涂片染色,镜检发现中性粒细胞内外有革兰阴性双球菌,该病人可诊断为:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 结核性脑膜炎",
+                " 流行性乙型脑炎",
+                " 流行性脑脊髓膜炎",
+                " 新生隐球菌性脑膜炎",
+                " 新生隐球菌脑膜炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脑膜炎奈瑟菌主要的致病物质是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 荚膜",
+                " 脂寡糖(LOS)",
+                " 菌毛",
+                " IgA1蛋白酶",
+                " 杀白细菌素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肺炎链球菌致病与否主要依赖于:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脂磷壁酸",
+                " 内毒素",
+                " 溶素O",
+                " 荚膜",
+                " 芽胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于脑膜炎奈瑟菌的叙述,下列哪一项是错误的?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 主要的致病因素是脂寡糖(LOS)",
+                " 95%以上由B群脑膜炎球菌引起",
+                " 人类为唯一的传染源",
+                " 主要通过飞沫传播",
+                " 暴发性以儿童为主"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于脑膜炎奈瑟菌的抵抗力,下列哪一项叙述是错误的?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 对干燥敏感",
+                " 对热极敏感",
+                " 耐低温",
+                " 置室温3小时即可自溶",
+                " 75%乙醇可使之死亡"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "分离淋病奈瑟菌时,下列哪一种方法不能采用?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 标本应保温保湿",
+                " 标本应立即送检",
+                " 在厌氧环境中培养",
+                " 在5%-10%二氧化碳中培养",
+                " 标本应该接种于预温的巧克力琼脂平板上"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "分离培养脑膜炎奈瑟菌和淋病奈瑟菌常用的培养基是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 血平板",
+                " SS平板",
+                " Korthof 培养基",
+                " 巧克力色培养基",
+                " 亚碲酸甲选择培养基"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脑膜炎奈瑟菌和淋病奈瑟菌的共同特征不包括:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 均为革兰阴性双球菌",
+                " 常用巧克力色琼脂培养基培养",
+                " 均产生IgA1蛋白酶",
+                " 抵抗力低",
+                " 耐药性普遍"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "鉴别肠道致病菌与非致病菌的主要依据:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是否发酵葡萄糖",
+                " 是否分解乳糖",
+                " 是否具有鞭毛",
+                " 是否具有菌毛",
+                " 是否具有芽胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "能发酵乳糖的肠道杆菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 大肠埃希菌",
+                " 痢疾志贺菌",
+                " 伤寒沙门菌",
+                " 变形杆菌",
+                " 耶尔森菌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于对大肠埃希菌的叙述,不正确的是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有周鞭毛",
+                " 能发酵乳糖产酸产气",
+                " 能发酵葡萄糖产酸产气",
+                " IMViC试验结果为++--",
+                " 硫化氢试验阳性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肠杆菌科最容易出现的变异是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毒力变异",
+                " 耐药性变异",
+                " 生化反应变异",
+                " 抗原变异",
+                " 荚膜变异"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "出血性结肠炎和溶血性尿毒综合征的病原体是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ETEC",
+                " EHEC",
+                " EIEC",
+                " EPEC",
+                " EAEC"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "所致临床表现类似细菌性痢疾的大肠埃希菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ETEC",
+                " EHEC",
+                " EIEC",
+                " EPEC",
+                " EAEC"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "血清型主要为O157:H7的大肠埃希菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ETEC",
+                " EHEC",
+                " EIEC",
+                " EPEC",
+                " EAEC"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "能产生肠毒素的大肠埃希菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ETEC",
+                " EHEC",
+                " EIEC",
+                " EPEC",
+                " EAEC"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "水、食品等卫生细菌学检查的指标菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 伤寒沙门菌",
+                " 副伤寒沙门菌",
+                " 大肠埃希菌",
+                " 痢疾志贺菌",
+                " 变形杆菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项结果可辅助诊断泌尿道大肠杆菌感染?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 每毫升尿含大肠杆菌≥100",
+                " 每毫升尿含大肠杆菌≥1000",
+                " 每毫升尿含大肠杆菌≥10000",
+                " 每毫升尿含大肠杆菌≥100000",
+                " 每毫升尿含大肠杆菌≥1000000"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肠道杆菌的微生物学检查中,下列哪项对菌种鉴定无意义?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生化反应",
+                " 血清学鉴定",
+                " 形态学检查分离",
+                " 培养观察",
+                " 细菌动力"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

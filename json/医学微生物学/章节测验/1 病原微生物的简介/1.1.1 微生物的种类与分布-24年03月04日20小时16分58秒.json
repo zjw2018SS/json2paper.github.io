@@ -1,0 +1,193 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "filename": "1.1.1 微生物的种类与分布",
+        "type_all_num": 7,
+        "type_1_num": 7
+    },
+    "body": [
+        {
+            "questions": [
+                "列微生物中,属非细胞型微生物的是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌",
+                "支原体",
+                "衣原体",
+                "病毒",
+                "放线菌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不属于原核细胞型微生物的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌",
+                "支原体",
+                "衣原体",
+                "病毒",
+                "放线菌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列描述的微生物特征中，不是所有微生物共同具有的是哪一项?(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "个体微小(肉眼看不见)",
+                "结构简单 (单细胞或非细胞)",
+                "分布广泛",
+                "具有一定的形态结构和生理功能",
+                "只能在活细胞内生长繁殖"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "属于真核细胞型微生物的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病毒",
+                "细菌",
+                "支原体",
+                "立克次体",
+                "真菌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细菌属于原核细胞型微生物的主要依据是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "形态微小,结构简单",
+                "原始核、细胞器不完善",
+                "二分裂方式繁殖",
+                "有细胞壁",
+                "对抗生素敏感"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于非细胞型微生物,错误的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "只由核心和蛋白质组成",
+                "是最小的一类微生物",
+                "核酸为DNA+RNA",
+                "只能在活细胞内生长繁殖",
+                "病毒为此类型微生物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "用自制的能放大270倍的显微镜第一次观察到各种形态微生物的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Antony van Leeuwenhoek",
+                "Louis Pasteur",
+                "Robert Koch",
+                "Edward Jenner",
+                "Alexander Fleming"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}
