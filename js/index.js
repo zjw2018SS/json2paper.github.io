@@ -130,12 +130,21 @@ xhr.onload = function () {
         let bookshelf = document.getElementById("bookshelf")
         for (let i = 0; i < json.length; i++) {
             let book_div = document.createElement("div")
+            let book_a = document.createElement("a")
+            book_a.className = "book_a"
+            book_a.target = "_blank"
+            book_a.style.display = "block"
+            book_a.style.height = "100%"
+            book_a.style.width = "100%"
             var href = window.location.href;
-            book_div.addEventListener("click", function () {
-                window.open(href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"])
-            })
+            book_a.href = href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"]
+
+            // book_div.addEventListener("click", function () {
+            //     window.open(href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"])
+            // })
             book_div.className = "book_div"
             book_div.innerHTML = `<div class="book">${json[i]["name"]}</div>`
+            book_div.append(book_a)
             bookshelf.append(book_div)
         }
     } else {
