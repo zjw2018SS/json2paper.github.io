@@ -136,6 +136,7 @@ xhr.onload = function () {
             book_a.style.display = "block"
             book_a.style.height = "100%"
             book_a.style.width = "100%"
+            book_a.style.zIndex = "9"
             var href = window.location.href;
             book_a.href = href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"]
 
