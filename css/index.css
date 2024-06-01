@@ -166,7 +166,7 @@ body {
 .book_div {
   --book_width: 100px;
   --book_height: 150px;
-  --book_margin: 65px;
+  --book_margin: 45px;
   position: relative;
   width: var(--book_width);
   height: var(--book_height);
