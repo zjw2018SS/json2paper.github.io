@@ -165,7 +165,7 @@ function json2path(json) {
         let a_div = document.createElement("div")
         a_div.className = "a_div"
         let a = document.createElement("a")
-        a.innerText = json[i]["name"]
+        a.innerText = i + 1 + "=>" + " " + json[i]["name"]
         let path = json[i]["path"];
         str = path.join("@")
         a.href = "./exercise.html?name=" + json[i]["name"] + "&path=" + str
@@ -174,7 +174,9 @@ function json2path(json) {
         container.append(a_div)
     }
 }
-
+// function generateCircledNumber(num) {
+//     return String.fromCharCode(9311 + num);
+// }
 
 // const books53re = ["《诊断学》", "《肿瘤学概论》", "《医患沟通》", "《急诊与灾难医学》", "《麻醉学》", "《全科医学概论》", "《医学导论》", "《卫生法》", "《医学文献检索与论文写作》", "《康复医学》", "《临床流行病学与循证医学》", "《医学伦理学》", "《医学统计学》", "《临床药理学》", "《医学遗传学》", "《医学细胞生物学》", "《体育》", "《医学计算机应用》", "《中医学》", "《预防医学》", "《卫生学》", "《流行病学》", "《核医学》", "《皮肤性病学》", "《口腔科学》", "《耳鼻咽喉头颈外科学》", "《眼科学》", "《传染病学》", "《精神病学》", "《儿科学》", "《妇产科学》", "《外科学》", "《内科学》", "《医学影像学》", "《诊断学》", "《法医学》", "《医学心理学》", "《药理学》", "《病理生理学》", "《病理学》", "《医学免疫学》", "《人体寄生虫学》", "《医学微生物学》", "《生理学》", "《生物化学与分子生物学》", "《组织学与胚胎学》", "《局部解剖学》", "《系统解剖学》", "《医学生物学》", "《有机化学》", "《基础化学》", "《医学物理学》", "《医用高等数学》"]
 
