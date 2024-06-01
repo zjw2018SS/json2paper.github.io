@@ -8,62 +8,92 @@ body {
     left: 2vw;
     width: 40vw;
     min-height: 95vh;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
     height: fit-content;
     resize: none;
 }
-#box{
+
+#box {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -moz-box-orient: vertical;
+    -moz-box-direction: normal;
+    -ms-flex-direction: column;
     flex-direction: column;
-   
+
     position: absolute;
     top: 0;
     left: 45vw;
     width: 11vw;
     /* width: 45vw; */
     min-height: 80vh;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
     height: fit-content;
     /* resize: none; */
 }
-button{
+
+button {
     margin: 20px 0;
 }
+
 #output {
     position: absolute;
     top: 0;
+    left: -webkit-calc(58vw + 5px);
+    left: -moz-calc(58vw + 5px);
     left: calc(58vw + 5px);
     width: 40vw;
     min-height: 95vh;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
     height: fit-content;
     resize: none;
 }
 
-#input,#output{
-/* line-height: 16px; */
-font-size: larger;
-font-family: "Microsoft Yahei", "微软雅黑", "黑体", "SimHei", "宋体", "Tahoma", "Arial", "Helvetica", "Verdana", "sans-serif";
-font-weight: 500;
-user-select: none;
+#input,
+#output {
+    /* line-height: 16px; */
+    font-size: larger;
+    font-family: "Microsoft Yahei", "微软雅黑", "黑体", "SimHei", "宋体", "Tahoma", "Arial", "Helvetica", "Verdana", "sans-serif";
+    font-weight: 500;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 
-#box div{
+#box div {
 
-height: 32px;
-line-height: 32px;
-letter-spacing: 1px;
-text-align: center;
-margin: 20px 0;
-user-select: none;
-padding: 5px;
+    height: 32px;
+    line-height: 32px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 20px 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 5px;
 }
 
-#box div.on{
-background-color: rgb(42, 245, 143);
+#box div.on {
+    background-color: rgb(42, 245, 143);
 }
+
 #box div.off {
     background-color: rgb(255, 60, 60);
     color: azure;
 }
-#box div:hover{
-font-size: larger;
+
+#box div:hover {
+    font-size: larger;
 }

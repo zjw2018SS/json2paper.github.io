@@ -26,12 +26,17 @@ body {
 
 
 #page1 {
+    background-image: -webkit-linear-gradient(315deg, #ffd1ff 0%, #90d1d0 100%);
+    background-image: -moz-linear-gradient(315deg, #ffd1ff 0%, #90d1d0 100%);
+    background-image: -o-linear-gradient(315deg, #ffd1ff 0%, #90d1d0 100%);
     background-image: linear-gradient(-225deg, #ffd1ff 0%, #90d1d0 100%);
     overflow-y: hidden;
 }
 
 #page1 #contain {
     position: relative;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
     height: fit-content;
     /* min-height: calc(100vh - 60px - 20px); */
     height: 100vh;
@@ -44,6 +49,8 @@ body {
     left: 2vw;
     width: 32%;
     /* 设置文本框的宽度 */
+    height: -webkit-calc(100vh - 50px);
+    height: -moz-calc(100vh - 50px);
     height: calc(100vh - 50px);
     /* 设置文本框的高度 */
     padding: 10px;
@@ -68,6 +75,8 @@ body {
     left: 36%;
     width: 34%;
     /* 设置文本框的宽度 */
+    height: -webkit-calc(100vh - 50px);
+    height: -moz-calc(100vh - 50px);
     height: calc(100vh - 50px);
     /* 设置文本框的高度 */
     padding: 10px;
@@ -90,13 +99,27 @@ body {
     position: absolute;
     top: 25px;
     right: 31%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -moz-box-orient: horizontal;
+    -moz-box-direction: normal;
+    -ms-flex-direction: row;
     flex-direction: row;
 
 }
 
 #tools>div {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
     width: fit-content;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
     height: fit-content;
     margin: 0 0 0 30px;
     z-index: 100;
@@ -109,6 +132,8 @@ body {
     top: 2vh;
     left: 72%;
     width: 26%;
+    height: -webkit-calc(100vh - 50px);
+    height: -moz-calc(100vh - 50px);
     height: calc(100vh - 50px);
     padding: 10px;
     border: 1px solid #ccc;
@@ -136,9 +161,9 @@ body {
     background-color: #fffccd53;
 }
 
-#more{
-position: absolute;
-right: 20px;
-bottom: 20px;
+#more {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
 
 }
