@@ -164,8 +164,8 @@ body {
 }
 
 .book_div {
-  --book_width: 100px;
-  --book_height: 150px;
+  --book_width: 90px;
+  --book_height: 135px;
   --book_margin: 45px;
   position: relative;
   width: var(--book_width);
@@ -224,11 +224,11 @@ body {
   background-color: wheat;
   position: absolute;
   top: 0;
-  -webkit-transform: skewX(317deg) translate(137px, 150px);
-  -moz-transform: skewX(317deg) translate(137px, 150px);
-  -ms-transform: skewX(317deg) translate(137px, 150px);
-  -o-transform: skewX(317deg) translate(137px, 150px);
-  transform: skewX(317deg) translate(137px, 150px);
+  -webkit-transform: skewX(317deg) translate(122px, 135px);
+  -moz-transform: skewX(317deg) translate(122px, 135px);
+  -ms-transform: skewX(317deg) translate(122px, 135px);
+  -o-transform: skewX(317deg) translate(122px, 135px);
+  transform: skewX(317deg) translate(122px, 135px);
 }
 
 .book_div:hover {
