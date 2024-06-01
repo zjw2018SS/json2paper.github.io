@@ -1,0 +1,36 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 1,
+        "type_1_num": 1
+    },
+    "body": [
+        {
+            "questions": [
+                "关 于 生 理 学 这 门 学 科 下 列 叙 述 哪 些 是不 正 确 的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是 生 物 科 学 中 的 一 个 分 支",
+                " 是 医 学 的 一 门 基 础 理 论 科 学",
+                " 是 研 究 生 物 体 的 生 命 活 动 及 其 活 动 规 律 的 科 学",
+                " 主 要 是 从 细 胞 分 子、 器 官 系 统 和 整 体 三 个 水 平 研 究 生 命 的 活 动 规 律",
+                " 以上都不对"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

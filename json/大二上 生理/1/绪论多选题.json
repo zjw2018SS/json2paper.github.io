@@ -1,0 +1,252 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 8,
+        "type_2_num": 8
+    },
+    "body": [
+        {
+            "questions": [
+                "下 列 生 理 过 程 属 于 正 反 馈 的 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 排 尿",
+                " 血 压 相 对 恒 定 的 维 持",
+                " 分 娩 过 程",
+                " 凝 血 过 程",
+                " 骨 骼 肌 的 收 缩"
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "影 响 机 体 内 环 境 稳 态 的 因 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 外 环 境 的 强 烈 变 动",
+                " 体 内 温 度 显 著 增 高 或 降 低",
+                " 体 内 酸 碱 度 过 分 变 动",
+                " 精 神 紧 张",
+                " 每 天 睡 眠 超 过8 小 时"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "负 反 馈 调 节 的 缺 点 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 不 敏 感",
+                " 有 波 动 性",
+                " 不 可 逆",
+                " 滞 后",
+                " 耗 费 细 胞 本 身 能 量"
+            ],
+            "answers": [
+                "BD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "神 经 调 节 与 体 液 调 节 比 较 有 以 下 特 点\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 较 迅 速",
+                " 较 缓 慢",
+                " 较 精 确",
+                " 较 广 泛",
+                " 作 用 持 续 时 间 长"
+            ],
+            "answers": [
+                "AC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下 列 情 况 中, 不 属 于 自 身 调 节 的 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 一 定 范 围 内 心 肌 纤 维 初 长 度 愈 长, 收 缩 强 度 愈 大",
+                " 人 过 度 通 气 后, 呼 吸 暂 停",
+                " 动 脉 血 压 升 高 时, 肾 血 流 量 相 对 稳 定",
+                " 血 浆PH 值 上 升 时, 尿 中 泌 H+ 减 少",
+                " 人 在 寒 冷 气 候 中 出 现 寒 战"
+            ],
+            "answers": [
+                "BDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关 于 条 件 反 射 的 概 念 下 列 叙 述 哪 些 是 正 确 的\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 是 后 天 获 得 的",
+                " 是 一 种 高 级 的 神 经 活 动",
+                " 无 固 定 的 反 射 弧",
+                " 可 以 消 退",
+                " 数 量 无 限"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下 列 哪 项属 于 反 射 的 概 念\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 反 射 是 神 经 系 统 活 动 的 基 本 过 程",
+                " 反 射 包 括 非 条 件 反 射 与 条 件 反 射",
+                " 反 射 中 枢 均 位 于 大 脑 皮 层",
+                " 条 件 反 射 是 建 立 在 非 条 件 反 射 基 础 之 上",
+                " 反 射 弧 必 须 完 整 才 能 进 行 反 射"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "机 体 功 能 处 于 稳 态 有 赖 于\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 神 经 调 节",
+                " 体 液 调 节",
+                " 自 身 调 节",
+                " 正 反 馈",
+                " 负 反 馈"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        }
+    ]
+}

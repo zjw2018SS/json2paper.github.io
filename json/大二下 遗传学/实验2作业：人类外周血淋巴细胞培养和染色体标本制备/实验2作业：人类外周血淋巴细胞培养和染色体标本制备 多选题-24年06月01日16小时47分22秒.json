@@ -1,0 +1,72 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "实验2作业：人类外周血淋巴细胞培养和染色体标本制备",
+        "type_all_num": 2,
+        "type_2_num": 2,
+        "time": "24年06月01日16小时47分22秒",
+        "id": "id-lwvvdrs0-nvudy42e9"
+    },
+    "body": [
+        {
+            "questions": [
+                "\n秋水仙素溶液的浓度是人外周血细胞培养的关键，一般最终工作浓度为（    ）\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 0.5",
+                " 0.6",
+                " 0.1",
+                " 0.2"
+            ],
+            "answers": [
+                "CD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\nPHA又名植物凝集素，是低聚糖（由D一甘露糖、氨基葡萄糖酸衍生物所构成）与蛋白质的复合物，属于高分子糖蛋白类。\n\n其临床用途包括下列（      ）\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 促使淋巴细胞转化为淋巴母细胞，继而分裂增殖",
+                " 加强对病毒侵袭的细胞的杀伤作用，诱生干扰素",
+                " 提高巨噬细胞的吞噬功能",
+                " 促进淋巴因子的释放"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}

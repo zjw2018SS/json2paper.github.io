@@ -1,0 +1,514 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "《加快发展新质生产力 扎实推进高质量发展》专题作业题",
+        "type_all_num": 20,
+        "type_1_num": 20,
+        "time": "24年06月01日17小时03分11秒",
+        "id": "id-lwvvy3sw-x07q1c7ln"
+    },
+    "body": [
+        {
+            "questions": [
+                "现在世界各国通常把各种产业划分为三大类，新的产业分类法中的一个产业层次，是人类产业经济的第四分类。第四产业又称(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 知识产业或信息产业",
+                " 第一产业:农、林、牧、渔业",
+                " 第三产业:服务业",
+                " 第二产业:采矿业、制造业等"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国于(    )首次出现总人口负增长，成为亚洲5个人口负增长的经济体之一。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 2022年",
+                " 2021年",
+                " 2023年",
+                " 2020年"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "(    )，最远探测距离为137亿光年，是如今全球单口径最大、最灵敏的天眼。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 北斗卫星导航系统",
+                " “中国天眼”FAST",
+                " 风电设备制造",
+                " 光伏制造"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "2023年4月，习近平总书记在广东考察时强调:“中国式现代化不能走(    )的路子，必须加快建设以实体经济为支撑的现代化产业体系。”\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脱实向虚",
+                " 工业化发展",
+                " 精准扶贫",
+                " 科技创新"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "(    )最重要的变化之一就是数据成为新的生产要素。与传统生产要素相比，数据要素具有规模大、非稀缺性、强流动性、非排他等特征。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 人工智能时代",
+                " 科技创新时代",
+                " 数字经济时代",
+                " 现代农业技术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "新质生产力即有别于传统生产力的新型生产力，是以(    )为主的生产力，是摆脱传统增长路径、符合高质量发展要求的新型生产力。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 推进农业现代化",
+                " 高质量发展",
+                " 推动经济发展",
+                " 科技创新"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "党的十八大以来，虽然我国科技创新突飞猛进，但仍然存在光刻机、高端芯片、核心工业软件和航空发动机等技术短板，(    )受制于人是我国当前建设现代化产业体系面临的最大梗阻。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 航天航空技术",
+                " 先进医疗技术",
+                " 科技创新技术",
+                " 核心技术"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以美国为代表的一些发达国家，由于虚拟经济过度发展成为引发(    )的重要诱因。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 经济落后",
+                " 2008年国际金融危机",
+                " 经济危机",
+                " 中等收入陷阱"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "(    )是指那些拥有过亿美元估值并已经成为高速成长的新兴互联网企业，这些企业通常是在大规模用户攀升和投资者追捧的情况下发展起来的。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 支柱产业",
+                " 瞪羚企业",
+                " 高新技术产业",
+                " 独角兽企业"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "(    )是以重大前沿技术突破和重大发展需求为基础，对经济社会全局和长远发展具有重大引领带动作用的产业。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 高新技术产业",
+                " 支柱产业",
+                " 未来产业",
+                " 战略性新兴产业"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "根据国家能源局数据统计，截至2023年上半年，全国可再生能源发电总装机突破13亿千瓦，达到13.22亿千瓦。其中，太阳能发电装机4.71亿千瓦，连续八年稳居全球(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 第四",
+                " 第一",
+                " 第三",
+                " 第二"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "(    )是实体经济的主体，也是我国现代化产业体系的核心内容。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 制造业",
+                " 信息业",
+                " 农业",
+                " 工业"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "第四次工业革命的主要特征，以下错误的选项是(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 数字化",
+                " 农业现代化",
+                " 网络化",
+                " 智能化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "我国产业融合主要表现出哪些基本形态，以下正确的选项(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 制造业与生产性服务业的融合",
+                " 制造业与互联网、大数据、人工智能等新一代信息技术产业的融合",
+                " 以上全对",
+                " 新产业、新业态、新模式、新技术与传统产业的融合"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "(    )是世界经济发展的重要方向。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 制造业",
+                " 数字经济",
+                " 实体经济",
+                " 科技创新"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "习近平总书记关于新质生产力的重要论述，发展和创新了(    )，为我国在新时代推动高质量发展，赢得发展主动权提供了科学的理论指引与行动指南。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 马克思主义关于科技创新的理论",
+                " 马克思主义生产力理论",
+                " 马克思关于人的全面发展的理论",
+                " 马克思主义关于社会发展的理论"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "(    )构成一个国家产业体系的主体，提供大部分的国民收入，是整个国民经济的支柱。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 支柱产业",
+                " 传统产业",
+                " 高新技术产业",
+                " 未来产业"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“新三样”取代“老三样”折射出产业结构升级的三大趋势，以下正确的选项是(    )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 产业创新能力的升级趋势，科创要素在产业发展中的作用持续增强，产业由“制造”向“创造”“引领”进一步迈进。",
+                " 产业链融合的升级趋势，“新三样”产品精细复杂，需要产业链上多个环节有机融合才能顺利完成生产制造。",
+                " 产业附加值的升级趋势，相较于传统外贸产品，“新三样”等产品附加值高。",
+                " 以上ABC选项全是。"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "(    )是指由处于探索期的前沿技术所推动、以满足经济社会不断升级的需求为目标、代表科技和产业长期发展方向，会在未来发展成熟和实现产业转化，并对国民经济具有重要支撑和巨大带动，但当前尚处于孕育孵化阶段的新兴产业。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 战略性新兴产业",
+                " 高新技术产业",
+                " 未来产业",
+                " 支柱产业"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在现代分工体系下，生产性劳动所涉及的劳动、资源、技术、土地等内容，以及在宏观、微观维度上的扩展程度，是非生产性劳动所无法触及的，新质生产力的形成和发展只能以(    )为根基。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 数字经济",
+                " 信息技术",
+                " 实体经济",
+                " 虚拟经济"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

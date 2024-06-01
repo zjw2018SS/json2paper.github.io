@@ -1,0 +1,130 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 4,
+        "type_2_num": 4
+    },
+    "body": [
+        {
+            "questions": [
+                "可 使 气 道 口 径 变 小 的 因 素\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 迷 走 神 经 兴 奋",
+                " 交 感 神 经 兴 奋",
+                " 组 织 胺",
+                " 缓 激 肽",
+                " 5- 羟 色 胺"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺 通 气 的 非 弹 性 阻 力 来 自\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肺 泡表 面 张 力",
+                " 肺 弹 性 纤 维",
+                " 胸 廓 的 顺 应 性",
+                " 气 流 通 过 呼 吸 道 的 摩 擦 力",
+                " 呼 吸 器 官 移 位 的 惯 性 阻 力"
+            ],
+            "answers": [
+                "DE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "可 致 血 液 中 氧 含 量 增 加 的 因 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 血 氧 分 压 增 高",
+                " 血 二 氧 化 碳 分 压 增 高",
+                " 血PH 值 增 高",
+                " 红 细 胞2,3-DPG 浓 度 增 高",
+                " 体 温 降 低"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下 列 指 标 中 含 有 潮 气 量 的 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肺 活 量",
+                " 深 吸 气 量",
+                " 功 能 余 气 量",
+                " 补 呼 气 量",
+                " 肺 总 容 量"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        }
+    ]
+}

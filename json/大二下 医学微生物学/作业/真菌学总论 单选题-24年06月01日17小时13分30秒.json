@@ -1,0 +1,274 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "真菌学总论",
+        "type_all_num": 10,
+        "type_1_num": 10,
+        "time": "24年06月01日17小时13分30秒",
+        "id": "id-lwvwbdn2-ubkv02sbv"
+    },
+    "body": [
+        {
+            "questions": [
+                "培养真菌最常用的培养基是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Sabouraud培养基",
+                " 含糖丰富的普通培养基",
+                " 加有放线菌酮的普通培养基",
+                " 玉米培养基",
+                " 米汤培养基"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "培养真菌的最适pH值是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 2.0~4.0",
+                " 3.0~5.0",
+                " 4.0~6.0",
+                " 5.0~7.0",
+                " 6.0~8.0"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "一般真菌生长的最适温度是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 20~25℃",
+                " 25~28℃",
+                " 24~30℃",
+                " 26~32℃",
+                " 28~34℃"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "深部感染真菌最适生长温度是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 25℃",
+                " 28℃",
+                " 30℃",
+                " 33℃",
+                " 37℃"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "多细胞真菌的菌落类型是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 酵母型",
+                " 类酵母型",
+                " 丝状型",
+                " 类丝状型",
+                " 混合型"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "常用于真菌检查的染色方法是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 革兰染色法",
+                " 墨汁染色法",
+                " 乳酚棉蓝染色法",
+                " 美蓝染色法",
+                " 镀银染色法"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在沙保培养基中加人放线菌酮是为了\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 促进真菌生长",
+                " 抑制细菌生长",
+                " 抑制螺旋体生长",
+                " 抑制污染性真菌的生长",
+                " 抑制噬菌体生长"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "假菌丝是由哪种孢子延长而形成的\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 厚膜孢子",
+                " 大分生孢子",
+                " 小分生孢子",
+                " 关节孢子",
+                " 芽生孢子"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在不利环境中可形成下列哪种孢子\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 芽生孢子",
+                " 厚膜孢子",
+                " 大分生孢子",
+                " 孢子囊孢子",
+                " 分生孢子"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "类酵母型菌落与酵母型菌落的区别在于前者\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 生长较快",
+                " 由多细胞真菌形成",
+                " 有假菌丝",
+                " 菌落不光滑",
+                " 菌落有色素"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

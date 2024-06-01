@@ -1,0 +1,222 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "螺旋体",
+        "type_all_num": 8,
+        "type_1_num": 8,
+        "time": "24年06月01日17小时20分30秒",
+        "id": "id-lwvwkdai-48t1shjoh"
+    },
+    "body": [
+        {
+            "questions": [
+                "关于钩端螺旋体病,下述哪一项是错误的?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 传染源主要是鼠和猪",
+                " 可引起钩体血症",
+                " 其致病物质包括黏附素、内毒素、溶血素及侵袭性酶类",
+                " 病后产生以细胞免疫为主的免疫力",
+                " 可累及全身多个脏器"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "用显微镜凝集试验辅助诊断钩体病,其血清效价应超过多少才有意义?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 1:10",
+                " 1:20",
+                " 1:100",
+                " 1:200",
+                " 1:400"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "发病1周内作钩体病原体检测应采取哪种标本?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粪便",
+                " 小便",
+                " 脑脊液",
+                " 血液",
+                " 组织分泌物"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "梅毒在哪一病程种传染性最强?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 潜伏期",
+                " 第一期",
+                " 第二期",
+                " 第三期",
+                " 恢复期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "检查Ⅰ期梅毒最好采集什么标本？\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 血液",
+                " 淋巴液",
+                " 硬下疳渗出液",
+                " 梅毒疹渗出液",
+                " 局部淋巴结抽出液"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "测定患者血清中反应素常用的抗原是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 钩体类属抗原",
+                " 梅毒特异性抗原",
+                " 半抗原",
+                " 类脂质抗原",
+                " 多糖类抗原"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在感染和流行过程中与老鼠无关的疾病是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 钩端螺旋体病",
+                " 出血热",
+                " 地方性斑疹伤寒",
+                " 流行性斑疹伤寒",
+                " 恙虫病"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "检查螺旋体最常用的方法是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 悬滴法",
+                " 革兰染色法",
+                " 抗酸染色法",
+                " giemsa染色法",
+                " 暗视野显微镜法"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

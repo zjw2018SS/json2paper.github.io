@@ -1,0 +1,222 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "结核分枝杆菌",
+        "type_all_num": 8,
+        "type_1_num": 8,
+        "time": "24年06月01日17小时16分30秒",
+        "id": "id-lwvwf8c1-fx8jm8e3l"
+    },
+    "body": [
+        {
+            "questions": [
+                "关于结核杆菌的培养特性，下列哪项是正确的?(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 专性需氧",
+                " 0-42℃时均可生长",
+                " 营养要求不高",
+                " 菌落表面光滑，边缘整齐",
+                " 在液体培养基中呈混浊生长"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "不产生内、外毒素和侵袭性酶，其菌体成分与致病性有关的细菌是(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肠侵袭性大肠杆菌",
+                " 淋球菌",
+                " 霍乱弧菌",
+                " 志贺菌",
+                " 结核杆菌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在无芽胞菌中，最耐干燥的细菌是(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 葡萄球菌",
+                " 溶血性链球菌",
+                " 肺炎链球菌",
+                " 白喉杆菌",
+                " 结核杆菌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "结核杆菌所致疾病中最常见的是(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 淋巴结核",
+                " 肺结核",
+                " 肠结核",
+                " 结核性胸膜炎",
+                " 结核性脑膜炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "常用的卡介苗接种方法是(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 皮内注射",
+                " 皮上划痕",
+                " 口服",
+                " 肌肉注射",
+                " 皮下注射"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于分枝杆菌属的叙述，下列哪项是错误的?(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胞壁脂质多",
+                " 无鞭毛",
+                " 可形成荚膜",
+                " 不形成芽胞",
+                " 革兰染色呈阴性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "结核菌素试验的应用价值不包括(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 用于选择卡介苗接种对象",
+                " 用于接种卡介苗免疫效果的测定",
+                " 作为结核病诊断的依据",
+                " 测定肿瘤病人的非特异性细胞免疫功能",
+                " 在未接种过卡介苗的人群中调查结核病的流行情况等"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于结核快速诊断方法的叙述，下列哪项是错误的?(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " PCR技术鉴定DNA",
+                " 标本直接涂片抗酸染色",
+                " 标本集菌后涂片抗酸染色",
+                " 标本涂片荧光燃料金胺染色",
+                " 动物实验"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

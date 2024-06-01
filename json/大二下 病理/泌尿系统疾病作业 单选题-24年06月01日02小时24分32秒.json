@@ -1,0 +1,1314 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "泌尿系统疾病作业",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年06月01日02小时24分32秒",
+        "id": "id-lwv0k5i2-6kkxcqbwk"
+    },
+    "body": [
+        {
+            "questions": [
+                "肾细胞癌最常见的组织学类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "透明细胞癌",
+                "腺癌",
+                "鳞癌",
+                "嫌色细胞癌",
+                "颗粒细胞癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "早期膀胱癌的主要临床表现为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾病综合征",
+                "无痛性血尿",
+                "发热、腰部疼痛",
+                "多尿、夜尿、低比重尿",
+                "少尿、水肿、高血压"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾细胞癌最常发生于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾门",
+                "肾上极",
+                "肾中部",
+                "肾下极",
+                "随机发生"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列关于肾盂肾炎的病理改变描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多见于女性，多由上行性感染引起",
+                "上行性感染首先累及肾盂，下行性感染先累及皮质的间质",
+                "是由细菌直接感染肾间质引起的炎症",
+                "是肾盂黏膜和肾小球的增生性炎症",
+                "可形成大小不等的多发性脓肿"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肾盂肾炎的病变有以下特点，但不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病变主要在肾间质",
+                "发病早期就有肾小球受累",
+                "病变以渗出为主",
+                "由细菌直接感染引起",
+                "病变可累及肾小管及肾小球"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "常导致急性肾功能衰竭的肾小球肾炎是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新月体性肾小球肾炎",
+                "系膜增生性肾小球肾炎",
+                "膜性肾小球肾炎",
+                "微小病变性肾小球病",
+                "以上都不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患儿6岁。临床表现为肾病综合征。肾穿刺活检：肾小球无明显变化，肾小管上皮细胞内有大量脂质沉积。此肾脏疾病属于（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IgA肾病",
+                "系膜增生性肾小球肾炎",
+                "膜性肾小球病",
+                "微小病变性肾小球病",
+                "膜增生性肾小球肾炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，赵某，女性，9岁。10天前感冒，服用抗感冒药后痊愈。近日，患者发现尿液呈红色，无痛感，家长发现其晨起时眼睑水肿。查体：体温38.5℃，血压145/ 100mmHg，咽部充血，扁桃体I度肿大。实验室检查：尿红细胞(++)，尿蛋白(++)。血化验肝功正常、肌酐和尿素氨不高。为明确诊断最重要的检查是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CT",
+                "MRI",
+                "B超",
+                "肾穿刺活检",
+                "肾动脉造影"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "膜性肾小球肾炎的特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "毛细血管底膜增厚，滤过率降低",
+                "毛细血管底膜增厚，通透性增加",
+                "细血管基膜变薄",
+                "毛细血管膜增厚，系膜增生",
+                "毛细血管底膜增厚，呈车轨状"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "引起肾盂肾炎最主要的病原微生物是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "梅毒螺旋体",
+                "葡萄球菌",
+                "大肠杆菌",
+                "肺炎杆菌",
+                "链球菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "急性肾盂肾炎的病变性质是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维素性炎",
+                "卡他性炎",
+                "急性增殖性炎",
+                "化脓性炎",
+                "肉芽肿性炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下述哪项不符合慢性肾盂肾炎形态变化？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾间质纤维化",
+                "肾小球球囊周围纤维化",
+                "健存肾小球代偿性肥大",
+                "肾小球囊腔内见淋巴细胞",
+                "肾盂黏膜纤维化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下述哪项不符合系膜增生性肾小球肾炎的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "系膜细胞及基质增生",
+                "系膜区增宽",
+                "系膜硬化",
+                "系膜内无炎性细胞浸润",
+                "有血尿"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肾盂肾炎最常见的感染途径是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上行性感染",
+                "血行感染",
+                "淋巴道感染",
+                "手术外伤感染",
+                "以上均不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "慢性肾盂肾炎的肉眼病变特征是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原发性颗粒性固缩肾",
+                "蚤咬肾",
+                "大红肾",
+                "继发性颗粒性固缩肾",
+                "双侧肾病变不对称，表面有不规则的凹陷性瘢痕"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾脏体积变小，质地变硬。表面有较粗大而不规则凹陷性癍痕，最应考虑：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性肾小球肾炎",
+                "高血压性肾固缩",
+                "慢件肾盂肾炎",
+                "急性肾盂肾炎",
+                "以上都不是"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "慢性肾盂肾炎不同于慢性肾小球肾炎的肉眼外观是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "体积缩小",
+                "体积增大",
+                "表面呈颗粒状",
+                "颜色苍白",
+                "瘢痕状外观"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "大红肾或蚤咬肾常见于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性弥漫性增生性肾小球肾炎",
+                "新月体性肾小球肾炎",
+                "系膜增生性肾小球肾炎",
+                "微小病变性肾小球病",
+                "膜性增生性肾小球肾炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "新月体主要由哪些细胞构成？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增生的肾小球毛细血管内皮细胞和系膜细胞",
+                "增生的肾球囊壁层上皮细胞和单核细胞",
+                "增生的肾球囊脏层上皮细胞和壁层上皮细胞",
+                "增生的肾球囊脏层上皮细胞和单核细胞",
+                "增生的肾球囊脏层上皮细胞和系膜细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "快速进行性肾小球肾炎患者少尿甚至无尿的主要原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾小球囊腔狭窄、闭塞，滤过减少",
+                "肾小球毛细血管基膜损伤，通透性增高",
+                "肾小管萎缩、消失，重吸收功能降低",
+                "继发性醛固酮增多",
+                "以上都不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "弥漫性毛细血管内增生性肾小球肾炎尿沉渣中不应见到的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蛋白管型",
+                "红细胞",
+                "脓细胞",
+                "上皮细胞",
+                "细胞管型"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "弥漫性弥漫性增生性肾小球肾炎最主要的病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾小球毛细血管扩张充血及血栓形成",
+                "毛细血管内血栓形成及基底膜增厚",
+                "中性粒细胞浸润及肾小球囊上皮细胞增生",
+                "毛细血管壁纤维素样坏死",
+                "毛细血管内皮细胞及系膜细胞增生"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾病综合征的主要临床表现包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低蛋白血症",
+                "大量蛋白尿",
+                "严重水肿",
+                "高脂血症",
+                "以上都是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "临床诊断急性肾盂肾炎的最可靠依据是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血尿和菌尿",
+                "蛋白尿和菌尿",
+                "尿频、尿急、尿痛",
+                "白细胞管型尿和菌尿",
+                "血培养找到细菌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性弥漫性增生性肾炎患者水肿的主要原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾小管重吸收功能降低",
+                "继发性醛固酮增多",
+                "肾小球滤过率减少，毛细血管通透性增高",
+                "低蛋白血症",
+                "以上都不是"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "不符合急性肾小球肾炎临床症状的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "少尿及尿的成分改变",
+                "水肿",
+                "膀胱刺激症状",
+                "高血压",
+                "氮质血症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "新月体性肾小球肾炎镜下最显著的病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾小球壁层上皮细胞明显增生",
+                "肾小球毛细血管内皮细胞明显增生",
+                "肾小球毛细血管间质细胞明显增生",
+                "淋巴细胞明显增生",
+                "脓肿形成"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "引起尿毒症的病理基础是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾小球代偿肥大",
+                "肾间质纤维化",
+                "肾间质慢性炎细胞浸润",
+                "大部分肾单位破坏",
+                "肾小动脉硬化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "慢性硬化性肾小球肾炎引起肾功能衰竭的主要原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾小球代偿性肥大",
+                "大部分肾小球纤维化",
+                "肾间质慢性炎细胞浸润",
+                "肾间质纤维化",
+                "肾小动脉硬化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "泌尿道最常见的恶性肿瘤是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾细胞癌",
+                "膀胱平滑肌肉瘤",
+                "肾母细胞瘤",
+                "膀胱移行细胞癌",
+                "膀胱移行细胞乳头状瘤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肾原发性肿瘤中最多见的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "移行上皮癌",
+                "肾母细胞瘤",
+                "鳞状细胞癌",
+                "血管肉瘤",
+                "肾细胞癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "最常引起急性弥漫性增生性肾小球肾炎的病原菌是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病毒",
+                "肺炎球菌",
+                "葡萄球菌",
+                "链球菌",
+                "寄生虫"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性肾盂肾炎的病变特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "由细菌引起的化脓性炎",
+                "主要侵犯肾小管、肾间质和肾盂",
+                "女性多见",
+                "尿路阻塞是最常见的诱因",
+                "以上都是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "上行性感染的肾盂肾炎病变最轻的部位是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾小管",
+                "肾间质",
+                "肾盂黏膜",
+                "肾乳头",
+                "肾小球"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性肾小球肾炎肉眼变化主要呈现：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大白肾",
+                "蚤咬肾和大红肾",
+                "多发性小脓肿",
+                "多囊肾",
+                "固缩肾"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "弥漫性硬化性肾小球肾炎的肉眼形态特征为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大红肾",
+                "颗粒性固缩肾",
+                "大白肾",
+                "蚤咬肾",
+                "大瘢痕性固缩肾"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肉眼观察：肾体积明显缩小，质地变硬，表面有不规则瘢痕凹陷，该病变性质最可能的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性肾小球肾炎",
+                "局灶节段性肾小球肾炎",
+                "微小病变性肾小球病",
+                "良性高血压病引起的萎缩肾",
+                "慢性肾盂肾炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "慢性性肾小球肾炎晚期主要的尿液变化是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蛋白尿",
+                "少尿、无尿",
+                "多尿、夜尿、低比重尿",
+                "管型尿",
+                "血尿"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "慢性肾盂肾炎具有一定特征性的病变是:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾间质大量中性粒细胞浸润",
+                "肾间质纤维化",
+                "肾小管扩张，蛋白管型似甲状腺滤泡",
+                "肾小球明显纤维化",
+                "肾固缩"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "慢性肾盂肾炎的大体观察不同于慢性肾小球肾炎的主要表现是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颜色苍白",
+                "不规则的凹陷瘢痕",
+                "表面呈细颗粒状",
+                "体积缩小",
+                "皮髓质分界不清"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于慢性肾盂肾炎，下列叙述错误的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大体为颗粒性固缩肾",
+                "肾小管中常有蛋白管型",
+                "细小动脉常有玻璃样变和硬化",
+                "慢性炎症可急性发作",
+                "肾脏不规则疤痕，肾盂肾盏变形"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "慢性肾盂肾炎的主要病变特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "双侧肾对称性缩小，表面弥漫性细颗粒，表现为颗粒性固缩肾",
+                "双侧肾病变不对称，表面不规则凹陷性瘢痕，肾盂和肾盏变形",
+                "均由急性肾盂肾炎转变而来",
+                "肾小管管腔内有各种管型",
+                "常发生急性坏死性乳头炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "列描述，哪项符合肾细胞癌的特点？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "易侵犯肿瘤间质血管，造成血道转移",
+                "肿瘤组织内可见软骨、肌肉",
+                "不发生出血",
+                "肿瘤间质丰富血管少",
+                "肿瘤边界不清"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于肾细胞癌的叙述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾细胞癌的危险因素包括吸烟、肥胖、高血压、接触古棉、石油产物和重金属等",
+                "可分为三类：透明细胞癌、乳头状癌、嫌色细胞癌",
+                "具有诊断意义的三个典型症状是：腰痛、肾部包块和血尿",
+                "病变可出现多种肿瘤综合症，如红细胞增多症、高钙血症、 Cushing 综合症和高血压",
+                "具有广泛转移特点，最常见淋巴道转移"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关硬化性肾小球肾炎的描述，下列哪项是错误的（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "75%的肾小球球性硬化",
+                "大部分肾单位硬化和萎缩，部分单位代偿性肥大",
+                "颗粒性固缩肾",
+                "肾盂扩张，肾实质萎缩",
+                "肾间质纤维化、肾小动脉硬化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，赵某，女性，9岁。10天前感冒，服用抗感冒药后痊愈。近日，患者发现尿液呈红色，无痛感，家长发现其晨起时眼睑水肿。查体：体温38.5℃，血压145/ 100mmHg，咽部充血，扁桃体I度肿大。实验室检查：尿红细胞(++)，尿蛋白(++)。血化验肝功正常、肌酐和尿素氨不高。患者最可能的病理诊断是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性肾小球肾炎",
+                "慢性肾炎",
+                "肾肿瘤",
+                "肾盂肾炎",
+                "血尿原因待查"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肾小球肾炎时，免疫荧光检查的荧光阳性物质是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗原",
+                "抗体",
+                "补体",
+                "抗体、补体",
+                "细菌、抗体、补体"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性肾盂肾炎是一种：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "免疫复合物沉着引起的炎症",
+                "增生性炎症",
+                "化脓性炎症",
+                "出血性炎症",
+                "变质性炎症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "感染后肾小球肾炎是一种：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以变质为主的炎症",
+                "以渗出为主的炎症",
+                "以增生为主的炎症",
+                "以出血为主的炎症",
+                "化脓性炎症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "慢性肾小球肾炎的肾小球变化主要是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾小球纤维化，玻璃样变性",
+                "入球小动脉玻璃样变性，肾小球萎缩",
+                "肾小球毛细血管内皮增生，肾小球缺血",
+                "肾小球周围纤维化，肾小球囊壁增厚",
+                "肾小球球囊脏层上皮细胞明显增生"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "结核分枝杆菌",
+        "type_all_num": 4,
+        "type_2_num": 4,
+        "time": "24年06月01日17小时17分05秒",
+        "id": "id-lwvwfzh8-xla1am43g"
+    },
+    "body": [
+        {
+            "questions": [
+                "结核分枝杆菌可发生的性状变异? (    )\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 形态",
+                " 菌落",
+                " 毒力",
+                " 对氧的需要",
+                " 耐药性"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "原发感染和原发后感染所致肺结核的不同,在于前者:(   )\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 初次感染",
+                " 表现为原发综合症",
+                " 机体缺乏特异性免疫",
+                " 活动性肺结核占感染者的多数",
+                " 病菌不易经血流扩散"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "结核菌素试验阳性表示(   )\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 已感染过结核杆菌",
+                " 接种过卡介苗",
+                " 曾进行过OT试验",
+                " 已患有结核病",
+                " 机体细胞免疫功能正常"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "结核菌素试验阴性表示(   )\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 未感染过结核杆菌",
+                " 对结核杆菌无特异性免疫",
+                " 感染初期",
+                " 严重的结核病患者",
+                " 虽感染过结核杆菌,但获得性细胞免疫功能低下"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}

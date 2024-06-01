@@ -1,0 +1,582 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 22,
+        "type_1_num": 22
+    },
+    "body": [
+        {
+            "questions": [
+                "纤溶的基本过程是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 纤溶酶原激活与纤维蛋白降解",
+                " 纤溶酶原激活物形成与纤溶酶原激活",
+                " 纤溶酶形成与抑制物的释放",
+                " 纤溶酶原激活物质形成与抑制物释放",
+                " 纤维蛋白形成与纤维蛋白降解"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某 人 血 清 仅 含 有 抗A 凝 集 素, 他 的 血 型 是:_"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " A 型",
+                " AB 型",
+                " B 型",
+                " O 型",
+                " 以 上 都 不 是"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "内 源 性 和 外 源 性 凝 血 的 主 要 区 别 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 前 者 发 生 在 体 内, 后 者 发 生 在 体 外",
+                " 前 者 发 生 在 血 管 内, 后 者 发 生 在 血 管 外",
+                " 前 者 只 需 体 内 因 子, 后 者 还 需 外 加 因 子",
+                " 前 者 只 需 血 浆 因 子, 后 者 还 需 组 织 因 子",
+                " 激 活 因 子Ⅸ 的 途 径 不 同"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当A型 血 的 人 的 红 血 球 和B型 血 的 人 的 血 清 相 混 时, 红 细 胞 发 生:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 凝 固",
+                " 叠 连",
+                " 凝 集",
+                " 粘 着",
+                " 吸 附"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "凝 血 因 子Ⅷ 的 作 用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 激 活 因 子Ⅸ",
+                " 使Ⅹa 激 活 因 子Ⅱ 的 作 用 加 快",
+                " 使Ⅸa 激 活 因 子Ⅹ 的 作 用 加 快",
+                " 使Ⅱa激 活 因 子Ⅰ 的 作 用 加 快",
+                " 使Ⅸ 活 化 成Ⅸa"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "血 管 外 破 坏 红 细 胞 的 主 要 场 所 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肾 和 肝",
+                " 脾 和 肝",
+                " 胸 腺 和 骨 髓",
+                " 肺",
+                " 淋 巴 结"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "内 源 性 凝 血 过 程 一 般 开 始 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ca2+ 的 参 与",
+                " 磷 脂 胶 粒 反 应",
+                " 血 小 板 聚 集",
+                " 组 织 细 胞 释 放 因 子Ⅲ",
+                " 激 活 接 触 因 子Ⅻ"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关 于 比 重, 以 下 叙 述 正 确 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 红 细 胞> 血 液> 血 浆",
+                " 血 液> 血 浆> 红 细 胞",
+                " 血 浆> 血 液> 红 细 胞",
+                " 红 细 胞> 血 浆> 血 液",
+                " 血 液> 红 细 胞> 血 浆"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "内 源 性 凝 血 系 统 的 始 动 因 子 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ca2+",
+                " 组 织 因 子",
+                " 接 触 因 子",
+                " X 因 子",
+                " V 因 子"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "血 液 中 吞 嗜 能 力 最 强 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 中 性 粒 细 胞",
+                " 嗜 碱 性 粒 细 胞",
+                " 嗜 酸 性 粒 细 胞",
+                " 单 核 细 胞",
+                " 淋 巴 细 胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "血 小 板 聚 集 的 第 一 时 相 由 下 列 哪 一 因 素 引 起?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 血 小 板 释 放 内 源 性ADP",
+                " 血 小 板 释 放 内 源 性ATP",
+                " 血 小 板 释 放5- 羟 色 酸",
+                " 受 损 伤 组 织 释 放ADP",
+                " 受 损 伤 组 织 释 放ATP"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "内 源 性 凝 血 系 统 的 始 动 因 子 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 组 织 因 子",
+                " Ca2+",
+                " X 因 子",
+                " V 因 子",
+                " 接 触 因 子"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "血 浆 中 最 重 要 的 丝 氨 酸 蛋 白 酶 抑 制 物 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抗 凝 血 酶Ⅲ",
+                " C1 抑 制 物",
+                " α2-巨 球 蛋 白",
+                " 肝 素",
+                " 肝 素 辅 因 子Ⅱ"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "组织液与血浆含量差异最大的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Mg2+",
+                " Na+",
+                " Cl-",
+                " 有机酸",
+                " 蛋白质"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "血 浆 中 含 量 最 多 的 免 疫 球 蛋 白 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " IgG",
+                " IgA",
+                " IgM",
+                " IgD",
+                " IgE"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "能使凝血酶灭活的物质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 柠檬酸钠",
+                " EDTA",
+                " 抗凝血酶Ⅲ",
+                " 肝素",
+                " 草酸钾"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "输 血 时 下 列 哪 一 种 血 型 的 人 不 易 找 到 合 适 的 给 血 者? D"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " O 型,Rh 阳 性",
+                " A 型,Rh 阴 性",
+                " B 型,Rh 阳 性",
+                " AB 型,Rh 阴 性",
+                " AB 型,Rh 阳 性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "能 限 制 血 管 外 纤 溶 活 动 的 酶 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " α2-巨 球 蛋 白",
+                " 胰 蛋 白 酶",
+                " 激 肽 释 放 酶",
+                " 组 织 因 子",
+                " α1-抗 胰 蛋 白 酶"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以 下 哪 种 凝 血 因 子 不 属 于 蛋 白 质?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 因 子Ⅰ",
+                " 因 子Ⅱ",
+                " 因 子Ⅲ",
+                " 因 子Ⅳ",
+                " 因 子Ⅹ"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "人 血 液 中 主 要 的 吞 噬 细 胞 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " T- 淋 巴 细 胞",
+                " B- 淋 巴 细 胞",
+                " 中 性 粒 细 胞",
+                " 嗜 酸 性 细 胞",
+                " 嗜 碱 性 粒 细 胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某 人 的 红 细 胞 与B 型 血 的 血 清 凝 集, 而 其 血 清 与B 型 血 的 红 细 胞 不 凝 集, 从ABO 血 型 系 统 考 虑 此 人 血 型 为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " A 型",
+                " B 型",
+                " O 型",
+                " AB 型",
+                " A1 型"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在白细胞中,免疫细胞主要是指:( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 单核细胞",
+                " 淋巴细胞",
+                " 中性粒细胞",
+                " 嗜酸性粒细胞",
+                " 嗜碱性粒细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

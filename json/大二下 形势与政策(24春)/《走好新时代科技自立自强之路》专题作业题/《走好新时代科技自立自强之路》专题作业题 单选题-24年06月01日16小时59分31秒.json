@@ -1,0 +1,514 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "《走好新时代科技自立自强之路》专题作业题",
+        "type_all_num": 20,
+        "type_1_num": 20,
+        "time": "24年06月01日16小时59分31秒",
+        "id": "id-lwvvtdzh-vn4b4djtr"
+    },
+    "body": [
+        {
+            "questions": [
+                "习近平总书记指出:“当今世界正经历百年未有之大变局”。请问百年变局之下，“关键变量”是(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 教育创新",
+                " 文化创新",
+                " 科技创新",
+                " 理论创新"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国研制的大国重器“奋斗者号”，是属于(    )领域。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 深空",
+                " 深地",
+                " 深蓝",
+                " 深海"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "青年科技人才是我国科技创新发展的生力军。国家重点研发计划参研人\n员中，45 岁以下占比(    )以上。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 60%",
+                " 50%",
+                " 80%",
+                " 70%"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国的创新能力稳步提升，研发投入保持高速增长。我国的全社会研发经费从 2012 年的 1 万亿元增长至 2022 年的突破(      )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 4 万亿元",
+                " 3 万亿元",
+                " 1 万亿元",
+                " 2万亿元"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "德国制定了旨在通过信息技术的应用实现智能制造的是(    )战略。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " “工业 4.0”",
+                " “工业 5.0”",
+                " “工业 6.0”",
+                " “工业 3.0”"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在高科技领域，我国面临的很多“卡脖子”问题，根子是(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 科技成果转化率不高",
+                " 基础理论研究跟不上",
+                " 大量人才外流",
+                " 科研经费缺少"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "世界知识产权组织发布的全球创新指数显示，我国创新能力综合排名从 2012 年的世界第 34 位上升至 2023 年的(     )，成功进入创新型国家行列。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 第 9 位",
+                " 第 12 位",
+                " 第 10 位",
+                " 第 11 位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "研发人工智能对话大模型 ChatGPT 的美国公司是(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Google",
+                " Microsoft",
+                " iPhone",
+                " OpenAI"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "2015年，我国科学家屠呦呦获得的诺贝尔奖，属于(     )领域。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 物理学",
+                " 化学",
+                " 经济学",
+                " 生理学或医学"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "近10年我国两院院士评选出的年度“世界十大科技进展新闻”中，通过跨国合作取得的成果超过(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 1/4",
+                " 1/2",
+                " 1/3",
+                " 1/5"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国实施创新驱动发展战略，是在(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 党的二十大后",
+                " 党的十七大后",
+                " 党的十八大后",
+                " 党的十九大后"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我们党提出“科学技术是第一生产力”的论断，是在(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 改革开放时期",
+                " 新中国建立初期",
+                " 中国特色社会主义新时代",
+                " 十年“文革”时期"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我国的人才数量保持高速增长,我国研发人员全时当量由 2012 年的 324.7 万人年提高到2022 年的 635.4 万人年，稳居世界(      )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 第2位",
+                " 第3位",
+                " 第1位",
+                " 第4位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国的创新能力稳步提升，科技产出保持高速增长。2022 年 178 个学科中高影响力的159 种期刊刊发的 54002 篇论文中，中国发表的论文数为 16349 篇(占比30.3%)，排在世界(      )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 第3位",
+                " 第1位",
+                " 第4位",
+                " 第2位"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "从钱学森、邓稼先到袁隆平、屠呦呦，再到钟扬、万步炎，一位位为党和国家事业作出巨大贡献的科学家，为我们留下的精神有(       )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 勇攀高峰、敢为人先的创新精神",
+                " 追求真理、严谨治学的求实精神",
+                " 以上全对",
+                " 胸怀祖国、服务人民的爱国精神"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "精度非常高的原子钟——光钟，其运行 300 多亿年误差只有(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 0.1秒",
+                " 0.5秒",
+                " 1秒",
+                " 0.2秒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国科技创新发展的生力军是(      )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 老一辈科学家",
+                " 中年科技人才",
+                " 青年科技人才",
+                " 老中青科技人才"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在国家战略科技力量中，发挥引领作用的是(    )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 科技领军企业",
+                " 国家实验室",
+                " 国家科研机构",
+                " 高水平研究型大学"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中共中央办公厅、国务院办公厅印发的《关于进一步加强青年科技人才培养和使用的若干措施》，时间是在(     )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 2022 年",
+                " 2021 年",
+                " 2023 年",
+                " 2020 年"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "青年科技人才是我国科技创新发展的生力军。国家自然科学奖获奖成果完成人的平均年龄已低于(    )岁;\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 35岁",
+                " 55岁",
+                " 25岁",
+                " 45岁"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "实验2作业：人类外周血淋巴细胞培养和染色体标本制备",
+        "type_all_num": 1,
+        "type_3_num": 1,
+        "time": "24年06月01日16小时48分02秒",
+        "id": "id-lwvvemnt-9kxjitnjw"
+    },
+    "body": [
+        {
+            "questions": [
+                "在人类外周血淋巴细胞的培养过程中，PHA浓度过高可能会导致红细胞凝集，因此其浓度一般用4%~5%。\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

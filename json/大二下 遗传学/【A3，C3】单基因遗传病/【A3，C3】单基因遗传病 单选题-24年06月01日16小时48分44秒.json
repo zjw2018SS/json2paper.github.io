@@ -1,0 +1,274 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "【A3，C3】单基因遗传病",
+        "type_all_num": 10,
+        "type_1_num": 10,
+        "time": "24年06月01日16小时48分44秒",
+        "id": "id-lwvvfil3-o0syroz5w"
+    },
+    "body": [
+        {
+            "questions": [
+                "某种常染色体显性遗传病杂合子个体的病情轻，这是因为该遗传病是（    ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 性连锁遗传",
+                " 共显性遗传",
+                " 不完全显性遗传",
+                " 外显不全",
+                "\n不规则显性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某AD遗传病的外显率为80％，一个患者和一个正常人结婚，其所生子女的发病风险是（    ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 50％",
+                " 25％",
+                " 40％",
+                " 80％",
+                " 75%"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "两个先天性聋哑(AR)病人婚后生两个子女的听力为均正常，这是由于（     ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 外显率不全  ",
+                " 表现度低",
+                " 基因突变",
+                " 遗传异质性",
+                "\n基因多效性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n你和你舅舅的亲缘系数是（     ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 1/2",
+                " 1/4",
+                " 1/6",
+                " 1/8",
+                " 1/16"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一个男性抗维生素D佝楼病(XD)患者与一健康女性婚配，其子女患病情况为（    ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 女儿都发病，儿子都正常  ",
+                " 儿子都发病，女儿都正常",
+                " 儿、女都有1／2患病风险",
+                " 女儿都为携带者，儿子都患病",
+                "\n儿子女儿都正常"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "一对表型正常的夫妇生了一个红绿色盲（XR）的儿子，若再生女儿，患红绿色盲的风险为（    ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 1/2",
+                " 1/4",
+                " 3/4",
+                " 0",
+                " 1/8"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "来源不同（父方、母方）的基因在后代表现出功能差异的现象称为（    ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 限性遗传",
+                " 基因多效性",
+                " 遗传印记",
+                " 遗传异质性",
+                "\n从性遗传"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "父母的血型分别为A型和AB型，子女不可能的血型是（   ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " A型",
+                " O型",
+                " AB型",
+                " A型、B型",
+                " B型"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n从性遗传是指（  ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " X连锁的显性遗传",
+                " X连锁的隐性遗传",
+                "\nY连锁遗传",
+                " 性别作为修饰因子的常染色体显性遗传",
+                " 只在一种性别中表达"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "交叉遗传的主要特点是（    ）。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 男性患者的致病基因一定从母亲传来，将来一定传给女儿.",
+                " 女性患者的致病基因一定由母亲传来，将来一定传给儿子",
+                " 男性患者的致病基因一定由父亲传来，将来一定传给女儿",
+                " 女性患者的致病基因一定由父亲传来，将来一定传给女儿",
+                " 男性患者的基因只传给儿子"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

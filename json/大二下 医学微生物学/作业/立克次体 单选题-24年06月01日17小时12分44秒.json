@@ -1,0 +1,274 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "立克次体",
+        "type_all_num": 10,
+        "type_1_num": 10,
+        "time": "24年06月01日17小时12分44秒",
+        "id": "id-lwvwae7l-s1uuc4u35"
+    },
+    "body": [
+        {
+            "questions": [
+                "关于立克次体的特点,下列哪项叙述不正确\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 大小介于细菌和病毒之间",
+                " 对抗生素不敏感",
+                " 多数引起自然疫源性疾病",
+                " 大多是专性细胞内寄生",
+                " 以节肢动物为传播媒介或储存宿主"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以鼠蚤为传播媒介的立克次体是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 恙虫病东方体",
+                " 立氏立克次体",
+                " 普氏立克次体",
+                " 斑疹伤寒立克次体",
+                " 康氏立克次体"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "恙虫病的传播媒介是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 人蚤",
+                " 鼠蚤",
+                " 螨",
+                " 蜱",
+                " 蚊"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "普氏立克次体的传染源是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 病人",
+                " 鼠",
+                " 兔",
+                " 狗",
+                " 牛"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "斑疹伤寒立克次体的主要储存宿主的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 病人",
+                " 鼠",
+                " 狗",
+                " 牛",
+                " 羊"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "除下列哪项外立克次体与细菌的性状均相似\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 具有细胞壁和细胞膜",
+                " 含DNA和RNA",
+                " 二分裂方式繁殖",
+                " 专性细胞内寄生",
+                " 对抗生素敏感"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "辅助诊断立克次体病的交叉凝集试验是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 反向间接血凝试验",
+                " 间接血凝试验",
+                " 肥达试验",
+                " 外斐反应",
+                " 冷凝集试验"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "立克次体与病毒的共同特点是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 专性细胞内寄生",
+                " 以二分裂方式繁殖",
+                " 无细胞壁及细胞膜",
+                " 对抗生素不敏感",
+                " 多以节肢动物为传播媒介"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "白百破三联疫苗是指:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 白喉杆菌死疫苗、百日咳杆菌死菌苗、破伤风类毒素",
+                " 白喉杆菌活疫苗、百日咳杆菌活菌苗、破伤风类毒素",
+                " 白喉杆菌死疫苗、百日咳杆菌活菌苗、破伤风类毒素",
+                " 白喉杆菌活疫苗、百日咳杆菌死菌苗、破伤风类毒素",
+                " 白喉杆菌类毒素、百日咳杆菌死菌苗、破伤风类毒素"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以人虱为传播媒介的立克次体是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 普氏立克次体",
+                " 立氏立克次体",
+                " 恙虫病东方体",
+                " 斑疹伤寒立克次体",
+                " 康氏立克次体"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

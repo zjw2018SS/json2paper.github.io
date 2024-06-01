@@ -1,0 +1,318 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 10,
+        "type_2_num": 10
+    },
+    "body": [
+        {
+            "questions": [
+                "主 动 转 运 的 特 点 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 需 要 细 胞 本 身 消 耗 生 物 能",
+                " 以 离 子 通 道 为 基 础",
+                " 能 逆 电 位 梯 度 转 运",
+                " 只 能 顺 浓 度 梯 度 转 运",
+                " 能 逆 浓 度 梯 度 转 运"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细 胞 膜 上 钠 泵 活 动 的 意 义 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 维 持 细 胞 外 液 的 正 常 钠 浓 度",
+                " 维 持 细 胞 内 液 由 正 常 浓 度",
+                " 建 立 起 势 能 贮 备",
+                " 维 持 可 兴 奋 组 织 的 兴 奋 性",
+                " 维 持 细 胞 的 正 常 体 积"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "证 明 静 息 电 位 是K+ 平 衡 电 位 的 方 法 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 在 细 胞 营 养 液 中 改 变K+ 离 子 浓 度",
+                " 向 细 胞 营 养 液 中 加K+ 通 道 阻 断 剂",
+                " 用 膜 片 钳 技 术 观 察K+ 的 电 导",
+                " 给 细 胞 以 阈 上 刺 激",
+                " 测 细 胞 内 外K+ 浓 度, 按Nernst 公 式 推 算EK 值"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "动 作 电 位 在 同 一 细 胞 上 传 导 的 特 点 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 双 向 性",
+                " 由 局 部 电 流 引 起",
+                " 不 衰 减 性 扩 布",
+                " 传 导 距 离 远",
+                " 传 导 速 度 与 刺 激 强 度 有 关"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下 列 能 反 映 组 织 兴 奋 性 的 指 标 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 时 值",
+                " 基 强 度",
+                " 阈 强 度",
+                " 强 度- 时 间 曲 线",
+                " 阈 下 刺 激"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "能 降 低 肌 肉 收 缩 能 力 的 因 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " Ca2+",
+                " 肾 上 腺 素",
+                " 咖 啡 因",
+                " 缺 氧",
+                " 酸 中 毒"
+            ],
+            "answers": [
+                "DE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以 载 体 为 中 介 的 易 化 扩 散 的 特 点 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 结 构 特 异 性",
+                " 饱 和 现 象",
+                " 竞 争 性 抑 制",
+                " 不 依 赖 于 细 胞 膜 上 的 蛋 白 质",
+                " 能 逆 电- 化 学 梯 度 转 运"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在 神 经- 肌 肉 接 头 处 兴 奋 传 递 时, 下 列 能 影 响 轴 突 末 梢 束 泡 释 放 的 因 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 细 胞 外 液 中 的Ca2+",
+                " 细 胞 外 液 中 的Mg2+",
+                " 轴 突 末 梢 动 作 电 位 幅 度",
+                " 肌 膜 动 作 电 位 幅 度",
+                " 接 头 后 膜 的 电 位 变 化"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下 列 属 于 主 动 转 运 过 程 的 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 动 作 电 位 去 极 化 过 程",
+                " Ca2+ 由 终 池 进 入 肌 浆",
+                " 肌 浆 中 的Ca2+ 转 运 回 终 池",
+                " 复 极 完 毕 后Na+ 出 细 胞",
+                " 复 极 完 毕 后K+ 入 细 胞"
+            ],
+            "answers": [
+                "CDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "局 部 兴 奋\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 具 有“ 全 或 无” 特 征",
+                " 可 进 行 时 间 总 和",
+                " 可 进 行 空 间 总 和",
+                " 呈 电 紧 张 性 扩 布",
+                " 引 起 细 胞 产 生 动 作 电 位"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}

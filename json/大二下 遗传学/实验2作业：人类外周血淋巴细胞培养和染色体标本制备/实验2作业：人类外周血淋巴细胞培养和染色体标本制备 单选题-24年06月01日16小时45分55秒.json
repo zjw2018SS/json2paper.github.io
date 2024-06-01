@@ -1,0 +1,64 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "实验2作业：人类外周血淋巴细胞培养和染色体标本制备",
+        "type_all_num": 2,
+        "type_1_num": 2,
+        "time": "24年06月01日16小时45分55秒",
+        "id": "id-lwvvbwmp-bfdel5edd"
+    },
+    "body": [
+        {
+            "questions": [
+                "在人类细胞的染色体标本制备中，低渗处理是关键的一步。因为低渗不够时，往往导致（       ）\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 细胞破裂，染色体丢失",
+                " 染色体分散不够",
+                " 染色质凝缩不足，呈细丝状",
+                " 分裂中期的细胞太少"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n不同的细胞，其细胞周期有可能不同。造成不同细胞周期长短差别主要在（     ）时期？\n\n\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " G2期",
+                " M期",
+                " G1期",
+                " S期"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

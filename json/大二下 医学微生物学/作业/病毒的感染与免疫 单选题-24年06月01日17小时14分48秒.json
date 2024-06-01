@@ -1,0 +1,274 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "病毒的感染与免疫",
+        "type_all_num": 10,
+        "type_1_num": 10,
+        "time": "24年06月01日17小时14分48秒",
+        "id": "id-lwvwd1ns-e9frm5n7d"
+    },
+    "body": [
+        {
+            "questions": [
+                "潜伏感染的特点是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 潜伏期长达数月至数十年",
+                " 症状多为亚急性",
+                " 潜伏状态检测不到任何病毒指标",
+                " 不侵犯中枢神经系统",
+                " 病毒很快被清除"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "抗体对病毒的中和作用主要是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抑制病毒生物合成",
+                " 诱导干扰素产生",
+                " 阻止病毒与靶细胞相互作用",
+                " 中和病毒毒素",
+                " 杀伤细胞内的病毒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "感染病毒的细胞在胞核或胞浆内存在可着色的斑块状结构称\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 包涵体",
+                " 蚀斑",
+                " 空斑",
+                " 极体",
+                " 异染颗粒"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "经垂直感染导致畸胎的病毒主要有\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 麻疹病毒",
+                " 风疹病毒",
+                " 流感病毒",
+                " 乙脑病毒",
+                " 甲肝病毒"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "病毒感染宿主细胞后可出现\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 细胞溶解死亡",
+                " 细胞融合",
+                " 细胞转化",
+                " 包涵体形成",
+                " 以上均对"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关病毒感染的描述正确的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 病毒在人群个体间的相互传播为水平传播,主要经皮肤和粘膜传播",
+                " 母亲将病毒传给其子女的感染为垂直传播",
+                " 慢发病毒感染就是病毒的慢性感染",
+                " 以上均对",
+                " 以上均不对"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "干扰素抗病毒感染的机制是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 直接干扰病毒mRNA的转录",
+                " 阻止病毒进入易感染细胞",
+                " 诱导细胞产生抗病毒蛋白",
+                " 影响病毒装配",
+                " 抑制病毒的释放"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于IFN-α和IFN-β下述错误的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 由白细胞、成纤维细胞和病毒感染的组织细胞产生",
+                " 可由病毒诱导产生",
+                " 具有抗病毒作用",
+                " 具有免疫调节作用,但作用较弱",
+                " 发挥作用不需与相应受体结合"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "Ⅰ型干扰素的生物学活性应除外\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抑制病毒的复制",
+                " 抑制细胞增生",
+                " 增强NK细胞的活性",
+                " 促进MHCⅠ类分子表达",
+                " 促进MHCⅡ类分子表达"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况适宜应用干扰素治疗\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 甲亢",
+                " 代偿性肝硬化",
+                " 糖尿病",
+                " 血清胆红素超过正常值上限2倍",
+                " 自身免疫性疾病"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

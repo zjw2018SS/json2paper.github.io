@@ -1,0 +1,206 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "支原体和衣原体",
+        "type_all_num": 6,
+        "type_2_num": 6,
+        "time": "24年06月01日17小时19分04秒",
+        "id": "id-lwvwijdy-lsow8r5mj"
+    },
+    "body": [
+        {
+            "questions": [
+                "哪些支原体对人有致病作用\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肺炎支原体 ",
+                " 溶脲脲原体 ",
+                " 人型支原体",
+                " 生殖支原体 ",
+                "  嗜精子支原体"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于支原体的叙述,下列哪些是正确的\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 形态呈多形性 ",
+                "  无细胞壁",
+                " 能在无生命培养基上生长 ",
+                " 繁殖方式同细菌",
+                " 在含1.4%琼脂培养基上能形成“油煎蛋样”菌落"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "衣原体根据哪些抗原结构分类\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 属特异性抗原",
+                " 种特异性抗原",
+                " 型特异性抗原",
+                " 族特异性抗原",
+                " 群特异性抗原"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于衣原体生长繁殖的特点,下列描述中正确的是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 严格细胞内寄生",
+                " 具有独特的发育周期",
+                " 原体是发育成熟的衣原体",
+                " 始体是发育周期中的感染型",
+                " 原体是发育周期中的繁殖型"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪些病原体可引起人类肺炎\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 沙眼衣原体",
+                " 肺炎支原体",
+                " 金黄色葡萄球菌",
+                " 肺炎衣原体",
+                " 鹦鹉热衣原体"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "分离培养肺炎衣原体的正确方法是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 取急性期病人的咽拭子置于培养液中",
+                " 为除去杂菌，培养液中添加抗生素",
+                " 可接种于Hep-2细胞培养物中进行培养",
+                " 拭子可直接涂片,观察包涵体",
+                " 直接免疫荧光法检测衣原体抗原的存在"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}

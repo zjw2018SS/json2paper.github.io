@@ -1,0 +1,186 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "实验动物学",
+        "type_all_num": 6,
+        "type_2_num": 6
+    },
+    "body": [
+        {
+            "questions": [
+                "适合于做注射药热原检查实验的是：                           "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "小鼠 ",
+                "大鼠 ",
+                "豚鼠  ",
+                "兔 ",
+                "鲎血 "
+            ],
+            "answers": [
+                "DE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "哪些动物的培育成功具有划时代的意义，为实验动物学独立于其他学科奠定了基础："
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "近交系动物 ",
+                "转基因动物  ",
+                "克隆动物     ",
+                "悉生动物    ",
+                "免疫缺陷动物 "
+            ],
+            "answers": [
+                "ADE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列双走廊式屏障环境运行路线中，正确的是："
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "空气流向：按气压差由清洁走廊 →动物饲养室或实验室→ 污物走廊 →清洗消毒室 →室外 ",
+                "人员流向：一更室 → 淋浴室→二更室→ 风淋室→缓冲间 →清洁走廊 →动物饲养室或实验室→污物走廊 → 出口缓冲间 ",
+                "动物流向： 传递间→ 检疫室 → 清洁走廊 →动物饲养室或实验室→ 污物走廊 →出口缓冲间  ",
+                "物品流向：清洗消毒室 →高压蒸汽灭菌（传递窗或传递槽）→洁净物品储存室 → 清洁走廊 →动物饲养室或实验室→ 污物走廊 →出口缓冲间 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "我国实验动物国家标准，按微生物和寄生虫控制分类，将大、小鼠分为哪几个等级： "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "普通级动物 ",
+                "清洁级动物 ",
+                "SPF级动物 ",
+                "悉生级动物",
+                "无菌级动物 "
+            ],
+            "answers": [
+                "BCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "重组近交系在遗传组成上的特点是："
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "纯合性     ",
+                "同基因性     ",
+                "杂合性    ",
+                "来自于两个祖系的遗传成分不均等 "
+            ],
+            "answers": [
+                "ABD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "适合于做注射药热原检查实验的是："
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "小鼠 ",
+                "大鼠  ",
+                "豚鼠 ",
+                "兔 ",
+                "鲎血 "
+            ],
+            "answers": [
+                "DE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                3,
+                4
+            ]
+        }
+    ]
+}

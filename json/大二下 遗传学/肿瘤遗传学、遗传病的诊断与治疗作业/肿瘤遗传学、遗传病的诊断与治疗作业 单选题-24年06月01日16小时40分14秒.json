@@ -1,0 +1,248 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "肿瘤遗传学、遗传病的诊断与治疗作业",
+        "type_all_num": 9,
+        "type_1_num": 9,
+        "time": "24年06月01日16小时40分14秒",
+        "id": "id-lwvv4l0q-d38jvras9"
+    },
+    "body": [
+        {
+            "questions": [
+                "不属于抑癌基因的是( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " RB",
+                " Tp53",
+                " SRC",
+                " p16",
+                " NM23"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "特异性标志染色体是经常出现于同一种肿瘤内的标志染色体。比较突出的例子是慢性髓细胞性白血病中的( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ph染色体",
+                " Bar小体",
+                " 5p-",
+                " del(10q)",
+                " t(8;14)(q24;q32)"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "Fanconi贫血症临床特点之一是( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 发育正常",
+                " 血细胞减少",
+                " 对光敏感",
+                " 白血病发生率低",
+                " 易患皮肤癌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "存在于正常细胞中，在适当环境下被激活可引起细胞恶性转化的基因是( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 癌基因",
+                " 抑癌基因",
+                " 原癌基因",
+                " 抗癌基因",
+                " 隐性癌基因"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "Knudson提出的“二次突变学说”中，非遗传性肿瘤的第一次突变发生在( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 精子",
+                " 卵细胞",
+                " 受精卵",
+                " 体细胞",
+                " 生殖母细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "苯丙酮尿症胎儿产前诊断首选方法是( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 细胞遗传学检查",
+                " 胎儿镜检查",
+                " 生化检查",
+                " 基因诊断",
+                " 系谱分析"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "基因诊断与传统诊断方法的主要差异在于( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 前者可进行产前或症状前诊断，后者只能进行现症患者诊断",
+                " 前者简单快速，后者费时费力",
+                " 前者不需要临床资料，后者需要",
+                " 前者直接由基因型推断表型，后者不能",
+                " 前者准确，后者准确性较差"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "假如在基因治疗时仅仅将正常的DNA导入细胞而不替换掉有缺陷的基因，从而使细胞的功能恢复正常，就称其为( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因修正",
+                " 基因转移",
+                " 基因增强",
+                " 基因激活",
+                " 基因替代"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "饮食疗法治疗遗传病的基本原则是( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 少食",
+                " 多食肉类",
+                " 口服维生素",
+                " 禁其所忌",
+                " 补其所缺"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

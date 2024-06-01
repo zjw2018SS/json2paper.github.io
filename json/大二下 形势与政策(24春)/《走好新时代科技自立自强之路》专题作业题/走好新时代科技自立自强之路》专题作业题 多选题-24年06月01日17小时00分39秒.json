@@ -1,0 +1,318 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "走好新时代科技自立自强之路》专题作业题",
+        "type_all_num": 10,
+        "type_2_num": 10,
+        "time": "24年06月01日17小时00分39秒",
+        "id": "id-lwvvuub3-2acsehbv9"
+    },
+    "body": [
+        {
+            "questions": [
+                "当今世界，科技竞争日趋激烈。比如，美国发布的《关键与新兴技术国家战略》，力图在(       )领域保持全球主导地位。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 新能源汽车",
+                " 通信和网络技术",
+                " 人工智能",
+                " 轮船制造",
+                " 量子信息"
+            ],
+            "answers": [
+                "BCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "我国已经取得一批具有国际影响力的原创成果，这些成果主要集中在(     )等前沿方向上。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 脑科学",
+                " 量子信息",
+                " 半导体",
+                " 精密仪器",
+                " 干细胞"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "目前，我国严重依赖进口的关键领域和产业核心技术有(    )。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 高端芯片",
+                " 高端光刻机",
+                " 高档数控机床",
+                " 操作系统",
+                " 盾构机"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在人才评价制度上，应该坚持(     )为核心的评价导向。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 资历",
+                " 绩效",
+                " 质量",
+                " 贡献",
+                " 数量"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "2023 年迎来月球探测的新热潮，(      )等国家相继尝试派出无人探测器登月。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 柬埔寨",
+                " 日本",
+                " 印度",
+                " 俄罗斯",
+                " 乌克兰"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "进入新时代，我国屡创工程奇迹的世纪工程有(     )。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 北京大兴国际机场",
+                " 杨浦大桥",
+                " 南京长江大桥",
+                " 港珠澳大桥",
+                " 青藏铁路"
+            ],
+            "answers": [
+                "AD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当前新一轮科技革命和产业变革突飞猛进，主要体现在哪些方面:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 科学技术和经济社会发展加速渗透融合",
+                " 东西方合作不断加强",
+                " 第三产业发展迅速",
+                " 学科交叉融合不断发展",
+                " 科学研究范式正在发生深刻变革"
+            ],
+            "answers": [
+                "ADE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "推进科技体制改革，主要围绕(      )等方面进行。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 坚决破除影响和制约科技核心竞争力提升的体制机制障碍",
+                " 推动科技创新力量布局、要素配置、人才队伍体系化协同化",
+                " 完善党对科技工作领导的体制机制",
+                " 发挥新型举国体制优势",
+                " 加快市场化进程"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "目前，我国已拥有世界上规模最大的创新人才队伍，但问题依然突出，主要表现在(     )等方面。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 激励机制不健全",
+                " 评价制度不科学",
+                " 高水平人才不足",
+                " 结构不合理",
+                " 高学历人才缺乏"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "2023 年，全球航天发射次数再次被大幅刷新。航天发射次数排在前三位的国家有(    )。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 美国",
+                " 俄罗斯",
+                " 日本",
+                " 英国",
+                " 中国"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        }
+    ]
+}

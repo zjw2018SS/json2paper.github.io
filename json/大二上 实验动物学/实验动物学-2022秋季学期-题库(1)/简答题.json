@@ -1,0 +1,106 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "实验动物学",
+        "type_all_num": 8,
+        "type_5_num": 8
+    },
+    "body": [
+        {
+            "questions": [
+                "分别简述小鼠、大鼠、豚鼠、兔的抓取和固定方法？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "绘图小鼠编号：168号、49号？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "简述小鼠的灌胃和兔的耳缘静脉注射方法？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "实验动物全身注射麻醉的注意事项？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                " 简述离乳幼鼠的性别鉴定方法？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "  绘图所观察的阴道涂片并标明大鼠处于性周期的哪个时期？（如实验失败，请分析原因）"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                " 简述家兔颈总动脉插管术操作步骤？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                " 绘家兔的心脏和周围主要分支血管图？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        }
+    ]
+}

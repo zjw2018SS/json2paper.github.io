@@ -1,0 +1,190 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "实验动物学",
+        "type_all_num": 9,
+        "type_3_num": 9
+    },
+    "body": [
+        {
+            "questions": [
+                "动物实验不能在实验动物饲养室内进行，应在动物实验室内进行，并且应回避其他实验动物。 "
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "正确"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "各类实验动物的饲养和动物实验都必须经实验动物福利伦理委员会审查并获批准后方可开始，并接受日常的动物福利和伦理监督检查。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "正确"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "从事实验动物工作的人员应进行上岗前健康检查和年度健康检查，并且每次进动物饲养室或实验室之前还必须清楚了解自己最近是否患有不宜进入饲养室或实验室的疾病或生理状态。 "
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "正确"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "先天下午合笼的小鼠，第二天清晨如发现有阴道栓，则证明小鼠已经怀孕，且胚胎的年龄为0.5天。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "兔的胰腺弥散在十二指肠转弯处，胰管与胆总管汇合后共同开口于十二指肠乳突。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "SPF动物所携带的微生物是未知的，而悉生动物所携带微生物是已知的。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "正确"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "B6×D2F1小鼠如果要留种繁殖后代，需按家系内选择方法从B6×D2F1小鼠中选择表型最佳个体作为亲本，然后再繁殖后代得到B6×D2F1小鼠。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "如果购买的是具有合格证的实验动物，则不需隔离检疫，可直接进入屏障环境设施开始实验或生产。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "为了保证实验动物的质量，实验动物都必须积极采取疫苗接种以及出现疾病时及时实行药物治疗的有效措施。 "
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

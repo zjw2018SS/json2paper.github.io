@@ -1,0 +1,42 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "螺旋体",
+        "type_all_num": 1,
+        "type_2_num": 1,
+        "time": "24年06月01日17小时21分01秒",
+        "id": "id-lwvwl174-k6t0se8jx"
+    },
+    "body": [
+        {
+            "questions": [
+                "国内用于梅毒诊断的初筛方法有:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " FTA-ABS试验",
+                " MHA-TP试验",
+                " TRUST试验",
+                " TPHA或TPPA试验",
+                " RPR试验"
+            ],
+            "answers": [
+                "CE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                2,
+                4
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "肠杆菌科",
+        "type_all_num": 10,
+        "type_1_num": 10,
+        "time": "24年06月01日17小时06分48秒",
+        "id": "id-lwvw2qyh-2w3cckk7j"
+    },
+    "body": [
+        {
+            "questions": [
+                "鉴别肠道致病菌与非致病菌的主要依据:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是否发酵葡萄糖",
+                " 是否分解乳糖",
+                " 是否具有鞭毛",
+                " 是否具有菌毛",
+                " 是否具有芽胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "能发酵乳糖的肠道杆菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 大肠埃希菌",
+                " 痢疾志贺菌",
+                " 伤寒沙门菌",
+                " 变形杆菌",
+                " 耶尔森菌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肠杆菌科最容易出现的变异是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毒力变异",
+                " 耐药性变异",
+                " 生化反应变异",
+                " 抗原变异",
+                " 荚膜变异"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "血清型主要为O157:H7的大肠埃希菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ETEC",
+                " EHEC",
+                " EIEC",
+                " EPEC",
+                " EAEC"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "能产生肠毒素的大肠埃希菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ETEC",
+                " EHEC",
+                " EIEC",
+                " EPEC",
+                " EAEC"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "能产生志贺毒素的大肠埃希菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ETEC",
+                " EHEC",
+                " EIEC",
+                " EPEC",
+                " EAEC"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "伤寒沙门菌的主要致病物质是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " III型分泌系统",
+                " 微荚膜",
+                " 内毒素",
+                " 肠毒素",
+                " 氧化酶"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肥达试验结果是:H 1:640,O 1:320, A 1:80, B 1:80,该受检者可能患有:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 伤寒",
+                " 甲型副伤寒",
+                " 肖氏沙门菌副伤寒",
+                " 胃肠炎",
+                " 回忆反应"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "能产生志贺毒素的志贺菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 志贺菌属",
+                " 痢疾志贺菌",
+                " 福氏志贺菌",
+                " 鲍氏志贺菌",
+                " 宋内志贺菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种细菌不会引起食物中毒？\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 鼠伤寒沙门菌",
+                " 金黄色葡萄球菌",
+                " 猪霍乱沙门菌",
+                " 乙型溶血性链球菌",
+                " 肠炎沙门菌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

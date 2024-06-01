@@ -1,0 +1,790 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 30,
+        "type_1_num": 30
+    },
+    "body": [
+        {
+            "questions": [
+                "心 交 感 神 经 兴 奋 使 自 律 细 胞 自 律 性 升 高 的 主 要 作 用 机 制 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使 阈 电 位 水 平 上 移",
+                " 动 作 电 位0 期 去 极 速 度 加 快",
+                " 最 大 复 极 电 位 绝 对 值 增 大",
+                " 降 低 肌 浆 网 摄 取Ca2+ 的 速 度",
+                " 加 强If, 使4 期 自 动 除 极 速 度 加 快"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在 下 列 哪 种 情 况 下, 心 输 出 量 不 增 加?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 情 绪 激 动",
+                " 缺 氧",
+                " 潜 水 时",
+                " 防 御 反 射",
+                " 肌 肉 运 动"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心 动 周 期 中 下 列 哪 一 个 时 相 的 心 室 容 积 最 小?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 等 容 收 缩 期 末",
+                " 快 速 射 血 期 末",
+                " 减 慢 射 血 期 末",
+                " 等 容 舒 张 期 初",
+                " 心 室 充 盈 期 初"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "第 一 心 音 产 生 主 要 是 由 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 半 月 瓣 关 闭",
+                " 半 月 瓣 开 放",
+                " 房 室 瓣 关 闭",
+                " 房 室 瓣 开 放",
+                " 心 房 肌 收 缩"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在 主 动 脉 处 记 录 脉 博 图 时, 降 中 峡 是 在 下 列 哪 个 瞬 间 形 成 的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 等 容 收 缩 期 开 始 时",
+                " 舒 张 期 开 始 时",
+                " 快 速 射 血 期 开 始 时",
+                " 快 速 充 盈 期 开 始 时",
+                " 减 慢 射 血 期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "心 迷 走 神 经 使 自 律 细 胞 自 律 性 降 低 的 主 要 作 用 机 制"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 动 作 电 位0 期 去 极 速 度 减 慢",
+                " 阈 电 位 水 平 下 移",
+                " 最 大 复 极 电 位 绝 对 值 增 大",
+                " 4 期IK 衰 减 过 程 加 快",
+                " If 减 弱"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下 列 物 质 中 不 能 引 起 血 管 平 滑 肌 舒 张 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 局 部 代 谢 产 物",
+                " 缓 激 肽",
+                " 血 管 活 性 肠 肽",
+                " 乙 酰 胆 碱 酯 酶",
+                " 前 列 腺 环 素"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在 下 述 哪 一 种 情 况 下, 心 交 感 神 经 的 活 动 会 减 弱"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 动 脉 血 压 降 低 时",
+                " 肌 肉 运 动 时",
+                " 血 容 量 减 少 时",
+                " 情 绪 激 动 时",
+                " 由 直 立 变 为 平 卧 时"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下 列 物 质 中 不 能 引 起 血 管 平 滑 肌 舒 张 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 缓 激 肽",
+                " 局 部 代 谢 产 物",
+                " 乙 酰 胆 碱 酯 酶",
+                " 前 列 腺 环 素",
+                " 血 管 活 性 肠 肽"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "如 果 主 动 脉 压 和 肺 动 脉 压 增 高, 下 列 哪 种 心 音 的 强 度 增 强?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 第 一 心 音",
+                " 第 二 心 音",
+                " 第 三 心 音",
+                " 第 四 心 音",
+                " 第 一 心 音 和 第 三 心 音"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "刺 激 心 交 感 神 经 时, 冠 状 动 脉"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 先 舒 张 后 改 编",
+                " 先 收 缩 后 舒 张",
+                " 收 编",
+                " 舒 张",
+                " 无 反 应"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "总 截 面 积 最 大 的 血 管 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毛 细 血 管",
+                " 小 动 脉",
+                " 小 静 脉",
+                " 大 静 脉",
+                " 大 动 脉"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "心交感神经对心肌的兴奋作用可被下列哪一种受体的拮抗剂对抗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " α1肾上腺素能受体的拮抗剂",
+                " β肾上腺素能受体的拮抗剂",
+                " M胆碱能受体的拮抗剂",
+                " N胆碱能受体的拮抗剂",
+                " α2肾上腺素能受体的拮抗剂"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "血流阻力主要来自"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毛细血管",
+                " 微静脉",
+                " 微动脉",
+                " 动脉",
+                " 大动脉的弹性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "室内压在整个心动周期中达到峰值的时期是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 等容收缩期",
+                " 快速射血期",
+                " 房循期",
+                " 等容舒张期",
+                " 快速充盈期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "与 体 循 环 相 比 较, 肺 循 环 的 特 点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 血 流 量 较 高, 阻 力 较 高",
+                " 血 流 量 较 高, 阻 力 较 低",
+                " 血 流 量 较 低, 阻 力 较 高",
+                " 血 流 量 较 低, 阻 力 较 低",
+                " 血 流 量 与 之 基 本 相 等, 阻 力 较 低"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在各级血管中,交感缩血管纤维分布最密集的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毛细血管前括约肌",
+                " 大动脉",
+                " 微动脉",
+                " 大静脉",
+                " 微静脉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心 交 感 神 经 对 心 脏 的 兴 奋 作 用 可 被 下 列 哪 种 阻 断 剂 所 阻 断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 筒 箭 毒",
+                " 异 搏 定",
+                " 河 豚 毒",
+                " 心 得 安",
+                " 阿 托 品"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "从 动脉瓣关闭 到下一动脉瓣开 放 的 时 间 相 当 于 下 列 心 动 周 期 中 的 哪 一 期?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心 室 舒 张 期",
+                " 心 室 射 血 期",
+                " 等 容 收 缩 期",
+                " 心 室 舒 张 期+ 等 容 收 缩 期",
+                " 等 容 舒 张 期+ 等 容 收 缩 期"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "浦 肯 野 细 胞 和 心 室 肌 细 胞 的 动 作 电 位 的 区 别 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 4 期 自 动 除 极 化",
+                " 3 期 复 极 速 度 不 同",
+                " 平 台 期 持 续 时 间 相 差 特 别 悬 殊",
+                " 1 期 形 成 的 机 制 不 同",
+                " 0 期 除 极 速 度 不 同"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "静 脉 回 心 血 量 增 加 是 因 为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心 输 出 量 增 加",
+                " 外 周 阻 力 增 加",
+                " 动 脉 血 压 升 高",
+                " 血 流 速 度 加 快",
+                " 心 舒 期 室 内 压 降 低"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心 室 肌 细 胞 在 有 效 不 应 期, 受 到 刺 激 时"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 不 能 产 生 局 部 兴 奋",
+                " 不 能 产 生 动 作 电 位",
+                " 能 产 生 动 作 电 位",
+                " 刺 激 阈 值 低 于 正 常",
+                " 兴 奋 传 导 速 度 低 于 正 常"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "动 脉 血 压 的 呼 吸 波 变 动 特 点 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 在 吸 气 相 的 后 半 期 升 至 最 高 点, 在 呼 气 相 的 后 半 期 达 最 低 点",
+                " 在 吸 气 相 的 后 半 期 降 至 最 低 点, 在 呼 气 相 的 后 半 期 达 最 高 点",
+                " 在 吸 气 相 的 前 半 期 降 至 最 低 点, 在 呼 气 相 的 后 半 期 达 最 高 点",
+                " 在 吸 气 相 的 前 半 期 降 至 最 低 点, 在 呼 气 相 的 前 半 期 达 最 高 点",
+                " 在 吸 气 相 的 前 半 期 升 至 最 高 点, 在 呼 气 相 的 前 半 期 达 最 低 点"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "血液在血管内流动时,血流阻力( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 与血管的半径成正比",
+                " 与血管半径的立方成反比",
+                " 与血管半径的平方成正比",
+                " 与血管半径的四次方成反比",
+                " 与血管半径的平方成反比"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肺循环与体循环的基本相同特征是( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 外周阻力",
+                " 血管的可扩张性",
+                " 每搏输出量",
+                " 收缩压",
+                " 舒张压"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "当 心 室 肌 细 胞 的 膜 电 位 由 静 息 水 平 去 极 化 达 到 阈 电 位 水 平 时,Na+ 通 道 处 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 静 息 状 态",
+                " 备 用 状 态",
+                " 激 活 状 态",
+                " 失 活 状 态",
+                " 复 活 状 态"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "将心肌细胞分为快反应细胞和慢反应细胞主要根据动作电位的( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 0期去极速度",
+                " 1期复极速度",
+                " 平台期形成速度",
+                " 3期复极速度",
+                " 4期自动去极速度"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "影响毛细血管前括约肌舒缩活动的主要因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 交感、舒血管神经纤维末梢释放的乙酰胆碱",
+                " 副交感神经末梢释放的乙酰胆碱",
+                " 局部代谢产物增多",
+                " 肾上腺髓质释放的肾上腺素",
+                " 交感神经末梢释放的去甲肾上腺素"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "动 脉 压 突 然 增 高 时 可 短 暂 引 起"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 等 容 收 缩 相 编 短 及 射 血 相 缩 短",
+                " 等 容 收 缩 相 延 长 而 射 血 相 缩 短",
+                " 等 容 收 缩 相 缩 短 而 射 血 相 延 长",
+                " 等 容 收 缩 相 和 射 血 相 均 延长",
+                " 等 容 收 缩 相 不 变 而 射 血 相 缩 短"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "房室延搁的生理意义是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使P波增宽",
+                " 使QRS波增宽",
+                " 使心室肌有效不应期延长",
+                " 使心室肌不会产地强直收缩",
+                " 使心房、心室不会产生收缩重叠"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

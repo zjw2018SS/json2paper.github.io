@@ -1,0 +1,675 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 21,
+        "type_1_num": 21
+    },
+    "body": [
+        {
+            "questions": [
+                "肺 通 气 是 指\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肺 与 血 液 之 间 的 气 体 交 换",
+                " 气 道 与 外 界 环 境 之 间 的 气 体 交 换",
+                " 肺 部 与 外 界 环 境 之 间 的 气 体 交 换",
+                " 外 界O2 入 肺 的 过 程",
+                " CO2 出 肺 的 过 程"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关 于 肺 扩 散 容 量 的 描 述 错 误 的 是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 老 年 人 低 于 青 年 人",
+                " 分 压 差 增 大 时 增 加",
+                " 运 动 时 增 加",
+                " 肺 泡 膜 面 积 缩 小 时 减 少",
+                " 女 性 高 于 男 性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "100ml 血 液 所 能 携 带 氧 的 最 大 量 取 决 于 血 液\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 氧 分 压",
+                " 二 氧 化 碳 分 压",
+                " PH 值",
+                " 2,3-DPG 含 量",
+                " 血 红 蛋 白 浓 度"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺 通 气 时 非 弹 性 阻 力 的 主 要 成 分 是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 气 道 阻 力",
+                " 惯 性 阻 力",
+                " 粘 滞 阻 力",
+                " 肺 泡 表 面 张 力",
+                " 肺 回 缩 力"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "Hb O2含 量 主 要 决 定 于\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " PO2",
+                " PCO2",
+                " PH 值",
+                " 2,3-DPG 含 量",
+                " Hb 浓 度"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "呼吸中 枢 化 学 感 受 器 的 生 理 刺 激 物 是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脑 脊 液中CO2",
+                " 血 液 中 的CO2",
+                " 脑 脊 液 中H+",
+                " 血 液 中 的H+",
+                " 脑 脊 液 中PO2 降 低"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关 于 胸 廓 的 弹 性 阻 力, 下 列 哪 种 叙 述 是 错 误 的\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是 胸 廓 的 弹 性 回 位 力",
+                " 当 胸 廓 处 于 自 然 位 时, 为 零",
+                " 平 静 呼 吸 时 肺 弹 性 阻 力 大 于 胸 廓 的 弹 性 阻 力",
+                " 用 力 呼 气 时, 胸 廓 弹 性 阻 力 下 降",
+                " 当 肺 容 积 小 于40% 时, 胸 廓 弹 性 阻 力 大 于 肺 弹 性 阻 力"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "过 度 肺 通 气 时 引 起 头 晕 的 原 因 是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 动 脉 血 中PCO2 过 低, 而 使 脑 血 流 量 减 少",
+                " 动 脉 血 中PCO2 过 低, 而 使 脑 血 流 量 增 加",
+                " 动 脉 血 中PCO2 过 高, 而 使 脑 血 流 量 增 加",
+                " 动 脉 血 中PCO2 过 高, 而 使 脑 血 流 量 减 少",
+                " 动 脉 血 中H+ 浓 度 过 低, 而 使 脑 血 流 量 增 加"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下 列 哪 种 情 况 可 致 动 脉 血PO2 和PCO2 降 低\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 初 到 高 原",
+                " 贫 血",
+                " 主 动 过 度 换 气",
+                " CO 中 毒",
+                " 换 气 障 碍"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "评价肺通气功能,下列哪个指标较好?( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 潮气量",
+                " 功能余气量",
+                " 肺活量",
+                " 补呼气量",
+                " 时间肺活量"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "若 某人的 最 大通 气量 为70L/min, 安 静 时 肺 通 气 量 为6L/min, 其 通 气 贮 量 百 分 比 为:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 100%",
+                " 50%",
+                " 120%",
+                " 91%",
+                " 30%"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种因素可使氧离曲线左移\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " CO2分压增高",
+                " PH值降低",
+                " 温度升高",
+                " 2,3-二磷酸甘油酸降低",
+                " 氧分压降低"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "实现肺通气的器官组织是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 呼吸道",
+                " 肺泡",
+                " 胸廓",
+                " 呼吸道和肺泡",
+                " 呼吸道、肺泡和胸廓"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "组织换气是指\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肺泡和肺毛细血管血液之间的气体交换",
+                " 组织细胞和组织毛细血管血液之间的气体交换",
+                " 细胞器之间的气体交换",
+                " 线粒体膜内外的气体交换",
+                " 红细胞内外的气体交换"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在 人 工 呼 吸 实 验 条 件 下, 刺 激 颈 动 脉 体 化 学 感 受 器 可 引 起\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心 率 加 快",
+                " 心 输 出 量 增 加",
+                " 冠 状 动 脉 收 缩",
+                " 骨 骼 肌 和 腹 腔 内 脏 血 管 收 缩",
+                " 肾 上 腺 素 分 泌 减 少"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "CO 中 毒 时, 可 携 带 氧 的 血 红 蛋 白 减 少, 但 一 般 不 引 起 呼 吸 加 强, 这 是 因 为\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 颈 动 脉 体 血 流 量 正 常",
+                " 动 脉 血 红 蛋 白 氧 饱 和 度 正 常",
+                " 动 脉 血 氧 含 量 正 常",
+                " 动 脉 血 氧 张 力 正 常",
+                " 颈 动 脉 体 化 学 感 受 器 发 生 适 应"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "检 测 肺 换 气 效 率 较 好 的 指 标 是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 通 气/ 血 流 比 值",
+                " 肺 通 气 量",
+                " 肺 泡 气Pco2 - 动 脉 血Pco2",
+                " 肺 泡 气Po2- 动 脉 血Po2",
+                " 肺 活 量"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关 于 氧 离 曲 线 的 叙 述, 错 误 的 是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 呈S 形",
+                " 上 段 较 平 坦 表 明PO2 变 化 对Hb 氧 饱 和 度 影 响 不 大",
+                " 中 段 较 陡 表 明 此 时PO 2 稍 降Hb02 将 明 显 减 少",
+                " 下 段 平 坦, 代 表O2 贮 备",
+                " P50 增 大 表 明 曲 线 右 移"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "产生节律性呼吸的基本中枢在( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脊髓",
+                " 延髓",
+                " 脑桥",
+                " 中脑",
+                " 下丘脑"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "平静呼吸的特征有( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 呼吸运动均匀",
+                " 成人呼吸频率18~25次/分",
+                " 吸气主要为肋间外肌的运动",
+                " 呼气主要为腹壁肌的运动",
+                " 呼吸运动过程中肺内压不变"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于气道阻力,正确的是(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 主要发生于直径2mm以下的细支气管",
+                " 气流速度越快,阻力越大",
+                " 气流为湍流时,阻力增小",
+                " 气道口径越小,阻力越小",
+                " 一般吸气时阻力大于呼气时"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },{
+            "questions": [
+                "可 使 气 道 口 径 变 小 的 因 素\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 迷 走 神 经 兴 奋",
+                " 交 感 神 经 兴 奋",
+                " 组 织 胺",
+                " 缓 激 肽",
+                " 5- 羟 色 胺"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺 通 气 的 非 弹 性 阻 力 来 自\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肺 泡表 面 张 力",
+                " 肺 弹 性 纤 维",
+                " 胸 廓 的 顺 应 性",
+                " 气 流 通 过 呼 吸 道 的 摩 擦 力",
+                " 呼 吸 器 官 移 位 的 惯 性 阻 力"
+            ],
+            "answers": [
+                "DE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "可 致 血 液 中 氧 含 量 增 加 的 因 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 血 氧 分 压 增 高",
+                " 血 二 氧 化 碳 分 压 增 高",
+                " 血PH 值 增 高",
+                " 红 细 胞2,3-DPG 浓 度 增 高",
+                " 体 温 降 低"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下 列 指 标 中 含 有 潮 气 量 的 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肺 活 量",
+                " 深 吸 气 量",
+                " 功 能 余 气 量",
+                " 补 呼 气 量",
+                " 肺 总 容 量"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        }
+    ]
+}
