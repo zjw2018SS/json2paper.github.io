@@ -718,7 +718,7 @@ if (url.match(/\?name=.*&path=.*$/mg)) {
             if (xmlhttp.status >= 200 && xmlhttp.status < 400) {
                 // 请求成功，解析JSON数据
                 if (xmlhttp.responseText != "" && xmlhttp.responseText != [] && xmlhttp.responseText != "[]") {
-                    let json = JSON.parse(xmlhttp.responseText);
+                    json = JSON.parse(xmlhttp.responseText);
                     // console.log(json);
                     json2paper(json)
                 } else {
