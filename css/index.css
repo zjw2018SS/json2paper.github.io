@@ -186,11 +186,16 @@ body {
   -moz-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  -webkit-transform: rotate(-37deg) skewX(10deg);
-  -moz-transform: rotate(-37deg) skewX(10deg);
-  -ms-transform: rotate(-37deg) skewX(10deg);
-  -o-transform: rotate(-37deg) skewX(10deg);
-  transform: rotate(-37deg) skewX(10deg);
+  /*   -webkit-transform: rotate(-37deg) skewX(10deg);
+    -moz-transform: rotate(-37deg) skewX(10deg);
+    -ms-transform: rotate(-37deg) skewX(10deg);
+    -o-transform: rotate(-37deg) skewX(10deg);
+    transform: rotate(-37deg) skewX(10deg); */
+  -webkit-transform: rotate(0deg) skewX(10deg);
+  -moz-transform: rotate(0deg) skewX(10deg);
+  -ms-transform: rotate(0deg) skewX(10deg);
+  -o-transform: rotate(0deg) skewX(10deg);
+  transform: rotate(0deg) skewX(10deg);
   background-color: #00aeeb;
   -webkit-box-shadow: -8.75px 8.75px 12.5px rgb(0, 0, 0, 1);
   box-shadow: -8.75px 8.75px 12.5px rgb(0, 0, 0, 1);
