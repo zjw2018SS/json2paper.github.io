@@ -1308,9 +1308,14 @@ function is_answer_true_favourite_display_fun(is_answer_true_favourite_display_i
 // 3.在新页面重做
 function rewrite_fun(rewrite_a, is_output = "0") {
     let url = window.location.origin + window.location.pathname
-    if (!json && !json["head"]["create_original_index"]) {
-        window.open(url)
-        return 0
+    try {
+        if (!json && !json["head"]["create_original_index"]) {
+            window.open(url)
+            return 0
+        }
+
+    } catch (err) {
+        console.log("2 没有原始索引");
     }
     let type = rewrite_a.dataset.type
     let wrap_arr = document.getElementsByClassName("wrap")
@@ -1401,7 +1406,8 @@ function output_fun(output_div) {
     let output_type = output_div.dataset.type
     let rewrite = document.getElementsByClassName("rewrite")[output_type]
     let json_str = rewrite_fun(rewrite, "1")
-    let name = "导出"
+    let output_type_arr = ["全部", "页面", "错题", "收藏", "错题+收藏"]
+    let name = output_type_arr[output_type] + "_导出"
     handleDownload(json_str, name)
 }
 
