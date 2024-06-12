@@ -1,0 +1,214 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第四章作业1",
+        "type_all_num": 8,
+        "type_1_num": 8,
+        "time": "24年05月12日23小时24分48秒",
+        "id": "id-lw3ortwg-cs9350fum"
+    },
+    "body": [
+        {
+            "questions": [
+                "简单商品经济\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 以个人劳动为基础",
+                " 以社会劳动为基础",
+                " 以雇佣劳动为基础",
+                " 与劳动性质无关"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "是（）构成了社会财富的物质内容\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 金银",
+                " 货币",
+                " 使用价值",
+                " 价值"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "简单商品经济\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 以生产资料公有制为基础",
+                " 以生产资料私有制为基础",
+                " 以生产资料混合所有制为基础",
+                " 与生产资料所有制没关系"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "简单商品经济和资本主义商品经济的共同点是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 都以雇佣劳动为基础",
+                " 都以生产资料私有制为基础",
+                " 都以个体劳动为基础",
+                " 都存在剥削"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "商品经济出现于\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 原始社会末期",
+                " 奴隶社会晚期",
+                " 封建社会早期",
+                " 封建社会中期"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n资本主义商品经济\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 以个体劳动为基础",
+                " 以社会劳动为基础",
+                " 以雇佣劳动为基础",
+                " 与劳动性质没有关系"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n资本主义商品经济\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 以生产资料私有制为基础",
+                " 以生产资料公有制为基础",
+                " 以生产资料混合所有制为基础",
+                " 与生产资料所有制没关系"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于自然经济，下列说法错误的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 即自给自足的经济",
+                " 生产是为了直接满足生产者个人或经济单位的需要",
+                " 是为了交换而生产",
+                " 关注的是商品的使用价值，而不是价值"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

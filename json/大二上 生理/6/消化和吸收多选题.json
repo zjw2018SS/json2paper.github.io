@@ -1,0 +1,164 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 5,
+        "type_2_num": 5
+    },
+    "body": [
+        {
+            "questions": [
+                "激 活 胃 蛋 白 酶 原 的 物 质 是:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 盐 酸",
+                " 胃 泌 素",
+                " 内 因 子",
+                " 粘 液",
+                " 胃 蛋 白 酶"
+            ],
+            "answers": [
+                "AE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "影 响 胃 排 空 的 因 素 有:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 胃 和 十 二 指 肠 内 食 物 量",
+                " 胃 泌 素",
+                " 十 二 指 肠 酸 化",
+                " 进 食 脂 肪",
+                " 食 物 的 理 化 性 质"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "促 胰 液 素\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 是 由 小 肠 的S 细 胞 产 生 的",
+                " 在 迷 走 神 经 兴 奋 时, 分 泌 量 增 加",
+                " 在HCl的 刺 激 下, 分 泌 量 明 显 增 加",
+                " 主 要 使 胰 酶 分 泌 增 加",
+                " 与 胆 囊 收 缩 素 对 胰 腺 的 促 分 泌 作 用, 存 在 着 协 同 作 用"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "盐酸分泌过程\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 需要耗能",
+                " 需要碳酸酐酶",
+                " 可伴有血和尿中pH值升高",
+                " 有Na+泵的直接参与",
+                " 有质子泵参与"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关 于 胃 液 分 泌 调 节, 下 列 哪 些 项 是 正 确 的?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 给 狗 看 见 或 闻 到 肉 汤 可 使 胃 液 分 泌 增 多",
+                " 切 断 迷 走 神 经 干 后, 假 饲 不 引 起 狗 的 胃 液 分 泌",
+                " 外 周 注 射 甲 氰 咪 呱 对 胃 泌 素 引 起 的 胃 液 分 泌 无 影 响",
+                " 向 胃 窦 部 注 入 盐 酸 引 起 胃 液 大 量 分 泌",
+                " 扩 张 胃 窦 部 可 引 起 胃 液 分 泌"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        }
+    ]
+}

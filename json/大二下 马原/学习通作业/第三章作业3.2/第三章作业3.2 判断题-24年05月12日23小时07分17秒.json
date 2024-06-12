@@ -1,0 +1,174 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第三章作业3.2",
+        "type_all_num": 8,
+        "type_3_num": 8,
+        "time": "24年05月12日23小时07分17秒",
+        "id": "id-lw3o5aju-hy4ykh9t9"
+    },
+    "body": [
+        {
+            "questions": [
+                "\n上层建筑由意识形态以及政治法律制度及设施和政治组织两部分构成\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n社会的一定发展阶段上往往存在多种生产关系，但决定一个社会性质的是其占支配地位的生产关系\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n经济基础的变更不必然引起上层建筑的变革，并决定其变革的方向\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\n上层建筑对经济基础具有反作用，其后果可能有两种：当它为适合生产力发展要求的经济基础服务时，就成为推动社会发展的进步力量；反之，当它为落后的经济基础服务时，就成为阻碍社会发展的消极力量\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n当一种社会形态处于上升发展阶段时，上层建筑对于经济基础一般是适应的\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n国家不是从来就有的，而是社会发展到一定历史阶段的产物。国家也不会一直存在，到了共产主义社会，国家就会消亡。\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n当一种社会形态处于没落时期时，上层建筑同经济基础变革的客观要求是不适应的，其矛盾则变为对抗性的、全局性的矛盾\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "资产阶级民主完全是伪民主，应该完全摒弃\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

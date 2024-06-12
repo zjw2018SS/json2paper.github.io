@@ -1,0 +1,1313 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "呼吸系统疾病",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年05月19日13小时42分15秒",
+        "id": "id-lwd41myv-cijhm4y9a"
+    },
+    "body": [
+        {
+            "questions": [
+                "关于肺气肿的组织学改变的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺泡间隔变窄",
+                "肺泡壁毛细血管数量减少",
+                "肺小动脉内膜变薄",
+                "中央型肺气肿气囊壁上可见呼吸上皮残留",
+                "全腺泡型肺气肿较大气肿囊腔内可见小血管悬梁"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下关于小叶性肺炎的病变描述，错误的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病变累及肺小叶范围",
+                "病灶多位于背侧和下叶",
+                "病灶可相互融合累及全叶",
+                "常累及胸膜",
+                "细支气管及周围肺泡化脓性炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "大叶性肺炎的并发症中，最不可能出现的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中毒性休克",
+                "脓肿脓胸",
+                "肺肉质变",
+                "支气管扩张",
+                "败血症或脓毒血症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列不符合肺小细胞癌病变的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多发生于肺周边部",
+                "细胞小、排列密集",
+                "恶性度高",
+                "肿瘤细胞内可见神经内分泌颗粒",
+                "起源于Kultschitsky细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列关于支气管扩张症的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常由支气管壁的炎症损伤引起",
+                "病变位于肺叶及肺段等大支气管",
+                "常并发肺脓肿",
+                "可导致肺心病",
+                "扩张呈囊状或柱状"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "硅肺沉着症中，关于硅结节的叙述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "早期为细胞性结节",
+                "早期分布在肺组织内",
+                "晚期为玻璃样变性结节",
+                "结节形成与患者从事的职业有关",
+                "结节形成与吸入的SiO2颗粒大小和形状有关"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肺硅沉着病的特征性病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺门淋巴结肿大",
+                "肺组织广泛纤维化",
+                "肺组织广泛纤维化，硅结节形成",
+                "胸膜纤维化",
+                "肺气肿"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "硅肺早期主要的病理改变，不包括（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硅结节可融合成团",
+                "I期硅肺以硅结节为主",
+                "硅结节内可见小血管",
+                "胸膜可出现纤维性增厚",
+                "硅结节主要集中在肺门"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某从事石棉矿作业工人因肺心病死亡后做尸检。取肺组织做镜检，最不可能见的病理改变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可见肉芽组织",
+                "硅结节形成",
+                "肺纤维组织弥漫增生",
+                "可见硅结节融合成团",
+                "可见硅肺性空洞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "病毒性肺炎最具有诊断价值特点的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺间质中单核细胞、淋巴细胞浸润",
+                "肺泡腔内浆液渗出",
+                "肺泡上皮细胞增生",
+                "胞质内或胞核内出现包涵体",
+                "透明膜形成"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "小叶肺炎病变常见于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "两肺下叶",
+                "两肺下叶背部",
+                "左上叶",
+                "两肺上叶",
+                "右下叶"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肺炎时肺泡上皮细胞或巨细胞内有包涵体，常见于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "球菌性肺炎",
+                "杆菌性肺炎",
+                "病毒性肺炎",
+                "支原体性肺炎",
+                "军团菌肺炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肺尘埃沉着病中最常见的类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "石棉肺",
+                "硅肺",
+                "煤肺",
+                "农民肺",
+                "养鸽者肺"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "鼻咽癌的组织学类型中，哪一种最为多见？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "未分化癌",
+                "泡状核细胞癌",
+                "腺泡状腺癌",
+                "分化型非角化型（低分化）鳞癌",
+                "分化型角化型（高分化）鳞癌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "鼻咽癌最好发于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鼻咽外侧壁",
+                "鼻咽顶壁",
+                "鼻咽隐窝",
+                "鼻咽前壁",
+                "鼻咽后壁"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列叙述，哪一项不符合鼻咽癌？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多发生于鼻咽黏膜柱状上皮的储备细胞",
+                "泡状核细胞癌对放射治疗很敏感",
+                "与EB病毒感染无关",
+                "以高分化腺癌最为少见",
+                "可经淋巴道转移至颈淋巴结"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "慢性支气管炎并发肺气肿的主要是由于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "支气管黏膜上皮鳞化所致",
+                "病变累及细小支气管，使其管腔呈半堵塞状所致",
+                "支气管周围组织呈慢性炎症牵拉肺组织所致",
+                "慢性支气管炎剧烈咳嗽，使胸腔压力增高所致",
+                "较大支气管软骨组织破坏所致"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肺组织切片镜下检查：肺泡壁毛细血管扩张充血，肺泡腔内充满大量红细胞、少量中性粒细胞及纤维素。纤维素相互交织，并通过肺泡间孔与相邻肺泡中的纤维素连接成网状，应诊断为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性肺淤血",
+                "大叶性肺炎（红色肝样变期）",
+                "小叶性肺炎",
+                "大叶性肺炎（溶解消散期）",
+                "肺结核变质渗出期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "大叶性肺炎患者出现呼吸困难的原因主要是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细支气管痉挛",
+                "肺泡换气功能下降",
+                "细支气管狭窄及黏液栓形成",
+                "呼吸中枢因毒素及缺氧等因素受到抑制",
+                "毒素作用引起心肌损伤、搏动减弱"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "大叶性肺炎患者听诊可闻及湿罗音，其原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "支气管壁浆液渗出",
+                "肺泡腔内浆液渗出",
+                "支气管黏膜浆液腺体分泌亢进",
+                "肺泡内纤维素渗出",
+                "肺泡腔内纤维素及大量细胞渗出"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种疾病的肺泡腔内易形成透明膜？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大叶性肺炎",
+                "小叶性肺炎",
+                "病毒性肺炎",
+                "支原体肺炎",
+                "衣原体肺炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "大叶性肺炎灰色肝样变期，肺实变是因为肺泡腔内充满 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浆液和红细胞",
+                "浆液和中性粒细胞",
+                "纤维素和红细胞",
+                "纤维素和中性粒细胞",
+                "红细胞和中性粒细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "周围型肺癌最常见的病理类型是 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "类癌",
+                "鳞癌",
+                "大细胞肺癌",
+                "小细胞肺癌",
+                "腺癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "大叶性肺炎患者出现胸痛的主要原因为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺叶肿胀、牵拉胸膜内神经",
+                "细菌毒素作用",
+                "纤维素性胸膜炎",
+                "炎症介质作用",
+                "纤维素渗出牵拉肺泡间隔"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "大叶性肺炎患者常在下列哪一病程咳出“铁锈色痰”？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "充血水肿期",
+                "灰色肝样变期",
+                "红色肝样变期",
+                "溶解消散期",
+                "肺肉质变后"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列为慢性阻塞性肺疾病的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "间质性肺炎",
+                "周围型肺癌",
+                "原发性肺结核",
+                "肺气肿",
+                "小叶性肺炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肺气肿病变的部位是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呼吸性细支气管以远的肺组织",
+                "支气管",
+                "直径<2mm的小支气管",
+                "终末细支气管",
+                "肺泡管"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "属于肺心病的病变特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺动脉高，右心室肥厚、扩张",
+                "左心室肥大、扩张伴动脉压升高",
+                "左心房肥大扩张，左心室轻度缩小伴肺淤血",
+                "肺淤血、肺水肿伴左心室壁大块坏死",
+                "四个心腔均扩张造成肺淤血、肺水肿、肝淤血、下肢水肿、紫绀"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "女性患者，66岁，咳嗽、痰中带血，胸痛两个月，无明显发热。胸片发现：肺门周边有一直径6cm的结节状阴影，边缘不整齐。最可能为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n肺脓肿",
+                "\n结核球",
+                "\n炎性假瘤",
+                "\n团块状硅结节",
+                "\n中央型肺癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "鼻咽癌最常见的组织学类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分化型非角化性癌",
+                "角化性鳞状细胞癌",
+                "腺癌",
+                "未分化型鳞癌",
+                "基底细胞样鳞状细胞癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项不符合鼻咽癌的特征？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多发生于鼻咽部黏膜上皮",
+                "最多见于鼻咽顶部",
+                "癌组织有迅速向深部浸润生长的倾向",
+                "常破坏颅底骨，并侵入颅内",
+                "晚期才经淋巴道转移至颈部淋巴结"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "小叶性肺炎常见的并发症不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脓胸",
+                "肺脓肿",
+                "心力衰竭",
+                "大疱性肺气肿",
+                "呼吸功能衰竭"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "硅肺沉着症最常见的并发症是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺真菌感染",
+                "肺栓塞",
+                "胸膜间皮瘤",
+                "肺结核",
+                "肺鳞癌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列不符合肺鳞状细胞癌的特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "支气管鳞状上皮化生恶变而来",
+                "常发生于吸烟者C.多为中央型",
+                "肿瘤常产生异位激素",
+                "可发生血道转移"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "慢性支气管炎典型病理变化中不包括 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏膜上皮鳞状上皮化生",
+                "支气管腺体和杯状细胞增生",
+                "支气管内有多量泡沫细胞",
+                "支气管软骨变性、萎缩",
+                "支气管壁有大量慢性炎症细胞浸润"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "慢性阻塞性肺气肿最常见的并发症是 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺源性心脏病",
+                "脓气胸",
+                "纤维素性胸膜炎",
+                "肺肉质变",
+                "肺萎陷"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "引起硅肺最主要的硅尘颗粒是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "10μm的硅尘颗粒",
+                "8μm的硅尘颗粒",
+                "6μm的硅尘颗粒",
+                "4μm的硅尘颗粒",
+                "1~2μm的硅尘颗粒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "临床上，女性最常见的肺癌组织学类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腺癌",
+                "鳞癌",
+                "腺鳞癌",
+                "大细胞癌",
+                "神经内分泌癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肺癌临床咳痰的特点为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "频繁咳嗽，白色泡沫痰",
+                "刺激性呛咳，痰中带血",
+                "剧烈咳嗽，少痰",
+                "咳大量脓痰",
+                "夜间咳重，粉红色泡沫痰"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "呈肺炎样外观的肺癌组织学的类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鳞癌",
+                "腺癌",
+                "小细胞癌",
+                "大细胞瘤",
+                "细支气管肺泡细胞癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某男，60岁、胸痛、咳嗽、咯血痰两个月，胸片见右上肺周边见一直径为5cm结节状阴影，边缘毛刺状。肺穿刺活检可见异型细胞呈巢状，中心有红染物质，应首先诊断为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n肺结核球",
+                "\n周围型肺癌",
+                "\n团块状硅结节",
+                "\n肺脓肿",
+                "\n肺肉质变"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肺癌最常见的肉眼类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中央型",
+                "周围型",
+                "弥漫型",
+                "管内型",
+                "管壁浸润型"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列不符合大叶性肺炎特点的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多由肺炎链球菌感染引起",
+                "由肺泡开始",
+                "属于纤维素性炎",
+                "破坏小支气管壁和肺泡壁结构",
+                "患者可咳出铁锈色痰"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于肺气肿病变描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺泡高度扩张",
+                "肺泡间隔断裂",
+                "肺泡融合形成肺大泡",
+                "肺小动脉内膜增厚",
+                "肺泡内渗出物"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细支气管不完全阻塞所致的阻塞性通气障碍可造成：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺不张",
+                "肺纤维化",
+                "支气管扩张",
+                "气胸",
+                "肺气肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺肉质变的发生主要是由于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "渗出的中性粒细胞数量少或功能缺陷，释放的蛋白水解酶不足",
+                "患者机体反应亢进，渗出纤维素被肉芽组织机化",
+                "感染的细菌数量过多或毒力过强",
+                "胶原纤维大量增生",
+                "单核巨噬细胞系统功能亢进"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某患者，出现发热、乏力、阵发性刺激性干咳、呼吸困难、发绀等全身中毒症状，等呼吸道症状，最可能的病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺转移性肿瘤",
+                "干酪样肺炎",
+                "大叶性肺炎",
+                "病毒性肺炎",
+                "小叶性肺炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "大叶肺炎呼吸困难较明显是处于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "充血水肿期",
+                "红色肝样变期",
+                "灰色肝样变期",
+                "溶解消散期",
+                "中毒休克期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中央型肺癌的特点，不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "段以上支气管发生",
+                "小细胞癌最多见",
+                "位于肺门部",
+                "巨大癌块环绕癌变支气管",
+                "易被纤维支气管镜检查发现"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "硅肺的特征性病变是 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "类上皮肉芽肿",
+                "胸膜星斑状增厚",
+                "硅肺空洞",
+                "硅结节",
+                "肺间质纤维化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

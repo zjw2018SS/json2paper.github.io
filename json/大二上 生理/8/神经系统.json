@@ -1,0 +1,600 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 19,
+        "type_1_num": 19
+    },
+    "body": [
+        {
+            "questions": [
+                "下 列 反 射 中 存 在 正 反 馈 调 节 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 腱 反 射",
+                " 肺 牵 张 反 射",
+                " 减 压 反 射",
+                " 排 尿 反 射",
+                " 屈 肌 反 射"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "特 异 性 投 射 系 统 的 功 能 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 为 皮 肤 的 不 同 感 觉 的 上 传 途 径",
+                " 体 内 所 有 特 异 感 觉 的 上 传 途 径",
+                " 起 维 持 和 改 变 大 脑 皮 层 兴 奋 状 态",
+                " 引 起 特 定 感 觉, 激 发 大 脑 皮 层 产 生 传 出 冲 动",
+                " 为 视、 听 觉 的 上 行 通 路"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "反 射 弧 的 感 受 器 主 要 功 能 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 接 受 刺 激",
+                " 仅 传 导 信 息",
+                " 产 生 反 应",
+                " 分 析、 整 合 信 息",
+                " 接 受 刺 激 与 产 生 反 应"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "反 射 活 动 的 结 构 基 础 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 中 枢 神 经 系 统",
+                " 突 触",
+                " 感 受 器",
+                " 效 应 器",
+                " 反 射 弧"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "筒 箭 毒 能 阻 断 神 经 肌 肉 接 头 处 的 兴 奋 使 递 是 由 于 它"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 增 加 乙 酰 胆 碱 的 释 放 量",
+                " 增 加 胆 碱 酯 酶 的 活 性",
+                " 减 少 乙 酰 胆 碱 的 释 放 量",
+                " 占 据 终 板 膜 上 的 乙 酰 胆 碱 受 体",
+                " 加 速 乙 酰 胆 碱 的 重 摄 取"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "运 动 神 经 纤 维 末 梢 释 放 的 递 质 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 去 甲 肾 上 腺 素",
+                " 肾 上 腺 素",
+                " 乙 酰 胆 碱",
+                " 5- 羟 色 胺",
+                " 甘 氨 酸"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "舞 蹈 病 与 手 足 徐 动 症 的 病 变 主 要 位 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 红 核",
+                " 小 脑",
+                " 前 庭",
+                " 纹 状 体",
+                " 丘 脑 底 核"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当a 运 动 神 经 元 传 出 冲 动 增 加 时 导 致"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肌 梭 传 人 冲 动 增 加",
+                " 梭 内 肌 收 缩 增 强",
+                " 梭 外 肌 收 缩 增 强",
+                " 梭 外 肌, 梭 内 肌 同 时 收 缩",
+                " g- 运 动 神 经 元 传 出 冲 动 减 少"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "乙 酰 胆 碱 在 运 动 神 经 末 稍 何 处 合 成, 贮 存 在 何 处?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 轴 浆; 细 胞 膜",
+                " 轴 浆; 轴 浆",
+                " 轴 浆; 囊 泡",
+                " 线 粒 体; 细 胞 膜",
+                " 线 粒 体; 囊 泡"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "形 成 条 件 反 射 的 基 本 条 件 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 要 有 非 条 件 刺 激",
+                " 要 有 适 当 的 无 关 刺 激",
+                " 要 有 完 整 的 大 脑 皮 层",
+                " 无 关 刺 激 与 非 条 件 刺 激 在 时 间 上 多 次 结 合",
+                " 非 条 件 刺 激 与 无 关 刺 激 同 时 出 现"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "丘 脑 非 特 异 性 投 射 系 统 的 起 始 核 团 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 接 替 核",
+                " 联 络 核",
+                " 中 线 核 群",
+                " 接 替 核 和 联 络 核",
+                " 联 络 核 和 髓 板 内 核"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对 经 典 突 触 的 错 误 叙 述 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 为 神 经 元 间 信 息 传 递 的 结 构 之 一",
+                " 突 触 前、 后 膜 较 其 它 处 的 膜 增 厚",
+                " 突 触 小 体 内 含 有 线 粒 体 和 囊 泡 等 结 构",
+                " 不 同 突 触 小 体 年 的 囊 泡 大 小 形 状 完 全 相 同",
+                " 一 个 神 经 可 与 其 它 许 多 神 经 元 形 成 突 触"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关 于 非 突 触 性 化 学 传 递 的 叙 述, 不 正 确 的 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 不 存 在 突 触 前 膜 与 后 膜 的 特 化 结 构",
+                " 与 轴 突 末 梢 结 节 状 曲 张 体 有 关",
+                " 传 递 时 间 可 大 于1 S",
+                " 该 方 式 只 存 在 于 中 枢 神 经 系 统",
+                " 树 突 部 位 也 能 进 行 非 突 触 性 化 学 传 递"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种物质属于第二信使?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ATP",
+                " ADP",
+                " AMP",
+                " CAMP",
+                " GTP"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "小 脑 对 躯 体 运 动 的 调 节, 错 误 的 论 述 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 绒 球 小 结 叶 受 损 可 能 造 成 共 济 失 调",
+                " 小 脑 前 叶 与 肌 紧 张 调 节 有 关",
+                " 刺 激 小 脑 前 叶 蚓 部 可 抑 制 肌 紧 张",
+                " 刺 激 小 脑 前 叶 两 侧 部 可 加 强 肌 紧 张",
+                " 小 脑 后 叶 中 间 带 与 协 调 随 意 运 动 有 关"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关 于 脊 髓 休 克 的 下 列 论 述, 错 误 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脊 髓 突 然 被 横 断, 断 面 以 下 的 脊 髓 反 射 活 动 即 暂 时 丧 失",
+                " 断 面 以 下 的 脊 髓 反 射, 感 觉 和 随 意 运 动 可 逐 渐 恢 复",
+                " 动 物 进 化 程 度 越 高, 其 恢 复 速 度 越 慢",
+                " 脊 髓 休 克 的 产 生, 是 由 于 突 然 失 去 了 高 位 中 枢 的 调 节 作 用",
+                " 反 射 恢 复 后, 第 二 次 横 切 脊 髓, 不 再 导 致 休 克"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下 列 哪 种 物 质 最 容 易 通 过 血- 脑 脊 液 屏 障?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " CO2 和O2",
+                " 葡 萄 糖",
+                " 蛋 白 质",
+                " K+",
+                " HCO3-"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有 机 磷 农 药 中 毒 时, 可 使"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 乙 酰 胆 碱 释 放 量 减 少",
+                " 乙 酰 胆 碱 释 放 量 增 加",
+                " 胆 碱 酯 酶 活 性 降 低",
+                " 胆 碱 酯 酶 活 性 增 强",
+                " 骨 骼 肌 终 板 处 的 乙 酰 胆 碱 受 体 功 能 障 碍"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脊髓灰质炎患者出现肢体肌肉萎缩的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 失去了神经冲动的影响",
+                " 因肌肉萎缩使供血减少",
+                " 肌肉受到病毒的侵害",
+                " 失去了运动神经的营养作用",
+                " 肌肉失去了运动功能而导致的萎缩"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },        {
+            "questions": [
+                "下 列 属 于 姿 势 反 射 的 是:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肌 紧 张 性 牵 张 反 射",
+                " 对 侧 伸 肌 反 射",
+                " 颈 紧 张 反 射",
+                " 屈 肌 反 射",
+                " 翻 正 反 射"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "神 经 胶 质 细 胞 的 功 能 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 与 氨 基 酸 递 质 的 失 活 有 关",
+                " 在 神 经 元 与 毛 细 血 管 之 间, 转 运 代 谢 物 质",
+                " 调 节 细 胞 外K+ 浓 度",
+                " 修 复 神 经 元 死 亡 后 的 缺 损",
+                " 构 成 血 脑 屏 障 和 神 经 纤 维 的 髓 鞘"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "神经纤维的轴浆运输\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 是指胞体合成的物质经轴突向末梢输送的过程,因此,是单一方向的",
+                " 有快慢两种速度",
+                " 是一种耗能过程",
+                " 轴突末梢可以摄取某些物质,逆向运输到胞体",
+                " 神经纤维的轴浆运输"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        }
+
+    ]
+}

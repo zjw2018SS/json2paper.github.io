@@ -1,0 +1,248 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第三十六章 主要病原性真菌",
+        "type_all_num": 9,
+        "type_1_num": 9,
+        "time": "24年06月01日17小时24分10秒",
+        "id": "id-lwvwp3dj-el1wr0aym"
+    },
+    "body": [
+        {
+            "questions": [
+                "皮肤癣菌侵犯部位仅限于表皮,毛发和指(趾)甲是与其哪种特性有关?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 嗜油脂",
+                " 嗜角质蛋白",
+                " 嗜干燥",
+                " 这些组织有其受体",
+                " 这些部位易通过接触传染"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "取毛发,甲屑等标本做微生物学检查诊断癣病时,常先将标本做哪种处理?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 用10%H2SO4溶解消化",
+                " 用10%KOH溶解消化",
+                " 用放线菌酮消毒处理",
+                " 用10%HL消毒处理",
+                " 用95%乙醇溶解消化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "白假丝酵母所致鹅口疮多见于:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 新生婴儿",
+                " 幼儿",
+                " 儿童",
+                " 青少年",
+                " 成年"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "培养物带有浓厚的酵母气味的真菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 组织胞浆菌",
+                " 新生隐球菌",
+                " 白假丝酵母",
+                " 曲霉菌",
+                " 毛霉菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "白假丝酵母侵入机体引起感染的主要原因是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 致病力强",
+                " 对抗生素不敏感",
+                " 易产生耐药性变异",
+                " 机体免疫力下降",
+                " 侵入数量多"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "新生隐球菌致病物质主要是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 荚膜多糖",
+                " 芽生孢子",
+                " 细胞壁",
+                " 假菌丝",
+                " 侵袭性酶"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "白假丝酵母感染可引起\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 鹅口疮",
+                " 慢性脑膜炎",
+                " 过敏性鼻炎",
+                " 头癣",
+                " 甲癣"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "皮肤癣菌引起最常见的癣是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 头癣",
+                " 甲癣",
+                " 股癣",
+                " 体癣",
+                " 足癣"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于新生隐球菌叙述错误的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 多由呼吸道感染",
+                " 鸽是主要的传染源",
+                " 仅导致肺部感染,不会扩散",
+                " 属于人体正常菌群",
+                " 一般染色不易着色"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

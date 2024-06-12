@@ -1,0 +1,1054 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "病毒的基本性状（李水红）",
+        "type_all_num": 40,
+        "type_1_num": 40,
+        "time": "24年06月01日17小时25分44秒",
+        "id": "id-lwvwr3l9-2ssg098pk"
+    },
+    "body": [
+        {
+            "questions": [
+                "病毒包膜的组成成分是____。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脂类",
+                " 多糖",
+                " 蛋白质",
+                " 核酸",
+                " 单糖"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "病毒含有的核酸通常是_____。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA和RNA",
+                " DNA或RNA",
+                " DNA",
+                " RNA",
+                " miRNA"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "决定病毒体感染细胞的关键物质是_____。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 衣壳",
+                " 包膜",
+                " 核酸",
+                " 吸附蛋白/刺突",
+                " 核蛋白"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "病毒包膜的特点不包括_____。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 来源于宿主细胞",
+                " 镶嵌有细胞编码的蛋白",
+                " 可被脂溶剂溶解",
+                " 决定病毒感染细胞的宿主特异性",
+                " 具有抗原性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "细胞融合有利于病毒的_____。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 吸附",
+                " 脱壳",
+                " 扩散",
+                " 复制",
+                " 释放"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "具分段基因组病毒之间的核酸片段发生交换称为_____。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 分子内重组",
+                " 基因重排",
+                " 基因重配",
+                " 基因突变",
+                " 基因互换"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "突变有利和有害是相对的,下列对这一问题的认识不正确的是_____。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突变的有利与有害可因生物的不同生存环境而异",
+                " 突变的有利与有害可因人类的需求不同而异",
+                " 有的突变对生物生存有害,但对生物进化有利",
+                " 有的突变对生物生存有利,对生物的进化也有利",
+                " 以上均不对"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "病毒与其他微生物的根本区别在于病毒( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 可通过细菌滤器",
+                " 寄生在易感的活细胞内",
+                " 缺乏完整的酶系统",
+                " 只有一种类型核酸",
+                " 对抗生素敏感"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "裸露病毒体的结构是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 核酸+包膜",
+                " 核心+衣壳+包膜",
+                " 核衣壳+刺突",
+                " 核心+衣壳",
+                " 核酸+蛋白质"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "仅在电子显微镜下可见的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 立克次体",
+                " 螺旋体",
+                " 支原体",
+                " 衣原体",
+                " 病毒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不属于病毒体特征的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 非细胞结构",
+                " 只含一种类型的核酸",
+                " 可在任何活细胞内增殖",
+                " 对抗生素不敏感",
+                " 对干扰素敏感"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对病毒核酸的错误叙述是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 可以控制病毒的遗传和变异",
+                " 可以决定病毒的感染性",
+                " RNA可以携带遗传信息",
+                " 每个病毒只有一种类型的核酸",
+                " 决定病毒包膜所有成分的形成"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "可以作为mRNA翻译蛋白质的病毒核酸类型是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " dsDNA",
+                " dsRNA",
+                " -SSRNA",
+                " +SSRNA",
+                " +SSDNA"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对病毒包膜的错误叙述是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 化学成分为蛋白质、脂类及多糖",
+                " 表面突起称为壳粒",
+                " 具有病毒的种、型抗原特异性",
+                " 包膜溶解可使病毒灭活",
+                " 可以保护病毒"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对病毒体的错误叙述是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 以复制方式繁殖",
+                " 测量单位是μm",
+                " 只含一种核酸",
+                " 是专性细胞内寄生物",
+                " 对抗生素不敏感"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对病毒体最准确的叙述是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有感染性的病毒颗粒",
+                " 脱壳后仍有感染性的病毒核酸",
+                " 有刺突的包膜病毒颗粒",
+                " 可独立存在于细胞外的病毒颗粒",
+                " 成熟的、完整的、具有感染性的病毒颗粒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "与衣壳生物学意义无关的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 保护病毒核酸",
+                " 介导病毒体吸附易感细胞受体",
+                " 构成病毒特异性抗原",
+                " 本身具有感染性",
+                " 病毒分类、鉴定的依据"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "构成病毒核心的化学成分是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 磷酸",
+                " 蛋白质",
+                " 类脂",
+                " 肽聚糖",
+                " 核酸"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "病毒的非结构蛋白不具有的功能是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 转化宿主细胞",
+                " 抗细胞凋亡作用",
+                " 保护病毒核酸",
+                " 具有酶功能",
+                " 抑制宿主细胞生物合成"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对病毒干扰现象的错误叙述是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 只发生在活病毒之间",
+                " 可以使感染自然停止",
+                " 与干扰素产生有关",
+                " 与病毒竞争吸附细胞受体有关",
+                " 与缺损干扰颗粒有关"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "子代病毒释放的途径不包括( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 细胞裂解释放",
+                " 细胞融合释放",
+                " 通过细胞间桥释放",
+                " 出芽释放",
+                " 整合释放"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "病毒侵入细胞需首先吸附于细胞膜上特异性病毒受体,下述哪一项是错误的?( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 病毒与受体相互作用决定感染的细胞亲嗜性",
+                " 病毒与受体相互作用决定病毒核酸是否具有感染性",
+                " 病毒与受体的相互作用可被中和抗体阻止",
+                " 若细胞表面的受体已被结合,可出现病毒感染干扰现象",
+                " 各种病毒的受体不同"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "多数病毒的脱壳依赖于( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 病毒的脱壳酶",
+                " 病毒的溶酶体酶",
+                " 病毒的蛋白酶",
+                " 细胞的溶酶体酶",
+                " 细胞的核酸酶"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "病毒遗传信息从RNA转为DNA的过程称为( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因变异",
+                " 基因转化",
+                " 噬菌体转导",
+                " 反转录",
+                " 基因重组"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "缺陷病毒的产生是由于( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因的缺陷",
+                " 包膜的缺陷",
+                " 衣壳的缺陷",
+                " 复制酶的缺陷",
+                " 刺突的缺陷"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "灭活是指在理化因素作用下使病毒失去( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抗原性",
+                " 感染性",
+                " 血凝特性",
+                " 诱导干扰素的能力",
+                " 融合细胞特性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "测量病毒大小通常是用( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " m",
+                " cm",
+                " mm",
+                " μm",
+                " nm"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对病毒生物学性状的描述,不正确的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 对抗生素不敏感,对干扰素敏感",
+                " 含有DNA和RNA两种核酸",
+                " 以复制方式增殖",
+                " 必须寄生于活细胞内",
+                " 属于非细胞型微生物"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在生物学性状上病毒与衣原体共同具有的特点是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 只有一种核酸",
+                " 非细胞结构",
+                " 严格细胞内寄生",
+                " 对抗生素敏感",
+                " 以复制方式繁殖"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "能代表病毒体的一种结构成分是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 核酸",
+                " 衣壳",
+                " 核衣壳",
+                " 包膜",
+                " 刺突"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "病毒的增殖方式是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 复制",
+                " 裂殖",
+                " 二分裂",
+                " 芽生",
+                " 分泌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是正确的?( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 病毒能侵害动植物",
+                " 病毒可产生类毒素",
+                " 病毒对抗生素敏感",
+                " 病毒不具有免疫原性",
+                " 抗病毒药物种类多、效果好、副作用小、价格低"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "病毒的感染性核酸指的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 双链DNA",
+                " 单链RNA",
+                " 去除包膜的病毒核酸",
+                " 去除衣壳的病毒核酸",
+                " 去除衣壳仍能进入宿主细胞引起感染的游离核酸"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "感染性核酸的特点是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 容易被细胞摄取",
+                " 不易被细胞外面的体液及细胞膜上的核酸酶降解",
+                " 感染性强于病毒体",
+                " 感染的宿主范围比病毒体广",
+                " 感染性核酸不能进入宿主细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "判断病毒有无包膜的依据是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是否出现细胞病变",
+                " 对石炭酸是否敏感",
+                " 对温度抵抗力不同",
+                " 超速离心沉降速度不同",
+                " 对脂溶剂是否敏感"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "灭活病毒无效的因素是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 温度",
+                " 乙醚",
+                " 青霉素",
+                " 氯仿",
+                " 紫外线"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是包膜病毒所具有的特点?( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 对脂溶剂敏感",
+                " 出芽增殖",
+                " 能在肠道黏膜细胞中生长繁殖",
+                " 含有宿主细胞的化学成分",
+                " 有包膜病毒电镜下常呈多形态性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "缺陷病毒的本质是指( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 包膜表面缺少刺突",
+                " 缺少衣壳",
+                " 病毒的酶有缺损",
+                " 基因组缺损",
+                " 复制周期不完整"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列病毒复制周期中,不正确的一个环节是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 吸附",
+                " 穿入",
+                " 脱壳",
+                " 生物合成",
+                " 分裂"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "病毒的遗传信息从RNA转移到DNA的过程被称为( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 转导作用",
+                " 转化作用",
+                " 逆转录",
+                " 重组",
+                " 翻译"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

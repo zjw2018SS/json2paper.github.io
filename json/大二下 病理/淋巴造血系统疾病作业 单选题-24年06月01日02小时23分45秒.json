@@ -1,0 +1,609 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "淋巴造血系统疾病作业",
+        "type_all_num": 23,
+        "type_1_num": 23,
+        "time": "24年06月01日02小时23分45秒",
+        "id": "id-lwv0j51c-sg24kigwb"
+    },
+    "body": [
+        {
+            "questions": [
+                "下列哪项不是滤泡性淋巴瘤的特点（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "bcl-2可用于鉴别淋巴滤泡反应性增生",
+                "多发生于中老年人",
+                "肿瘤性滤泡通常高表达Ki-67",
+                "是一种惰性淋巴瘤",
+                "是T细胞源性肿瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "成人最常见的非霍奇金淋巴瘤是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏膜相关淋巴瘤",
+                "弥漫大B细胞淋巴瘤",
+                "淋巴母细胞淋巴瘤",
+                "滤泡性淋巴瘤",
+                "外周T细胞淋巴瘤，非特指"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "霍奇金与非霍奇金淋巴瘤在组织学上的主要区别在于前者有（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "R-S细胞",
+                "异型组织细胞",
+                "大量炎细胞",
+                "核分裂象少见",
+                "A+C"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列选项中不符合结节硬化型霍奇金淋巴瘤的特点是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多见于青年妇女",
+                "形成陷窝细胞",
+                "存在胶原纤维束",
+                "好发于年轻男性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "粒细胞性白血病时，白血病细胞在肝内的浸润部位是:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "集中在汇管区",
+                "肝包膜下",
+                "集中在小叶中心",
+                "散在于肝小叶",
+                "围绕在小叶下静脉周围"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性、慢性粒细胞性白血病时，在骨内、骨膜下或其他器官内，可由白血病细胞形成瘤结，外观呈某种颜色，称为:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "白色瘤",
+                "绿色瘤",
+                "棕色瘤",
+                "转移瘤",
+                "黄色瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在癌症患者血液中有幼稚白细胞，说明此患者:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "恶性程度高",
+                "是一种类白血病反应",
+                "已发生了血道转移",
+                "已是晚期患者",
+                "并发了白血病"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "霍奇金淋巴瘤按预后好坏，排列顺序为:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴细胞减少型－混合细胞型－结节硬化型－富于淋巴细胞型",
+                "富于淋巴细胞型－结节硬化型－混合细胞型－淋巴细胞减少型",
+                "混合细胞型－淋巴细胞减少型－结节硬化型－富于淋巴细胞型",
+                "富于淋巴细胞型－结节硬化型－淋巴细胞减少型－混合细胞型",
+                "淋巴细胞减少型－富于淋巴细胞型－结节硬化型－混合细胞型"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "符合富于淋巴细胞型霍奇金淋巴瘤的特点有（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "诊断性R-S细胞",
+                "大量淋巴细胞",
+                "预后较差",
+                "较多的组织细胞",
+                "A+B+D"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不属于特异性淋巴结炎的是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "传染性单核细胞增多",
+                "淋巴结真菌感染",
+                "猫抓病",
+                "组织细胞性坏死性淋巴结炎",
+                "淋巴滤泡增生"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "霍奇金淋巴瘤说法错误的是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可发生在主动脉旁淋巴结",
+                "局部淋巴结的无痛性肿大",
+                "可发生于腋下或腹股沟",
+                "可累及脾",
+                "颈部淋巴结不好发"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于霍奇金淋巴瘤，有诊断意义的细胞是:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "异型性组织细胞",
+                "类上皮细胞",
+                "陷窝细胞",
+                "异物巨细胞",
+                "镜影细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "白血病时，白细胞在心、肾等器官中的浸润:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常不形成瘤结，原组织结构常没有明显破坏",
+                "常形成瘤结，但原组织结构常没有明显破坏",
+                "常形成瘤结，原组织结构明显破坏",
+                "常不形成瘤结，但原组织结构明显破坏消失",
+                "是很少见到的现象"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "霍奇金淋巴瘤中预后最差的组织学类型是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴细胞减少型",
+                "混合细胞型",
+                "结节硬化型",
+                "富于淋巴细胞型"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于霍奇金淋巴瘤的描述，不正确的是（ ）："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "首发症状是局部淋巴结的疼痛性、进行性肿大",
+                "首发症状是局部淋巴结的无痛性、进行性肿大",
+                "好发于颈部淋巴结",
+                "晚期可累及肝脾",
+                "镜下见多量炎症背景细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "淋巴结最常见的良性病变是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "霍奇金淋巴瘤",
+                "非霍奇金淋巴瘤",
+                "特异性淋巴结炎",
+                "髓质肿瘤",
+                "反应性淋巴结炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "霍奇金淋巴瘤具有诊断意义的细胞是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Aschoff细胞",
+                "R-S细胞",
+                "霍奇金细胞",
+                "陷窝细胞",
+                "多形性细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列属于高度侵袭性的淋巴瘤是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "滤泡性淋巴瘤",
+                "霍奇金淋巴瘤",
+                "淋巴母细胞淋巴瘤",
+                "黏膜相关淋巴瘤",
+                "小淋巴细胞淋巴瘤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种淋巴瘤Ki-67增殖指数最高（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "NK/T细胞淋巴瘤",
+                "Burkitt淋巴瘤",
+                "滤泡性淋巴瘤",
+                "慢性淋巴细胞性白血病",
+                "小淋巴细胞淋巴瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "霍奇金淋巴瘤的特点是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多处浅表淋巴结同时发生",
+                "淋巴细胞消减型预后最好",
+                "细胞单一性",
+                "病变常从一个淋巴结开始，逐渐向远处扩散"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于白血病患者血内白细胞总数及其功能，以下哪项是对的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "数目可以少于正常，其细胞功能却高于正常",
+                "数目一定多于正常，但其细胞的功能低于正常",
+                "可多于也可少于正常，但其细胞的功能则都高于正常",
+                "数目多于或少于正常，其细胞的功能也低于正常",
+                "数目一定多于正常，其细胞功能也常于正常"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脾脏在哪种白血病时肿的最严重?（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性粒细胞性白血病",
+                "慢性淋巴细胞性白血病",
+                "单核细胞性白血病",
+                "急性淋巴细胞性白血病",
+                "慢性粒细胞性白血病"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "费城染色体主要出现在哪种白血病？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性淋巴细胞性白血病",
+                "急性粒细胞性白血病",
+                "慢性粒细胞性白血病",
+                "单核细胞性白血病",
+                "慢性淋巴细胞性白血病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

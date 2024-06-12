@@ -1,0 +1,196 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第三十六章 主要病原性真菌",
+        "type_all_num": 6,
+        "type_2_num": 6,
+        "time": "24年06月01日17小时24分32秒",
+        "id": "id-lwvwpjwf-s2sev47k7"
+    },
+    "body": [
+        {
+            "questions": [
+                "鉴定皮肤癣菌的主要依据是:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 抗原特性",
+                " 菌落特征",
+                " 菌丝特点",
+                " 孢子特点",
+                " 生化特性"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "毛癣菌属可引起哪些癣病?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 甲癣",
+                " 毛癣",
+                " 须癣",
+                " 头癣",
+                " 手足癣"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "白假丝酵母可引起:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 口角糜烂",
+                " 阴道炎",
+                " 脑膜炎",
+                " 肾盂肾炎",
+                " 肠炎"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于新生隐球菌的叙述，下列哪些是正确的?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 根据其荚膜多糖抗原性可分为A-D四个血清型",
+                " 仅在37℃生长",
+                " 菌落呈酵母型",
+                " 随培养时间延长，可发生菌落颜色的改变",
+                " 为条件致病性真菌，多为内源性感染"
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "临床疑为新生隐球菌性脑膜炎时，取脑脊液做墨汁染色镜检，发现有哪些典型结构可做出初步诊断?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 厚膜孢子",
+                " 芽生孢子",
+                " 假菌丝",
+                " 肥厚荚膜",
+                " 分生孢子"
+            ],
+            "answers": [
+                "BD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在SDA平板上，白假丝酵母菌落区别于新生隐球菌菌落的特点是:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 有酵母气味",
+                " 有白色絮状气生菌丝",
+                " 有营养假菌丝",
+                " 菌落可为棕褐色",
+                " 培养所需时间较短"
+            ],
+            "answers": [
+                "AC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2
+            ]
+        }
+    ]
+}

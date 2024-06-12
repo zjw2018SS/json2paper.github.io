@@ -1,0 +1,1314 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "消化系统疾病作业",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年06月01日02小时20分37秒",
+        "id": "id-lwv0f3zm-aitq776w2"
+    },
+    "body": [
+        {
+            "questions": [
+                "肝硬化最严重的并发症是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "男性乳房发育",
+                "腹水",
+                "肝性脑病",
+                "低蛋白血症",
+                "痔静脉曲张"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "急性普通型肝炎肝细胞坏死的病变特征是:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "点状坏死",
+                "桥接坏死",
+                "碎片状坏死",
+                "大块坏死",
+                "亚大块坏死"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肝体积明显缩小，外观呈黄绿色，表面呈结节状。镜下见肝细胞大块坏死，同时可见肝细胞再生结节，淤胆明显，大量炎细胞浸润，结节间纤维组织及胆小管明显增生，根据上病变应诊断为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性黄疸普通型肝炎",
+                "慢性肝炎",
+                "急性重型肝炎",
+                "亚急性重型肝炎",
+                "肝硬化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "病毒性肝炎时，肝细胞病理变化的描述本质上属于细胞凋亡的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞肿大，胞质疏松、透明或半透明状",
+                "深染红色圆形小体，单个或几个散于小叶内",
+                "胞质内大小不等的空泡，核挤向一侧",
+                "胞质充满嗜酸性细颗粒状物质，不透明",
+                "细胞体积较大，核大染色深，有双核"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "慢性胃溃疡的并发症，不包括:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "穿孔",
+                "出血",
+                "幽门梗阻",
+                "癌变",
+                "肠上皮化生"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "溃疡性胃癌的肉眼形态特征是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "复合型溃疡",
+                "与肠管长轴平行的溃疡",
+                "溃疡多呈皿状，周围隆起如火山口状",
+                "烧瓶状溃疡",
+                "浅表性溃疡"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "早期胃癌最多见的肉眼类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "隆起型",
+                "表浅型",
+                "表浅凹陷型",
+                "表浅平坦型",
+                "凹陷型"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "Krukenberg瘤是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺癌种植转移在胸膜上",
+                "胃癌种植转移在肠壁上",
+                "胃癌种植转移在膀胱上",
+                "胃黏液癌种植转移在卵巢上",
+                "肝癌种植转移在卵巢上"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不符合门脉高压的临床表现？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脾大",
+                "胃肠道淤血",
+                "蜘蛛痣",
+                "腹水",
+                "食管静脉曲张"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "男性，59岁。慢性肝炎病史20年。近3年来双下肢浮肿，因上消化道出血急诊入院。查体：巩膜黄染，皮肤蜘蛛痣，腹水(+)，脾肋缘下3cm。该患者肝的特征性病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "假小叶形成",
+                "小胆管增生",
+                "肝细胞增生",
+                "肝细胞脂肪变性",
+                "肝细胞水肿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "胃溃疡病最常见的部位是:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃前壁",
+                "胃后壁",
+                "胃大弯及胃底",
+                "胃小弯近贲门处",
+                "胃小弯近幽门处"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，女性，45岁。上腹部疼痛（常在饭后1小时左右发作）二年余，近日因疼痛加剧入院检查，大便潜血试验阳性。胃镜见胃小弯近胃幽门见一1.7cm大小黏膜缺损，圆形，边缘整齐。最可能的断为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃溃疡",
+                "溃疡型胃癌",
+                "慢性萎缩性胃炎",
+                "胃糜烂",
+                "急性出血性胃炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于十二指肠溃疡的正确描述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "溃疡多在十二指肠降部",
+                "溃疡大小多在2cm以上",
+                "前壁的溃疡易穿孔",
+                "后壁的溃疡不易出血",
+                "容易发生癌变"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "女性，45岁，乙肝病史20年，临床考虑为肝硬化，体检时患者的临床表现不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脾大",
+                "肝肿大，表面结节状",
+                "食管静脉曲张",
+                "痔疮",
+                "腹水"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于假小叶下列哪一项是错误的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维组织增生，分隔包绕肝小叶",
+                "假小叶内中央静脉偏位",
+                "假小叶内肝细胞排列紊乱",
+                "假小叶内中央静脉位于中央",
+                "假小叶内可出现汇管区"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肝硬化病人的腹水形成主要是由于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "醛固酮等抗利尿激素减少",
+                "门静脉压升高",
+                "高蛋白血症",
+                "肝功能障碍",
+                "侧支循环形成"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肝炎患者肝穿活检：镜下见肝细胞点状坏死，汇管区见少量淋巴细胞浸润及轻度纤维组织增生，肝小叶结构完整。上述病变符合：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性普通型肝炎",
+                "慢性肝炎",
+                "急性重型肝炎",
+                "亚急性重型肝炎",
+                "早期肝硬化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "临床表现不符合爆发型肝炎的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝脏持续进行性增大",
+                "肝性脑病",
+                "肝细胞性黄疸",
+                "肝肾综合征",
+                "出血倾向"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性重型肝炎的病变性质是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以汇管区渗出为主的炎症",
+                "以肝细胞坏死为主的炎症",
+                "以肝细胞变性为主的炎症",
+                "以肝细胞增生为主的炎症",
+                "以门管区间质增生为主的炎症"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "急性黄色肝萎缩是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性无黄疸性肝炎",
+                "慢性肝炎",
+                "亚急性重型肝炎",
+                "急性黄疸性肝炎",
+                "急性重型肝炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "小叶周边肝细胞坏死伴界板呈虫蚀状缺损”是对病毒性肝炎（ ）基本病理变化的描述。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "点状坏死",
+                "桥接坏死",
+                "碎片状坏死",
+                "大块及亚大块坏死",
+                "嗜酸性变及嗜酸小体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "根据急性普通型肝炎的病变特点，具有诊断特征性的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝细胞广泛变性，以肝细胞水肿为主，并可见点状坏死",
+                "碎片状及桥接坏死，可见毛玻璃样肝细胞，纤维组织增生",
+                "肝细胞广泛坏死，仅小叶周边残留少量变性肝细胞",
+                "肝细胞大块坏死伴结节状再生及大量纤维组织增生",
+                "圆形或类圆形肝细胞团，肝细胞排列紊乱"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "怀疑肝癌时，下列最可靠的检查方法是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "超声波检查",
+                "放射性核素扫描",
+                "AFP检测",
+                "腹腔积液细胞学检查",
+                "肝穿刺活体组织检查"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不属于溃疡镜下的四层结构之一？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "渗出层",
+                "纤维层",
+                "坏死层",
+                "肉芽组织层",
+                "瘢痕组织层"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有规律性空腹痛常见于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃溃疡",
+                "胆囊炎",
+                "胰腺炎",
+                "十二指肠溃疡",
+                "幽门管溃疡"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胃黏膜活检报告为肠上皮化生，很可能是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃癌",
+                "慢性萎缩性胃炎",
+                "胃溃疡病",
+                "慢性浅表性胃炎",
+                "先天性肠黏膜异位"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下胃癌，哪一类恶性度最低？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏液癌",
+                "硬癌",
+                "高分化腺癌",
+                "髓样癌",
+                "腺鳞癌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝硬化病理改变的正确叙述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "亚急性重症型性肝炎多发展为门脉性肝硬化",
+                "病变特点是肝细胞坏死、纤维组织增生和假小叶形成",
+                "门脉高压症可表现为出血倾向",
+                "肝功能不全可表现为脾肿大",
+                "肝硬化不发生癌变"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男性，50岁，肺心病3年余，近日咳嗽、气喘、心悸。体检发现肝脏肿大、压痛。患者的肝脏病理变化中哪项是正确的?（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝细胞水肿、气球样变",
+                "肝细胞大片坏死",
+                "肝细胞碎片状坏死",
+                "肝淤血、脂肪变",
+                "肝细胞结节状再生"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "中晚期食管癌的肉眼特征分型，不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "息肉型",
+                "髓质型",
+                "蕈伞型",
+                "溃疡型",
+                "缩窄型"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某患者，男性，51岁，因进行性吞咽困难三个月，逐渐加重一周入院，经胃镜见食管中段狭窄，活检最不可能见的病理改变是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瘤组织结构异型性明显，可见部分正常鳞状上皮",
+                "瘤组织呈巢状或条索状排列",
+                "瘤组织中央可见同心圆的角化珠",
+                "高倍镜下瘤细胞大小不等，可见瘤巨细胞，病理性核分裂",
+                "可见大小一致的腺样结构"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肝癌最常见的组织学类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "混合细胞癌",
+                "未分化癌",
+                "肝细胞癌",
+                "胆管细胞癌",
+                "鳞癌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "早期肝癌的肉眼类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "癌结节＜3cm",
+                "癌结节不超过两个",
+                "癌结节与周围组织分界清楚",
+                "癌结节＜5cm",
+                "癌结节不超过两个，且癌结节合计最大直径＜3cm"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "男，50岁，慢性肝炎史20年，5年前出现食管黏膜下静脉曲张，3个月前发现肝有拳头大肿物，甲胎蛋白阳性，患者的正可能的病理诊断是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性肝炎",
+                "慢性肝炎伴肝硬化",
+                "慢性肝炎伴胆管上皮癌",
+                "慢性肝炎伴食管静脉曲张",
+                "肝硬化伴肝细胞癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胃溃疡表面毛细血管壁坏死破裂可引起：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呕血",
+                "上腹部有规律性疼痛",
+                "慢性穿孔",
+                "大便隐血试验阳性",
+                "癌变"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "溃疡底部的病理改变与慢性溃疡难以愈合有关的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "表面有大量炎性渗出物",
+                "坏死组织内有细胞碎片",
+                "大量肉芽组织形成",
+                "小动脉内膜炎及血栓形成",
+                "神经纤维断端呈小球状增生"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "萎缩性胃炎与浅表性胃炎最确切的区别是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病变部位",
+                "黏膜充血、水肿",
+                "黏膜厚度",
+                "胃固有腺体萎缩",
+                "炎症细胞浸润的深度"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项对诊断慢性浅表性胃炎最有意义？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏膜腺体增生",
+                "黏膜腺体减少",
+                "固有层中性粒细胞弥漫浸润",
+                "黏膜浅层固有层内淋巴细胞浸润",
+                "慢性胃黏膜肠上皮化生"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "慢性胃炎与胃癌发生关系密切的病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏膜上皮再生",
+                "假幽门腺化生",
+                "腺体囊状扩张",
+                "肠上皮化生",
+                "淋巴滤泡形成"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "临床常见食管恶性肿瘤的组织学类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鳞癌",
+                "腺癌",
+                "腺管癌",
+                "未分化癌",
+                "类癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "早期食管癌包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "侵及肌层的癌",
+                "原位癌",
+                "黏膜内癌",
+                "黏膜下癌",
+                "原位癌、黏膜内癌及黏膜下癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关早期胃癌，正确的描述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直径1.0cm的胃癌为早期胃癌",
+                "浸润仅限于黏膜层",
+                "浸润不超过黏膜下层",
+                "病理类型以未分化癌多见",
+                "多呈息肉状"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "直肠癌最早的症状一般是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肠梗阻",
+                "贫血",
+                "体重减轻",
+                "大便习惯改变",
+                "便血"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不符合病毒性肝炎基本病变的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝细胞变性坏死",
+                "慢性炎细胞浸润",
+                "纤维组织增生",
+                "Kupffer细胞异型增生",
+                "小胆管增生"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "碎片状坏死主要见于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性肝炎",
+                "慢性肝炎",
+                "亚急性重型肝炎",
+                "急性重型肝炎",
+                "肝硬化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "亚急性重型肝炎的特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝细胞点灶状、轻度碎片状坏死",
+                "肝细胞中度碎片状坏死、桥接坏死",
+                "肝细胞广泛桥接坏死、重度碎片状坏死，伴早期肝硬化",
+                "肝细胞亚大块坏死，伴结节状再生",
+                "肝细胞大块坏死"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列检查对原发性肝癌有诊断意义的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲胎蛋白(AFP)阳性",
+                "癌胚抗原(CEA)高度阳性",
+                "谷丙转氨酶活性增高",
+                "转肽酶活性增高",
+                "血清酸性磷酸酶活性增加"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种改变应首先考虑为肝癌？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝弥漫性肿大",
+                "肝单个肿块呈圆形，有包膜",
+                "肝肿块，触之有波动感",
+                "肝局部肿块，其周围有小结节",
+                "肝有无数结节，大小相近"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于肝癌（巨块型）的肉眼特征是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n瘤组织为圆形实体巨块，直径多大于10cm",
+                "\n多位于肝右叶",
+                "\n中心部常伴有出血、坏死",
+                "\n瘤组织周围有散在的卫星状瘤结节",
+                "\n常合并重度肝硬化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于大肠癌的癌前病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "家族性结肠腺瘤性息肉病",
+                "绒毛状腺瘤",
+                "慢性溃疡性结肠炎",
+                "肠息肉状腺瘤",
+                "慢性细菌性痢疾"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

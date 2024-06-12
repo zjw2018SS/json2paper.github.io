@@ -1,0 +1,248 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第十一章和十二章幽门螺杆菌，厌氧芽孢梭菌",
+        "type_all_num": 9,
+        "type_1_num": 9,
+        "time": "24年06月01日17小时11分11秒",
+        "id": "id-lwvw8e9a-ok8002v01"
+    },
+    "body": [
+        {
+            "questions": [
+                "幽门螺杆菌感染的快速诊断可依据:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 硫化氢试验",
+                " 尿素酶分解试验",
+                " 葡萄糖发酵试验",
+                " 明胶液化试验",
+                " 胆汁溶菌试验"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "幽门螺杆菌与下列那种疾病无关:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胃溃疡",
+                " 肝脓肿",
+                " 十二指肠溃疡",
+                " 胃窦炎",
+                " 胃腺癌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于气性坏疽的叙述,下列哪项是错的?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 多见于战伤,致病条件与破伤风梭菌相似",
+                " 潜伏期短,为8~48h",
+                " 疾病发展迅速,病情险恶",
+                " 病变局部组织水肿、气肿、疼痛及恶臭",
+                " 病菌及毒素入血,引起脓毒血症"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于肉毒毒素的特性描述,下列哪项是错误的:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 不耐热,100℃ 1min被灭活",
+                " 对蛋白酶的抵抗力比破伤风痉挛毒素弱",
+                " 剧毒,毒性比氰化钾强1万倍",
+                " 对人的致死量约为0.1µg",
+                " 结构与功能与破伤风痉挛毒素非常相似"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "引起食物中毒很少有胃肠炎症状的细菌是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 金黄色葡萄球菌",
+                " 肠炎沙门菌",
+                " 副溶血性弧菌",
+                " 肉毒梭菌",
+                " 产气荚膜梭菌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "厌氧芽胞梭菌能耐受恶劣环境条件的原因是因为其有:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 荚膜",
+                " 菌毛",
+                " 鞭毛",
+                " 芽胞",
+                " 中介体"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于无芽胞厌氧菌所致疾病特点,下列哪项是错误的?\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 无特定疾病类型",
+                " 多为化脓性感染",
+                " 感染部位遍及全身",
+                " 为局部或全身性感染",
+                " 属于正常菌群,故病情较轻,预后好"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "破伤风痉挛毒素毒性极强,仅次于:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " TSST-1",
+                " 霍乱肠毒素",
+                " 肉毒毒素",
+                " 白喉毒素",
+                " 索状因子"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "TAT治疗破伤风的目的:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抑制细菌繁殖",
+                " 阻止细菌产生毒素",
+                " 中和结合于细胞的毒素",
+                " 中和游离的毒素",
+                " 阻止毒素进入血流"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

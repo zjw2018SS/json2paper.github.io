@@ -1,0 +1,348 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 13,
+        "type_1_num": 13
+    },
+    "body": [
+        {
+            "questions": [
+                "唾 液 中 除 唾 液 淀 粉 酶 以 外, 还 有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 蛋 白 水 解 酶",
+                " 凝 乳 酶",
+                " 溶 菌 酶",
+                " 肽 酶",
+                " 寡 糖 酶"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关 于 唾 液 分 泌 的 调 节 错 误 的 描 述 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有 神 经 调 节 和 体 液 调 节 二 种 形 式",
+                " 有 条 件 反 射 和 非 条 件 反 射 共 存",
+                " 引 起 非 条 件 反 射 的 有 效 刺 激 为 食 物 对 口 腔 的 刺 激",
+                " 非 条 件 反 射 的 传 入 神 经 有 舌 神 经, 鼓 索 神 经, 舌 咽 神 经 迷 走 神 经",
+                " 反 射 的 初 级 中 枢 在 延 髓"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "促 胰 液 素 能 促 进 胰 腺 分 泌"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 大 量 的 水 分, 而 碳 酸 氢 盐 和 酶 的 含 量 很 少",
+                " 少 量 的 水 分 和 碳 酸 氢 盐, 酶 的 含 量 也 很 少",
+                " 大 量 的 水 分 和 碳 酸 氢 盐, 而 酶 的 含 量 很 少",
+                " 少 量 的 水 分 和 碳 酸 氢 盐, 而 酶 的 含 量 很 丰 富",
+                " 大 量 的 碳 酸 氢 盐、 水 分 和 酶 的 含 量 也 丰 富"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胆 汁 中 与 消 化 有 关 的 最 重 要 物 质 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 消 化 酶",
+                " 胆 盐",
+                " 卵 磷 脂",
+                " 胆 色 素",
+                " 脂 肪 酸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对 唾 液 淀 粉 酶 有 激 活 作 用 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " H+",
+                " K+",
+                " Cl-",
+                " HCO3-",
+                " Ca2+"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "分 泌 内 因 子 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粘 液 细 胞",
+                " 主 细 胞",
+                " 胃 幽 门 粘 膜G 细 胞",
+                " 壁 细 胞",
+                " 胃 粘 膜 表 面 上 皮 细 胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胃肠平滑肌的基本电节律多起源于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粘膜层",
+                " 浆膜层",
+                " 环行肌和纵行肌之间",
+                " 斜行肌层",
+                " 纵行肌层"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下 列 哪 项 不 属 于 胃 液 的 作 用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 杀 菌",
+                " 激 活 胃 蛋 白 酶 原",
+                " 水 解 蛋 白 质",
+                " 对 淀 粉 进 行 初 步 消 化",
+                " 促 进 维 生 素B12 的 吸 收"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "三 种 主 要 食 物 在 胃 中排 空 的 速 度 由 快 至 慢 的 顺 序 排 列 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 糖 类、 脂 肪 、蛋 白 质",
+                " 脂 肪、 糖 类、 蛋 白 质",
+                " 蛋 白 质、 脂 肪、 糖 类",
+                " 糖 类、 蛋 白 质、 脂 肪",
+                " 蛋 白 质、 糖 类。 脂 肪"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "十二指肠内容物返流入胃对粘膜屏障有破坏作用,该物质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粘蛋白",
+                " 高渗溶液",
+                " 碳酸氢盐",
+                " 胆酸",
+                " 氨基酸及肽类"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于胃液分泌的描述哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粘液有保护胃粘膜的作用",
+                " 胃蛋白酶原不能消化蛋白质",
+                " 胃内盐酸分泌缺乏会影响蛋白质消化",
+                " 单靠粘液-碳酸氢盐屏障并不能完全阻止胃酸和胃蛋白酶对粘膜的侵蚀",
+                " 壁细胞大量减少不会出现贫血"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "糖类、蛋白质和脂肪的消化产物大部分被吸收的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 十二指肠",
+                " 空肠及回肠",
+                " 十二指肠、空肠及回肠",
+                " 回肠",
+                " 十二指肠和空肠"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有 关 消 化 道 平 滑 肌 生 理 特 性 的 叙 述, 错 误 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 经 常 保 持 一 定 的 紧 张 性",
+                " 富 有 伸 展 性",
+                " 兴 奋 性 低, 收 缩 缓 慢",
+                " 对 化 学 及 牵 拉 刺 激 较 敏 感",
+                " 具 有 快 而 规 则 的 自 动 节 律 性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

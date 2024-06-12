@@ -1,0 +1,139 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "实验4作业：系谱分析实验作业",
+        "type_all_num": 5,
+        "type_1_num": 5,
+        "time": "24年06月01日16小时45分02秒",
+        "id": "id-lwvvarfv-pqijrzd40"
+    },
+    "body": [
+        {
+            "questions": [
+                "下列哪一项不符合常染色体显性遗传的特征( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 男女发病机会均等",
+                " 系谱中呈连续传递现象",
+                " 患者都是纯合体发病，杂合体是携带者",
+                " 患者的同胞中约1/2发病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于X连锁隐性遗传，下列哪一种说法是错误的( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 系谱中往往只有男性患者",
+                " 女儿有病，父亲也一定是同病患者",
+                " 双亲无病时，子女均不会患病",
+                " 患者同胞兄弟有1/2的患病风险"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "一对夫妇表型正常，婚后生了一个白化病的女儿。下列说法错误的是( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 白化病肯定是常染色体隐性遗传病",
+                " 他们再生患儿的风险是1/4",
+                " 这对夫妇的基因型是Aa和Aa",
+                " 他们的正常小孩基因型为Aa的概率是1/2"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "分析下面家族中某种遗传病的系谱图，下列相关叙述中正确的是( )\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 该遗传病为XR遗传病",
+                " III8的基因型是Aa的概率为2/3",
+                " III 10肯定有一个致病基因是由1传来的",
+                " III8和III9婚配，后代子女发病率为1/2"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下图所示遗传系谱中有甲(基因为D、d)、乙(基因为E、e)两种遗传病其中一种为红绿色盲(XR)。下列有关叙述中正确的是( )\n\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 甲病为色盲症",
+                " II7和II8生患乙病男孩的概率为1/8",
+                " II8的基因型为DdXEXe",
+                " 若III 11和III 12婚配，则生出病孩的概率高达100%"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

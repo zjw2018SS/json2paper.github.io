@@ -1,0 +1,196 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第十章 霍乱弧菌",
+        "type_all_num": 7,
+        "type_1_num": 7,
+        "time": "24年06月01日17小时07分32秒",
+        "id": "id-lwvw3otr-agefpj2ab"
+    },
+    "body": [
+        {
+            "questions": [
+                "弧菌主要分布于:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 空气",
+                " 土壤",
+                " 水",
+                " 人肠道",
+                " 动物肠道"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "取米泔水样粪便做悬滴镜检,见到呈穿梭样运动的细菌可能是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肠侵袭性大肠杆菌",
+                " 伤寒沙门菌",
+                " 猪霍乱沙门菌",
+                " 变形杆菌",
+                " 霍乱弧菌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "霍乱肠毒素作用于小肠黏膜上皮细胞,使细胞内腺苷环化酶活化,促进:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " cAMP含量增加",
+                " ATP含量增加",
+                " cAMP含量减少",
+                " cGMP含量增加",
+                " cGMP含量减少"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "霍乱肠毒素相应受体是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 糖蛋白",
+                " 脂蛋白",
+                " D-甘露醇",
+                " GM1神经节苷脂",
+                " 岩藻糖"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "治疗霍乱的关键是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使用抗生素",
+                " 及时补充体液和电解质",
+                " 注射死疫苗",
+                " 使用减毒重组活菌苗",
+                " 使用霍乱-伤寒杂交菌苗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "霍乱弧菌生长繁殖的最适宜pH值范围是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  4.0~6.0",
+                " 8.8~9.0",
+                " 7.2~7.6",
+                " 6.0~7.0",
+                " 2.0~5.0"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对于霍乱毒素,不恰当的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是霍乱弧菌的主要毒性物质",
+                " 由1个A亚单位和5个B亚单位组成",
+                " B亚单位是结合亚单位",
+                " A亚单位是毒性亚单位",
+                " 其受体是唾液酸受体"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

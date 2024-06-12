@@ -1,0 +1,397 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 15,
+        "type_1_num": 15
+    },
+    "body": [
+        {
+            "questions": [
+                "兴奋性突触后电位突触后膜上发生的电位变化为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 极化",
+                " 超极化",
+                " 后电位",
+                " 复极化",
+                " 去极化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "兴奋性突触后电位与抑制性突触后电位的共同特征是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突触前膜均去极化",
+                " 突触后膜均去极化",
+                " 突触前膜释放的递质性质一样",
+                " 突触后膜对离子通透性一样",
+                " 产生的突触后电位的最终效应一样"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "抑制性突触后电位的产生是由于突触后膜对下列哪种离子的通透性增加所致:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Na+、C1-、K+，尤其是K+",
+                " K+、C1-，尤其是C1-",
+                " Na+、K+，尤其是Na+",
+                " Ca2+、K+、C1-，尤其是Ca2+",
+                " K+、Ca2+、Na+，尤其是Ca2+"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于神经纤维的论述，不正确的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 具有传导信息的功能",
+                " 神经纤维主要指轴突而言",
+                " 传导速度最慢的是B类纤维",
+                " 传导速度最快的是Ⅰ类或Aα类纤维",
+                " 根据纤维直径和来源分为Ⅰ、Ⅱ、Ⅲ和Ⅳ类"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "化学性突触传递的特征中，下列哪一项是错误的："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 双向性传递",
+                " 兴奋节律的改变",
+                " 对内环境变化敏感",
+                " 总和",
+                " 后放"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于神经胶质细胞特征，下列说法错误的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有突起，但无轴突",
+                " 广泛分布于中枢和周围神经系统中",
+                " 不产生动作电位",
+                " 与相邻的细胞形成突触联系",
+                " 终生都有分裂增殖能力"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于神经纤维传导兴奋的叙述，下列哪一项是错误的?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 结构的完整性",
+                " 功能的完整性",
+                " 单向传导",
+                " 相对不疲劳性",
+                " 绝缘性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于抑制性突触后电位的产生，正确的叙述是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突触前轴突末梢超极化",
+                " 对Ca2+、K十通透性增大",
+                " 突触后膜出现超极化",
+                " 突触后膜去极化",
+                " 突触后膜出现复极化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "兴奋性突触后电位的产生，是由于提高了下列哪种离子的通透性?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ca2+",
+                " C1—",
+                " K+",
+                " Na+",
+                " C1—和K+，尤其是C1—"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于电突触的叙述，错误的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突触间隙较狭窄",
+                " 突触前后膜阻抗较低",
+                " 结构为缝隙连接",
+                " 传递速度较快",
+                " 单向传递"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "神经冲动抵达末梢时，引起递质释放主要有赖于哪种离子的作用?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Na十",
+                " C1—",
+                " Mg2+",
+                " Ca2+",
+                " K十"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于兴奋性突触传递的叙述，哪一项是错误的："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突触前轴突末梢去极化",
+                " Ca2+进入突触前膜内",
+                " 细胞外液中Mg2+浓度升高，兴奋性递质释放量增多",
+                " 突触后膜对Na+、K+，特别是Na+通透性增高",
+                " 突触后膜去极化达阈电位时，突触后神经元发放冲动"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "神经细胞兴奋阈值最低，最易产生动作电位的部位是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胞体",
+                " 树突",
+                " 轴丘",
+                " 轴突末梢"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "EPSP是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 动作电位",
+                " 阈电位",
+                " 静息电位",
+                " 局部去极化电位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在进行突触传递时，必需有哪种离子流入突触前膜"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ca2+",
+                " Na＋",
+                " K+",
+                " Cl-"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

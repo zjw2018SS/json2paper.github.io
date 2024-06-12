@@ -1,0 +1,1103 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 37,
+        "type_2_num": 37
+    },
+    "body": [
+        {
+            "questions": [
+                "2000年5月14日，江泽民在江苏、浙江、上海党建工作座谈会上，明确提出：“推进党的（），都应贯穿‘三个代表’的要求。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "思想建设",
+                "政治建设",
+                "组织建设",
+                "作风建设"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "社会变革中出现的新的社会阶层都是中国特色社主义事业的建设者。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "工人",
+                "农民",
+                "知识分子",
+                "民族资产阶级"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "发展社会主义先进文化，就是发展（）、（）、（）的，民族的科学的大众的社会主义文化。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "面向现代化",
+                "面向大众",
+                "面向世界",
+                "面向未来"
+            ],
+            "answers": [
+                "A;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "江泽民强调，我们想事情，做工作，想得对不对，做得好不好，根本的衡量尺度，就是（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "人民拥护不拥护",
+                "人民赞成不赞成",
+                "人民高兴不高兴",
+                "人民答应不答应"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在十六大报告中，江泽民把社会主义（）一起确立为社会主义现代化全面发展的三大基本目标，从而使中国特色社会主义的理论和实践更加走向成熟和完善。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "物质文明",
+                "政治文明",
+                "精神文明",
+                "制度文明"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在“三个代表”重要思想的主要内容中，建设社会主义政治文明涉及（）等方面，是一个系统工程。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "政治思想",
+                "政治制度",
+                "行政管理",
+                "法制建设"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "实行依法治国，必须坚持（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "有法可依",
+                "有法必依",
+                "执法必严",
+                "违法必究"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "始终做到“三个代表”，是我们党的（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "立党之本",
+                "执政之基",
+                "力量之源",
+                "思想之根"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "“三个代表”重要思想从（）方面揭示了社会主义制度自我完善和发展的途径。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "物质基础",
+                "精神支撑",
+                "文化支撑",
+                "社会基础"
+            ],
+            "answers": [
+                "A;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "“三个代表”重要思想的核心观点是中国共产党必须始终代表（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "中国先进生产力的发展要求",
+                "中国先进文化的前进方向",
+                "中国最广大人民的根本利益",
+                "社会主义制度的发展方向"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "必须毫不动摇地坚持党的领导，可以从哪些方面来认识（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "从党的性质来认识",
+                "从党的历史地位形成来认识",
+                "从肩负的历史使命来认识",
+                "从我国的经济发展状况来认识"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "建设社会主义政治文明，最根本的是要坚持（）、（）和（）的有机统一。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "党的领导",
+                "人民当家做主",
+                "解放思想",
+                "依法治国"
+            ],
+            "answers": [
+                "A;B;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "江泽民同志认为，中国共产党必须解决好的两大历史性课题是（ ）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "纠正党的不良作风",
+                "进一步提高党的领导水平和执政水平",
+                "防范“四大危险”",
+                "提高拒腐防变和抵御风险的能力"
+            ],
+            "answers": [
+                "B;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "“三个代表”重要思想是（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "马克思列宁主义、毛泽东思想和邓小平理论的继承和发展",
+                "中国特色社会主义理论体系的重要组成部分",
+                "中国特色社会主义理论体系的接续发展",
+                "推进中国特色社会主义事业的强大理论武器"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "江泽民要求领导干部一定要（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "讲公正",
+                "讲学习",
+                "讲政治",
+                "讲正气"
+            ],
+            "answers": [
+                "B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "2000年5月，江泽民在上海主持党建工作座谈会，强调:“三个代表”重要思想是（ ）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "立党之本",
+                "执政之基",
+                "强国之路",
+                "力量之源"
+            ],
+            "answers": [
+                "A;B;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "科学发展观中，以人为本的“人”，是指人民群众，包括以（）等劳动者为主体。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "工人",
+                "农民",
+                "知识分子",
+                "无产阶级"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胡锦涛指出：“我们提出以人为本的含义，就是坚持全心全意为人民服务，坚持（）、（）、（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "发展为了人民",
+                "发展依靠人民",
+                "发展成果由人民共享",
+                "发展要团结人民"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胡锦涛指出：“共产党员要切实转变思想作风和工作作风，切实改进领导方式和工作方法，深入了解民情、充分反映民意、广泛集中民智，做到（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "中国共产党必须始终代表中国先进生产力的发展要求",
+                "中国共产党必须坚持始终代表中国先进文化的前进方向",
+                "中国共产党必须坚持始终代表中国最广大人民的根本利益",
+                "中国共产党必须坚持始终代表社会主义制度的发展方向"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "全面协调可持续中的“全面”是指发展要有（），不仅经济发展，而且各个方面都要发展。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "全面性",
+                "系统性",
+                "整体性",
+                "均衡性"
+            ],
+            "answers": [
+                "A;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "全面协调可持续中的“协调”是指发展要有（），各个方面、各个环节的发展要相互适应、相互促进。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "协调性",
+                "系统性",
+                "整体性",
+                "均衡性"
+            ],
+            "answers": [
+                "A;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "全面协调可持续中的“可持续”是指发展要有（），不仅当前要发展，而且要保证长远发展。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "协调性",
+                "持久性",
+                "连续性",
+                "均衡性"
+            ],
+            "answers": [
+                "B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "坚持全面发展，就是要按照中国特色社会主义事业总体布局，正确认识和把握（）是相互联系、相互促进的有机统一体。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "经济建设",
+                "政治建设",
+                "文化建设",
+                "社会建设",
+                "生态文明建设"
+            ],
+            "answers": [
+                "A;B;C;D;E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "坚持可持续发展，必须走（）的文明发展道路。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "生产发展",
+                "社会和谐",
+                "生活富裕",
+                "生态良好"
+            ],
+            "answers": [
+                "A;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "统筹人与自然和谐发展，就是处理好经济建设、人口增长与（）、（）的关系，增强可持续发展的能力。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "社会文明",
+                "资源利用",
+                "生态环境保护",
+                "政治建设"
+            ],
+            "answers": [
+                "B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "坚持统筹兼顾，要牢牢掌握统筹兼顾的科学思想方法，努力提高（）、（）、（）能力，不断增强统筹兼顾的本领，更好地推动科学发展。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "战略思维",
+                "政治思维",
+                "创新思维",
+                "辩证思维"
+            ],
+            "answers": [
+                "A;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "我国社会主义现代化建设的战略任务是实现（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "工业化",
+                "信息化",
+                "城镇化",
+                "农业现代化"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "科学发展观强调，发展社会主义民主政治，必须坚定不移地走中国特色社会主义政治发展道路，坚持（）、（）、（）的有机统一。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "党的领导",
+                "人民当家作主",
+                "依法治国",
+                "经济发展"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在社会主义民主政治中，社会主义协商民主充分体现了社会主义民主的（）、（）、（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "真实性",
+                "可靠性",
+                "广泛性",
+                "包容性"
+            ],
+            "answers": [
+                "A;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "坚定不移地推进依法治国的基本方略，是国家长治久安的重要保障。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "依法执政",
+                "依法行政",
+                "依法办事",
+                "公正司法"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "构成社会主义核心价值体系的基本内容是（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "马克思主义指导思想",
+                "中国特色社会主义共同理想",
+                "以爱国主义为核心的民族精神和以改革创新为核心的时代精神",
+                "社会主义荣辱观"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "科学发展观强调，建设生态文明，要坚持节约资源和保护环境的基本国策,坚持（ ）的方针。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "节约优先",
+                "保护优先",
+                "自然恢复",
+                "奖罚并重"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "十八大报告指出，科学发展观最鲜明的精神实质是（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "解放思想",
+                "实事求是",
+                "与时俱进",
+                "求真务实",
+                "统筹兼顾"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胡锦涛指出，新形势下，党面临着（）考验，是长期的、复杂的、严峻的。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "执政",
+                "外部环境",
+                "改革开放",
+                "市场经济"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "坚持以人为本的根本含义主要有（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "坚持全心全意为人民服务，始终把最广大人民的根本利益作为党和国家工作的根本出发点和落脚点",
+                "坚持尊重社会发展规律与尊重人民历史主体地位的一致性",
+                "坚持发展为了人民、发展依靠人民、发展成果由人民共享",
+                "坚持为崇高理想奋斗与为最广大人民谋利益的一致性"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列属于构建社会主义和谐社会的总要求内容的是（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "充满活力",
+                "诚信友爱",
+                "公平正义",
+                "民主法治"
+            ],
+            "answers": [
+                "A;B;C;D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下属于实施区域协调发展的是（）。"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "京津冀协同发展",
+                "粤港澳大湾区发展",
+                "长江经济带发展",
+                "两型社会建设"
+            ],
+            "answers": [
+                "A;B;C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        }
+    ]
+}

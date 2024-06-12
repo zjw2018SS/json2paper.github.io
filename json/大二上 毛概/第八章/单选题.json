@@ -1,0 +1,2110 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 84,
+        "type_1_num": 84
+    },
+    "body": [
+        {
+            "questions": [
+                "确立新时代党的强军思想在国防和军队建设中的指导地位，坚持政治建军、改革强军、科技兴军、（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "依法治军",
+                "依法建军",
+                "依法管军",
+                "依法领军"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（ ）是民族昌盛和国家富强的重要标志。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "军事过硬",
+                "环境友好",
+                "人民健康",
+                "社会安定"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "（ ）和（ ），是中国共产党人的精神支柱和政治灵魂，也是保持党的团结统一的思想基础。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "共产主义远大理想　马克思列宁主义",
+                "共产主义远大理想　中国特色社会主义共同理想",
+                "社会主义理想　中国特色社会主义共同理想",
+                "社会主义理想　马克思列宁主义"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想中的“十四个坚持”是行动纲领层面的表述，重点回答了（）的问题。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新时代怎样坚持和发展中国特色社会主义",
+                "新时代坚持和发展什么样的中国特色社会主义",
+                "新时代怎样建设社会主义现代化强国",
+                "新时代如何实现中华民族伟大复兴"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党以马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观、（）作为自己的行动指南。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新时代中国特色社会主义思想",
+                "新时期中国特色社会主义思想",
+                "习近平新时期中国特色社会主义思想",
+                "习近平新时代中国特色社会主义思想"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "经过长期努力，中国特色社会主义进入了新时代，这是我国发展新的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "未来方向",
+                "未来方位",
+                "历史方向",
+                "历史方位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "中国特色社会主义进入新时代，我国社会主要矛盾已经转化为人民日益增长的（）和（）之间的矛盾。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "美好生活需要；不充分不平衡的发展",
+                "幸福生活需要；不平衡不充分的发展",
+                "幸福生活需要；不充分不平衡的发展",
+                "美好生活需要；不平衡不充分的发展"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "坚持全面依法治国，必须完善以（）为核心的中国特色社会主义法律体系。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "基本法",
+                "刑法",
+                "宪法",
+                "法律"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "（）是一个国家、一个民族发展中更基本、更深沉、更持久的力量，必须坚持社会主义核心价值体系。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "道路自信",
+                "理论自信",
+                "制度自信",
+                "文化自信"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "推动构建人类命运共同体，必须统筹国内国际两个大局，始终不渝走和平发展道路、奉行（）的开放战略。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "互利共赢",
+                "互相合作",
+                "包容互信",
+                "开放共赢"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "坚持推动构建人类命运共同体，要坚持正确的义利观，树立（）、（）、（）、（）的新安全观。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "共赢；综合；和平；可持续",
+                "共同；综合；合作；可持续",
+                "共赢；开放；合作；可持续",
+                "共同；尊重；合作；可持续"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "从现在到二〇二〇年，是全面建成小康社会（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "决战期",
+                "决胜期",
+                "关键期",
+                "攻坚期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（）是社会主义民主政治的本质特征。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的领导",
+                "人民当家作主",
+                "依法治国",
+                "政治体制改革"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "全党必须牢记，（）的问题，是检验一个政党、一个政权性质的试金石。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "为什么人",
+                "执政宗旨",
+                "建党宗旨",
+                "权力来源"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "建设（）是中华民族伟大复兴的基础工程。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "政治强国",
+                "教育强国",
+                "文化强国",
+                "经济强国"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "我们呼吁，各国人民同心协力，构建人类命运共同体，建设（）的世界。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "持久和平、普遍安全、共同繁荣、开放包容、公平正义",
+                "持久和平、普遍安全、共同繁荣、公平正义、清洁美丽",
+                "持久和平、普遍安全、共同繁荣、开放包容、清洁美丽",
+                "持久和平、普遍安全、公平正义、开放包容、清洁美丽"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "新时代，要突出（）在党的建设中的重要地位。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "思想建设",
+                "政治建设",
+                "组织建设",
+                "制度建设"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（）是历史的创造者，是决定党和国家前途命运的根本力量。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国共产党",
+                "人民",
+                "工人阶级",
+                "无产阶级"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "党的十八大以来，我国经济建设取得重大成就，经济总量稳居世界（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "第一位",
+                "第二位",
+                "第三位",
+                "第四位"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对（）的科学判断，是制定党的路线方针政策的基本依据。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义发展阶段",
+                "中国社会主要矛盾",
+                "基本国情",
+                "党的路线方针政策"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "影响满足人们美好生活需要的因素很多，但主要是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会经济的发展水平",
+                "社会主义的发展阶段",
+                "社会主要矛盾的性质",
+                "发展的不平衡不充分问题"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "从人民性来看，（）的发展思想，是党的全心全意为人民服务的根本宗旨在新时代的具体体现。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以经济建设为中心",
+                "全面协调可持续",
+                "以人民为中心",
+                "坚持改革开放不动摇"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "新时代，在解决人民“从无到有”的需求之后，要注重解决（）的需求。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“从有到优”",
+                "“从有到强”",
+                "“从优到强”",
+                "“从有到多”"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "新中国的成立使中国人民站起来，改革开放使中国人民逐步富起来，新时代中华民族要实现（）的宏伟目标。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "强起来",
+                "跑起来",
+                "飞起来",
+                "挺起来"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想的核心要义是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "走中国特色社会主义道路",
+                "坚持和发展中国特色社会主义",
+                "坚持中国特色社会主义制度",
+                "发展中国特色社会主义文化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想，明确了中国特色社会主义事业的总体布局是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“五位一体”",
+                "“四位一体”",
+                "“四个全面”",
+                "“五个全面”"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想，明确了中国特色社会主义事业的战略布局是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“五位一体”",
+                "“四位一体”",
+                "“四个全面”",
+                "“五个全面”"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "新时代是新思想得以产生的时代背景，新思想是新时代顺利前行的思想灯塔和（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "方向指引",
+                "重要职称",
+                "行动指南",
+                "灵魂所在"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "只有社会主义才能救中国，只有（）才能发展中国、发展社会主义、发展马克思主义。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改革开放",
+                "以经济建设为中心",
+                "以人为本",
+                "党的领导"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是解决我国一切问题的基础和关键。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发展",
+                "经济建设",
+                "改革开放",
+                "从严治党"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）是发展的根本目的。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增进民生福祉",
+                "全面建成小康社会",
+                "建设现代化强国",
+                "实现民族复兴"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "建设生态文明是中华民族永续发展的千年大计，必须树立和践行（）的理念。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "资源节约",
+                "绿色发展",
+                "保护优先",
+                "绿水青山就是金山银山"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "保持香港、澳门长期繁荣稳定，实现祖国完全统一，是实现中华民族伟大复兴的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "必然要求",
+                "根本要求",
+                "基本要求",
+                "核心要求"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（）通过的党章修正案，把习近平新时代中国特色社会主义思想确立为党的指导思想。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "党的十八大",
+                "党的十九大",
+                "第十三届全国人民代表大会",
+                "十八届六中全会"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "必须认识到，我国社会主要矛盾的变化，没有改变我们对我国社会主义所处历史阶段的判断，我国仍处于并将长期处于（）的基本国情没有变，我国是世界最大发展中国家的国际地位没有变。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义阶段",
+                "社会主义初级阶段",
+                "社会主义中级阶段",
+                "社会主义高级阶段"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "发展是解决我国一切问题的基础和关键，发展必须是科学发展，必须坚定不移贯彻（）的发展理念。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "创新、协调、绿色、开放、共享",
+                "创造、协调、生态、开放、共享",
+                "创新、统筹、绿色、开放、共享",
+                "创造、统筹、生态、开放、共享"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "国家安全是安邦定国的重要基石，（）是全国各族人民根本利益所在。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "加快经济发展",
+                "维护国家统一",
+                "促进国际合作",
+                "维护国家安全"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "解决台湾问题、实现祖国完全统一，是全体中华儿女（），是中华民族（）所在。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一致愿望根本利益",
+                "共同愿望本质利益",
+                "一致愿望本质利益",
+                "共同愿望根本利益"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "（）是两岸关系的政治基础。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“九二共识”",
+                "反对“台独”",
+                "一个中国原则",
+                "和平统一"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "保持香港、澳门长期繁荣稳定，实现祖国完全统一，是实现中华民族伟大复兴的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "唯一路径",
+                "必然要求",
+                "可行方法",
+                "核心要求"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想拥有十分丰富的内涵，涵盖了经济、政治、法治等各个方面，其中最重要、最核心的内容是党的十九大报告概括的（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“十四个坚持”",
+                "“三个有利于”",
+                "“四个全面”",
+                "“八个明确”"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想明确了全面深化改革的总目标是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "完善和发展中国特色社会主义制度",
+                "建设中国特色社会主义法治体系",
+                "完善和发展中国特色社会主义文化",
+                "建设美丽中国"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想明确了全面依法治国的总目标是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "完善和发展中国特色社会主义制度",
+                "建设中国特色社会主义法治体系",
+                "完善和发展中国特色社会主义文化",
+                "建设美丽中国"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想，回答了新时代怎样坚持和发展中国特色社会主义，即新时代中国特色社会主义基本方略，党的十九大报告概括为（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“十四个坚持”",
+                "“三个有利于”",
+                "“四个全面”",
+                "“八个明确”"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想中的“八个明确”是指导思想层面的表述，回答的是（）的问题。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新时代怎样坚持和发展中国特色社会主义",
+                "新时代坚持和发展什么样的中国特色社会主义",
+                "新时代怎样建设社会主义现代化强国",
+                "新时代如何实现中华民族伟大复兴"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "马克思主义中国化的最新成果是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "习近平新时代中国特色社会主义思想",
+                "“三个代表”重要思想",
+                "科学发展观",
+                "邓小平理论"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党第十九次全国代表大会，是在全面建成小康社会决胜阶段、中国特色社会主义进入（ ）的关键时期召开的一次十分重要的大会。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新时期",
+                "新阶段",
+                "新征程",
+                "新时代"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "十九大的主题是：不忘初心，（ ），高举中国特色社会主义伟大旗帜，决胜全面建成小康社会，夺取新时代中国特色社会主义伟大胜利，为实现中华民族伟大复兴的中国梦不懈奋斗。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "继续前进　",
+                "牢记使命　",
+                "方得始终",
+                "砥砺前行"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中国共产党人的初心和使命，就是为（ ），为（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国人民谋福利；中华民族谋复兴",
+                "百姓安居乐业；国家繁荣富强",
+                "人民谋福利；实现中国梦",
+                "实现全面小康；建设现代化强国"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "新时代中国特色社会主义思想，明确中国特色社会主义最本质的特征是（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“五位一体”总体布局",
+                "建设中国特色社会主义法治体系",
+                "以人民利益为根本出发点",
+                "中国共产党领导"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "从（ ）到（ ），是“两个一百年”奋斗目标的历史交汇期。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二〇二〇年　二〇三五年",
+                "十九大　二十大",
+                "二十大　二十一大",
+                "二〇三五年　本世纪中叶"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "习近平新时代中国特色社会主义思想明确坚持和发展中国特色社会主义，总任务是实现（）和（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "社会主义现代化；中华民族伟大复兴",
+                "全面建成小康社会；打赢脱贫攻坚战",
+                "社会主义现代化；实现中国梦",
+                "全面建成小康社会，建成世界一流国家"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "实现“两个一百年”奋斗目标、实现中华民族伟大复兴的中国梦，不断提高人民生活水平，必须坚定不移把（ ）作为党执政兴国的第一要务。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "创新",
+                "改革",
+                "发展",
+                "开放"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "（ ）是引领发展的第一动力，是建设现代化经济体系的战略支撑。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改革",
+                "创新",
+                "开放",
+                "科技"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "加快建立绿色生产和消费的法律制度和政策导向，建立健全（ ）的经济体系。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "绿色低碳循环发展",
+                "绿色节约循环发展",
+                "绿色低碳节约发展",
+                "节约低碳循环发展"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我们要牢固树立社会主义生态文明观，推动形成（ ）现代化建设新格局，为保护生态环境作出我们这代人的努力！"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人与自然和谐共生",
+                "人与环境和谐发展",
+                "人与自然和谐发展",
+                "人与环境和谐共生"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "军队是要准备打仗的，一切工作都必须坚持（ ）标准，向能打仗、打胜仗聚焦。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "战斗力",
+                "斗争力",
+                "战争力",
+                "硬实力"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "党的（ ）是党的根本性建设，决定党的建设方向和效果。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "思想建设",
+                "政治建设",
+                "组织建设",
+                "制度建设"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "发展是解决我国一切问题的基础和关键，发展必须是科学发展，必须坚定不移贯彻（ ）的发展理念。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "创新、协调、绿色、开放、共享",
+                "创造、协调、生态、开放、共享",
+                "创新、统筹、绿色、开放、共享",
+                "创造、统筹、生态、开放、共享"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "贯彻新发展理念，建设现代化经济体系，必须坚持质量第一、效益优先，以（ ）为主线。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "转变发展方式",
+                "优化经济结构",
+                "供给侧结构性改革",
+                "转换增长动力"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "适应世界新军事革命发展趋势和国家安全需求，提高建设质量和效益，确保到二〇二〇年基本实现机械化，（ ）建设取得重大进展，战略能力有大的提升。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "信息化",
+                "网络化",
+                "智能化",
+                "科技化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "树立（ ）是核心战斗力的思想，推进重大技术创新、自主创新，加强军事人才培养体系建设，建设创新型人民军队。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "创新",
+                "科技",
+                "人才",
+                "技术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "引导应对气候变化国际合作，成为全球生态文明建设的重要参与者、贡献者、（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "引导者",
+                "核心者",
+                "引领者　",
+                "领导者"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "保持香港、澳门长期繁荣稳定，必须全面准确贯彻“一国两制”、“港人治港”、“澳人治澳”、（ ）的方针。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "共同繁荣",
+                "统一战线",
+                "和谐共赢",
+                "高度自治"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "必须坚持质量第一、效益优先，以供给侧结构性改革为主线，推动经济发展质量变革、效率变革、（ ）变革。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动能",
+                "动力",
+                "引擎",
+                "驱动"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "（ ）是当代中国精神的集中体现，凝结着全体人民共同的价值追求。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中国传统文化",
+                "社会主义核心价值观",
+                "社会主义价值体系",
+                "中国特色社会主义制度体系"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "人民有（ ），国家有力量，民族有希望。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "理想",
+                "文化",
+                "信仰",
+                "梦想"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "创新驱动发展战略大力实施，创新型国家建设成果丰硕，天宫、（ ）、天眼、悟空、墨子、大飞机等重大科技成果相继问世。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蛟龙",
+                "高铁",
+                "智能",
+                "航空"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "实现伟大梦想，必须进行（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伟大斗争",
+                "伟大工程",
+                "伟大事业",
+                "伟大行动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "实现伟大梦想，必须建设（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伟大斗争",
+                "伟大工程",
+                "伟大事业",
+                "伟大行动"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "实现伟大梦想，必须推进（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伟大斗争",
+                "伟大工程",
+                "伟大事业",
+                "伟大行动"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "伟大斗争，伟大工程，伟大事业，伟大梦想，紧密联系、相互贯通、相互作用，其中起决定性作用的是党的建设新的（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伟大斗争",
+                "伟大工程",
+                "伟大事业",
+                "伟大行动"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中国特色社会主义事业总体布局的“五位一体”是经济建设、政治建设、文化建设、（ ）、生态文明建设。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "教育建设",
+                "医疗建设",
+                "养老建设",
+                "社会建设"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "明确全面深化改革总目标是完善和发展中国特色社会主义制度、推进国家治理体系和治理能力（ ）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "战略化",
+                "系统化",
+                "现代化",
+                "全面化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "党政军民学，东西南北中，党是（ ）的。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "领导人民",
+                "领导军队",
+                "领导国家",
+                "领导一切"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "只有（ ）才能救中国，只有改革开放才能发展中国、发展社会主义、发展马克思主义。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "共产主义",
+                "党",
+                "社会主义",
+                "人民群众"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "十九大通过的关于《中国共产党章程（修正案）》的决议，把（ ）写入党章。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "习近平新时代中国特色社会主义思想",
+                "毛泽东思想",
+                "邓小平理论",
+                "三个代表"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "（ ）是中华民族永续发展的千年大计。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "建设生态文明",
+                "政治建设",
+                "经济建设",
+                "社会建设"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "坚持推动构建人类命运共同体，始终做世界和平的建设者、全球发展的（ ）、国际秩序的维护者。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "领导者",
+                "谋划者",
+                "促进者",
+                "贡献者"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不断增强党自我净化、自我完善、自我革新、（ ）的能力，始终保持党同人民群众的血肉联系。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "自我教育",
+                "自我提高",
+                "自我反思",
+                "自我管理"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "构成新时代坚持和发展中国特色社会主义的基本方略共有（ ）条。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "十三",
+                "十四",
+                "十五",
+                "十六"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "从全面建成小康社会到基本实现现代化，再到全面建成（），是新时代中国特色社会主义发展的战略安排。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "创新型国家",
+                "世界一流强国",
+                "社会主义现代化大国",
+                "社会主义现代化强国　"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "我们党原来提出的“三步走”战略的第三步即基本实现现代化，将提前15年，即在（ ）实现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2020年",
+                "2025年",
+                "2035年",
+                "2030年"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "要实现中华民族伟大复兴的中国梦，必须弘扬以（ ）为核心的民族精神"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以人为本",
+                "爱国主义",
+                "改革创新",
+                "社会主义核心价值观"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

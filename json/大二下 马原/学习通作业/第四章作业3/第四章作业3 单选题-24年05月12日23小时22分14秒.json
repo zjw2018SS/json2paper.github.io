@@ -1,0 +1,214 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第四章作业3",
+        "type_all_num": 8,
+        "type_1_num": 8,
+        "time": "24年05月12日23小时22分14秒",
+        "id": "id-lw3ooje2-5w2301qq6"
+    },
+    "body": [
+        {
+            "questions": [
+                "价值的源泉是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 劳动时间",
+                " 交换",
+                " 商品的稀有程度",
+                " 劳动力的使用价值"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n资本主义制度最终被社会主义制度所代替之所以具有客观必然性，是因为\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 共产党的英明领导",
+                " 无产阶级是最革命的阶级",
+                " 生产社会化和生产资料资本主义私人占有之间的矛盾运动",
+                " 资本家丑恶的嘴脸"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n在马克思之前提出劳动创造价值的观点的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 亚当斯密",
+                " 牛顿",
+                " 王一博",
+                " 李现"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "商品的价值在本质上体现了\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使用价值的优劣",
+                " 生产者劳动的卓越程度",
+                " 劳动时间的多少",
+                " 生产者之间一定的社会关系"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n资本主义的基本矛盾是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使用价值和价值之间的矛盾",
+                " 私人劳动和社会劳动之间的矛盾具体劳动和抽象劳动之间的矛盾",
+                " 生产社会化和生产资料资本主义私人占有之间的矛盾",
+                " 具体劳动和抽象劳动之间的矛盾"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "房地产商生产的房子还没有卖出去，这些房子体现了房地产商劳动的（）方面\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 无效劳动",
+                " 社会劳动",
+                " 有用劳动",
+                " 私人劳动"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "如果房地产商生产的房子卖不出去，则下列说法错误的是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 房地产商的具体劳动不能还原为抽象劳动",
+                " 使用价值和价值之间的矛盾没有得到解决",
+                " 房地产商的私人劳动就不会被承认为社会劳动",
+                " 这种情况下，房地产商把房子无偿送给需要的人居住，房子的价值也就实现了"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "价值的表现形式是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 交换价值",
+                " 使用价值",
+                " 劳动时间",
+                " 货币"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

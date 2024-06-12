@@ -1,0 +1,516 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 10,
+        "type_1_num": 10
+    },
+    "body": [
+        {
+            "questions": [
+                "\n终 尿 中 的K+ 主 要 是 由:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 近 曲 小 管 分 泌",
+                " 髓 袢 升 支 分 泌",
+                " 肾 小 球 滤 过",
+                " 远 曲 小 管 和 集 合 管 分 泌",
+                " 髓 袢 降 支 分 泌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "醛 固 酮 的 主 要 作 用 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 增 加 肾 远 曲 小 管 和 集 合 管 保 钾 排 钠",
+                " 增 加 肾 近 曲 小 管 保 钾 排 钠",
+                " 增 加 肾 髓 袢 保 钠 排 钾",
+                " 增 加 肾 远 曲 小 管 和 集 合 管 保 钠 排 钾",
+                " 增 加 肾 近 曲 小 管 保 钠 排 钾"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "近 髓 肾 单 位 的 主 要 功 能 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 分 泌 醛 固 酮",
+                " 释 放 抗 利 尿 激 素",
+                " 释 放 肾 素",
+                " 浓 缩 和 稀 释 尿 液",
+                " 排 泄Na+ 和Cl-"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "各段肾小管对Na+重吸收量最大的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 髓袢升支粗段",
+                " 髓袢降支细段",
+                " 近曲小管",
+                " 集合管",
+                " 远曲小管"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "醛 固 酮 作 用 于 远 曲 小 管 和 集 合 管, 可 促 进:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Na+ 的 重 吸 收",
+                " K+ 的 重 吸 收",
+                " Na+ 的 重 吸 收 和 葡 萄 糖 的 重 吸 收",
+                " Na+ 的 重 吸 收 和K+ 的 分 泌",
+                " K+ 的 重 吸 收 和Na+ 的 重 吸 收"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "控 制 醛 固 酮 合 成 与 分 泌, 下 列 哪 个 因 子 最 不 重 要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ACTH",
+                " 血Na+",
+                " 肾 素",
+                " 血 管 紧 张 素Ⅱ",
+                " 血K+"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "正常情况下,肾小球滤过率为125ml/min,近端小管的重吸收率为:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 90ml/min",
+                " 87.5ml/min",
+                " 95.6ml/min",
+                " 60ml/min",
+                " 65ml/min"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾小管主动重吸收与主动分泌都很明显的物质是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " K+",
+                " 尿素",
+                " Na+",
+                " 葡萄糖",
+                " 肌酐"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肾小管滤液中 的水 大 部 分 重 吸 收 是 在:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 近 曲 小 管",
+                " 髓 袢 降 支",
+                " 远 曲 小 管",
+                " 集 合 管",
+                " 髓 袢 升 支"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "引 起 抗 利 尿 激 素 分 泌 的 最 敏 感 的 因 素 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 循 环 血 量 减 少",
+                " 疼 痛 刺 激",
+                " 血 浆 晶 体 渗 透 压 增 高",
+                " 血 浆 胶 体 渗 透 压 增 高",
+                " 寒 冷 刺 激"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },       {
+            "questions": [
+                "尿 的 浓 缩 和 稀 释 机 制 取 决 于\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 血 浆 胶 体 渗 透 压",
+                " 肾 髓 质 渗 透 压 梯 度",
+                " 抗 利 尿 激 素 分 泌",
+                " 肾 小 球 滤 过 率",
+                " 醛 固 酮 分 泌"
+            ],
+            "answers": [
+                "BC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "醛 固 酮 对 水 盐 代 谢 的 影 响 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 使 胃 液 中Na+ 排 出 量 增 多",
+                " 使 唾 液 中Na+ 排 出 量 减 少",
+                " 使 远 曲 小 管 和 集 合 管 中Na+ 排 出 减 少",
+                " 使 汗 液 中Na+ 排 出 量 不 变",
+                " 醛 固 酮 缺 乏 时, 血Na+ 减 少, 血 压 降 低"
+            ],
+            "answers": [
+                "BCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾 小 管 分 泌H+ 与 什 么 相 关 联\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " K+ 的 分 泌",
+                " Na+ 的 重 吸 收",
+                " K+ 的 重 吸 收",
+                " HCO3- 的 重 吸 收",
+                " NH3 的 分 泌"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下述哪些情况GFR增高( )\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 血浆胶体渗透压降低",
+                " 肾小球毛细血管压增高",
+                " 血浆晶体渗透压升高",
+                " 肾小球血浆流量增大",
+                " 肾小囊内压降低"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "与 调 节 水. 钠 代 谢 有 关 的 激 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 醛 固 酮",
+                " 雌 激 素",
+                " ADH",
+                " 心 钠 素",
+                " 氢 化 可 的 松"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪些情况可使尿量增加\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 血浆晶体渗透压降低",
+                " 刺激颈动脉窦压力感受器",
+                " 疼痛",
+                " 心房和腔静脉扩张",
+                " 失血"
+            ],
+            "answers": [
+                "ABD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "近 髓 肾 单 位 的 特 点 是:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肾 小 体 分 布 于 内 皮 质 层",
+                " 肾 小 球 体 积 较 大",
+                " 髓 袢 很 短",
+                " 含 肾 素 颗 粒 较 少",
+                " 入 球 小 动 脉 口 径 比 出 球 小 动 脉 粗"
+            ],
+            "answers": [
+                "ABD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关 于ADH, 正 确 描 述 的 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 增 加 肾 远 曲 小 管 和 集 合 管 对 水 的 通 透 性",
+                " 血 浆 胶 体 渗 透 压 是 调 节 其 分 泌 的 主 要 因 素",
+                " 血 容 量 减 少 时 可 使 其 分 泌 增 多",
+                " 血 浆 晶 体 渗 透 压 升 高 可 使 其 分 泌 增 加",
+                " 经 垂 体 门 脉 运 至 神 经 垂 体"
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        }
+
+    ]
+}

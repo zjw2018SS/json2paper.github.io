@@ -1,0 +1,1139 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "实验动物学",
+        "type_all_num": 28,
+        "type_1_num": 28
+    },
+    "body": [
+        {
+            "questions": [
+                "SCID小鼠属于：                              "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T淋巴细胞免疫缺陷动物疾病模型 ",
+                "B淋巴细胞免疫缺陷动物疾病模型  ",
+                "NK细胞免疫缺陷动物疾病模型 ",
+                "T淋巴细胞、B淋巴细胞联合免疫缺陷动物疾病模型 "
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "《中华人民共和国生物安全法》于什么时候正式施行？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2020年10月17日 ",
+                "2021年4月15日 ",
+                "2019年10月1日 ",
+                "2018年9月1日 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "1988年，我国颁布了第一部实验动物法规是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《实验动物管理条例》 ",
+                "《实验动物质量管理办法》 ",
+                "《实验动物许可证管理办法》   ",
+                "《关于善待实验动物的指导性意见》 "
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "免疫缺陷动物不能饲养在以下哪种实验动物环境设施中："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普通环境  ",
+                "屏障环境 ",
+                "隔离环境 ",
+                "IVC系统 "
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "悉生动物应饲养在下列哪种设施环境中：                                     "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普通环境  ",
+                "屏障环境  ",
+                "隔离环境  ",
+                "带负压的特殊感染设施 "
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "实验动物福利伦理要求在动物实验中要选择“仁慈终点”，以下关于“仁慈终点”叙述错误的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "实验完成后实验动物都要处以安乐死  ",
+                "实验获得所需数据后，即刻停止实验。 ",
+                "即使实验未达预期目标，但动物已达允许承受的最高级别痛苦，即刻停止实验。 ",
+                "动物出现实验未预料的或与实验无关的痛苦，即刻停止实验。 "
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "正压屏障环境实验动物设施，以下哪项气压差顺序是正确的："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动物实验室＞ 洁净走廊 ＞污物走廊 ＞清洗消毒室 ＞室外 ",
+                "洁净走廊＞动物实验室＞污物走廊 ＞清洗消毒室 ＞室外 ",
+                "洁净走廊＞动物实验室＞清洗消毒室＞污物走廊＞室外 ",
+                "动物实验室＞ 洁净走廊 ＞清洗消毒室＞污物走廊＞室外 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在动物实验设计中，对使用实验动物应遵循的“3R原则”是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "重复性、相似性、差异性  ",
+                "重复、增加、合理  ",
+                "减量化、再利用、再循环 ",
+                "替代、减少、优化 "
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "雌性小鼠妊娠期和哺乳期分别为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "15天；15天 ",
+                "21天；21天  ",
+                "15天；21天 ",
+                "21天；15天 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对大鼠的阴道涂片，经染色镜检，视野布满大量角化上皮细胞和少量有核上皮细胞，此大鼠处于动情周期的哪个时期："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动情前期 ",
+                "动情期 ",
+                "动情后期 ",
+                "动情间期 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于大、小鼠乳鼠的性别鉴定，下列说法哪一项是正确的：                 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "雌鼠的生殖器距肛门较远 ",
+                "雄鼠的生殖器距肛门较近 ",
+                "雌鼠生殖器与肛门之间长毛 ",
+                "雄鼠生殖器与肛门之间长毛 "
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在同源导入近交系的培育中："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "配系和供系必须都是近交系 ",
+                "配系和供系都不必是近交系 ",
+                "配系必须是近交系，供系可以是带有差异基因的任何一种类型的动物 ",
+                "供系必须是近交系，配系可以是带有差异基因的任何一种类型的动物 "
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "培育同源导入近交系时，当导入的目的基因为常染色体隐性基因，则采用哪种方法：                                                                   "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "杂交—回交 ",
+                "回交 ",
+                "杂交 ",
+                "杂交—互交 "
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "经静脉注射给体重为2kg兔做全身麻醉，需要25%浓度的乌拉坦的用药量是多少毫升？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "4ml ",
+                "8ml ",
+                "10ml ",
+                "25ml "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "C57BL/6J-TgN（CD8Ge）23Jwg小鼠为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "转基因动物 ",
+                "突变系 ",
+                "同类系 ",
+                "杂交F1代 ",
+                "重组近交系 "
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在近交系遗传质量检测中，用毛色基因测试法，如果待测小鼠的后代毛色一致，则可以得出以下结论："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "该品系为标准品系 ",
+                "该品系遗传组成发生了改变，不是标准品系 ",
+                "待测小鼠的毛色基因为纯合子 ",
+                "待测小鼠的毛色基因为杂合子 "
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不属于重组近交系在遗传组成上的特点：                          "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纯合性 ",
+                "同基因性 ",
+                "杂合性 ",
+                "来自于两个祖系的遗传成分不均等 "
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "根据John Gurdon克隆动物的原理，临床上治疗性克隆是将患者已高度分化的皮肤等体细胞的细胞核移植到去核的卵母细胞中，形成重组胚，把重组胚体外培养到哪个时期，然后取ES细胞，定向分化为患者所需的特定类型细胞。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "桑椹期 ",
+                "囊胚期 ",
+                "原肠期 ",
+                "神经胚期 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "显微注射法制备转基因动物，外源目的基因是注射到："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "雄性原核 ",
+                "雌性原核 ",
+                "融合后的受精卵核 ",
+                "受精卵的细胞质 ",
+                "卵子透明带 "
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "组织特异性打靶小鼠的建立是基于组织特异性启动子调控表达下列哪种酶，这种重组酶能特异地识别loxp序列。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "NotⅠ ",
+                "Cre ",
+                "Flp ",
+                "Cas9  ",
+                "TALEN "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "每年的几月几日为“世界实验动物日”？旨在：倡导科学、人道地开展动物实验，严格遵守“3R原则”，对实验动物实施保护。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "4月22日 ",
+                "4月24日 ",
+                "6月5日 ",
+                "10月4日 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "动物实验必需到具有下列哪种许可证的单位开展实验："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "《实验动物实验许可证》  ",
+                "《实验动物使用许可证》 ",
+                "《实验动物经营许可证》 ",
+                "《实验动物生产许可证》 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下面关于大、小鼠饲料叙述错误的是：                                 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大、小鼠饲喂的饲料为全价颗粒饲料 ",
+                "大、小鼠在生长期和繁殖期所喂饲料的配方不一样 ",
+                "大、小鼠的饲料在饲喂之前必须灭菌处理 ",
+                "为了保证大、小鼠的健康，在饲料的配方中应添加适当比例的抗生素 ",
+                "营养成分损失最少，饲料最理想有效的灭菌方式是60Co辐照 "
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "按体内外携带微生物和寄生虫种类数量从多到少排列，下列哪一项是正确的：                                                             "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普通动物、清洁动物、无特定病原体动物、悉生动物 ",
+                "普通动物、悉生动物、清洁动物、无菌动物 ",
+                "普通动物、无特定病原体动物、悉生动物、清洁动物 ",
+                "普通动物、悉生动物、无特定病原体动物、无菌动物 "
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在动物实验设计中，对使用实验动物应遵循的“3R原则”是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "重复性、相似性、差异性 ",
+                "重复、增加、合理 ",
+                "减量化、再利用、再循环 ",
+                "替代、减少、优化 "
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在近交系遗传质量检测中，用毛色基因测试法，如果待测小鼠的后代毛色一致，则可以得出以下结论："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "该品系为标准品系 ",
+                " 该品系遗传组成发生了改变，不是标准品系 ",
+                "待测小鼠的毛色基因为纯合子 ",
+                " 待测小鼠的毛色基因为杂合子 "
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对大鼠的阴道涂片，经染色镜检，视野布满大量角化上皮细胞和少量有核上皮细胞，此大鼠处于动情周期的哪个时期："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动情前期  ",
+                "动情期 ",
+                "动情后期 ",
+                "动情间期 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+       {
+            "questions": [
+                "适合于做注射药热原检查实验的是：                           "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "小鼠 ",
+                "大鼠 ",
+                "豚鼠  ",
+                "兔 ",
+                "鲎血 "
+            ],
+            "answers": [
+                "DE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "哪些动物的培育成功具有划时代的意义，为实验动物学独立于其他学科奠定了基础："
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "近交系动物 ",
+                "转基因动物  ",
+                "克隆动物     ",
+                "悉生动物    ",
+                "免疫缺陷动物 "
+            ],
+            "answers": [
+                "ADE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列双走廊式屏障环境运行路线中，正确的是："
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "空气流向：按气压差由清洁走廊 →动物饲养室或实验室→ 污物走廊 →清洗消毒室 →室外 ",
+                "人员流向：一更室 → 淋浴室→二更室→ 风淋室→缓冲间 →清洁走廊 →动物饲养室或实验室→污物走廊 → 出口缓冲间 ",
+                "动物流向： 传递间→ 检疫室 → 清洁走廊 →动物饲养室或实验室→ 污物走廊 →出口缓冲间  ",
+                "物品流向：清洗消毒室 →高压蒸汽灭菌（传递窗或传递槽）→洁净物品储存室 → 清洁走廊 →动物饲养室或实验室→ 污物走廊 →出口缓冲间 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "我国实验动物国家标准，按微生物和寄生虫控制分类，将大、小鼠分为哪几个等级： "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "普通级动物 ",
+                "清洁级动物 ",
+                "SPF级动物 ",
+                "悉生级动物",
+                "无菌级动物 "
+            ],
+            "answers": [
+                "BCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "重组近交系在遗传组成上的特点是："
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "纯合性     ",
+                "同基因性     ",
+                "杂合性    ",
+                "来自于两个祖系的遗传成分不均等 "
+            ],
+            "answers": [
+                "ABD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "适合于做注射药热原检查实验的是："
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "小鼠 ",
+                "大鼠  ",
+                "豚鼠 ",
+                "兔 ",
+                "鲎血 "
+            ],
+            "answers": [
+                "DE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                3,
+                4
+            ]
+        },  {
+            "questions": [
+                "分别简述小鼠、大鼠、豚鼠、兔的抓取和固定方法？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "绘图小鼠编号：168号、49号？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "简述小鼠的灌胃和兔的耳缘静脉注射方法？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "实验动物全身注射麻醉的注意事项？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                " 简述离乳幼鼠的性别鉴定方法？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "  绘图所观察的阴道涂片并标明大鼠处于性周期的哪个时期？（如实验失败，请分析原因）"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                " 简述家兔颈总动脉插管术操作步骤？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },
+        {
+            "questions": [
+                " 绘家兔的心脏和周围主要分支血管图？"
+            ],
+            "type": [
+                "简答题"
+            ],
+            "type_code": "5",
+            "options": [],
+            "answers": [],
+            "analysis": []
+        },        {
+            "questions": [
+                "动物实验不能在实验动物饲养室内进行，应在动物实验室内进行，并且应回避其他实验动物。 "
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "正确"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "各类实验动物的饲养和动物实验都必须经实验动物福利伦理委员会审查并获批准后方可开始，并接受日常的动物福利和伦理监督检查。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "正确"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "从事实验动物工作的人员应进行上岗前健康检查和年度健康检查，并且每次进动物饲养室或实验室之前还必须清楚了解自己最近是否患有不宜进入饲养室或实验室的疾病或生理状态。 "
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "正确"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "先天下午合笼的小鼠，第二天清晨如发现有阴道栓，则证明小鼠已经怀孕，且胚胎的年龄为0.5天。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "兔的胰腺弥散在十二指肠转弯处，胰管与胆总管汇合后共同开口于十二指肠乳突。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "SPF动物所携带的微生物是未知的，而悉生动物所携带微生物是已知的。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "正确"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "B6×D2F1小鼠如果要留种繁殖后代，需按家系内选择方法从B6×D2F1小鼠中选择表型最佳个体作为亲本，然后再繁殖后代得到B6×D2F1小鼠。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "如果购买的是具有合格证的实验动物，则不需隔离检疫，可直接进入屏障环境设施开始实验或生产。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "为了保证实验动物的质量，实验动物都必须积极采取疫苗接种以及出现疾病时及时实行药物治疗的有效措施。 "
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错误"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

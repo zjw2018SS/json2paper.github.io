@@ -1,0 +1,1314 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "心血管系统疾病",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年05月19日13小时41分51秒",
+        "id": "id-lwd414dg-ml0btrzuw"
+    },
+    "body": [
+        {
+            "questions": [
+                "原发性高血压之肾脏病变特点，下列描述错误的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "双肾呈对称性缩小",
+                "双肾表面呈细小颗粒状",
+                "切面肾皮质变薄",
+                "切面小动脉壁增厚、变硬、管腔狭窄",
+                "肾表面可见多数小出血点"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "动脉粥样硬化的危险因素不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吸烟",
+                "高脂血症",
+                "高血压",
+                "遗传因素",
+                "适量运动"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "动脉粥样硬化的粥样斑块内不可见：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胆固醇结晶",
+                "泡沫细胞",
+                "淋巴细胞",
+                "无定形坏死物",
+                "中性粒细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "动脉粥样硬化的继发性病变中，下述哪个最少见 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑血栓形成和梗死",
+                "腹主动脉瘤",
+                "心瓣膜病",
+                "冠状动脉血栓形成",
+                "冠状动脉斑块内出血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "风湿性心内膜炎时疣状赘生物最常见的部位是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二尖瓣的闭锁缘",
+                "二尖瓣的游离缘",
+                "三尖瓣的闭锁缘",
+                "三尖瓣的游离缘",
+                "腱索"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "二尖瓣粘连致左心房扩张，X线显示心脏为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "球形心",
+                "梨形心",
+                "虎斑心",
+                "靴形心",
+                "绒毛心"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "心肌间质内大量淋巴单核细胞浸润应考虑：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌性心肌炎",
+                "病毒性心肌炎",
+                "风湿性心肌炎",
+                "心肌梗死",
+                "心肌病"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "冠状动脉粥样硬化合并血栓形成的主要原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血液凝固性增高",
+                "血流旋涡形成",
+                "血流停止",
+                "血管内膜损伤",
+                "血流缓慢"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于慢性风湿性心瓣膜病的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瓣膜硬化",
+                "瓣叶互相粘连",
+                "腱索增粗缩短",
+                "瓣膜增厚卷曲",
+                "瓣膜穿孔"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "感染性心内膜炎的瓣膜赘生物所具备的成分，不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大量淋巴细胞",
+                "坏死组织",
+                "细菌菌落",
+                "血小板",
+                "纤维素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下述有关心肌梗死的叙述哪项是错误的 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "透壁性心肌梗死多是由于冠状动脉粥样硬化伴有血栓形成而引起的",
+                "心肌梗死多发生于冠状动脉前降支所供血的区域",
+                "心肌梗死是一种出血性梗死",
+                "心脏破裂多见于梗死发作后一周左右",
+                "梗死后形成的心室壁病变继发附壁血栓形成"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心内膜下心肌梗死的特点不包括 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "梗死仅累及心室侧壁内侧1/3的心肌",
+                "病变不规则地分布于左心室四周",
+                "常为多发性、小灶性",
+                "病变常波及乳头肌、肉柱",
+                "严重者可致环状梗死"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "缓进性高血压最具特征的细动脉病变是 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "洋葱皮样改变",
+                "纤维素样坏死",
+                "内膜粥样斑块形成",
+                "玻璃样变",
+                "内膜纤维组织增生"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "良性高血压晚期可引起 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瘢痕性固缩肾",
+                "原发性颗粒性固缩肾",
+                "肾盂积水",
+                "肾动脉狭窄",
+                "淤血性肾硬化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "粥样班块的成分不包括 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肉芽组织",
+                "胆固醇结晶",
+                "中性粒细胞",
+                "淋巴细胞",
+                "泡沫细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "风湿病在病理诊断上最有意义的病变为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心肌局灶性坏死",
+                "心内膜纤维组织增生",
+                "胶原纤维的纤维素样变性",
+                "风湿小体形成",
+                "心外膜纤维素渗出"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "风湿病时，炎症性增生的主要病变是 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动脉管壁黏液变性  ",
+                "大关节积液、肿胀  ",
+                "心肌间质内风湿小体形成",
+                "心内膜炎疣状赘生物生成 ",
+                "心外膜呈绒毛状"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某男、42岁，长期胸闷、气短、心痛，没及时就医，不幸死亡，尸解发现心包狭窄，包内有绒毛状物。则该人长期患有的疾病最可能为 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n心肌梗塞",
+                "\n心率失常、早搏、心动过速",
+                "\n风湿性心外膜炎",
+                "\n心瓣膜病",
+                "\n心内膜炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "高血压病最严重的病变是:（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心室肥大",
+                "颗粒性固缩肾",
+                "脑软化",
+                "脑出血",
+                "视网膜出血"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "高血压病脑出血好发的部位是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "豆状核和丘脑",
+                "内囊和基底节",
+                "蛛网膜下腔",
+                "侧脑室",
+                "大脑脊髓"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "尸检见：腹主动脉内膜尚光滑，可见散在性大小不等、平坦或微隆起的黄白色斑块及条纹，呈细长形，与动脉长轴平行，应考虑：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动脉白色血栓",
+                "粥样硬化脂纹",
+                "粥样硬化纤维斑块",
+                "粥样硬化粥样斑块",
+                "粥样斑块继发改变"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者男性，45岁，一次饮酒后与人争吵时，突感心前区疼痛，伴面色苍白、恶心、呕吐，血清CPK-MB明显增高。患者出现上述症状的原因，可能是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "风湿性心包炎",
+                "风湿性心肌炎",
+                "心肌缺血",
+                "颅内高压",
+                "脑出血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "AS中，吞噬脂质的泡沫细胞主要来源于以下哪种细胞（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中性粒细胞和组织细胞",
+                "平滑肌细胞和单核细胞",
+                "巨噬细胞和内皮细胞",
+                "平滑肌细胞和内皮细胞",
+                "间质细胞和中性粒细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "风湿病的基本病变不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "钙化",
+                "纤维素样坏死",
+                "风湿小体",
+                "纤维瘢痕形成",
+                "黏液样变性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于亚急性感染性心内膜炎赘生物的特点，错误的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单发或多发",
+                "大小不一致",
+                "外观色灰黄、污秽、干燥、质脆",
+                "细菌位于赘生物表面",
+                "脱落可引起动脉性栓塞和血管炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于原发性高血压脑出血的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以基底节内囊部多见",
+                "内囊处豆纹动脉与大脑中动脉呈直角，易受血压冲击破裂",
+                "小动脉痉挛，可引起漏出性出血",
+                "脑出血原因都是内囊区小动脉痉挛引起",
+                "微动脉瘤破裂"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "动脉粥样硬化引起患者死亡的常见原因不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾衰竭",
+                "大面积心肌梗死",
+                "严重心律失常",
+                "主动脉瘤破裂出血",
+                "脑动脉血栓形成或出血"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "心内膜下心肌梗死的特点，不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "梗死主要累及心室壁内侧1/3的心肌",
+                "多发性、小灶性",
+                "严重时可致环状梗死",
+                "常波及乳头肌、肉柱",
+                "病变常局限于某支冠状动脉的供血范围"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "二尖瓣狭窄时，由于血液动力学的变化，首先引起 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心房扩张",
+                "左心室扩张",
+                "右心室萎缩",
+                "右心室扩张",
+                "肺静脉扩张"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对于风湿性关节炎，下列记述哪一项错误 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病变滑膜充血肿胀",
+                "主要累及大关节",
+                "关节表现为红、肿、热、痛、功能障碍",
+                "关节腔内渗出浆液及纤维蛋白",
+                "反复发作易致关节畸形"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性风湿病最常见致死原因是： （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "风湿性心内膜炎",
+                "风湿性心肌炎",
+                "风湿性心外膜炎",
+                "风湿性动脉炎",
+                "风湿性冠状动脉炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "风湿性心外膜炎的病理特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肉芽肿性炎",
+                "变质性炎",
+                "纤维素性或浆液纤维素性炎",
+                "化脓性炎",
+                "出血性炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下述有关高血压病的叙述中，哪一项是错误的 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常引起左心肥大",
+                "脑出血是主要死因",
+                "引起颗粒性肾固缩",
+                "引起视乳头水肿",
+                "常引起下肢坏疽"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "动脉粥样硬化最危险的并发症是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "斑块内出血",
+                "斑块破裂",
+                "动脉瘤形成",
+                "粥瘤性溃疡",
+                "钙化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "冠状动脉粥样硬化最常累及的动脉分支是？因此可造成？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左冠状动脉主干",
+                "右冠状动脉主干",
+                "左冠状动脉前降支",
+                "左冠状动脉旋支",
+                "右冠状动脉旋支"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "冠状动脉粥样硬化病变为？常可引起？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多发生于血管的游离侧，呈新月形，使管腔呈偏心性狭窄",
+                "多发生于血管的心壁侧，呈新月形，使管腔呈对称性狭窄",
+                "多发生于血管的心壁侧，呈新月形，使管膣呈偏心性狭窄",
+                "初期就累及血管的整个管腔，呈满月形，使管腔严重狭窄",
+                "初期就累及血管整个管腔，呈满月形，但管腔狭窄不严重"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者女性，60岁，在精神紧张、情绪激动后感觉头晕、头痛、眼花、耳鸣，血压升高，休息后血压恢复正常。检查无其他异常。临床诊断为原发性高血压。此阶段患者可否有脏器的器质性病变？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小动脉硬化",
+                "细动脉硬化",
+                "大动脉硬化",
+                "细动脉硬化伴心脏肥大",
+                "基本无内脏器官的器质性改变"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "风湿细胞不具备以下哪项特征？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "体积大，胞浆丰富",
+                "胞浆略嗜碱性",
+                "核可呈毛虫状或枭眼状",
+                "胞浆内可见吞噬的红细胞",
+                "可为单核或双核"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "风湿性心肌炎病变主要累及: （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心肌细胞",
+                "心肌间质结缔组织",
+                "心肌间质的小血管",
+                "心肌间质神经组织",
+                "心肌间质的嗜银纤维"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者男性，40岁，因拔牙术后出现高热、关节疼痛。体检时在心尖区可闻及杂音，下肢和躯干可见瘀点，脾大。实验室检查：末梢血白细胞18×109/L。该患者可能患？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "毒血症",
+                "亚急性感染性心内膜炎",
+                "中毒性休克",
+                "风湿性关节炎",
+                "牙周脓肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者女性，28岁，在心尖区可闻舒张期隆隆样杂音及收缩期吹风样杂音，既往有关节疼痛史。该患者瓣膜的病变可能是？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二尖瓣狭窄",
+                "主动脉瓣关闭不全",
+                "二尖瓣关闭不全",
+                "主动脉瓣狭窄",
+                "二尖瓣狭窄和关闭不全"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "风湿性心外膜炎导致粘连的原因是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浆液渗出过多",
+                "纤维素渗出过多",
+                "风湿肉芽肿形成",
+                "中性白细胞渗出过多",
+                "出血"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "高血压所致的颗粒性固缩肾的镜下病理改变，不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾入球动脉玻璃样变，管壁增厚，管腔狭窄",
+                "间质纤维结缔组织增生和淋巴细胞浸润",
+                "受累肾小球因纤维化和玻璃样变，所属肾小管相对完好",
+                "萎缩与代偿弥漫性交杂分布，致肾表面呈细颗粒状",
+                "病变轻微的肾小球及所属肾小管因功能代偿而肥大、扩张"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "一例尸检中，肉眼见主动脉近血管分叉处有多个淡黄/灰黄色条纹及斑块，有的平坦，有的隆起，宽约1～5mm。镜下的病理变化特点，不包括（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动脉中膜增厚",
+                "内膜有纤维组织增生形成纤维帽",
+                "内膜下大量泡沫细胞",
+                "内膜下可见大量胆固醇结晶和红染坏死物",
+                "斑块底部肉芽组织形成"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "高血压失代偿期心脏变为  （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心室向心性肥大         ",
+                "左心室明显扩张  ",
+                "左心室乳头肌明显增粗",
+                "左心室肌收缩力加强   ",
+                "心肌出现弥漫性纤维化 "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "风湿性心内膜炎，疣状赘生物的实质是 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "风湿性肉芽肿",
+                "机化的瘢痕",
+                "红色血栓",
+                "白色血栓",
+                "混合血栓"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者男，55岁，临床诊断冠状动脉粥样硬化及脑动脉硬化，有吸烟史。近1年来，右下肢行走时疼痛。休息后好转，近1月来，右脚趾变黑，失去知觉。此种病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "液化性坏死",
+                "干性坏疽",
+                "湿性坏疽",
+                "干酪样坏死",
+                "气性坏疽"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "风湿病的基本病变不包括 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏液变性",
+                "纤维素样坏死",
+                "炎细胞浸润",
+                "Aschoff细胞增生",
+                "脓肿形成"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心肌梗死( MI)后出现肉眼可见的病理变化，最早为 （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1小时后",
+                "2小时后",
+                "4小时后",
+                "5小时后",
+                "6小时后"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不符合急性细菌性心内膜炎的是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n瓣膜赘生物体积大、污秽、易脱落    ",
+                "\n可引起心瓣膜穿孔、溃疡形成 ",
+                "\n常发生于已有病变的心瓣膜",
+                "\n常伴有败血症  ",
+                "\n可引起乳头肌断裂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "实验3作业：G显带核型分析作业",
+        "type_all_num": 5,
+        "type_1_num": 5,
+        "time": "24年06月01日16小时44分04秒",
+        "id": "id-lwvv9ile-qd2xkwml4"
+    },
+    "body": [
+        {
+            "questions": [
+                "下列哪组染色体为近端着丝粒染色体( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " A组",
+                " B组",
+                " C组",
+                " E组",
+                " D组"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "一个体细胞的全部染色体所构成的图像称( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 系谱",
+                " 核型",
+                " 钝挫型",
+                " 表现度",
+                " 阈值"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "最常用的染色体显带技术是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " C显带",
+                " G显带",
+                " N显带",
+                " Q显带",
+                " R显带"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一患者前去医院就诊，临床表现为:发育迟缓，后发际低，副性征发育不良，原发性闭经，身体矮小，肘外翻，蹼颈等，根据临床体征可以初步诊断为( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Klinefelter 综合征",
+                " Turner 综合征",
+                " Cri-du-chat 综合征",
+                " Edwards 综合征",
+                " Patau 综合征"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "正常健康人群中存在的一些恒定的染色体微小变异，称为( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 核型",
+                " 界标",
+                " 随体柄",
+                " 副缢痕",
+                " 染色体多态性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

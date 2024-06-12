@@ -1,0 +1,4969 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "course": "免疫",
+        "type_all_num": 1,
+        "type_1_num": 1
+    },
+    "body": [
+        {
+            "questions": [
+                "关 于 生 理 学 这 门 学 科 下 列 叙 述 哪 些 是不 正 确 的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是 生 物 科 学 中 的 一 个 分 支",
+                " 是 医 学 的 一 门 基 础 理 论 科 学",
+                " 是 研 究 生 物 体 的 生 命 活 动 及 其 活 动 规 律 的 科 学",
+                " 主 要 是 从 细 胞 分 子、 器 官 系 统 和 整 体 三 个 水 平 研 究 生 命 的 活 动 规 律",
+                " 以上都不对"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下 列 生 理 过 程 属 于 正 反 馈 的 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 排 尿",
+                " 血 压 相 对 恒 定 的 维 持",
+                " 分 娩 过 程",
+                " 凝 血 过 程",
+                " 骨 骼 肌 的 收 缩"
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "影 响 机 体 内 环 境 稳 态 的 因 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 外 环 境 的 强 烈 变 动",
+                " 体 内 温 度 显 著 增 高 或 降 低",
+                " 体 内 酸 碱 度 过 分 变 动",
+                " 精 神 紧 张",
+                " 每 天 睡 眠 超 过8 小 时"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "负 反 馈 调 节 的 缺 点 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 不 敏 感",
+                " 有 波 动 性",
+                " 不 可 逆",
+                " 滞 后",
+                " 耗 费 细 胞 本 身 能 量"
+            ],
+            "answers": [
+                "BD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "神 经 调 节 与 体 液 调 节 比 较 有 以 下 特 点\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 较 迅 速",
+                " 较 缓 慢",
+                " 较 精 确",
+                " 较 广 泛",
+                " 作 用 持 续 时 间 长"
+            ],
+            "answers": [
+                "AC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下 列 情 况 中, 不 属 于 自 身 调 节 的 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 一 定 范 围 内 心 肌 纤 维 初 长 度 愈 长, 收 缩 强 度 愈 大",
+                " 人 过 度 通 气 后, 呼 吸 暂 停",
+                " 动 脉 血 压 升 高 时, 肾 血 流 量 相 对 稳 定",
+                " 血 浆PH 值 上 升 时, 尿 中 泌 H+ 减 少",
+                " 人 在 寒 冷 气 候 中 出 现 寒 战"
+            ],
+            "answers": [
+                "BDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关 于 条 件 反 射 的 概 念 下 列 叙 述 哪 些 是 正 确 的\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 是 后 天 获 得 的",
+                " 是 一 种 高 级 的 神 经 活 动",
+                " 无 固 定 的 反 射 弧",
+                " 可 以 消 退",
+                " 数 量 无 限"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下 列 哪 项属 于 反 射 的 概 念\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 反 射 是 神 经 系 统 活 动 的 基 本 过 程",
+                " 反 射 包 括 非 条 件 反 射 与 条 件 反 射",
+                " 反 射 中 枢 均 位 于 大 脑 皮 层",
+                " 条 件 反 射 是 建 立 在 非 条 件 反 射 基 础 之 上",
+                " 反 射 弧 必 须 完 整 才 能 进 行 反 射"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "机 体 功 能 处 于 稳 态 有 赖 于\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 神 经 调 节",
+                " 体 液 调 节",
+                " 自 身 调 节",
+                " 正 反 馈",
+                " 负 反 馈"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "兴 奋 通 过 神 经- 肌 肉 接 头 时, 乙 酰 胆 碱 与 受 体 结 合, 使 终 板 膜"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 对Na+、K+ 通 透 性 增 加, 发 生 超 极 化",
+                " 对Na+、K+通 透 性 增 加, 发 生 去 极 化",
+                " 仅 对K+ 通 透 性 增 加, 发 生 超 极 化",
+                " 仅 对Ca2+ 通 透 性 增 加, 发 生 去 极 化",
+                " 对 乙 酰 胆 碱 通 透 性 增 加, 发 生 去 极 化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "神 经 纤 维 的 阈 电 位 是 指 引 起 膜 对 以 下 哪 种 离 子 的 通 透 性 突 然 增 大 的 临 界 膜 电 位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " K+",
+                " Na+",
+                " Ca2+",
+                " Cl-",
+                " Mg2+"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "人 工 地 减 少 细 胞 浸 溶 液 中Na+ 浓 度, 则 单 根 神 经 纤 维 动 作 电 位 的 超 射 值 将"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 增 大",
+                " 不 变",
+                " 减 小",
+                " 先 增 大 后 减 小",
+                " 先 减 小 后 增 大"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "机 体 对 适 宜 刺 激 所 产 生 的 反 应, 由 活 动 状 态 转 变 为 相 对 静 止 状 态, 称 为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 兴 奋 性 反 应",
+                " 抑 制 性 反 应",
+                " 双 向 反 应",
+                " 适 应 性 反 应",
+                " 应 急 性 反 应"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "能 引 起 肌 肉 完 全 强 直 收 缩 的 最 低 刺 激 频 率 取 决 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 刺 激 强 度",
+                " 阈 值 大 小",
+                " 肌 肉 的 兴 奋 性",
+                " 肌 肉 收 缩 力 的 大 小",
+                " 单 收 缩 的 持 续 时 间"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "当 一 伸 肌 受 到 过 度 拉 长 时, 其 张 力 突 然 丧 失, 其 原 因 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 伸 肌 肌 梭 过 度 兴 奋",
+                " 屈 肌 肌 梭 过 度 兴 奋",
+                " 屈 肌 肌 梭 完 全 失 负 荷",
+                " 伸 肌 的 腱 器 官 兴 奋",
+                " 伸 肌 的 腱 器 官 完 全 失 负 荷"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "“ 全 或 无” 现 象 见 于:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 锋 电 位",
+                " 静 息 电 位",
+                " 感 受 器 电 位",
+                " 终 板 电 位",
+                " 突 触 后 电 位"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在 记 录 神 经 干 单 向 动 作 电 位 时, 通 常 使 用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 细 胞 内 记 录",
+                " 单 级 置 于 正 常 部 位",
+                " 双 电 极 均 置 于 损 伤 部 位 之 前",
+                " 双 电 极, 分 别 置 损 伤 部 位 之 前 和 之 后",
+                " 双 电 极, 一 个 电 极 在 损 伤 之 后"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "低 温 贮 存 较 久 的 血 液, 血 浆 中K+ 浓 度 升 高 是 由 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Na+-K+ 泵 活 性 逐 渐 消 失",
+                " 溶 血",
+                " 缺O2",
+                " 葡 萄 糖 供 应 不 足",
+                " 衰 老 红 细 胞 增 多"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "终板膜上的受体是( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " M1受体",
+                " M2受体",
+                " N受体",
+                " α受体",
+                " β受体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "运动神经兴奋时,何种离子进入轴突末梢的量与囊泡释放的量呈正变关系?( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ca2+",
+                " Mg2+",
+                " Na+",
+                " K+",
+                " Cl-"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "终 板 膜 上 的 受 体 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " M1 受 体",
+                " M2 受 体",
+                " N受 体",
+                " α受 体",
+                " β受 体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "决定肌肉收缩能力的最重要因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 前负荷",
+                " 后负荷",
+                " 横桥数目",
+                " 肌小节的初长度",
+                " 肌肉内部功能状态"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "骨骼肌中的调节蛋白是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肌钙蛋白",
+                " 肌凝蛋白",
+                " 原肌凝蛋白",
+                " 原肌凝蛋白和肌凝蛋白",
+                " 原肌凝蛋白和肌钙蛋白"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "参与细胞膜易化扩散的蛋白质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 通道蛋白与调节蛋白",
+                " 泵蛋白与载体蛋白",
+                " 通道蛋白与通道蛋白",
+                " 泵蛋白与通道蛋白",
+                " 调节蛋白与泵蛋白"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "主 动 转 运 的 特 点 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 需 要 细 胞 本 身 消 耗 生 物 能",
+                " 以 离 子 通 道 为 基 础",
+                " 能 逆 电 位 梯 度 转 运",
+                " 只 能 顺 浓 度 梯 度 转 运",
+                " 能 逆 浓 度 梯 度 转 运"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细 胞 膜 上 钠 泵 活 动 的 意 义 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 维 持 细 胞 外 液 的 正 常 钠 浓 度",
+                " 维 持 细 胞 内 液 由 正 常 浓 度",
+                " 建 立 起 势 能 贮 备",
+                " 维 持 可 兴 奋 组 织 的 兴 奋 性",
+                " 维 持 细 胞 的 正 常 体 积"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "证 明 静 息 电 位 是K+ 平 衡 电 位 的 方 法 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 在 细 胞 营 养 液 中 改 变K+ 离 子 浓 度",
+                " 向 细 胞 营 养 液 中 加K+ 通 道 阻 断 剂",
+                " 用 膜 片 钳 技 术 观 察K+ 的 电 导",
+                " 给 细 胞 以 阈 上 刺 激",
+                " 测 细 胞 内 外K+ 浓 度, 按Nernst 公 式 推 算EK 值"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "动 作 电 位 在 同 一 细 胞 上 传 导 的 特 点 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 双 向 性",
+                " 由 局 部 电 流 引 起",
+                " 不 衰 减 性 扩 布",
+                " 传 导 距 离 远",
+                " 传 导 速 度 与 刺 激 强 度 有 关"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下 列 能 反 映 组 织 兴 奋 性 的 指 标 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 时 值",
+                " 基 强 度",
+                " 阈 强 度",
+                " 强 度- 时 间 曲 线",
+                " 阈 下 刺 激"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "能 降 低 肌 肉 收 缩 能 力 的 因 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " Ca2+",
+                " 肾 上 腺 素",
+                " 咖 啡 因",
+                " 缺 氧",
+                " 酸 中 毒"
+            ],
+            "answers": [
+                "DE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以 载 体 为 中 介 的 易 化 扩 散 的 特 点 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 结 构 特 异 性",
+                " 饱 和 现 象",
+                " 竞 争 性 抑 制",
+                " 不 依 赖 于 细 胞 膜 上 的 蛋 白 质",
+                " 能 逆 电- 化 学 梯 度 转 运"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在 神 经- 肌 肉 接 头 处 兴 奋 传 递 时, 下 列 能 影 响 轴 突 末 梢 束 泡 释 放 的 因 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 细 胞 外 液 中 的Ca2+",
+                " 细 胞 外 液 中 的Mg2+",
+                " 轴 突 末 梢 动 作 电 位 幅 度",
+                " 肌 膜 动 作 电 位 幅 度",
+                " 接 头 后 膜 的 电 位 变 化"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下 列 属 于 主 动 转 运 过 程 的 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 动 作 电 位 去 极 化 过 程",
+                " Ca2+ 由 终 池 进 入 肌 浆",
+                " 肌 浆 中 的Ca2+ 转 运 回 终 池",
+                " 复 极 完 毕 后Na+ 出 细 胞",
+                " 复 极 完 毕 后K+ 入 细 胞"
+            ],
+            "answers": [
+                "CDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "局 部 兴 奋\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 具 有“ 全 或 无” 特 征",
+                " 可 进 行 时 间 总 和",
+                " 可 进 行 空 间 总 和",
+                " 呈 电 紧 张 性 扩 布",
+                " 引 起 细 胞 产 生 动 作 电 位"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "纤溶的基本过程是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 纤溶酶原激活与纤维蛋白降解",
+                " 纤溶酶原激活物形成与纤溶酶原激活",
+                " 纤溶酶形成与抑制物的释放",
+                " 纤溶酶原激活物质形成与抑制物释放",
+                " 纤维蛋白形成与纤维蛋白降解"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某 人 血 清 仅 含 有 抗A 凝 集 素, 他 的 血 型 是:_"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " A 型",
+                " AB 型",
+                " B 型",
+                " O 型",
+                " 以 上 都 不 是"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "内 源 性 和 外 源 性 凝 血 的 主 要 区 别 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 前 者 发 生 在 体 内, 后 者 发 生 在 体 外",
+                " 前 者 发 生 在 血 管 内, 后 者 发 生 在 血 管 外",
+                " 前 者 只 需 体 内 因 子, 后 者 还 需 外 加 因 子",
+                " 前 者 只 需 血 浆 因 子, 后 者 还 需 组 织 因 子",
+                " 激 活 因 子Ⅸ 的 途 径 不 同"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当A型 血 的 人 的 红 血 球 和B型 血 的 人 的 血 清 相 混 时, 红 细 胞 发 生:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 凝 固",
+                " 叠 连",
+                " 凝 集",
+                " 粘 着",
+                " 吸 附"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "凝 血 因 子Ⅷ 的 作 用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 激 活 因 子Ⅸ",
+                " 使Ⅹa 激 活 因 子Ⅱ 的 作 用 加 快",
+                " 使Ⅸa 激 活 因 子Ⅹ 的 作 用 加 快",
+                " 使Ⅱa激 活 因 子Ⅰ 的 作 用 加 快",
+                " 使Ⅸ 活 化 成Ⅸa"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "血 管 外 破 坏 红 细 胞 的 主 要 场 所 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肾 和 肝",
+                " 脾 和 肝",
+                " 胸 腺 和 骨 髓",
+                " 肺",
+                " 淋 巴 结"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "内 源 性 凝 血 过 程 一 般 开 始 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ca2+ 的 参 与",
+                " 磷 脂 胶 粒 反 应",
+                " 血 小 板 聚 集",
+                " 组 织 细 胞 释 放 因 子Ⅲ",
+                " 激 活 接 触 因 子Ⅻ"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关 于 比 重, 以 下 叙 述 正 确 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 红 细 胞> 血 液> 血 浆",
+                " 血 液> 血 浆> 红 细 胞",
+                " 血 浆> 血 液> 红 细 胞",
+                " 红 细 胞> 血 浆> 血 液",
+                " 血 液> 红 细 胞> 血 浆"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "内 源 性 凝 血 系 统 的 始 动 因 子 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ca2+",
+                " 组 织 因 子",
+                " 接 触 因 子",
+                " X 因 子",
+                " V 因 子"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "血 液 中 吞 嗜 能 力 最 强 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 中 性 粒 细 胞",
+                " 嗜 碱 性 粒 细 胞",
+                " 嗜 酸 性 粒 细 胞",
+                " 单 核 细 胞",
+                " 淋 巴 细 胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "血 小 板 聚 集 的 第 一 时 相 由 下 列 哪 一 因 素 引 起?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 血 小 板 释 放 内 源 性ADP",
+                " 血 小 板 释 放 内 源 性ATP",
+                " 血 小 板 释 放5- 羟 色 酸",
+                " 受 损 伤 组 织 释 放ADP",
+                " 受 损 伤 组 织 释 放ATP"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "内 源 性 凝 血 系 统 的 始 动 因 子 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 组 织 因 子",
+                " Ca2+",
+                " X 因 子",
+                " V 因 子",
+                " 接 触 因 子"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "血 浆 中 最 重 要 的 丝 氨 酸 蛋 白 酶 抑 制 物 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抗 凝 血 酶Ⅲ",
+                " C1 抑 制 物",
+                " α2-巨 球 蛋 白",
+                " 肝 素",
+                " 肝 素 辅 因 子Ⅱ"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "组织液与血浆含量差异最大的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Mg2+",
+                " Na+",
+                " Cl-",
+                " 有机酸",
+                " 蛋白质"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "血 浆 中 含 量 最 多 的 免 疫 球 蛋 白 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " IgG",
+                " IgA",
+                " IgM",
+                " IgD",
+                " IgE"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "能使凝血酶灭活的物质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 柠檬酸钠",
+                " EDTA",
+                " 抗凝血酶Ⅲ",
+                " 肝素",
+                " 草酸钾"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "输 血 时 下 列 哪 一 种 血 型 的 人 不 易 找 到 合 适 的 给 血 者? D"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " O 型,Rh 阳 性",
+                " A 型,Rh 阴 性",
+                " B 型,Rh 阳 性",
+                " AB 型,Rh 阴 性",
+                " AB 型,Rh 阳 性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "能 限 制 血 管 外 纤 溶 活 动 的 酶 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " α2-巨 球 蛋 白",
+                " 胰 蛋 白 酶",
+                " 激 肽 释 放 酶",
+                " 组 织 因 子",
+                " α1-抗 胰 蛋 白 酶"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以 下 哪 种 凝 血 因 子 不 属 于 蛋 白 质?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 因 子Ⅰ",
+                " 因 子Ⅱ",
+                " 因 子Ⅲ",
+                " 因 子Ⅳ",
+                " 因 子Ⅹ"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "人 血 液 中 主 要 的 吞 噬 细 胞 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " T- 淋 巴 细 胞",
+                " B- 淋 巴 细 胞",
+                " 中 性 粒 细 胞",
+                " 嗜 酸 性 细 胞",
+                " 嗜 碱 性 粒 细 胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某 人 的 红 细 胞 与B 型 血 的 血 清 凝 集, 而 其 血 清 与B 型 血 的 红 细 胞 不 凝 集, 从ABO 血 型 系 统 考 虑 此 人 血 型 为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " A 型",
+                " B 型",
+                " O 型",
+                " AB 型",
+                " A1 型"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在白细胞中,免疫细胞主要是指:( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 单核细胞",
+                " 淋巴细胞",
+                " 中性粒细胞",
+                " 嗜酸性粒细胞",
+                " 嗜碱性粒细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "心 交 感 神 经 兴 奋 使 自 律 细 胞 自 律 性 升 高 的 主 要 作 用 机 制 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使 阈 电 位 水 平 上 移",
+                " 动 作 电 位0 期 去 极 速 度 加 快",
+                " 最 大 复 极 电 位 绝 对 值 增 大",
+                " 降 低 肌 浆 网 摄 取Ca2+ 的 速 度",
+                " 加 强If, 使4 期 自 动 除 极 速 度 加 快"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在 下 列 哪 种 情 况 下, 心 输 出 量 不 增 加?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 情 绪 激 动",
+                " 缺 氧",
+                " 潜 水 时",
+                " 防 御 反 射",
+                " 肌 肉 运 动"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心 动 周 期 中 下 列 哪 一 个 时 相 的 心 室 容 积 最 小?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 等 容 收 缩 期 末",
+                " 快 速 射 血 期 末",
+                " 减 慢 射 血 期 末",
+                " 等 容 舒 张 期 初",
+                " 心 室 充 盈 期 初"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "第 一 心 音 产 生 主 要 是 由 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 半 月 瓣 关 闭",
+                " 半 月 瓣 开 放",
+                " 房 室 瓣 关 闭",
+                " 房 室 瓣 开 放",
+                " 心 房 肌 收 缩"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在 主 动 脉 处 记 录 脉 博 图 时, 降 中 峡 是 在 下 列 哪 个 瞬 间 形 成 的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 等 容 收 缩 期 开 始 时",
+                " 舒 张 期 开 始 时",
+                " 快 速 射 血 期 开 始 时",
+                " 快 速 充 盈 期 开 始 时",
+                " 减 慢 射 血 期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "心 迷 走 神 经 使 自 律 细 胞 自 律 性 降 低 的 主 要 作 用 机 制"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 动 作 电 位0 期 去 极 速 度 减 慢",
+                " 阈 电 位 水 平 下 移",
+                " 最 大 复 极 电 位 绝 对 值 增 大",
+                " 4 期IK 衰 减 过 程 加 快",
+                " If 减 弱"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下 列 物 质 中 不 能 引 起 血 管 平 滑 肌 舒 张 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 局 部 代 谢 产 物",
+                " 缓 激 肽",
+                " 血 管 活 性 肠 肽",
+                " 乙 酰 胆 碱 酯 酶",
+                " 前 列 腺 环 素"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在 下 述 哪 一 种 情 况 下, 心 交 感 神 经 的 活 动 会 减 弱"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 动 脉 血 压 降 低 时",
+                " 肌 肉 运 动 时",
+                " 血 容 量 减 少 时",
+                " 情 绪 激 动 时",
+                " 由 直 立 变 为 平 卧 时"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下 列 物 质 中 不 能 引 起 血 管 平 滑 肌 舒 张 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 缓 激 肽",
+                " 局 部 代 谢 产 物",
+                " 乙 酰 胆 碱 酯 酶",
+                " 前 列 腺 环 素",
+                " 血 管 活 性 肠 肽"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "如 果 主 动 脉 压 和 肺 动 脉 压 增 高, 下 列 哪 种 心 音 的 强 度 增 强?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 第 一 心 音",
+                " 第 二 心 音",
+                " 第 三 心 音",
+                " 第 四 心 音",
+                " 第 一 心 音 和 第 三 心 音"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "刺 激 心 交 感 神 经 时, 冠 状 动 脉"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 先 舒 张 后 改 编",
+                " 先 收 缩 后 舒 张",
+                " 收 编",
+                " 舒 张",
+                " 无 反 应"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "总 截 面 积 最 大 的 血 管 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毛 细 血 管",
+                " 小 动 脉",
+                " 小 静 脉",
+                " 大 静 脉",
+                " 大 动 脉"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "心交感神经对心肌的兴奋作用可被下列哪一种受体的拮抗剂对抗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " α1肾上腺素能受体的拮抗剂",
+                " β肾上腺素能受体的拮抗剂",
+                " M胆碱能受体的拮抗剂",
+                " N胆碱能受体的拮抗剂",
+                " α2肾上腺素能受体的拮抗剂"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "血流阻力主要来自"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毛细血管",
+                " 微静脉",
+                " 微动脉",
+                " 动脉",
+                " 大动脉的弹性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "室内压在整个心动周期中达到峰值的时期是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 等容收缩期",
+                " 快速射血期",
+                " 房循期",
+                " 等容舒张期",
+                " 快速充盈期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "与 体 循 环 相 比 较, 肺 循 环 的 特 点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 血 流 量 较 高, 阻 力 较 高",
+                " 血 流 量 较 高, 阻 力 较 低",
+                " 血 流 量 较 低, 阻 力 较 高",
+                " 血 流 量 较 低, 阻 力 较 低",
+                " 血 流 量 与 之 基 本 相 等, 阻 力 较 低"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在各级血管中,交感缩血管纤维分布最密集的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毛细血管前括约肌",
+                " 大动脉",
+                " 微动脉",
+                " 大静脉",
+                " 微静脉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心 交 感 神 经 对 心 脏 的 兴 奋 作 用 可 被 下 列 哪 种 阻 断 剂 所 阻 断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 筒 箭 毒",
+                " 异 搏 定",
+                " 河 豚 毒",
+                " 心 得 安",
+                " 阿 托 品"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "从 动脉瓣关闭 到下一动脉瓣开 放 的 时 间 相 当 于 下 列 心 动 周 期 中 的 哪 一 期?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心 室 舒 张 期",
+                " 心 室 射 血 期",
+                " 等 容 收 缩 期",
+                " 心 室 舒 张 期+ 等 容 收 缩 期",
+                " 等 容 舒 张 期+ 等 容 收 缩 期"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "浦 肯 野 细 胞 和 心 室 肌 细 胞 的 动 作 电 位 的 区 别 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 4 期 自 动 除 极 化",
+                " 3 期 复 极 速 度 不 同",
+                " 平 台 期 持 续 时 间 相 差 特 别 悬 殊",
+                " 1 期 形 成 的 机 制 不 同",
+                " 0 期 除 极 速 度 不 同"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "静 脉 回 心 血 量 增 加 是 因 为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心 输 出 量 增 加",
+                " 外 周 阻 力 增 加",
+                " 动 脉 血 压 升 高",
+                " 血 流 速 度 加 快",
+                " 心 舒 期 室 内 压 降 低"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心 室 肌 细 胞 在 有 效 不 应 期, 受 到 刺 激 时"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 不 能 产 生 局 部 兴 奋",
+                " 不 能 产 生 动 作 电 位",
+                " 能 产 生 动 作 电 位",
+                " 刺 激 阈 值 低 于 正 常",
+                " 兴 奋 传 导 速 度 低 于 正 常"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "动 脉 血 压 的 呼 吸 波 变 动 特 点 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 在 吸 气 相 的 后 半 期 升 至 最 高 点, 在 呼 气 相 的 后 半 期 达 最 低 点",
+                " 在 吸 气 相 的 后 半 期 降 至 最 低 点, 在 呼 气 相 的 后 半 期 达 最 高 点",
+                " 在 吸 气 相 的 前 半 期 降 至 最 低 点, 在 呼 气 相 的 后 半 期 达 最 高 点",
+                " 在 吸 气 相 的 前 半 期 降 至 最 低 点, 在 呼 气 相 的 前 半 期 达 最 高 点",
+                " 在 吸 气 相 的 前 半 期 升 至 最 高 点, 在 呼 气 相 的 前 半 期 达 最 低 点"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "血液在血管内流动时,血流阻力( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 与血管的半径成正比",
+                " 与血管半径的立方成反比",
+                " 与血管半径的平方成正比",
+                " 与血管半径的四次方成反比",
+                " 与血管半径的平方成反比"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肺循环与体循环的基本相同特征是( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 外周阻力",
+                " 血管的可扩张性",
+                " 每搏输出量",
+                " 收缩压",
+                " 舒张压"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "当 心 室 肌 细 胞 的 膜 电 位 由 静 息 水 平 去 极 化 达 到 阈 电 位 水 平 时,Na+ 通 道 处 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 静 息 状 态",
+                " 备 用 状 态",
+                " 激 活 状 态",
+                " 失 活 状 态",
+                " 复 活 状 态"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "将心肌细胞分为快反应细胞和慢反应细胞主要根据动作电位的( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 0期去极速度",
+                " 1期复极速度",
+                " 平台期形成速度",
+                " 3期复极速度",
+                " 4期自动去极速度"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "影响毛细血管前括约肌舒缩活动的主要因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 交感、舒血管神经纤维末梢释放的乙酰胆碱",
+                " 副交感神经末梢释放的乙酰胆碱",
+                " 局部代谢产物增多",
+                " 肾上腺髓质释放的肾上腺素",
+                " 交感神经末梢释放的去甲肾上腺素"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "动 脉 压 突 然 增 高 时 可 短 暂 引 起"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 等 容 收 缩 相 编 短 及 射 血 相 缩 短",
+                " 等 容 收 缩 相 延 长 而 射 血 相 缩 短",
+                " 等 容 收 缩 相 缩 短 而 射 血 相 延 长",
+                " 等 容 收 缩 相 和 射 血 相 均 延长",
+                " 等 容 收 缩 相 不 变 而 射 血 相 缩 短"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "房室延搁的生理意义是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 使P波增宽",
+                " 使QRS波增宽",
+                " 使心室肌有效不应期延长",
+                " 使心室肌不会产地强直收缩",
+                " 使心房、心室不会产生收缩重叠"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺 通 气 是 指\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肺 与 血 液 之 间 的 气 体 交 换",
+                " 气 道 与 外 界 环 境 之 间 的 气 体 交 换",
+                " 肺 部 与 外 界 环 境 之 间 的 气 体 交 换",
+                " 外 界O2 入 肺 的 过 程",
+                " CO2 出 肺 的 过 程"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关 于 肺 扩 散 容 量 的 描 述 错 误 的 是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 老 年 人 低 于 青 年 人",
+                " 分 压 差 增 大 时 增 加",
+                " 运 动 时 增 加",
+                " 肺 泡 膜 面 积 缩 小 时 减 少",
+                " 女 性 高 于 男 性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "100ml 血 液 所 能 携 带 氧 的 最 大 量 取 决 于 血 液\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 氧 分 压",
+                " 二 氧 化 碳 分 压",
+                " PH 值",
+                " 2,3-DPG 含 量",
+                " 血 红 蛋 白 浓 度"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺 通 气 时 非 弹 性 阻 力 的 主 要 成 分 是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 气 道 阻 力",
+                " 惯 性 阻 力",
+                " 粘 滞 阻 力",
+                " 肺 泡 表 面 张 力",
+                " 肺 回 缩 力"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "Hb O2含 量 主 要 决 定 于\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " PO2",
+                " PCO2",
+                " PH 值",
+                " 2,3-DPG 含 量",
+                " Hb 浓 度"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "呼吸中 枢 化 学 感 受 器 的 生 理 刺 激 物 是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脑 脊 液中CO2",
+                " 血 液 中 的CO2",
+                " 脑 脊 液 中H+",
+                " 血 液 中 的H+",
+                " 脑 脊 液 中PO2 降 低"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关 于 胸 廓 的 弹 性 阻 力, 下 列 哪 种 叙 述 是 错 误 的\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是 胸 廓 的 弹 性 回 位 力",
+                " 当 胸 廓 处 于 自 然 位 时, 为 零",
+                " 平 静 呼 吸 时 肺 弹 性 阻 力 大 于 胸 廓 的 弹 性 阻 力",
+                " 用 力 呼 气 时, 胸 廓 弹 性 阻 力 下 降",
+                " 当 肺 容 积 小 于40% 时, 胸 廓 弹 性 阻 力 大 于 肺 弹 性 阻 力"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "过 度 肺 通 气 时 引 起 头 晕 的 原 因 是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 动 脉 血 中PCO2 过 低, 而 使 脑 血 流 量 减 少",
+                " 动 脉 血 中PCO2 过 低, 而 使 脑 血 流 量 增 加",
+                " 动 脉 血 中PCO2 过 高, 而 使 脑 血 流 量 增 加",
+                " 动 脉 血 中PCO2 过 高, 而 使 脑 血 流 量 减 少",
+                " 动 脉 血 中H+ 浓 度 过 低, 而 使 脑 血 流 量 增 加"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下 列 哪 种 情 况 可 致 动 脉 血PO2 和PCO2 降 低\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 初 到 高 原",
+                " 贫 血",
+                " 主 动 过 度 换 气",
+                " CO 中 毒",
+                " 换 气 障 碍"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "评价肺通气功能,下列哪个指标较好?( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 潮气量",
+                " 功能余气量",
+                " 肺活量",
+                " 补呼气量",
+                " 时间肺活量"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "若 某人的 最 大通 气量 为70L/min, 安 静 时 肺 通 气 量 为6L/min, 其 通 气 贮 量 百 分 比 为:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 100%",
+                " 50%",
+                " 120%",
+                " 91%",
+                " 30%"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种因素可使氧离曲线左移\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " CO2分压增高",
+                " PH值降低",
+                " 温度升高",
+                " 2,3-二磷酸甘油酸降低",
+                " 氧分压降低"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "实现肺通气的器官组织是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 呼吸道",
+                " 肺泡",
+                " 胸廓",
+                " 呼吸道和肺泡",
+                " 呼吸道、肺泡和胸廓"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "组织换气是指\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肺泡和肺毛细血管血液之间的气体交换",
+                " 组织细胞和组织毛细血管血液之间的气体交换",
+                " 细胞器之间的气体交换",
+                " 线粒体膜内外的气体交换",
+                " 红细胞内外的气体交换"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在 人 工 呼 吸 实 验 条 件 下, 刺 激 颈 动 脉 体 化 学 感 受 器 可 引 起\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心 率 加 快",
+                " 心 输 出 量 增 加",
+                " 冠 状 动 脉 收 缩",
+                " 骨 骼 肌 和 腹 腔 内 脏 血 管 收 缩",
+                " 肾 上 腺 素 分 泌 减 少"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "CO 中 毒 时, 可 携 带 氧 的 血 红 蛋 白 减 少, 但 一 般 不 引 起 呼 吸 加 强, 这 是 因 为\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 颈 动 脉 体 血 流 量 正 常",
+                " 动 脉 血 红 蛋 白 氧 饱 和 度 正 常",
+                " 动 脉 血 氧 含 量 正 常",
+                " 动 脉 血 氧 张 力 正 常",
+                " 颈 动 脉 体 化 学 感 受 器 发 生 适 应"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "检 测 肺 换 气 效 率 较 好 的 指 标 是:\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 通 气/ 血 流 比 值",
+                " 肺 通 气 量",
+                " 肺 泡 气Pco2 - 动 脉 血Pco2",
+                " 肺 泡 气Po2- 动 脉 血Po2",
+                " 肺 活 量"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关 于 氧 离 曲 线 的 叙 述, 错 误 的 是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 呈S 形",
+                " 上 段 较 平 坦 表 明PO2 变 化 对Hb 氧 饱 和 度 影 响 不 大",
+                " 中 段 较 陡 表 明 此 时PO 2 稍 降Hb02 将 明 显 减 少",
+                " 下 段 平 坦, 代 表O2 贮 备",
+                " P50 增 大 表 明 曲 线 右 移"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "产生节律性呼吸的基本中枢在( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脊髓",
+                " 延髓",
+                " 脑桥",
+                " 中脑",
+                " 下丘脑"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "平静呼吸的特征有( )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 呼吸运动均匀",
+                " 成人呼吸频率18~25次/分",
+                " 吸气主要为肋间外肌的运动",
+                " 呼气主要为腹壁肌的运动",
+                " 呼吸运动过程中肺内压不变"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于气道阻力,正确的是(  )\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 主要发生于直径2mm以下的细支气管",
+                " 气流速度越快,阻力越大",
+                " 气流为湍流时,阻力增小",
+                " 气道口径越小,阻力越小",
+                " 一般吸气时阻力大于呼气时"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },{
+            "questions": [
+                "可 使 气 道 口 径 变 小 的 因 素\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 迷 走 神 经 兴 奋",
+                " 交 感 神 经 兴 奋",
+                " 组 织 胺",
+                " 缓 激 肽",
+                " 5- 羟 色 胺"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺 通 气 的 非 弹 性 阻 力 来 自\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肺 泡表 面 张 力",
+                " 肺 弹 性 纤 维",
+                " 胸 廓 的 顺 应 性",
+                " 气 流 通 过 呼 吸 道 的 摩 擦 力",
+                " 呼 吸 器 官 移 位 的 惯 性 阻 力"
+            ],
+            "answers": [
+                "DE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "可 致 血 液 中 氧 含 量 增 加 的 因 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 血 氧 分 压 增 高",
+                " 血 二 氧 化 碳 分 压 增 高",
+                " 血PH 值 增 高",
+                " 红 细 胞2,3-DPG 浓 度 增 高",
+                " 体 温 降 低"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下 列 指 标 中 含 有 潮 气 量 的 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肺 活 量",
+                " 深 吸 气 量",
+                " 功 能 余 气 量",
+                " 补 呼 气 量",
+                " 肺 总 容 量"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        }
+        ,
+        {
+            "questions": [
+                "唾 液 中 除 唾 液 淀 粉 酶 以 外, 还 有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 蛋 白 水 解 酶",
+                " 凝 乳 酶",
+                " 溶 菌 酶",
+                " 肽 酶",
+                " 寡 糖 酶"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关 于 唾 液 分 泌 的 调 节 错 误 的 描 述 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有 神 经 调 节 和 体 液 调 节 二 种 形 式",
+                " 有 条 件 反 射 和 非 条 件 反 射 共 存",
+                " 引 起 非 条 件 反 射 的 有 效 刺 激 为 食 物 对 口 腔 的 刺 激",
+                " 非 条 件 反 射 的 传 入 神 经 有 舌 神 经, 鼓 索 神 经, 舌 咽 神 经 迷 走 神 经",
+                " 反 射 的 初 级 中 枢 在 延 髓"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "促 胰 液 素 能 促 进 胰 腺 分 泌"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 大 量 的 水 分, 而 碳 酸 氢 盐 和 酶 的 含 量 很 少",
+                " 少 量 的 水 分 和 碳 酸 氢 盐, 酶 的 含 量 也 很 少",
+                " 大 量 的 水 分 和 碳 酸 氢 盐, 而 酶 的 含 量 很 少",
+                " 少 量 的 水 分 和 碳 酸 氢 盐, 而 酶 的 含 量 很 丰 富",
+                " 大 量 的 碳 酸 氢 盐、 水 分 和 酶 的 含 量 也 丰 富"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胆 汁 中 与 消 化 有 关 的 最 重 要 物 质 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 消 化 酶",
+                " 胆 盐",
+                " 卵 磷 脂",
+                " 胆 色 素",
+                " 脂 肪 酸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对 唾 液 淀 粉 酶 有 激 活 作 用 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " H+",
+                " K+",
+                " Cl-",
+                " HCO3-",
+                " Ca2+"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "分 泌 内 因 子 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粘 液 细 胞",
+                " 主 细 胞",
+                " 胃 幽 门 粘 膜G 细 胞",
+                " 壁 细 胞",
+                " 胃 粘 膜 表 面 上 皮 细 胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胃肠平滑肌的基本电节律多起源于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粘膜层",
+                " 浆膜层",
+                " 环行肌和纵行肌之间",
+                " 斜行肌层",
+                " 纵行肌层"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下 列 哪 项 不 属 于 胃 液 的 作 用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 杀 菌",
+                " 激 活 胃 蛋 白 酶 原",
+                " 水 解 蛋 白 质",
+                " 对 淀 粉 进 行 初 步 消 化",
+                " 促 进 维 生 素B12 的 吸 收"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "三 种 主 要 食 物 在 胃 中排 空 的 速 度 由 快 至 慢 的 顺 序 排 列 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 糖 类、 脂 肪 、蛋 白 质",
+                " 脂 肪、 糖 类、 蛋 白 质",
+                " 蛋 白 质、 脂 肪、 糖 类",
+                " 糖 类、 蛋 白 质、 脂 肪",
+                " 蛋 白 质、 糖 类。 脂 肪"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "十二指肠内容物返流入胃对粘膜屏障有破坏作用,该物质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粘蛋白",
+                " 高渗溶液",
+                " 碳酸氢盐",
+                " 胆酸",
+                " 氨基酸及肽类"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于胃液分泌的描述哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 粘液有保护胃粘膜的作用",
+                " 胃蛋白酶原不能消化蛋白质",
+                " 胃内盐酸分泌缺乏会影响蛋白质消化",
+                " 单靠粘液-碳酸氢盐屏障并不能完全阻止胃酸和胃蛋白酶对粘膜的侵蚀",
+                " 壁细胞大量减少不会出现贫血"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "糖类、蛋白质和脂肪的消化产物大部分被吸收的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 十二指肠",
+                " 空肠及回肠",
+                " 十二指肠、空肠及回肠",
+                " 回肠",
+                " 十二指肠和空肠"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有 关 消 化 道 平 滑 肌 生 理 特 性 的 叙 述, 错 误 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 经 常 保 持 一 定 的 紧 张 性",
+                " 富 有 伸 展 性",
+                " 兴 奋 性 低, 收 缩 缓 慢",
+                " 对 化 学 及 牵 拉 刺 激 较 敏 感",
+                " 具 有 快 而 规 则 的 自 动 节 律 性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "激 活 胃 蛋 白 酶 原 的 物 质 是:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 盐 酸",
+                " 胃 泌 素",
+                " 内 因 子",
+                " 粘 液",
+                " 胃 蛋 白 酶"
+            ],
+            "answers": [
+                "AE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "影 响 胃 排 空 的 因 素 有:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 胃 和 十 二 指 肠 内 食 物 量",
+                " 胃 泌 素",
+                " 十 二 指 肠 酸 化",
+                " 进 食 脂 肪",
+                " 食 物 的 理 化 性 质"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "促 胰 液 素\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 是 由 小 肠 的S 细 胞 产 生 的",
+                " 在 迷 走 神 经 兴 奋 时, 分 泌 量 增 加",
+                " 在HCl的 刺 激 下, 分 泌 量 明 显 增 加",
+                " 主 要 使 胰 酶 分 泌 增 加",
+                " 与 胆 囊 收 缩 素 对 胰 腺 的 促 分 泌 作 用, 存 在 着 协 同 作 用"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "盐酸分泌过程\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 需要耗能",
+                " 需要碳酸酐酶",
+                " 可伴有血和尿中pH值升高",
+                " 有Na+泵的直接参与",
+                " 有质子泵参与"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关 于 胃 液 分 泌 调 节, 下 列 哪 些 项 是 正 确 的?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 给 狗 看 见 或 闻 到 肉 汤 可 使 胃 液 分 泌 增 多",
+                " 切 断 迷 走 神 经 干 后, 假 饲 不 引 起 狗 的 胃 液 分 泌",
+                " 外 周 注 射 甲 氰 咪 呱 对 胃 泌 素 引 起 的 胃 液 分 泌 无 影 响",
+                " 向 胃 窦 部 注 入 盐 酸 引 起 胃 液 大 量 分 泌",
+                " 扩 张 胃 窦 部 可 引 起 胃 液 分 泌"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n终 尿 中 的K+ 主 要 是 由:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 近 曲 小 管 分 泌",
+                " 髓 袢 升 支 分 泌",
+                " 肾 小 球 滤 过",
+                " 远 曲 小 管 和 集 合 管 分 泌",
+                " 髓 袢 降 支 分 泌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "醛 固 酮 的 主 要 作 用 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 增 加 肾 远 曲 小 管 和 集 合 管 保 钾 排 钠",
+                " 增 加 肾 近 曲 小 管 保 钾 排 钠",
+                " 增 加 肾 髓 袢 保 钠 排 钾",
+                " 增 加 肾 远 曲 小 管 和 集 合 管 保 钠 排 钾",
+                " 增 加 肾 近 曲 小 管 保 钠 排 钾"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "近 髓 肾 单 位 的 主 要 功 能 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 分 泌 醛 固 酮",
+                " 释 放 抗 利 尿 激 素",
+                " 释 放 肾 素",
+                " 浓 缩 和 稀 释 尿 液",
+                " 排 泄Na+ 和Cl-"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "各段肾小管对Na+重吸收量最大的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 髓袢升支粗段",
+                " 髓袢降支细段",
+                " 近曲小管",
+                " 集合管",
+                " 远曲小管"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "醛 固 酮 作 用 于 远 曲 小 管 和 集 合 管, 可 促 进:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Na+ 的 重 吸 收",
+                " K+ 的 重 吸 收",
+                " Na+ 的 重 吸 收 和 葡 萄 糖 的 重 吸 收",
+                " Na+ 的 重 吸 收 和K+ 的 分 泌",
+                " K+ 的 重 吸 收 和Na+ 的 重 吸 收"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "控 制 醛 固 酮 合 成 与 分 泌, 下 列 哪 个 因 子 最 不 重 要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ACTH",
+                " 血Na+",
+                " 肾 素",
+                " 血 管 紧 张 素Ⅱ",
+                " 血K+"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "正常情况下,肾小球滤过率为125ml/min,近端小管的重吸收率为:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 90ml/min",
+                " 87.5ml/min",
+                " 95.6ml/min",
+                " 60ml/min",
+                " 65ml/min"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾小管主动重吸收与主动分泌都很明显的物质是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " K+",
+                " 尿素",
+                " Na+",
+                " 葡萄糖",
+                " 肌酐"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肾小管滤液中 的水 大 部 分 重 吸 收 是 在:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 近 曲 小 管",
+                " 髓 袢 降 支",
+                " 远 曲 小 管",
+                " 集 合 管",
+                " 髓 袢 升 支"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "引 起 抗 利 尿 激 素 分 泌 的 最 敏 感 的 因 素 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 循 环 血 量 减 少",
+                " 疼 痛 刺 激",
+                " 血 浆 晶 体 渗 透 压 增 高",
+                " 血 浆 胶 体 渗 透 压 增 高",
+                " 寒 冷 刺 激"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "尿 的 浓 缩 和 稀 释 机 制 取 决 于\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 血 浆 胶 体 渗 透 压",
+                " 肾 髓 质 渗 透 压 梯 度",
+                " 抗 利 尿 激 素 分 泌",
+                " 肾 小 球 滤 过 率",
+                " 醛 固 酮 分 泌"
+            ],
+            "answers": [
+                "BC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "醛 固 酮 对 水 盐 代 谢 的 影 响 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 使 胃 液 中Na+ 排 出 量 增 多",
+                " 使 唾 液 中Na+ 排 出 量 减 少",
+                " 使 远 曲 小 管 和 集 合 管 中Na+ 排 出 减 少",
+                " 使 汗 液 中Na+ 排 出 量 不 变",
+                " 醛 固 酮 缺 乏 时, 血Na+ 减 少, 血 压 降 低"
+            ],
+            "answers": [
+                "BCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾 小 管 分 泌H+ 与 什 么 相 关 联\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " K+ 的 分 泌",
+                " Na+ 的 重 吸 收",
+                " K+ 的 重 吸 收",
+                " HCO3- 的 重 吸 收",
+                " NH3 的 分 泌"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下述哪些情况GFR增高( )\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 血浆胶体渗透压降低",
+                " 肾小球毛细血管压增高",
+                " 血浆晶体渗透压升高",
+                " 肾小球血浆流量增大",
+                " 肾小囊内压降低"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "与 调 节 水. 钠 代 谢 有 关 的 激 素 有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 醛 固 酮",
+                " 雌 激 素",
+                " ADH",
+                " 心 钠 素",
+                " 氢 化 可 的 松"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪些情况可使尿量增加\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 血浆晶体渗透压降低",
+                " 刺激颈动脉窦压力感受器",
+                " 疼痛",
+                " 心房和腔静脉扩张",
+                " 失血"
+            ],
+            "answers": [
+                "ABD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "近 髓 肾 单 位 的 特 点 是:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肾 小 体 分 布 于 内 皮 质 层",
+                " 肾 小 球 体 积 较 大",
+                " 髓 袢 很 短",
+                " 含 肾 素 颗 粒 较 少",
+                " 入 球 小 动 脉 口 径 比 出 球 小 动 脉 粗"
+            ],
+            "answers": [
+                "ABD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关 于ADH, 正 确 描 述 的 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 增 加 肾 远 曲 小 管 和 集 合 管 对 水 的 通 透 性",
+                " 血 浆 胶 体 渗 透 压 是 调 节 其 分 泌 的 主 要 因 素",
+                " 血 容 量 减 少 时 可 使 其 分 泌 增 多",
+                " 血 浆 晶 体 渗 透 压 升 高 可 使 其 分 泌 增 加",
+                " 经 垂 体 门 脉 运 至 神 经 垂 体"
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "兴奋性突触后电位突触后膜上发生的电位变化为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 极化",
+                " 超极化",
+                " 后电位",
+                " 复极化",
+                " 去极化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "兴奋性突触后电位与抑制性突触后电位的共同特征是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突触前膜均去极化",
+                " 突触后膜均去极化",
+                " 突触前膜释放的递质性质一样",
+                " 突触后膜对离子通透性一样",
+                " 产生的突触后电位的最终效应一样"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "抑制性突触后电位的产生是由于突触后膜对下列哪种离子的通透性增加所致:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Na+、C1-、K+，尤其是K+",
+                " K+、C1-，尤其是C1-",
+                " Na+、K+，尤其是Na+",
+                " Ca2+、K+、C1-，尤其是Ca2+",
+                " K+、Ca2+、Na+，尤其是Ca2+"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于神经纤维的论述，不正确的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 具有传导信息的功能",
+                " 神经纤维主要指轴突而言",
+                " 传导速度最慢的是B类纤维",
+                " 传导速度最快的是Ⅰ类或Aα类纤维",
+                " 根据纤维直径和来源分为Ⅰ、Ⅱ、Ⅲ和Ⅳ类"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "化学性突触传递的特征中，下列哪一项是错误的："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 双向性传递",
+                " 兴奋节律的改变",
+                " 对内环境变化敏感",
+                " 总和",
+                " 后放"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于神经胶质细胞特征，下列说法错误的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有突起，但无轴突",
+                " 广泛分布于中枢和周围神经系统中",
+                " 不产生动作电位",
+                " 与相邻的细胞形成突触联系",
+                " 终生都有分裂增殖能力"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于神经纤维传导兴奋的叙述，下列哪一项是错误的?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 结构的完整性",
+                " 功能的完整性",
+                " 单向传导",
+                " 相对不疲劳性",
+                " 绝缘性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于抑制性突触后电位的产生，正确的叙述是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突触前轴突末梢超极化",
+                " 对Ca2+、K十通透性增大",
+                " 突触后膜出现超极化",
+                " 突触后膜去极化",
+                " 突触后膜出现复极化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "兴奋性突触后电位的产生，是由于提高了下列哪种离子的通透性?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ca2+",
+                " C1—",
+                " K+",
+                " Na+",
+                " C1—和K+，尤其是C1—"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于电突触的叙述，错误的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突触间隙较狭窄",
+                " 突触前后膜阻抗较低",
+                " 结构为缝隙连接",
+                " 传递速度较快",
+                " 单向传递"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "神经冲动抵达末梢时，引起递质释放主要有赖于哪种离子的作用?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Na十",
+                " C1—",
+                " Mg2+",
+                " Ca2+",
+                " K十"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于兴奋性突触传递的叙述，哪一项是错误的："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 突触前轴突末梢去极化",
+                " Ca2+进入突触前膜内",
+                " 细胞外液中Mg2+浓度升高，兴奋性递质释放量增多",
+                " 突触后膜对Na+、K+，特别是Na+通透性增高",
+                " 突触后膜去极化达阈电位时，突触后神经元发放冲动"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "神经细胞兴奋阈值最低，最易产生动作电位的部位是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胞体",
+                " 树突",
+                " 轴丘",
+                " 轴突末梢"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "EPSP是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 动作电位",
+                " 阈电位",
+                " 静息电位",
+                " 局部去极化电位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在进行突触传递时，必需有哪种离子流入突触前膜"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ca2+",
+                " Na＋",
+                " K+",
+                " Cl-"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下 列 反 射 中 存 在 正 反 馈 调 节 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 腱 反 射",
+                " 肺 牵 张 反 射",
+                " 减 压 反 射",
+                " 排 尿 反 射",
+                " 屈 肌 反 射"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "特 异 性 投 射 系 统 的 功 能 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 为 皮 肤 的 不 同 感 觉 的 上 传 途 径",
+                " 体 内 所 有 特 异 感 觉 的 上 传 途 径",
+                " 起 维 持 和 改 变 大 脑 皮 层 兴 奋 状 态",
+                " 引 起 特 定 感 觉, 激 发 大 脑 皮 层 产 生 传 出 冲 动",
+                " 为 视、 听 觉 的 上 行 通 路"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "反 射 弧 的 感 受 器 主 要 功 能 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 接 受 刺 激",
+                " 仅 传 导 信 息",
+                " 产 生 反 应",
+                " 分 析、 整 合 信 息",
+                " 接 受 刺 激 与 产 生 反 应"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "反 射 活 动 的 结 构 基 础 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 中 枢 神 经 系 统",
+                " 突 触",
+                " 感 受 器",
+                " 效 应 器",
+                " 反 射 弧"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "筒 箭 毒 能 阻 断 神 经 肌 肉 接 头 处 的 兴 奋 使 递 是 由 于 它"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 增 加 乙 酰 胆 碱 的 释 放 量",
+                " 增 加 胆 碱 酯 酶 的 活 性",
+                " 减 少 乙 酰 胆 碱 的 释 放 量",
+                " 占 据 终 板 膜 上 的 乙 酰 胆 碱 受 体",
+                " 加 速 乙 酰 胆 碱 的 重 摄 取"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "运 动 神 经 纤 维 末 梢 释 放 的 递 质 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 去 甲 肾 上 腺 素",
+                " 肾 上 腺 素",
+                " 乙 酰 胆 碱",
+                " 5- 羟 色 胺",
+                " 甘 氨 酸"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "舞 蹈 病 与 手 足 徐 动 症 的 病 变 主 要 位 于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 红 核",
+                " 小 脑",
+                " 前 庭",
+                " 纹 状 体",
+                " 丘 脑 底 核"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当a 运 动 神 经 元 传 出 冲 动 增 加 时 导 致"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肌 梭 传 人 冲 动 增 加",
+                " 梭 内 肌 收 缩 增 强",
+                " 梭 外 肌 收 缩 增 强",
+                " 梭 外 肌, 梭 内 肌 同 时 收 缩",
+                " g- 运 动 神 经 元 传 出 冲 动 减 少"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "乙 酰 胆 碱 在 运 动 神 经 末 稍 何 处 合 成, 贮 存 在 何 处?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 轴 浆; 细 胞 膜",
+                " 轴 浆; 轴 浆",
+                " 轴 浆; 囊 泡",
+                " 线 粒 体; 细 胞 膜",
+                " 线 粒 体; 囊 泡"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "形 成 条 件 反 射 的 基 本 条 件 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 要 有 非 条 件 刺 激",
+                " 要 有 适 当 的 无 关 刺 激",
+                " 要 有 完 整 的 大 脑 皮 层",
+                " 无 关 刺 激 与 非 条 件 刺 激 在 时 间 上 多 次 结 合",
+                " 非 条 件 刺 激 与 无 关 刺 激 同 时 出 现"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "丘 脑 非 特 异 性 投 射 系 统 的 起 始 核 团 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 接 替 核",
+                " 联 络 核",
+                " 中 线 核 群",
+                " 接 替 核 和 联 络 核",
+                " 联 络 核 和 髓 板 内 核"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对 经 典 突 触 的 错 误 叙 述 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 为 神 经 元 间 信 息 传 递 的 结 构 之 一",
+                " 突 触 前、 后 膜 较 其 它 处 的 膜 增 厚",
+                " 突 触 小 体 内 含 有 线 粒 体 和 囊 泡 等 结 构",
+                " 不 同 突 触 小 体 年 的 囊 泡 大 小 形 状 完 全 相 同",
+                " 一 个 神 经 可 与 其 它 许 多 神 经 元 形 成 突 触"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关 于 非 突 触 性 化 学 传 递 的 叙 述, 不 正 确 的 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 不 存 在 突 触 前 膜 与 后 膜 的 特 化 结 构",
+                " 与 轴 突 末 梢 结 节 状 曲 张 体 有 关",
+                " 传 递 时 间 可 大 于1 S",
+                " 该 方 式 只 存 在 于 中 枢 神 经 系 统",
+                " 树 突 部 位 也 能 进 行 非 突 触 性 化 学 传 递"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种物质属于第二信使?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ATP",
+                " ADP",
+                " AMP",
+                " CAMP",
+                " GTP"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "小 脑 对 躯 体 运 动 的 调 节, 错 误 的 论 述 是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 绒 球 小 结 叶 受 损 可 能 造 成 共 济 失 调",
+                " 小 脑 前 叶 与 肌 紧 张 调 节 有 关",
+                " 刺 激 小 脑 前 叶 蚓 部 可 抑 制 肌 紧 张",
+                " 刺 激 小 脑 前 叶 两 侧 部 可 加 强 肌 紧 张",
+                " 小 脑 后 叶 中 间 带 与 协 调 随 意 运 动 有 关"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关 于 脊 髓 休 克 的 下 列 论 述, 错 误 的 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脊 髓 突 然 被 横 断, 断 面 以 下 的 脊 髓 反 射 活 动 即 暂 时 丧 失",
+                " 断 面 以 下 的 脊 髓 反 射, 感 觉 和 随 意 运 动 可 逐 渐 恢 复",
+                " 动 物 进 化 程 度 越 高, 其 恢 复 速 度 越 慢",
+                " 脊 髓 休 克 的 产 生, 是 由 于 突 然 失 去 了 高 位 中 枢 的 调 节 作 用",
+                " 反 射 恢 复 后, 第 二 次 横 切 脊 髓, 不 再 导 致 休 克"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下 列 哪 种 物 质 最 容 易 通 过 血- 脑 脊 液 屏 障?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " CO2 和O2",
+                " 葡 萄 糖",
+                " 蛋 白 质",
+                " K+",
+                " HCO3-"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有 机 磷 农 药 中 毒 时, 可 使"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 乙 酰 胆 碱 释 放 量 减 少",
+                " 乙 酰 胆 碱 释 放 量 增 加",
+                " 胆 碱 酯 酶 活 性 降 低",
+                " 胆 碱 酯 酶 活 性 增 强",
+                " 骨 骼 肌 终 板 处 的 乙 酰 胆 碱 受 体 功 能 障 碍"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脊髓灰质炎患者出现肢体肌肉萎缩的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 失去了神经冲动的影响",
+                " 因肌肉萎缩使供血减少",
+                " 肌肉受到病毒的侵害",
+                " 失去了运动神经的营养作用",
+                " 肌肉失去了运动功能而导致的萎缩"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下 列 属 于 姿 势 反 射 的 是:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肌 紧 张 性 牵 张 反 射",
+                " 对 侧 伸 肌 反 射",
+                " 颈 紧 张 反 射",
+                " 屈 肌 反 射",
+                " 翻 正 反 射"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "神 经 胶 质 细 胞 的 功 能 是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 与 氨 基 酸 递 质 的 失 活 有 关",
+                " 在 神 经 元 与 毛 细 血 管 之 间, 转 运 代 谢 物 质",
+                " 调 节 细 胞 外K+ 浓 度",
+                " 修 复 神 经 元 死 亡 后 的 缺 损",
+                " 构 成 血 脑 屏 障 和 神 经 纤 维 的 髓 鞘"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "神经纤维的轴浆运输\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 是指胞体合成的物质经轴突向末梢输送的过程,因此,是单一方向的",
+                " 有快慢两种速度",
+                " 是一种耗能过程",
+                " 轴突末梢可以摄取某些物质,逆向运输到胞体",
+                " 神经纤维的轴浆运输"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}

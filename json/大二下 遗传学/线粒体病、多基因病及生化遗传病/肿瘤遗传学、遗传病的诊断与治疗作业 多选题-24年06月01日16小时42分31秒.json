@@ -1,0 +1,46 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "肿瘤遗传学、遗传病的诊断与治疗作业",
+        "type_all_num": 1,
+        "type_2_num": 1,
+        "time": "24年06月01日16小时42分31秒",
+        "id": "id-lwvv7iox-qcopsn52a"
+    },
+    "body": [
+        {
+            "questions": [
+                "下列哪些属于癌基因的激活机制( )\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 点突变",
+                " 染色体易位",
+                " 基因扩增",
+                " 病毒诱导与启动子插入",
+                " 基因缺失"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}

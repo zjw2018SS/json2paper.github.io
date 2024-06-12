@@ -1,0 +1,534 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第二十四章 病毒感染的检查方法与防治原则—李水红",
+        "type_all_num": 20,
+        "type_1_num": 20,
+        "time": "24年06月01日17小时15分23秒",
+        "id": "id-lwvwdsfm-bwrz9rtuj"
+    },
+    "body": [
+        {
+            "questions": [
+                "关于理化因素对病毒的影响,正确的叙述是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 大多数病毒耐冷不耐热",
+                " 60℃30分钟能杀死所有病毒",
+                " 包膜病毒体比无包膜病毒体更耐受反复冻融",
+                " 紫外线不能灭活病毒",
+                " 脂溶剂能破坏病毒衣壳"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "病毒灭活是指在理化因素作用下使病毒失去\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抗原性",
+                " 感染性",
+                " 血凝特性",
+                " 诱生于扰素的能力",
+                " 融合细胞特性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "病毒凝集红细胞(血凝试验)的机制是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 红细胞表面抗原和血凝素抗体结合",
+                " 红细胞表面受体与病毒表面血凝素结合",
+                " 红细胞表面病毒抗原与相应抗体结合",
+                " 病毒与结合在红细胞表面的抗体结合",
+                " 红细胞上的血凝素与病毒结合"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "进行病毒病原学检查的标本递送要求是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 孵箱保存",
+                " 室温保存",
+                " 加入防腐剂",
+                " 冷藏速送",
+                " 加入含抗生素和蛋白的运辅培养基中冷冻速送"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "检查包涵体可作为\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 病毒在细胞内增殖的标志之一",
+                " 衡量病毒毒力强弱的标准",
+                " 诊断乙型脑炎病毒感染",
+                " 鉴定病毒的特异性依据",
+                " 测定病毒数量的指标"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "判断流感病毒接种鸡胚尿囊腔是否生长应选\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 红细胞吸附试验",
+                " 血凝试验",
+                " 血凝抑制试验",
+                " 间接血凝试验",
+                " 补体结合试验"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "可用于制备病毒灭活疫苗的理化因素是\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 紫外线",
+                " 甲醇",
+                " 甲醛",
+                " 乙醇",
+                " 乙醛"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "灭活疫苗的缺点不包括\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 需多次注射",
+                " 免疫维持时间短",
+                " 疫苗成本高",
+                " 诱导细胞免疫反应差",
+                " 可发生干扰现象降低免疫效果"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物对病毒感染无效\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 阿昔洛韦",
+                " 交沙霉素",
+                " 阿糖腺苷",
+                " 金刚烷胺",
+                " 拉米呋定"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一般保存病毒毒种的最佳温度是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 37℃",
+                " 4℃",
+                " -20℃",
+                " -70℃",
+                " -80℃"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "分离流感病毒的最适方法是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 血平板培养",
+                " 半固体培养基培养",
+                " 营养琼脂平板培养",
+                " 鸡胚接种",
+                " 肉汤培养基培养"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "检测细胞内包涵体可作为( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 鉴定病毒的特异性依据",
+                " 衡量病毒毒力强弱的标志之一",
+                " 诊断是否有病毒特异性抗体产生",
+                " 病毒在细胞内增殖的标志之一",
+                " 测定病毒数量的指标"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "检测病毒抗体的三种方法是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 中和试验、补体结合试验、血凝试验",
+                " 中和试验、补体结合试验、血凝抑制试验",
+                " ELISA、PCR、血凝抑制试验",
+                " 中和试验、血凝试验、免疫电泳技术",
+                " ELISA、凝胶免疫扩散实验、PCR"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中和试验是病毒血清学特异性实验,以下有关中和试验的描述中不正确的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 中和试验需用活细胞或鸡胚或动物来判断结果",
+                " 中和抗体在体内维持时间短",
+                " 是病毒在细胞培养中被特异性抗体中和而失去感染性的一种试验",
+                " 中和试验是用已知病毒抗原检测中和抗体",
+                " 中和实验是一种特异性较高的试验"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "从可疑病例中分离病毒,采集标本时应注意的事项中错误的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 运送标本时要注意保温(室温)",
+                " 采取急性期标本",
+                " 采集适当部位的标本",
+                " 标本应尽快送检",
+                " 可采集急性期与恢复期双份血清"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "不属于人工被动免疫的方式是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 注射人血清丙种球蛋白",
+                " 注射疫苗",
+                " 注射胸腺肽",
+                " 注射胎盘球蛋白",
+                " 注射干扰素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "减毒活疫苗对人体有潜在危险性的原因不包括( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 毒力回复性变异",
+                " 激活机体潜伏病毒",
+                " 可引起持续感染",
+                " 不便于保存",
+                " 可能进入机体引发相应并发症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某孕妇,怀孕14+周,疑似感染风疹病毒,为防止畸形胎儿的出生,应进行的快速、简易诊断的是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 补体结合试验",
+                " 血凝抑制试验",
+                " 病毒特异性IgM抗体",
+                " 中和试验",
+                " 病毒核酸检测"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "婴儿7个半月,医院出生,根据其免疫特点和我国传染病发生的情况,完成计划免疫和预防接种应不包括( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 乙肝疫苗",
+                " 麻疹减毒活疫苗",
+                " 卡介苗",
+                " 百白破三联针",
+                " 脊髓灰质炎减毒疫苗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某护士给一位乙型肝炎病毒(HBV)携带者注射时,不慎被病人用过的针头刺伤手指。为预防乙型肝炎病毒感染,应首先采取的措施是( )。\n"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 注射抗生素",
+                " 注射丙种球蛋白",
+                " 注射乙型肝炎疫苗",
+                " 注射HBIg",
+                " 注射α-干扰素"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

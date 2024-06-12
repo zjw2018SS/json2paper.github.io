@@ -1,0 +1,76 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第十章 霍乱弧菌",
+        "type_all_num": 2,
+        "type_2_num": 2,
+        "time": "24年06月01日17小时09分19秒",
+        "id": "id-lwvw5zgz-zmfnpzgq7"
+    },
+    "body": [
+        {
+            "questions": [
+                "霍乱弧菌的致病物质有?\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " LPS",
+                " 肠毒素",
+                " 菌毛",
+                " 鞭毛",
+                " 多糖荚膜"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "能引起霍乱的霍乱弧菌的血清群有:\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " O1",
+                " O1-O155",
+                " O139",
+                " O2-O138",
+                " O140-O155"
+            ],
+            "answers": [
+                "AC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2
+            ]
+        }
+    ]
+}

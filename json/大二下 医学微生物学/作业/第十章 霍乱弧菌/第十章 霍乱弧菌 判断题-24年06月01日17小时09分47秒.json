@@ -1,0 +1,34 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第十章 霍乱弧菌",
+        "type_all_num": 1,
+        "type_3_num": 1,
+        "time": "24年06月01日17小时09分47秒",
+        "id": "id-lwvw6lnp-35csuo6ag"
+    },
+    "body": [
+        {
+            "questions": [
+                "霍乱毒素是致泻毒素中最强烈的毒素\n"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}
