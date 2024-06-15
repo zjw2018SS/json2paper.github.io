@@ -792,7 +792,7 @@ function fetchJson(path) {
 }
 
 async function load_path(path_arr) {
-    let json = { head: {}, body: [] };
+    json = { head: {}, body: [] };
     let promises = path_arr.map(fetchJson);
     try {
         let results = await Promise.all(promises);
