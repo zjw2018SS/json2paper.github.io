@@ -1,0 +1,1314 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "感染性疾病作业",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年06月20日21小时19分46秒",
+        "id": "id-lxnah9ck-k7wzayet9"
+    },
+    "body": [
+        {
+            "questions": [
+                "下列对继发性肺结核的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常见于成人",
+                "常见于儿童",
+                "以增生性病变为主",
+                "可发生纤维空洞",
+                "血道及淋巴道播散少见"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "慢性细菌性痢疾的临床特点，不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多由急性细菌性痢疾转变而来",
+                "病程超过2个月以上",
+                "可交替出现腹泻与便秘",
+                "可形成慢性溃疡，且较容易癌变",
+                "可急性发作，表现急性细菌性痢疾的症状"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "阿米巴滋养体所引起的组织病变坏死主要是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "干酪样坏死",
+                "液化性坏死",
+                "纤维素样坏死",
+                "凝固性坏死",
+                "固缩坏死"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "血吸虫病之假结核结节中看不到：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "类上皮细胞",
+                "异物巨细胞",
+                "干酪样坏死",
+                "钙化的虫卵",
+                "淋巴细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "血吸虫所引起的肝硬化是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小结节性肝硬化",
+                "大结节性肝硬化",
+                "混合性肝硬化",
+                "干线型肝硬化",
+                "坏死后性肝硬化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "与结肠癌发生有关的寄生虫病是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肠蛔虫病",
+                "血吸虫病",
+                "结肠阿米巴病",
+                "丝虫病",
+                "棘球蚴病"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "临床上出现腹痛、腹泻2天，大便为暗红色果酱样，无发热。最可能的诊断是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌性痢疾",
+                "伤寒",
+                "肠结核",
+                "大肠癌",
+                "肠阿米巴病"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "男性，20岁。高热十余日入院。查体肝脾均在肋下1. 0cm可触及，质软。轻度腹痛及腹泻。一周后突然发生急性腹膜炎。最可能的诊断是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肠伤寒病肠穿孔",
+                "病毒性肝炎",
+                "血吸虫病",
+                "肠结核",
+                "中毒性菌痢"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患儿9岁，5天来发热、腹泻。大便检查RBC、WBC满视野，并有脓球，肉眼可见白色膜状物。病人此时如果做肠活检，可能看到的病变是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肠壁高度充血、水肿、增厚",
+                "黏膜表面大量纤维素及中性粒细胞渗出，构成伪膜",
+                "黏膜多数表浅溃疡形成",
+                "黏膜上皮发生变质性改变",
+                "以上病变都存在"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "显微镜观察下见：肠壁淋巴结内大量巨噬细胞增生并形成结节状病灶，其细胞质内有细菌、红细胞、淋巴细胞及细胞碎片，应考虑为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "风湿肉芽肿",
+                "伤寒肉芽肿",
+                "结核肉芽肿",
+                "异物肉芽肿",
+                "虫卵结节"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "伤寒的传染途径是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "经口传染",
+                "呼吸传染",
+                "血液传染",
+                "接触传染",
+                "内源性传染"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中毒性细菌性痢疾可引起：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "滤泡性肠炎",
+                "肠壁的蜂窝织炎",
+                "肠壁的出血性梗死",
+                "肠壁肉芽肿形成",
+                "肠扭转"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "男，35岁，稽留高热3周伴腹胀、腹泻入院，当晚突然出现腹痛，体温降至35.5℃，脉搏120次／分，血压60／45mmHg，腹部压痛、反跳痛明显，肝浊音界缩小，血象：WBC18×109/L，N0.92，L0.08。最可能的诊断是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伤寒肠出血",
+                "胆囊炎胆囊穿孔",
+                "阑尾炎穿孔",
+                "阿米巴痢疾肠穿孔",
+                "伤寒肠穿孔"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于伤寒的描述，下列哪一项是错误的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是一种以单核巨噬细胞系统的巨噬细胞增生为主要特征的急性炎",
+                "肠病变主要见于回肠下段的淋巴小结",
+                "肠病变发展可分为髓样肿胀期、坏死期、溃疡期、愈合期",
+                "肠溃疡期时是菌血症严重、全身中毒症状明显时",
+                "除肠外，还可累及淋巴结、肝、脾、胆囊、皮肤、肌肉、脑等"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于原发性肺结核病的描述，哪一项是正确的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n一般仅见于儿童",
+                "\n病变常从肺上叶的下部，肺下叶的上部，近肺膜处开始",
+                "\n较容易发生支气管播散",
+                "\n较容易经淋巴管在肺内播散",
+                "\n急性全身性粟粒性结核多见"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "男性患者，40岁，近1个月来午后低热、夜间盗汗、咳嗽、痰中带血、明显消瘦、乏力、食欲不振，X线片显示右肺锁骨上区边界不清，并呈现不规则絮状高密度阴影，该患者应考虑为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺鳞癌",
+                "肺腺癌",
+                "慢性支气管炎",
+                "浸润性肺结核",
+                "局灶性肺结核"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "硬化型肺结核多来自：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浸润型肺结核",
+                "结核瘤",
+                "粟粒型肺结核",
+                "干酪样肺炎",
+                "慢性纤维空洞型肺结核"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "开放性肺结核病主要是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性粟粒性肺结核",
+                "慢性纤维空洞型肺结核",
+                "慢性栗粒性肺结核",
+                "局灶型肺结核晚期",
+                "浸润型肺结核早期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于冷脓肿的叙述，下列哪项是正确的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "为化脓性细菌所引起深部组织的化脓性炎",
+                "结核合并化脓性炎而形成",
+                "骨结核时，病变累及周围软组织而形成的结核性脓肿",
+                "非致热性细菌引起的深部组织的化脓性炎",
+                "机体抵抗力低下时细菌引起的化脓性炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于溃疡型肠结核的病变，下列哪项是正确的：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结肠肝曲为好发部位",
+                "溃疡呈圆或椭圆形，边缘整齐",
+                "溃疡其长径与肠轴垂直",
+                "溃疡底部仅有少许浆液渗出",
+                "溃疡愈合时极少形成肠腔狭窄"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "细菌性痢疾溃疡的肉眼特征是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "溃疡呈环形与肠长轴垂直",
+                "溃疡呈长椭圆形与肠长轴平行",
+                "溃疡边缘呈堤状隆起",
+                "溃疡呈烧瓶状，口小底大",
+                "溃疡浅表呈地图状"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不符合急性细菌性痢疾所形成假膜的特点为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肉眼观为灰白色、暗红色或灰绿色",
+                "可认为是急性细菌性痢疾的特征病变",
+                "先出现于肠粘膜皱襞的顶部，随病变进展融合成片",
+                "假膜常脱落形成深而圆形溃疡，甚至肠穿孔",
+                "假膜溶解脱落伴出血，使大便成粘液脓血便"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "伤寒小结的主要组织组成成分是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肉芽组织",
+                "巨噬细胞增生",
+                "淋巴细胞增生",
+                "纤维组织增生",
+                "肌纤维母细胞增生"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "伤寒最严重的并发症是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中毒性脑病",
+                "肠穿孔",
+                "急性胆囊炎",
+                "肠出血",
+                "肺炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "继发性肺结核的主要播散方式：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴道",
+                "支气管",
+                "体腔",
+                "血道",
+                "消化道"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "作为重要传染源的肺结核病是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浸润性肺结核",
+                "慢性纤维空洞型肺结核",
+                "结核球",
+                "支气管内结核",
+                "局灶型肺结核"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者32岁，近半年来常有低热、盗汗、疲乏、咳嗽、痰中带血，X线胸片见右肺尖有直径2cm、边缘模糊不清的云雾状阴影，痰培养查见抗酸杆菌，据此应诊断为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右肺尖慢性纤维空洞型肺结核",
+                "右肺尖结核球",
+                "右肺尖浸润型肺结核",
+                "右肺尖局灶性肺结核",
+                "右肺尖小叶性干酪样肺炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "原发性肺结核的发展与结局是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大多数自然痊愈",
+                "大多数通过血道播散",
+                "大多数通过支气管播散",
+                "多数合并肺粟粒性结核",
+                "多数合并肺外器官结核"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "最易并发肠腔狭窄的病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肠伤寒",
+                "肠阿米巴病",
+                "肠结核",
+                "细菌性痢疾",
+                "肠息肉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "结核性脑膜炎的病变性质属于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "化脓性炎",
+                "出血性炎",
+                "肉芽肿性炎",
+                "浆液性炎",
+                "纤维素性炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于结核病，下列哪项是错误的（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对人致病的结核杆菌主要为人型及牛型",
+                "可经呼吸道及消化道感染",
+                "增生为主的病变见于抵抗力低下、菌量多时",
+                "上皮样细胞由巨噬细胞转变而来",
+                "可经支气管播散"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是继发性肺结核所不具备的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺尖最常受累",
+                "可形成纤维性空洞",
+                "病程长，时好时坏",
+                "新旧病变交替",
+                "淋巴道播散为主"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "男性，40岁，因腹痛、腹泻2月求治。初腹泻每日5～7次，粪量多，水样带黏液和血。1周后腹痛加剧，每日大便10余次，呈暗红色果酱样，腥臭。肝在右肋下5cm，压痛。粪检：红细胞(++++)，白细胞(+)，粪痢疾杆菌培养(一)，患者所患疾病的本质是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浆液性炎",
+                "纤维素性炎",
+                "化脓性炎",
+                "组织坏死为主的炎症",
+                "出血性炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于原发性肺结核病的描述，哪一项是错误的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多见于儿童",
+                "病变从肺尖开始",
+                "病变可自然痊愈",
+                "结核菌易侵入淋巴管播散",
+                "原发综合症是其特点"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于继发性肺结核病的描述，哪一项是正确的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病变新旧交错，上重下轻",
+                "肺门淋巴结常有明显结核病变",
+                "不经治疗绝大多数能自然痊愈",
+                "不易有纤维空洞形成",
+                "血行播散多见"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "儿童型肺结核常见的类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浸润型肺结核",
+                "原发性肺结核",
+                "结核球",
+                "干酪样肺炎",
+                "结核性胸膜炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胸膜组织片见成团类上皮细胞，包绕少量郎罕氏巨细胞与干酪样坏死，周围大量淋巴细胞浸润，本例应考虑为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "组织细胞增生症",
+                "胸膜结核",
+                "胸膜间皮瘤",
+                "纤维素性胸膜炎",
+                "胸膜淋巴瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肺结核原发性病灶的好发部位是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺尖部",
+                "肺门部",
+                "肺上叶下部或肺下叶上部",
+                "肺隔面",
+                "肺内弥漫性病变"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "一患者，患病已3周，有持续性高热，心率过缓，腹胀，腹泻。因中毒性休克死亡，尸检发现弥漫性腹膜炎，回肠孤立和集合淋巴小结肿胀，坏死和溃疡形成，并有穿孔，脾大，应考虑：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌性痢疾",
+                "肠结核",
+                "恶性淋巴瘤",
+                "伤寒",
+                "恶性组织细胞增生症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肠伤寒溃疡的肉眼特征是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "溃疡呈环形与肠长轴垂直",
+                "溃疡呈长椭圆形与肠长轴平行",
+                "溃疡边缘呈堤状隆起",
+                "溃疡呈烧瓶状，口小底大",
+                "溃疡浅表呈地图状"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于原发性肺结核的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "指初次感染结核菌而在肺内发生的病变",
+                "形成原发综合征",
+                "原发灶及淋巴结不发生干酪样坏死",
+                "可发生血行播散到各器官",
+                "结核菌常经淋巴道引流到肺门淋巴结"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关肺结核原发综合症的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原发灶多在肺尖部",
+                "大多发生在儿童",
+                "肺门淋巴结干酪样坏死",
+                "一般无明显临床表现",
+                "可发展成急性粟粒性结核病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关阿米巴病，以下哪项叙述是错误的? （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病灶中大量的中性白细胞渗出",
+                "组织发生液化坏死",
+                "肠道的溃疡为烧瓶状口小底大",
+                "肠道的阿米巴滋养体可以通过侵袭小静脉而引起肝病变",
+                "坏死与正常组织交界处可查见阿米巴滋养体"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "男性，40岁，因腹痛、腹泻2月求治。初腹泻每日5～7次，粪量多，水样带黏液和血。1周后腹痛加剧，每日大便10余次，呈暗红色果酱样，腥臭。肝在右肋下5cm，压痛。粪检：红细胞(++++)，白细胞(+)，粪痢疾杆菌培养(一)，请结合病史回答患者所患疾病是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌性痢疾",
+                "溃疡性结肠炎",
+                "阿米巴痢疾",
+                "肠伤寒",
+                "急性肠血吸虫病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "继发性肺结核的病变特点是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病变位于肺上叶下部或下叶上部通气良好的部位",
+                "肺门淋巴结常有明显干酪样坏死",
+                "病变在肺内主要经受累的支气管播散",
+                "随着机体免疫力增强，常迅速痊愈",
+                "空洞的形成比原发性肺结核病少见"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对结核病最有诊断价值的基本病理变化是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "含大量淋巴细胞和巨噬细胞的渗出液",
+                "灰白色、半透明状的粟粒大小结节",
+                "朗汉斯巨细胞",
+                "干酪样坏死",
+                "上皮样细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "结核病灶中易查见大量结核杆菌的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "渗出性病变",
+                "结核结节",
+                "干酪样坏死、液化物",
+                "钙化灶",
+                "结核球"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "女性生殖系统结核病多见于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阴道",
+                "子宫颈",
+                "子宫内膜",
+                "输卵管",
+                "卵巢"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某患者急性发病，畏寒、发热、腹痛、腹泻及黏液脓血便，里急后重，首先应考虑为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性肠炎",
+                "阿米巴痢疾",
+                "细菌性痢疾",
+                "肠结核",
+                "肠伤寒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于阿米巴痢疾的特点，下列不对的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n腹痛、腹泻",
+                "\n一般常见里急后重",
+                "\n粪中可查见阿米巴滋养体",
+                "\n肠黏膜病变为烧瓶状溃疡",
+                "\n坏死性肠炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

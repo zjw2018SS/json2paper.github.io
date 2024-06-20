@@ -1,0 +1,1314 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "生殖系统和乳腺疾病作业",
+        "type_all_num": 50,
+        "type_1_num": 50,
+        "time": "24年06月20日21小时15分53秒",
+        "id": "id-lxnac9dj-1q0l9n0mc"
+    },
+    "body": [
+        {
+            "questions": [
+                "宫颈原位癌的病理特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "癌组织局限于宫颈的部位，不累及宫体",
+                "宫颈上皮内部分细胞具有异型性",
+                "癌细胞高度分化",
+                "癌细胞突破上皮基底膜，侵入下方固有膜",
+                "癌细胞仅局限于上皮层内"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "女，35岁，不规则阴道流血2个月。妇科检查发现阴道壁上有一红色结节。病理检查：见大量血块及坏死组织，其中散在一些异型的滋养层细胞团，无绒毛结构，应诊断为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "侵蚀性葡萄胎",
+                "子宫颈癌",
+                "绒毛膜癌",
+                "子宫内膜癌",
+                "水泡状胎块"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列不是慢性宫颈炎的病理组织学特征的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "宫颈腺上皮鳞状化生",
+                "间质内慢性炎细胞浸润",
+                "伴有息肉",
+                "伴有类上皮细胞",
+                "形成潴留囊肿"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "绒毛膜癌与葡萄胎和侵蚀性葡萄胎的最大区别在于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "滋养细胞增生",
+                "血、尿HCG阳性",
+                "浸润性",
+                "远处转移灶",
+                "发生于妊娠妇女"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "早期子宫颈癌较典型的临床表现是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "接触性出血",
+                "白带增多",
+                "子宫功能性出血",
+                "白带过多，有腥臭",
+                "下腹部、腰肌部疼痛"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "子宫颈癌最常见的组织学类型为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鳞状细胞癌",
+                "腺癌",
+                "黏液癌",
+                "大细胞癌",
+                "未分化癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列不容易癌变的疾病是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性宫颈炎",
+                "乳腺导管增生",
+                "完全性葡萄胎",
+                "卵巢浆液性乳头状囊腺瘤",
+                "部分性葡萄胎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "子宫颈癌通过淋巴道首先转移到：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髂总淋巴结",
+                "骶前淋巴结",
+                "子宫颈旁、闭孔、髂内、髂外淋巴结",
+                "深腹股沟淋巴结",
+                "锁骨上淋巴结"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "侵袭性葡萄胎的特征性病理变化是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胎盘绒毛水肿",
+                "滋养层细胞增生，并有异型性",
+                "绒毛消失",
+                "绒毛侵犯子宫壁深肌层",
+                "绒毛间质血管消失"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "子宫颈鳞状上皮异型增生是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上皮细胞大小、形态不一，核深染，核分裂像增加",
+                "上皮细胞变成癌细胞，但基底膜完整",
+                "上皮细胞增生、钉突延长",
+                "上皮细胞完全失去分化能力",
+                "子宫颈柱状上皮被鳞状上皮代替"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "乳腺癌常好发部位是乳腺的：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "外上象限",
+                "内下象限",
+                "内上象限",
+                "乳头部",
+                "外下象限"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一种乳腺疾病可发生橘皮样改变？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维腺瘤",
+                "乳腺导管增生",
+                "硬化性腺病",
+                "小叶原位癌",
+                "浸润性导管癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "外上象限乳腺癌最常转移到：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "同侧腋窝淋巴结",
+                "同侧锁骨上淋巴结",
+                "同侧锁骨下淋巴结",
+                "同侧内乳淋巴结",
+                "同侧肌间淋巴结"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "早期浸润性宫颈癌是指宫颈上皮癌组织：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n达基膜",
+                "\n已延伸至宫颈腺体",
+                "\n累及宫体内膜腺体",
+                "\n穿透基膜，深度不超过5mm，宽度不超过7mm",
+                "\n累及腺体穿透基膜至浅肌层"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "女性患者，38岁。月经量增多一年，但月经周期尚规律，妇科检查，子宫体积增大，如孕两个月大。B超检查，于子宫左后壁可见多个不均匀回声区。患者最可能发生了（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "子宫体癌",
+                "子宫功能性出血",
+                "子宫平滑肌瘤",
+                "子宫纤维瘤",
+                "宫内妊娠"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于高级别导管内癌的描述，下列哪项是错误的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是乳腺导管的原位癌",
+                "多由乳腺小叶的终末导管发生",
+                "转变为浸润性癌的几率远远高于低级别导管内癌",
+                "癌细胞呈实性排列，中央常见坏死是其特征性病变",
+                "肉眼观切面可挤出黄色软膏样坏死物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是乳腺癌的特征：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "最好发于乳腺中央区",
+                "其发生可能与雌激素有关",
+                "居女性恶性肿瘤第一位",
+                "浸润性导管癌最常见",
+                "多发于40-60岁"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于乳腺小叶原位癌的叙述不正确的是？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤体积小，临床症状不明显",
+                "肉眼易与小叶增生区别",
+                "小叶轮廓存在",
+                "癌细胞大小、形态一致",
+                "可发展为浸润性小叶癌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于卵巢黏液性囊腺瘤的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常为多房性囊性肿块",
+                "腔内充满黏液",
+                "囊内壁为单层高柱状上皮",
+                "可有乳头形成",
+                "多数易癌变"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列组合不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳腺癌——橘皮样改变",
+                "畸胎瘤——畸形胎",
+                "绒癌——肺部血道转移",
+                "子宫颈糜烂——宫颈癌",
+                "卵巢囊腺癌——血性腹水"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "绒癌的病变特点不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "滋养层上皮细胞增生",
+                "肿块中大量出血",
+                "肿块有坏死",
+                "有绒毛结构",
+                "易发生血道播散"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不符合葡萄胎的病变描述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胎盘绒毛间质水肿",
+                "绒毛间质血管消失",
+                "滋养层细胞增生，具有一定的异型性",
+                "伴有卵巢黄素囊肿",
+                "绒毛常侵犯子宫壁深肌层"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于乳腺癌的描述，不正确的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "与雌激素分泌紊乱有关",
+                "多发生在乳腺外上限",
+                "常有乳头凹陷",
+                "多呈浸润型生长",
+                "早期即发生血道转移"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不符合乳腺癌的描述是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤灰白、质硬",
+                "呈漫润性生长",
+                "最易发生血道转移",
+                "皮肤可呈桔皮样改变",
+                "可出现乳头回缩现象"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "浸润性乳腺导管癌的临床表现不包括：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n乳头凹陷",
+                "\n晚期颈部淋巴结转移",
+                "\n皮肤橘皮样外观",
+                "\n早期X线不显示钙化灶",
+                "\n同侧腋窝淋巴结肿大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，40岁。接触性阴道流血。妇科检查：宫颈呈糜烂样改变，病理活检可见异型细胞局限于宫颈上皮的下1/3黏膜下，炎细胞浸润。最可能的是（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "微小浸润癌",
+                "慢性弥漫性宫颈炎",
+                "宫颈高级别鳞状上皮内病变",
+                "宫颈低级别鳞状上皮内病变",
+                "慢性宫颈炎伴鳞状上皮化生"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，54岁。停经6年，阴道不规则出血2个月。妇检：子宫体积增大，似孕两个月。经刮宫，取宫内膜送病检，诊断为中分化子宫内膜腺癌，其诊断依据不包括（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腺体密集、呈“背靠背”现象及腺体融合",
+                "出现鳞状上皮",
+                "腺上皮细胞核深染",
+                "腺上皮细胞排列紊乱",
+                "可见病理性核分裂"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "异型增生细胞累及子宫颈黏膜上皮全层时，应诊断为：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CIN级",
+                "早期浸润癌",
+                "原位癌",
+                "不典型增生伴癌变",
+                "癌前期病变"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "葡萄胎的诊断依据是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "子宫体积增大",
+                "宫腔内充满大小不一的水泡",
+                "阴道无痛性流血",
+                "HCG含量升高",
+                "胎心音消失"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "绒毛膜癌最常转移到：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阴道",
+                "肝",
+                "肺",
+                "肠",
+                "脑"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "引起卵巢Krukenberg瘤的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "宫颈癌",
+                "乳腺癌",
+                "胃癌",
+                "肺癌",
+                "肝癌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "乳腺导管内癌的特点是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "癌细胞局限于小叶腺泡内",
+                "癌细胞局限于导管内",
+                "癌细胞丰富、间质少",
+                "纤维间质丰富，癌细胞少",
+                "癌细胞与间质大致相等"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "与长期雌激素刺激有关的肿瘤是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "子宫颈鳞状上皮癌",
+                "子宫颈腺癌",
+                "绒毛膜癌",
+                "乳腺癌",
+                "卵巢乳头状囊腺癌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "宫颈鳞癌起源于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "宫颈外口与柱状上皮交界处",
+                "宫颈管内口及其附近黏膜",
+                "宫颈阴道部",
+                "宫颈管内",
+                "宫颈外口"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "女性生殖器官最常见的良性肿瘤是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "子宫平滑肌瘤",
+                "卵巢畸胎瘤",
+                "卵巢浆液性囊腺瘤",
+                "葡萄胎",
+                "卵巢黏液性囊腺瘤"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "慢性宫颈炎的肉眼形态可呈红色糜烂状，其病变本质是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏膜缺损",
+                "柱状上皮替代鳞状上皮",
+                "鳞状上皮层脱落消失",
+                "表面出血",
+                "腺上皮鳞状化生"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "卵巢肿瘤最常起源于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "性索",
+                "间叶组织",
+                "生殖细胞",
+                "淋巴组织",
+                "上皮组织"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "与葡萄胎相比，侵蚀性葡萄胎的特征是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "出血坏死明显",
+                "有侵袭行为，可侵入子宫壁",
+                "可见绒毛水肿",
+                "绒毛间质血管消失",
+                "滋养细胞增生"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "绒毛膜癌主要播散方式是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴转移和种植",
+                "血行转移和淋巴转移",
+                "直接蔓延和种植",
+                "直接蔓延和淋巴结转移",
+                "血行转移"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "宫颈癌病理形态学特征，错误的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "碘溶液染料显红棕色",
+                "宫颈前后唇增厚变硬",
+                "外观呈乳头状或形成溃疡",
+                "鳞癌多见",
+                "触之易出血"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "未成熟畸胎瘤与成熟畸胎瘤的主要区别是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤为实体性",
+                "常有出血坏死",
+                "三个胚层组织部存在",
+                "部分或全部组成成分恶性变",
+                "发生在卵巢"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "畸胎瘤是来源于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胎儿畸形变",
+                "内胚层组织",
+                "外胚层组织",
+                "间叶组织",
+                "三个胚层的组织成分"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列肿瘤中最易发生血道转移的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "宫颈癌",
+                "侵蚀性葡萄胎",
+                "绒癌",
+                "卵巢囊腺癌",
+                "乳腺导管浸润癌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "子宫颈原位癌累及腺体是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "子宫颈腺体癌变",
+                "子宫颈原位癌影响腺体分泌物排出",
+                "子宫颈鳞状上皮及腺上皮均癌变",
+                "子宫颈原位癌突破基底膜并侵及腺体",
+                "子宫颈原位癌沿基底膜通过宫颈腺口伸入腺体内"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "子宫颈真性糜烂是指：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏膜上皮坏死脱落",
+                "柱状上皮取代鳞状上皮",
+                "重度不典型增生",
+                "囊肿形成",
+                "鳞状上皮化生"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "侵袭性葡萄胎与良性葡萄胎的相同点在于：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可见完整的绒毛结构",
+                "明显的出血坏死",
+                "侵犯肌层",
+                "发生阴道结节",
+                "可有远隔脏器转移"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "侵袭性葡萄胎与绒毛膜癌的主要区别是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浸润子宫深肌层",
+                "细胞明显增生和有异型性",
+                "血道转移",
+                "有绒毛结构",
+                "出血坏死"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "乳腺癌最常见的病理组织学类型是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浸润性导管癌",
+                "髓样癌",
+                "浸润性小叶癌",
+                "胶样癌",
+                "鳞状细胞癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列一般不会引起HCG含量升高的是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n妊娠妇女",
+                "\n葡萄胎",
+                "\n子宫颈癌",
+                "\n侵袭性葡萄胎",
+                "\n绒癌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，41岁，右乳腺乳头外上方皮下扪及一肿块，有局部压痛，不可推动。患者此时需要做何种检查来明确诊断（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CT",
+                "MRI",
+                "肿瘤标记物筛查",
+                "穿刺活检",
+                "PET扫描"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

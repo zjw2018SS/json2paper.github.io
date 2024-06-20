@@ -1,0 +1,1260 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "医学分子生物学习题",
+        "type_all_num": 40,
+        "type_2_num": 40,
+        "time": "24年06月20日23小时05分41秒",
+        "id": "id-lxne9h0w-dv4za10sk"
+    },
+    "body": [
+        {
+            "questions": [
+                "以下是高度重复序列的是 \n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "回文序列 ",
+                "KpnI序列 ",
+                "串联重复序列 ",
+                "短散在重复片段 ",
+                "卫星DNA "
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n 有关直接基因诊断描述正确的是\n　　\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "包括基因表达产物异常的检测",
+                " 包括基因结构异常的检测",
+                "目标基因须与疾病发生无直接因果关系",
+                " 被检基因结构可以未知",
+                "被检基因正常分子结构已被确定"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n基因克隆主要分为以下几个步骤：\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "制备目的基因和相关载体；",
+                "将目的基因和有关载体进行连接；",
+                "将重组的DNA导入受体细胞；",
+                " DNA重组体的筛选和鉴定；",
+                "DNA重组体的扩增和表达。"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n基因表达的最终产物可以是 \n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "RNA",
+                "snRNA",
+                "microRNA",
+                "蛋白质",
+                "tRNA"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n真核基因表达调控可以发生在 \n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "A. 转录起始水平",
+                " B. 复制水平",
+                " C. 翻译水平",
+                "翻译后加工水平 ",
+                " RNA剪接水平"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n以下属于上游启动子元件的是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "CAAT盒",
+                "TATA盒",
+                "poly(A)",
+                "GC盒",
+                "CACA盒"
+            ],
+            "answers": [
+                "ADE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n用于基因治疗的靶细胞必须满足的条件\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "体细胞",
+                "取材方便",
+                "含量比较丰富",
+                "易于在体外人工培养",
+                "可长期在体外培养传代"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n基因治疗采用的策略包括\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "基因置换",
+                "基因替代",
+                "基因失活",
+                "基因敲除",
+                "免疫调节"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n作为克隆载体的质粒应具备下列特点： \n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "分子量相对较小，能在细菌内稳定存在，有较高的拷贝数。",
+                "具有一个以上的遗传标志，便于对宿主细胞进行选择。",
+                " 具有多个限制性内切酶的单一切点，便于外源基因的插入。",
+                "能容纳40～50 kb的外源DNA片段。",
+                "含有复制起始点，能在细菌体内独立地进行自我复制。"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n以下属于顺式作用元件的是"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "启动子 ",
+                "poly(A)加尾信号 ",
+                "外显子 ",
+                "增强子 ",
+                "沉默子 "
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n将外源基因导入宿主细胞的方法主要有： \n\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "转染",
+                "感染",
+                "转化",
+                "诱导",
+                "入侵"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\nWestern免疫印迹技术是 \n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "用于检测蛋白质",
+                "用于基因结构异常检测",
+                "不须电泳分离",
+                "用核酸作为探针",
+                "探针是待测蛋白的抗体"
+            ],
+            "answers": [
+                "AE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n筛选含有目的基因的阳性克隆所用的方法主要有\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "遗传学方法",
+                "免疫学方法",
+                "核酸杂交法",
+                "PCR法",
+                "转染法"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n乳糖操纵子\n　　\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "含有TATA盒",
+                "含有操纵序列O",
+                "含有启动序列P",
+                "含有Z、Y及A三个结构基因",
+                " 含有调节基因I"
+            ],
+            "answers": [
+                "BCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n以下是中度重复序列的是 ("
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "B C D E)",
+                "tRNA编码基因 ",
+                "免疫球蛋白基因 ",
+                "组蛋白基因 ",
+                "Alu家族 "
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n酵母双杂交系统研究蛋白质相互作用具有如下哪些主要特点和优势 \n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "敏感性高",
+                "能真实反应细胞内蛋白质间相互作用情况",
+                "使蛋白质表现型和基因型相联系",
+                "不需分离靶蛋白",
+                "可以筛选cDNA文库"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n下列属于反式作用因子的是( A D　)\n　　\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "特异转录因子",
+                "增强子",
+                "终止子",
+                " 基本转录因子",
+                "RNA聚合酶"
+            ],
+            "answers": [
+                "AD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n下列关于移码突变的描述，哪些是正确的？\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "基因编码区内发生的单个或多个碱基的缺失或插入",
+                "突变后的三联密码阅读框发生了改变",
+                "突变位点后碱基序列与突变前不同",
+                "如果插入或缺失的甲基数目是如果插入或缺失的碱基数目是3及其整数倍，所编码多肽链会有1或数个氨基酸的增加或减少，突变位点后的氨基酸序列不发生改变",
+                "移码突变可导致产生新的终止密码子、突变基因所编码多肽链变短或延长。"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n以下是转座因子的是 以下属于转座因子的是 (A B)"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "插入序列 ",
+                "Mu噬菌体 ",
+                "质粒 ",
+                "卫星DNA ",
+                "回文序列 "
+            ],
+            "answers": [
+                "AB"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n基因突变主要是DNA一级结构的改变，可以是单个核苷酸的改变，也可以是多个核苷酸甚至一段核苷酸序列的改变；其分子机制可以是替换、插入或缺失等，因而产生（  ）等不同突变类型。\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "点突变",
+                "缺失突变",
+                "插入突变",
+                "反置或迁移倒位",
+                "串联重复拷贝数变化"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n通常组成最简单的启动子的元件有 \n　　\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "TATA盒",
+                "GC盒",
+                " CAAT盒",
+                " 转录起始点",
+                " UAS序列"
+            ],
+            "answers": [
+                "AD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n基因失活的技术包括\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "反义RNA",
+                "核酶",
+                "RNA干扰",
+                "肽核酸",
+                "细胞内抗体"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n以下哪些是真核生物基因组的特点"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "编码区大于非编码区 ",
+                "有大量重复序列 ",
+                "转录产物为单顺子 ",
+                "没有基因家族 不存在基因家族 ",
+                "有含质粒基因组 "
+            ],
+            "answers": [
+                "BC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n基因突变主要是DNA一级结构的改变，可以是单个核苷酸的改变，也可以是多个核苷酸甚至一段核苷酸序列的改变；其分子机制可以是替换、插入或缺失等，因而产生（      ）等不同突变类型。\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "点突变",
+                "缺失突变",
+                "插入突变",
+                "反置或迁移倒位",
+                "串联重复拷贝数变化"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n以下哪些是原核生物基因组的特点"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "只有一个复制起点 ",
+                "有操纵子结构 ",
+                "基因中没有不含内含子 ",
+                "基因重叠 ",
+                "有编码同工酶的等基因 "
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n实时荧光定量RT-PCR是 \n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "特异的分子信标探针可以提高定量的准确性",
+                "SYBR Green Ⅰ特异性强",
+                "利用PCR最终产物量高低进行定量",
+                "原理利用了临界点循环",
+                "可以实现初始模板拷贝数的定量"
+            ],
+            "answers": [
+                "ADE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n根据突变所导致遗传学效应的不同，可将基因突变分为：\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "错义突变",
+                "无义突变",
+                "同义突变",
+                "动态突变",
+                "移码突变"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n以下哪些是病毒基因组的特点"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "基因重叠 ",
+                "大部分是非编码区 ",
+                "分段基因组 ",
+                "由双链环状DNA组成 ",
+                "单倍体基因组 "
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n可影响RNA聚合酶转录活性的因素是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 启动子或启动序列",
+                " 调节蛋白的性质",
+                "RNA转录本的结构",
+                "RNA转录本的长度",
+                "多聚A序列的长度"
+            ],
+            "answers": [
+                "AB"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1
+            ]
+        },
+        {
+            "questions": [
+                "\n 真核基因表达调控的意义是包括 \n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "调节代谢，维持生长",
+                "维持发育与分化",
+                "适应环境",
+                "保证遗传物质的稳定性",
+                "让基因表达水平维持稳定"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n在乳糖操纵子机制中起正性调节的因素是 \n　\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "阻遏蛋白去阻遏",
+                "cAMP水平升高",
+                "　C. 葡萄糖水平升高",
+                "cAMP水平降低",
+                "葡萄糖水平降低"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n通常转基因技术中的转染基因包括\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "基因组DNA",
+                "质粒DNA",
+                "RNA",
+                "寡核苷酸",
+                "细菌DNA"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n有关双脱氧末端终止法序列分析描述正确的是\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "原理等同化学降解法",
+                "在体外进行了DNA的合成",
+                "引物标记是关键",
+                "类似原理用于了DNA序列自动化分析",
+                "得到特异的ddNTP末端片断是关键"
+            ],
+            "answers": [
+                "BDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n有关基因芯片描述正确的是\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "是有规则排列的cDNA或寡核苷酸阵列",
+                "微阵列样本密度很小",
+                "可用于多个基因的表达研究 ",
+                "主要用于单基因的结构变异分析",
+                "可同时进行多个基因的变异分析"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n通常转基因技术中的转染基因包括\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "基因组DNA",
+                "质粒DNA",
+                "RNA",
+                "寡核苷酸",
+                "细菌DNA"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n核酸分子杂交的探针是\n\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "带有某种标记",
+                "序列未知",
+                "具有很强的特异性",
+                "单链核酸",
+                "RNA或DNA"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\nDNA分子的体外连接可以通过以下几种方式：（ABCD）\n\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "黏性末端",
+                " 人工接头的使用",
+                "加入同聚物尾",
+                "平端连接",
+                "人工连接"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n基因的组织特异性表达可表现为 \n　\n\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 在不同组织同一基因表达相同",
+                "在同一组织不同基因表达相同",
+                "在不同组织同一基因表达不同",
+                "在同一组织不同基因表达不同",
+                " 在不同组织不同基因表达不同"
+            ],
+            "answers": [
+                "CDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n目前基因治疗常使用的病毒载体有\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "逆转录病毒",
+                "腺病毒",
+                "腺相关病毒",
+                "流感病毒",
+                "肝炎病毒"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n采用直接基因诊断途径的必要条件是 \n　　\n"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "被检基因的正常分子结构已被确定",
+                "被检基因突变类型与疾病发病有直接的因果关系",
+                "被检基因突变位点固定而且已知",
+                "被检个体无其他基因异常",
+                "被检基因仅发生基因结构改变"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        }
+    ]
+}

@@ -1,0 +1,960 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "内分泌+神经系统疾病作业",
+        "type_all_num": 39,
+        "type_1_num": 39,
+        "time": "24年06月20日21小时19分05秒",
+        "id": "id-lxnage10-mrgdrktje"
+    },
+    "body": [
+        {
+            "questions": [
+                "流行性脑脊髓膜炎的病变性质属于: （ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "变质性炎",
+                "渗出性炎",
+                "增生性炎",
+                "肉芽肿性炎",
+                "化脓性炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "卫星现象中围绕神经元胞体周围的细胞是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "少突胶质细胞",
+                "星形胶质细胞",
+                "小胶质细胞",
+                "室管膜细胞",
+                "小淋巴细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "流行性脑脊髓膜炎的特征性病变是：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硬脑膜中性白细胞浸润",
+                "蛛网膜下腔有大量单核细胞",
+                "脑实质内软化灶形成",
+                "蛛网膜下腔有大量中性白细胞渗出",
+                "硬脑膜有大量单核细胞浸润"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关乙型脑炎病变的描述，哪项是错误的？（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经细胞的变性坏死",
+                "筛状软化灶形成",
+                "淋巴细胞套袖状浸润",
+                "病变以小脑、延髓核、桥脑最严重",
+                "胶质小结形成"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "流行性乙型脑炎的噬神经细胞现象是侵入神经细胞内：（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中性粒细胞",
+                "小胶质细胞",
+                "淋巴细胞",
+                "小胶质细胞+淋巴细胞",
+                "巨噬细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血管套形成",
+                "小脓肿形成",
+                "神经细胞变性",
+                "软化灶形成",
+                "胶质细胞增生"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乙脑病毒属于DNA病毒",
+                "有较多的中性粒细胞围血管浸润",
+                "镂空筛状软化灶形成，具有一定的诊断意义",
+                "小胶质细胞越多，预后越好",
+                "出现脑膜刺激征"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅后凹",
+                "小脑桥脑角",
+                "矢状窦旁大脑镰两旁",
+                "蝶骨嵴的侧面",
+                "窦旁周围"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "滤泡显著扩大，胶质潴留",
+                "滤泡上皮增生与复旧混杂",
+                "滤泡上皮增生呈柱状",
+                "多级乳头形成",
+                "肉芽肿形成"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n甲状腺弥漫肿大、光滑、质软",
+                "\n甲状腺不对称性结节状肿大、质硬",
+                "\n甲状腺轻度肿大、质硬",
+                "\n甲状腺弥漫肿大、多结节状",
+                "\n甲状腺内边界不清、质硬结节形成"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多见老年人",
+                "常见于男性",
+                "生长快、恶性程度高",
+                "可见砂粒体",
+                "主要经血道转移"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳头状癌",
+                "滤泡性癌",
+                "髓样癌",
+                "小细胞型未分化癌",
+                "巨细胞型未分化癌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髓样癌",
+                "乳头状癌",
+                "滤泡状癌",
+                "未分化癌",
+                "嗜酸细胞癌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "滤泡性癌",
+                "鳞状细胞癌",
+                "髓样癌",
+                "未分化癌",
+                "乳头状癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑脊髓莫刺激征",
+                "颅内高压症状",
+                "脑脊液浑浊或脓性",
+                "脑脊液血性",
+                "皮肤瘀点或与斑"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "本癌发现时，约80%已有颈部淋巴结转移，因此预后很差",
+                "青少年女性多见",
+                "为最多见的甲状腺癌",
+                "生长较慢，预后较好",
+                "肿瘤间质中常见砂粒体"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胚胎型腺瘤",
+                "胶样型腺瘤",
+                "单纯型腺瘤",
+                "胎儿型腺瘤",
+                "以上均不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小滤泡、微滤泡结构",
+                "条索状或小梁状结构",
+                "滤泡大小一致，与正常相似",
+                "滤泡明显扩张",
+                "含嗜酸性颗粒"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "软脑膜与脑皮质之间的腔隙",
+                "蛛网膜与软脑膜之间的空隙",
+                "蛛网膜与硬脑膜之间的间隙",
+                "蛛网膜本身的疏松纤维组织",
+                "软组织本身的疏松纤维组织"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大脑皮质",
+                "额、顶叶及脑干",
+                "硬脑膜",
+                "蛛网膜下腔",
+                "丘脑及基底神经核"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅内压增高",
+                "颈髓受炎症损害",
+                "锥体束损伤",
+                "炎症使颈髓神经根肿大、受压",
+                "炎症使颈髓神经兴奋，肌肉强直"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "遗传因素",
+                "机体对碘或甲状腺素需求量增加",
+                "长期摄入大量钙",
+                "缺碘",
+                "吃海产品过多"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲状腺大",
+                "常有甲状腺功能低下",
+                "颈部压迫感和吞咽困难",
+                "可无临床症状",
+                "少数可有甲状腺功能亢进的症状"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "滤泡腔内胶质浓厚",
+                "间质血管丰富",
+                "甲状腺滤泡上皮增生，有小滤泡形成",
+                "滤泡上皮呈立方或高柱状，并常增生形成乳头",
+                "间质淋巴细胞浸润及淋巴滤泡形成"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "皮肤和黏膜大片出血",
+                "双侧肾上腺严重出血",
+                "蛛网膜下腔大量脓性渗出物",
+                "病情凶险，死亡率高",
+                "休克和DIC引起周围循环衰竭"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "早期大量中性粒细胞渗出，形成血管套",
+                "神经细胞变性、坏死",
+                "软化灶形成",
+                "胶质细胞增生",
+                "病变以大脑皮质、基底节及视丘最为严重"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大脑皮质",
+                "大脑灰质",
+                "小脑",
+                "大脑皮质及基底节、丘脑",
+                "软脑膜"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性淋巴细胞性甲状腺炎",
+                "弥漫性毒性甲状腺肿",
+                "结节性毒性甲状腺肿",
+                "亚急性甲状腺炎",
+                "地方性甲状腺肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "完整的包膜",
+                "肿块压迫周围甲状腺组织",
+                "肿块内滤泡大小比较一致",
+                "肿块周围和邻近甲状腺组织均正常",
+                "单发，肿块直径大小不超过3 cm"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏液水肿",
+                "弥漫性增生性甲状腺肿",
+                "弥漫性胶样甲状腺肿",
+                "克汀病",
+                "佝偻病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺炎双球菌",
+                "脑膜炎双球菌",
+                "金黄色葡萄球菌",
+                "溶血性链球菌",
+                "大肠杆菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑以外其他器官的感染性疾病，导致神经系统受损",
+                "流行性乙型脑炎",
+                "脊髓灰质炎",
+                "流行性脑脊髓膜炎",
+                "脑出血"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑动脉栓塞",
+                "脑血管畸形",
+                "脑动脉硬化伴血栓形成",
+                "脑动脉粥样硬化斑块内出血",
+                "脑血管炎症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑膜瘤",
+                "垂体腺瘤",
+                "神经鞘瘤",
+                "胶质瘤",
+                "室管膜瘤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲状腺弥漫肿大、光滑、质软",
+                "甲状腺弥漫肿大、多结节状",
+                "甲状腺轻度肿大、质硬",
+                "甲状腺内结节形成、质软、边界清",
+                "甲状腺内结节形成、质硬、边界不清"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髓样癌",
+                "滤泡性癌",
+                "乳头状癌",
+                "未分化癌",
+                "胶样癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳头状癌",
+                "滤泡性癌",
+                "髓样癌",
+                "未分化癌",
+                "嗜酸细胞腺癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴结转移",
+                "被膜受侵犯",
+                "血管受侵犯",
+                "滤泡大小",
+                "远处器官的转移"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血管周围淋巴细胞浸润和血管套形成",
+                "筛网状软化灶和脑水肿",
+                "蛛网膜下腔以中性粒细胞为主的炎性渗出",
+                "胶质结节形成",
+                "神经细胞变性、坏死，出现噬神经细胞和卫星现象"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

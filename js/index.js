@@ -110,52 +110,72 @@ function get_path() {
 
             }
         }
+    } else {
+        // 创建一个新的XMLHttpRequest对象
+        var xhr = new XMLHttpRequest();
+
+        // 设置请求方法和URL
+        xhr.open('GET', g_file + "dir_info.json", true);
+
+        // 注册一个回调函数，当请求完成时执行
+        xhr.onload = function () {
+            if (xhr.status >= 200 && xhr.status < 400) {
+                // 请求成功，解析JSON数据
+                var data = JSON.parse(xhr.responseText);
+                const json = data;
+                let bookshelf = document.getElementById("bookshelf")
+                for (let i = 0; i < json.length; i++) {
+                    let book_div = document.createElement("div")
+                    let book_a = document.createElement("a")
+                    book_a.className = "book_a"
+                    book_a.target = "_blank"
+                    book_a.style.display = "block"
+                    book_a.style.height = "100%"
+                    book_a.style.width = "100%"
+                    book_a.style.zIndex = "9"
+                    var href = window.location.href;
+                    book_a.href = href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"]
+
+                    // book_div.addEventListener("click", function () {
+                    //     window.open(href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"])
+                    // })
+                    book_div.className = "book_div"
+                    book_div.innerHTML = `<div class="book">${json[i]["name"]}</div>`
+                    book_div.append(book_a)
+                    bookshelf.append(book_div)
+
+                    notie.alert({
+                        type: 1,
+                        text: "!!!🔬🧬已经更新分子生物学📘，病理学📘。😄网络题目、免费的、没有学分、没有对错、没有问答、没有考试、想来就来、想去就去。欢迎带你的朋友、伙伴一起来。   <a href='demo.html' target='_blank'>不会使用，查看教程</a>",
+                        stay: false,
+                        time: 5,
+                        position: "bottom"
+                    })
+                }
+            } else {
+                swal({
+                    title: "请求的文件溜走了---",
+                    text: "不要检查您的网络，就是网站的原因~~",
+                    icon: "error",
+                })
+                // 请求失败，打印错误信息
+                console.error('请求失败，状态码：' + xhr.status);
+            }
+        };
+
+        // 发送请求
+        xhr.send();
     }
 }
 
+
+
 get_path()
 
-// 创建一个新的XMLHttpRequest对象
-var xhr = new XMLHttpRequest();
 
-// 设置请求方法和URL
-xhr.open('GET', g_file + "dir_info.json", true);
 
-// 注册一个回调函数，当请求完成时执行
-xhr.onload = function () {
-    if (xhr.status >= 200 && xhr.status < 400) {
-        // 请求成功，解析JSON数据
-        var data = JSON.parse(xhr.responseText);
-        const json = data;
-        let bookshelf = document.getElementById("bookshelf")
-        for (let i = 0; i < json.length; i++) {
-            let book_div = document.createElement("div")
-            let book_a = document.createElement("a")
-            book_a.className = "book_a"
-            book_a.target = "_blank"
-            book_a.style.display = "block"
-            book_a.style.height = "100%"
-            book_a.style.width = "100%"
-            book_a.style.zIndex = "9"
-            var href = window.location.href;
-            book_a.href = href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"]
 
-            // book_div.addEventListener("click", function () {
-            //     window.open(href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"])
-            // })
-            book_div.className = "book_div"
-            book_div.innerHTML = `<div class="book">${json[i]["name"]}</div>`
-            book_div.append(book_a)
-            bookshelf.append(book_div)
-        }
-    } else {
-        // 请求失败，打印错误信息
-        console.error('请求失败，状态码：' + xhr.status);
-    }
-};
 
-// 发送请求
-xhr.send();
 
 function json2path(json) {
     if (json == null || json == []) { return }
@@ -193,5 +213,3 @@ function extractBeforeMatch(str) {
         return str.replace(matchResult, "")
     }
 }
-
-
