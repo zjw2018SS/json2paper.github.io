@@ -1,0 +1,354 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "删减版医学分子生物学题库",
+        "type_all_num": 11,
+        "type_2_num": 11,
+        "time": "24年06月22日00小时19分44秒",
+        "id": "id-lxowcjt6-f7a9ik8zg"
+    },
+    "body": [
+        {
+            "questions": [
+                "基因治疗采⽤的策略包括\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 基因置换",
+                " 基因替代",
+                " 基因失活",
+                " 基因敲除",
+                " 免疫调节"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 有关直接基因诊断描述正确的是\n　　\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "\n包括基因表达产物异常的检测",
+                "\n包括基因结构异常的检测",
+                "\n⽬标基因须与疾病发⽣⽆直接因果关系",
+                "\n被检基因结构可以未知",
+                "\n被检基因正常分⼦结构已被确定"
+            ],
+            "answers": [
+                "ABE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n核酸分⼦杂交的探针是\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 带有某种标记",
+                " 序列未知",
+                " 具有很强的特异性",
+                " 单链核酸",
+                " RNA或DNA"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "Western免疫印迹技术是\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " ⽤于检测蛋⽩质",
+                " ⽤于基因结构异常检测",
+                " 不须电泳分离",
+                " ⽤核酸作为探针",
+                " 探针是待测蛋⽩的抗体"
+            ],
+            "answers": [
+                "AE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "\n实时荧光定量RT-PCR是\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 特异的分⼦信标探针可以提⾼定量的准确性",
+                " SYBR Green Ⅰ特异性强",
+                " 利⽤PCR最终产物量⾼低进⾏定量",
+                " 原理利⽤了临界点循环",
+                " 可以实现初始模板拷⻉数的定量"
+            ],
+            "answers": [
+                "ADE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关基因芯⽚描述正确的是\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 是有规则排列的cDNA或寡核苷酸阵列",
+                " 微阵列样本密度很⼩",
+                " 可⽤于多个基因的表达研究",
+                " 主要⽤于单基因的结构变异分析",
+                "\n可同时进⾏多个基因的变异分析"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "⽬前基因治疗常使⽤的病毒载体有\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 逆转录病毒",
+                " 腺病毒",
+                " 腺相关病毒",
+                " 流感病毒",
+                " 肝炎病毒"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "⽤于基因治疗的靶细胞必须满⾜的条件\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 体细胞",
+                " 取材⽅便",
+                " 含量⽐较丰富",
+                " 易于在体外⼈⼯培养",
+                " 可⻓期在体外培养传代"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "基因失活的技术包括\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 反义RNA",
+                " 核酶",
+                " RNA⼲扰",
+                " 肽核酸",
+                " 细胞内抗体"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                "采⽤直接基因诊断途径的必要条件是\n　　\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "\n被检基因的正常分⼦结构已被确定",
+                "\n被检基因突变类型与疾病发病有直接的因果关系",
+                "\n被检基因突变位点固定⽽且已知",
+                "\n被检个体⽆其他基因异常",
+                " 被检基因仅发⽣基因结构改变"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "\n有关双脱氧末端终⽌法序列分析描述正确的是\n• "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 原理等同化学降解法",
+                " 在体外进⾏了DNA的合成",
+                " 引物标记是关键",
+                " 类似原理⽤于了DNA序列⾃动化分析",
+                " 得到特异的ddNTP末端⽚断是关键"
+            ],
+            "answers": [
+                "BDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3,
+                4
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2098 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "删减版医学分子生物学题库",
+        "type_all_num": 81,
+        "type_1_num": 81,
+        "time": "24年06月22日00小时16分52秒",
+        "id": "id-lxow8v5z-huqaonr3q"
+    },
+    "body": [
+        {
+            "questions": [
+                "有关Sanger测序描述正确的是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ddNTP底物带来了延伸终⽌",
+                " 利⽤⾼温终⽌延伸反应",
+                " 以RNA链合成反应为基础",
+                " 反应底物为dNTP或NTP",
+                " 四个延伸终⽌反应可合并进⾏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关化学降解法测序描述正确的是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 借助于双脱氧末端终⽌法",
+                " 进⾏了DNA的延伸",
+                " 进⾏了碱基的特异修饰和化学降解",
+                " 序列上每个碱基都须标记",
+                " 电泳分离步骤可省略"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "定性分析RNA的常⽤⽅法是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Southern blotting",
+                " Northern blotting",
+                " Western blotting",
+                " Dot blotting",
+                " 免疫组化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关核酸分⼦杂交描述正确的是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 探针是核酸",
+                " 不能⽤于基因表达定量研究",
+                " 探针不须与待测核酸互补",
+                " 不能⽤于基因的结构分析",
+                " 探针多是双链核酸"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "聚合酶链式反应扩增的DNA⼤⼩取决于\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA聚合酶",
+                " 引物",
+                " 模板",
+                " 循环次数"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在基因⼯程中,RT-PCR反应中使⽤的酶包括\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 依赖DNA的RNA聚合酶",
+                " 依赖DNA的DNA聚合酶",
+                " 限制性内切核酸酶",
+                " DNA连接酶",
+                " 反转录酶"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "PCR的特点不包括\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 只需微量模板",
+                " 只需数⼩时",
+                " 扩增产物量⼤",
+                " 底物必须标记",
+                " 变性、复性、延伸三个步骤循环进⾏"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "⼀种⽣物单倍体所具有的全部基因称为\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 信息库",
+                " 基因库",
+                " 基因组",
+                " 基因频率",
+                " 基因型频率"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于Northern印迹的描述,哪⼀项是不正确的\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA-RNA杂交",
+                " 将RNA逆转录为cDNA",
+                " 探针与靶RNA杂交",
+                " 将细胞中提取的总RNA经电泳分离转移到膜上",
+                " 杂交后放射⾃显影观察RNA的⼤⼩与表达量"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项因素是PCR技术所不需要的\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 设计PCR特异性引物",
+                " 必须有dNTP做底物",
+                " 提供DNA模板",
+                " RNA聚合酶的催化",
+                " 三步周期循环扩增"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "⾸次应⽤分⼦杂交法克隆的代表性基因是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " α,β珠蛋⽩基因",
+                " 尿苷磷酸激酶基因",
+                " 甲型⾎友病基因",
+                " Duffy⾎型基因",
+                " 囊性纤维化基因"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "DNA合成仪合成DNA⽚段时,⽤的原料是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 4种dNTP",
+                " 4种NTP",
+                " 4种dNDP",
+                " 4种脱氧核苷的衍⽣物",
+                " 4种dNMP"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种酶能⽤来催化PCR反应\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Taq DNA聚合酶",
+                " DNA连接酶",
+                " 引物酶",
+                " 磷酸⼆酯酶"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "Sanger的双脱氧法测序时,为了获得⻦苷酸残基为末端的⼀组⼤⼩不同的DNA\n⽚段,应该选择哪种物质\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ddTTP",
+                " ddCTP",
+                " ddGTP",
+                " ddATP",
+                " ddUTP"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "Southern印迹杂交是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 分析RNA的技术",
+                " ⽤于DNA的定性或定量研究",
+                " 只能⽤于基因突变分析",
+                " 利⽤了DNA聚合酶Ⅰ",
+                " 不需要电泳分离"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "Northern印迹杂交是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ⽤限制性核酸内切酶消化待测核酸(Southern⾥⾯的)",
+                " 可鉴定特定mRNA的含量和⼤⼩",
+                " 将探针转移到固相⽀持物上(RNA）",
+                " 分析DNA的技术",
+                " 不需要电泳分离（RNA变性及电泳分离）"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关核酸分⼦杂交描述错误的是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 可以在组织切⽚上直接进⾏",
+                " 主要⽤于核酸的检测",
+                " 也可⽤于蛋⽩质的检测",
+                " 斑点杂交⽆需电泳分离",
+                " 可⽤于核酸拷⻉数的检测"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "RT-PCR中,若以oligo(dT)为引物合成cDNA第⼀链,需要的模板是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " rRNA",
+                " mRNA",
+                " tRNA",
+                " DNA",
+                " snRNA"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "⽤[α-32P]dATP标记⼀个DNA⽚段,需⽤\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 多核苷酸激酶",
+                " DNA连接酶",
+                " DNA聚合酶",
+                " 逆转录酶",
+                " 磷酸化酶"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "DNA双链状态下属于完全回⽂结构的序列是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " CGTGGTGC",
+                " CGTGCGTG",
+                " CGTGCACG",
+                " GACTCTGA"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "相对载体⽽⾔,插⼊的DNA⽚段称为\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 筛选基因",
+                " 可调节基因",
+                " 外源DNA",
+                " cDNA"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "哪⼀条单股DNA⽚段在双链状态下不能形成回⽂结构\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ATGCGCAT",
+                " ACTGCAGT",
+                " GTCATGAC",
+                " AGTGCACT",
+                " ACTGCATG"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下⾯不能被限制性内切酶切割的序列为\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " CAATTG",
+                " GTATAC",
+                " AAATTT",
+                " GATATC",
+                " CAATTT"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "PCR合成的步骤不包括\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 显⾊",
+                " 变性",
+                " 延伸",
+                " 退⽕"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "理论上讲，基因治疗最理想的策略是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因置换",
+                " 基因替代",
+                " 基因失活",
+                " 免疫调节",
+                " 导⼊“⾃杀基因”"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "⽬前基因治疗所采⽤的⽅法中，最常⽤的是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因置换",
+                " 基因替代",
+                " 基因失活",
+                " 免疫调节",
+                " 导⼊“⾃杀基因”"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "利⽤反义核酸阻断基因异常表达的基因治疗⽅法是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因置换",
+                " 基因替代",
+                " 基因矫正",
+                " 基因失活",
+                " 免疫调节"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种⽅法不是⽬前基因治疗所采⽤的⽅法\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因缺失",
+                " 基因置换",
+                " 基因替代",
+                " 基因失活",
+                " 免疫调节"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "基因治疗的基本程序中不包括\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 选择治疗基因",
+                " 选择载体",
+                " 选择靶细胞",
+                " 将载体直接注射体内",
+                " 将治疗基因导⼊靶细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "将外源治疗性基因导⼊哺乳动物细胞的⽅法不包括\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 显微注射法",
+                " 电穿孔法",
+                " 脂质体法",
+                " CaCl2法",
+                " 病毒介导的基因转移"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "⽬前在基因治疗的临床实施中，最常使⽤的载体是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 逆转录病毒载体",
+                " pBR322",
+                " λ噬菌体",
+                " pUC18",
+                " YAC"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "内源基因结构突变发⽣在⽣殖细胞所引起的疾病是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 遗传病",
+                " 肿瘤",
+                " ⼼⾎管疾病",
+                " 传染病",
+                " ⾼⾎压"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "RNA⼲扰指\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是将⼀段短双链的RNA 序列导⼊机体或细胞中",
+                " 形成三链DNA",
+                " 同时诱导机体或细胞中任意的序列发⽣降解",
+                " 导致基因的表达增强",
+                " 是将⼀段短双链的DNA 序列导⼊机体或细胞中"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关基因诊断描述错误的是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 是对基因结构或表达异常的检测",
+                " 检测对象包括DNA或RNA",
+                " 可以利⽤连锁的遗传标记进⾏间接诊断",
+                "\n靶基因包括病原微⽣物的特定基因",
+                " 仅适合遗传病的诊断"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "利⽤⼏根⽑发进⾏基因诊断主要体现了基因诊断的哪项特点\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ⾼特异性",
+                " 应⽤⼴泛性",
+                " ⾼灵敏性",
+                " 早期诊断性",
+                " 唯⼀性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "基因诊断的⽬标分⼦不可以是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA",
+                " 基因的表达产物",
+                "\n脂多糖",
+                "\nRNA",
+                " mRNA"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n设计等位基因特异性引物进⾏PCR",
+                "\n测序",
+                "\nPCR与限制性核酸内切酶技术结合",
+                "\n核酸分⼦杂交",
+                "\n在突变位点两侧设计引物再电泳分析PCR产物⻓度变化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "Southern blot 的研究对象是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA",
+                " RNA",
+                " 蛋⽩质",
+                " 糖类 (D) 脂类"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项可以做 PCR 扩增中的模板。 ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " dNTP",
+                " cDNA ⽚段",
+                " RNA ⽚段",
+                " 蛋⽩质",
+                " 肽核酸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "重组DNA技术中实现⽬的基因与载体DNA拼接的酶是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA聚合酶",
+                " RNA聚合酶",
+                " DNA连接酶",
+                " RNA连接酶",
+                " 限制性核酸内切酶"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "同位素标记探针检测硝酸纤维素膜(NC)上的DNA分⼦叫做: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Southern blotting",
+                " Northern blotting",
+                " Western blotting",
+                " 免疫印迹",
+                " 蛋⽩质印迹"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "要分离较⼩分⼦量(如100bp以下)的DNA⽚断时,常采⽤哪种类型的凝胶? ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 琼脂糖",
+                " 聚丙烯酰胺",
+                " 葡聚糖",
+                " 壳聚糖",
+                " 以上都可以"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "⽬前最常⽤的获取⽬的基因的⽅法是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 化学合成法",
+                " 基因组⽂库法",
+                " cDNA⽂库法",
+                " 聚合酶链式反应",
+                " 以上都不是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种有关RNA⼲扰(RNAi)的表述是不正确的是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 可以抑制基因的表达",
+                " ⼀种双链RNA诱导的基因沉默现象",
+                " 是基因功能研究的有⼒⼯具",
+                " 使细胞内⽬的蛋⽩加速降解",
+                " 可以⽤于恶性肿瘤的基因治疗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "基因突变是⽣物变异的主要来源,其原因是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 导致新基因产⽣",
+                " 发⽣频率⾼",
+                " 产⽣⼤量有益性状",
+                " 改变了⽣物表型",
+                " 产⽣有害性状"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "基因诊断的⽬标分⼦不可以是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA",
+                " 基因的表达产物",
+                " RNA",
+                " 脂多糖",
+                " mRNA"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n⾎液",
+                " ⽺⽔",
+                " 尿液",
+                " 指甲",
+                " 精液"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "\n有关Sanger测序描述正确的是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ddNTP底物带来了延伸终⽌",
+                "\n利⽤⾼温终⽌延伸反应",
+                " 反应底物为dNTP或NTP",
+                " 四个延伸终⽌反应可合并进⾏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "基因组是（ ）\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ⼀个⽣物体内所有记忆的分⼦总量",
+                " ⼀个⼆倍体细胞中的染⾊体数",
+                " 遗传单位",
+                " ⽣物体的⼀个特定细胞内所有基因的分⼦的总量"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "基因组是（ ）\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ⼀个⽣物内所有基因分⼦的总量",
+                " ⼀个⼆倍体细胞中的染⾊体数",
+                " 遗传单位",
+                " ⽣物体的⼀个特定细胞内所有基因的分⼦的总量"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "\nNorthern blot 的研究对象是：\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA",
+                " RNA",
+                " 蛋⽩质",
+                " 糖类"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于Southern印迹的描述,哪⼀项是不正确的\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA-DNA杂交",
+                " 将DNA样品转移到膜上与探针杂交",
+                " 标记后的探针经电泳分离后在凝胶上与DNA杂交",
+                " 杂交时探针⼀般过量",
+                " 杂交后进⾏放射⾃显影"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于Western印迹,不正确的叙述是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 从细胞中提取蛋⽩质",
+                " 经电泳分离并转移到膜上",
+                " 应⽤特异的检测抗体",
+                " 标记的DNA探针与转移到膜上的蛋⽩质杂交"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "第⼀、⼆、三代DNA遗传标记分别是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " RFLP,EST,SNP",
+                " EST,STS,SNP",
+                " EST,STR,SNP",
+                " RFLP,STR,SNP",
+                " VNTR,STS,SNP"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列不是核酸分⼦杂交的探针特点的是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 带有某种标记",
+                " 序列未知",
+                " 具有很强的特异性",
+                " RNA或DNA",
+                " 单链核酸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "Taq DNA聚合酶的主要功能是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 具有3' →5' 外切酶的活性",
+                " 具有5' →3' 外切酶的活性",
+                " 具有5' →3' 聚合酶的活性",
+                " 参与细胞内DNA的复制",
+                " 修复功能"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "Western印迹的研究对象是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " DNA",
+                " 蛋⽩质",
+                " RNA",
+                " 糖类",
+                " 脂类"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "标记DNA探针的⽅法是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ⽤放射性同位素标记",
+                " ⽤⽣物素标记",
+                " ⽤地⾼⾟标记",
+                " ⽤抗体标记",
+                " A、B、C都对"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "PCR扩增时,链的延伸从哪端开始\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 引物3´-端",
+                " 引物5´-端",
+                " 模板3´-端",
+                " 模板5´-端"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "全世界第⼀例基因治疗成功的疾病是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " β地中海贫⾎",
+                " ⾎友病",
+                " 重症联合免疫缺陷症",
+                " ⾼胆固醇⾎症",
+                " 糖尿病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "将⽩细胞介素-2基因导⼊肿瘤病⼈体内，提⾼病⼈IL-2的表达⽔平，进⾏抗\n肿瘤辅助治疗。这种基因治疗⽅法是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 基因置换",
+                " 基因替代",
+                " 基因矫正",
+                " 基因失活",
+                " 免疫调节"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种⽅法不属于⾮病毒介导基因转移的物理⽅法\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 电穿孔法",
+                " 脂质体法",
+                " DNA直接注射法",
+                " 显微注射法",
+                " 基因枪技术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种⽅法属于⾮病毒介导基因转移的化学⽅法\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 电穿孔法",
+                " 基因枪技术",
+                " DNA直接注射法",
+                " 显微注射",
+                " DEAE-葡聚糖法"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在基因治疗时，⽬前哪⼀种细胞不能作为靶细胞\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 淋巴细胞",
+                " 肿瘤细胞",
+                " ⽣殖细胞",
+                " ⼲细胞",
+                " 造⾎细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "⽬前临床基因治疗⽅案中，针对的疾病最多的是\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 癌症",
+                " 单基因遗传病",
+                " ⼼⾎管疾病",
+                " 糖尿病",
+                " 艾滋病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "⽬前下列哪类疾病基因治疗效果最确切\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 单基因遗传病",
+                " 多基因遗传病",
+                " 恶性肿瘤",
+                " 感染性疾病",
+                " ⼼⾎管疾病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "Taq DNA聚合酶不具有以下特性：\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 5′→3′⽅向的聚合活性",
+                " 5′→3′⽅向的外切活性",
+                " 较弱的⾮模板依赖性",
+                " 3′→5′⽅向的外切活性",
+                " 以上都对"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n光学显微镜下观察到镰⼑型红细胞推测患者可能罹患镰状细胞贫",
+                "\n以古⽣物化⽯标本中残液为模板进⾏多态性位点相关的PCR以判别",
+                "\n⽤RT-PCR对⼄肝病毒携带者进⾏病毒复制⽔平检测",
+                "\n⽤反向点杂交⽅法对⾼⻛险家庭进⾏β-珠蛋⽩⽣成障碍性贫⾎的",
+                " ⽤基因表达芯⽚分析肿瘤相关基因表达变化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "常⽤核酸分⼦杂交技术不包括\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Southern印迹杂交",
+                " Northern 印迹杂交",
+                " Western印迹杂交",
+                " 菌落原位杂交",
+                " 反向斑点杂交"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\n突变基因的异常结构检测",
+                "\n针对是基因的表达产物",
+                "\n⽐直接诊断效果好",
+                "\n完全可以替代直接诊断",
+                "\n利⽤连锁遗传标记进⾏连锁分析"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "基因诊断不可能实现\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 对某种遗传疾病发⽣的预知",
+                " 改变基因的原有表达⽅式",
+                " 对个体身份的鉴定",
+                " 对病毒的亚型准确判断",
+                " 判定某种肿瘤疾病的易感性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": "",
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "\nPCR",
+                "\nNorthern blotting",
+                "\nSouthern blotting",
+                "\nRFLP分析",
+                " ASO"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关基因治疗描述错误的是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 主要针对⽣殖细胞",
+                " 可实现缺陷基因序列的矫正",
+                " 可实现有害基因的表达抑制",
+                " 可⽤于传染病的治疗",
+                " 可⽤于遗传"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关 Sanger 测序描述正确的是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ddNTP 底物带来了延伸终⽌",
+                " 利⽤⾼温终⽌延伸反应",
+                " 以 RNA 链合成反应为基础",
+                " 反应底物为 dNTP 或 NTP",
+                " 四个延伸终⽌反应可合并进⾏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "Sanger 双脱氧测序法时,为了获得腺苷酸残基为末端的⼀组⼤⼩不同的DNA\n⽚段,应该选择哪种物质? ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ddTTP",
+                " ddCTP",
+                " ddGTP",
+                " ddATP",
+                " dGTP"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "能够实现对PCR过程的监测,并对原始模板进⾏定量的PCR技术是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 实时荧光定量PCR",
+                " RT-PCR",
+                " 多重PCR",
+                " 原位PCR",
+                " 反向PCR"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "不符合基因操作中理想载体条件的是: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 具有⾃主复制能⼒",
+                " 分⼦量很⼤",
+                " 具有限制性内切酶的单⼀切点",
+                " 有⼀个或多个筛选标志",
+                " 易与染⾊体DNA分离"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "异常⾎红蛋⽩病是指: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 珠蛋⽩α链⽣成障碍",
+                " 珠蛋⽩链结构异常",
+                " 珠蛋⽩β链⽣成障碍",
+                " 珠蛋⽩α链和β链失去平衡",
+                " 以上都是"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "基因诊断中常⽤的分⼦⽣物学技术(RFLP)是指以下那种技术: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 寡聚核苷酸探针杂交",
+                " 聚合酶链反应",
+                " 限制性⽚段⻓度多态性分析",
+                " 原位分⼦杂交",
+                " 抑制性消减杂交技术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "质粒DNA导⼊细菌的过程称为: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 转化",
+                " 转染",
+                " 感染",
+                " 传染",
+                " 转导"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在基因治疗时,⽬前哪⼀种细胞不能作为靶细胞: ( )\n• "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 淋巴细胞",
+                " 肿瘤细胞",
+                " ⽣殖细胞",
+                " 肝细胞",
+                " 造⾎⼲细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}
