@@ -37,6 +37,40 @@ function left_scroll_fun() {
 //         }, duration)
 //     }
 // }
+
+
+// 如何用js让网页文字选择时页面滚动变慢
+// 监听文本选择开始事件
+document.addEventListener('selectionchange', function () {
+    // 获取当前是否有文本被选中
+    const selectedText = window.getSelection().toString().trim();
+    if (selectedText.length > 0) {
+        // 如果有文本被选中，降低滚动速度
+        document.body.style.overflow = 'hidden'; // 隐藏滚动条
+        window.scroll({ behavior: 'smooth', block: 'center' }); // 平滑滚动到页面中心
+    }
+});
+
+// 监听文本选择结束事件
+document.addEventListener('mouseup', function () {
+    // 恢复滚动速度
+    document.body.style.overflow = 'auto'; // 显示滚动条
+});
+
+// 监听滚动事件，并在滚动时检查是否有文本被选中
+window.addEventListener('scroll', function () {
+    const selectedText = window.getSelection().toString().trim();
+    if (selectedText.length > 0) {
+        // 如果有文本被选中，增加滚动阻力
+        window.scrollBy(0, 0); // 重置滚动位置
+        setTimeout(function () {
+            window.scrollBy(0, -1); // 向下滚动一小步
+        }, 50); // 延迟执行以模拟滚动阻力
+    }
+});
+
+
+
 function isJSON(str) {
     if (typeof str == 'string') {
         try {
