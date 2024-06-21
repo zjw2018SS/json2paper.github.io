@@ -41,7 +41,7 @@ function left_scroll_fun() {
 
 // 如何用js让网页文字选择时页面滚动变慢
 // 监听文本选择开始事件
-document.addEventListener('selectionchange', function () {
+/* document.addEventListener('selectionchange', function () {
     // 获取当前是否有文本被选中
     const selectedText = window.getSelection().toString().trim();
     if (selectedText.length > 0) {
@@ -67,7 +67,11 @@ window.addEventListener('scroll', function () {
             window.scrollBy(0, -1); // 向下滚动一小步
         }, 50); // 延迟执行以模拟滚动阻力
     }
-});
+}); */
+
+let is_copy_setting = document.getElementById("is_copy_setting")
+is_copy_setting.click()
+
 
 
 
