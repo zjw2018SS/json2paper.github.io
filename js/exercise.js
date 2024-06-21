@@ -529,7 +529,7 @@ function json_create_original_index(json) {
 }
 
 
-function json2paper(json, is_order = "0") {
+function json2paper(json, is_order = "1") {
     // console.log("json2paper", json)
 
     clear_old_paper_sheet()
