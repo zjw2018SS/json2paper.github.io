@@ -883,7 +883,7 @@ async function unorder_json() {
     })
     if (is_new_reader) {
         // json = json
-        json2paper(json)
+        json2paper(json,0)
         addEventListener_main_click_and_is_submit()
     }
 }
