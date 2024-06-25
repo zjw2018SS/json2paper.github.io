@@ -1,0 +1,51 @@
+        
+        
+        * {
+            border: 0;
+            margin: 0;
+            padding: 0;
+        }
+
+        @media screen and (max-width:767px) {
+            #box {
+                --box_width: calc(100vw - 32px);
+                margin: 18px auto;
+            }
+        }
+
+        @media screen and (min-width:768px) and (max-width:1199px) {
+            #box {
+                --box_width: 80vw;
+                margin: 24px auto;
+            }
+        }
+
+        @media screen and (min-width:1200px) {
+            #box {
+                --box_width: 60vw;
+                margin: 36px auto;
+            }
+        }
+
+        #box {
+            position: relative;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            width: var(--box_width);
+            
+        }
+
+        video,
+        img {
+            width: var(--box_width);
+        }
+
+
+        #box p {
+            display: block;
+        }
+
+
+                /* https: //www.runoob.com/w3cnote/javascript-lightbox.html */
