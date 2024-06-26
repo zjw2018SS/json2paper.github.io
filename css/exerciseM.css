@@ -416,7 +416,7 @@
 
   /* 3.重做选项 */
   .rewrite {
-      margin-left: 20px;
+      margin-left: 10px;
       display: inline-block;
       color: #096fff;
       text-decoration: none;
@@ -429,7 +429,7 @@
 
   /* 导出 */
   .output {
-      margin-left: 20px;
+      margin-left: 10px;
       display: inline-block;
       color: #096fff;
       text-decoration: none;
