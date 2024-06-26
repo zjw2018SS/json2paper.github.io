@@ -1386,13 +1386,12 @@ function is_answer_true_favourite_display_fun(is_answer_true_favourite_display_i
 // 3.在新页面重做
 function rewrite_fun(rewrite_a, is_output = "0") {
     let url = window.location.origin + window.location.pathname
-
     if (!json && !json["head"].hasOwnProperty("create_original_index")) {
-        window.open(url)
+        if (is_output != "1") {
+            window.open(url)
+        }
         return 0
     }
-
-
 
 
     let type = rewrite_a.dataset.type
@@ -1449,7 +1448,9 @@ function rewrite_fun(rewrite_a, is_output = "0") {
         default:
     }
     if (original_index_arr.length == 0) {
-        window.open(url)
+        if (is_output != "1") {
+            window.open(url)
+        }
         return 0
     }
 
@@ -1484,8 +1485,19 @@ function output_fun(output_div) {
     let output_type = output_div.dataset.type
     let rewrite = document.getElementsByClassName("rewrite")[output_type]
     let json_str = rewrite_fun(rewrite, "1")
-    let output_type_arr = ["全部", "页面", "错题", "收藏", "错题+收藏"]
-    let name = output_type_arr[output_type] + "_导出"
+    // console.log(json_str)
+    if (json_str == 0) {
+        swal({
+            title: "Are You OK?I'm Sorry.",
+            text: "提交后或者收藏后才能导出错题或收藏的题目！",
+            icon: "error",
+            buttons: true,
+            dangerMode: true,
+        })
+        return 0
+    }
+    let output_type_arr = ["【全部】", "【页面】", "【错题】", "【收藏】", "【错题+收藏】"]
+    let name = json["head"]["title"] + "_" + output_type_arr[output_type] + "_导出"
     handleDownload(json_str, name)
 }
 
