@@ -907,7 +907,7 @@ function clear_old_paper_sheet() {
 async function unorder_json() {
     let is_new_reader = await swal({
         title: "Are you sure?",
-        text: "重新生成将覆盖您以前的内容！",
+        text: "重新生成将覆盖您以前的内容，并且乱序可能造成单选题选项引用错误（如正确选项C的内容为B,D）,还请您多留意。",
         icon: "warning",
         buttons: true,
         dangerMode: true,

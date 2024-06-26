@@ -146,7 +146,7 @@ function get_path() {
                     // text: "!!!病理学📘不要乱序做题，默认是顺序，几个单选题还没有适配(乱序后选项的引用错误)。😄网络题目、免费的、没有学分、没有对错、没有问答、没有考试、想来就来、想去就去。欢迎带你的朋友、伙伴一起来。   <a href='demo.html' target='_blank'>不会使用，查看教程</a>",
                     notie.alert({
                         type: 1,
-                        text: "病理学📘不要乱序做题，默认是顺序，几个单选题还没有适配(乱序后选项的引用错误)。有错误的问题及时反馈，谢谢！  <hr> <a href='demo.html' target='_blank'>不会使用，查看教程</a>",
+                        text: "马原（3）+习思想（3）=病理（4）+医学分子生物学D(1)+大学体育4(1)<hr>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>",
                         stay: true,
                         time: 5,
                         position: "bottom"
