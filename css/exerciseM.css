@@ -419,8 +419,12 @@
       margin-left: 20px;
       display: inline-block;
       color: #096fff;
+      text-decoration: none;
+      /* font-size: small; */
+  }
+
+  .rewrite:hover {
       text-decoration: underline;
-      font-size: small;
   }
 
   /* 导出 */
@@ -428,9 +432,11 @@
       margin-left: 20px;
       display: inline-block;
       color: #096fff;
-      text-decoration: underline;
-      font-size: small;
+      text-decoration: none;
+  }
 
+  .output:hover {
+      text-decoration: underline;
   }
 
 

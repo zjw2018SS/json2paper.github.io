@@ -134,6 +134,7 @@ let file_input = document.getElementById("file_input")
 file_input.addEventListener("input", read_file)
 function read_file(e) {
     let file_name = e.target.files[0].name
+    let title = extractBeforeMatch(file_name)
     let file_type = file_name.split('.').slice(-1)[0].toLowerCase();
     if (file_type == "json") {
         let file = e.target.files[0]
@@ -143,6 +144,7 @@ function read_file(e) {
             let content = event.target.result
             if (isJSON(content)) {
                 json = JSON.parse(content)
+                json["head"]["title"] = title
                 json2paper(json)
             }
         }
@@ -159,11 +161,18 @@ function read_dir(dir_input) {
         "body": []
     };
     let dir = dir_input.target.files;
-
+    var relativePath = dir[0].webkitRelativePath;
+    var folderName = relativePath.split("/")[0];
+    // console.log(folderName)
+    // let time=0
     for (let i = 0; i < dir.length; i++) {
+        // time+=1
         let file_reader = new FileReader();
         let file = dir[i];
-        let file_name = file.name;
+        var file_name = file.name;
+        if (file_name == "path_info.json") {
+            continue
+        }
         let file_type = file_name.split('.').slice(-1)[0].toLowerCase();
         if (file_type != "json") {
             continue;
@@ -173,18 +182,41 @@ function read_dir(dir_input) {
             let content = event.target.result;
             if (isJSON(content)) {
                 let json_each = JSON.parse(content);
-                if (i == 0) {
-                    json_temp["head"] = json_each["head"];
+                if (json_each && json_each.hasOwnProperty("head") && json_each.hasOwnProperty("body")) {
+                    if (i == 0) {
+                        json_temp["head"] = json_each["head"];
+                    }
+                    // console.log(typeof json_each["body"],json_each["body"])
+                    json_temp["body"].push(...json_each["body"]);
                 }
-                json_temp["body"].push(...json_each["body"]);
-                if (i == dir.length - 1) {
-                    json = json_temp;
-                    json2paper(json);
-                }
+            }
+            if (json_temp["head"] != "" && json_temp["head"] != "") {
+                json = json_temp;
+                json["head"]["title"] = folderName
+                json2paper(json);
+                // console.log(json)
             }
         };
     }
+
 }
+
+/* obj[Symbol.iterator] = function () {
+    return {
+        next: function () {
+            let objArr = Reflect.ownKeys(obj)
+            if (this.index < objArr.length - 1) {
+                let key = objArr[this.index];
+                this.index++;
+                return { value: obj[key] };
+            } else {
+                return { done: true };
+            }
+        },
+        index: 0
+    }
+} */
+
 /* let dir_input = document.getElementById("dir_input")
 dir_input.addEventListener("input", read_dir)
 function read_dir(dir_input) {
@@ -555,31 +587,34 @@ function string_to_name(string, value) {
 let url = location.search
 
 function json_create_original_index(json) {
-
     var json_body = json["body"]
-    // console.log(json["body"]);
-    // console.log(typeof json_body);
     for (let i = 0; i < json_body.length; i++) {
         // 创建唯一原始索引,方便查找
         json_body[i]["original_index"] = i
     }
     json["head"]["create_original_index"] = "1"
 }
-
+function extractBeforeMatch(str) {
+    var regex = /-\d+年\d+月\d+日\d+小时\d+分\d+秒\.json/;
+    var matchResult = str.match(regex);
+    if (matchResult == null) {
+        if (str.match(/\.json/) != null) return str.replace(/\.json/, "")
+        return str
+    } else {
+        return str.replace(matchResult, "")
+    }
+}
 
 function json2paper(json, is_order = "1") {
     // console.log("json2paper", json)
 
     clear_old_paper_sheet()
-    try {
-        json["head"]["create_original_index"]
-        if (json["head"]["create_original_index"] != "1") {
-            json_create_original_index(json)
-        }
 
-    } catch (err) {
-        console.log("没有原始索引");
+
+
+    if (!(json["head"].hasOwnProperty("create_original_index") && json["head"]["create_original_index"] == "1")) {
         json_create_original_index(json)
+
     }
 
     var json_body = json["body"]
@@ -604,8 +639,19 @@ function json2paper(json, is_order = "1") {
     }
     let type_code_123456 = ["一.", "二.", "三.", "四.", "五.", "六."]
     var timer = 0
-    let main_div = document.getElementById("main")
+    var main_div = document.getElementById("main")
     let sheet_wrap = document.getElementById("sheet_wrap")
+
+    // 标题
+    if (json && json["head"].hasOwnProperty("title")) {
+        let title = document.createElement("h2")
+        title.id = "title"
+        title.style.width = "fit-content"
+        title.style.margin = "0px auto 5px"
+        title.innerText = extractBeforeMatch(json["head"]["title"])
+        main_div.appendChild(title)
+    }
+
     // 全局索引
     let index = 0
     for (let i = 1; i < 7; i++) {
@@ -730,25 +776,7 @@ if (url.match(/\?name=.*&path=.*$/mg)) {
     });
     if (path.match("@")) {
         let path_arr = path.split("@")
-        // console.log(path, path_arr);
-        /*         for (let i = 0; i < path_arr.length; i++) {
-                    let path_each = path_arr[i]
-                    xmlhttp.open("GET", path_each)
-                    xmlhttp.send()
-                    xmlhttp.onload = function () {
-                        if (xmlhttp.status >= 200 && xmlhttp.status < 400) {
-                            // 请求成功，解析JSON数据
-                            let json_each = JSON.parse(xmlhttp.responseText);
-                            console.log(json);
-                            if (i == 1) {
-                                json["head"] = json_each["head"]
-                            }
-                            json["body"].push(...json_each["body"])
-                        }
-                    }
-                }
-                json2paper(json) */
-        load_path(path_arr)
+        load_path(path_arr, name)
     } else {
         xmlhttp.open("GET", path)
         xmlhttp.send()
@@ -758,6 +786,7 @@ if (url.match(/\?name=.*&path=.*$/mg)) {
                 if (xmlhttp.responseText != "" && xmlhttp.responseText != [] && xmlhttp.responseText != "[]") {
                     json = JSON.parse(xmlhttp.responseText);
                     // console.log(json);
+                    json["head"]["title"] = name
                     json2paper(json)
                 } else {
                     swal({
@@ -785,6 +814,7 @@ if (url.match(/\?name=.*&path=.*$/mg)) {
     if (json_str) {
         json = JSON.parse(json_str)
         if (json["body"] || json["body"] == "null" || json["body"] == "undefined" || json["body"] == "") {
+            json["head"]["title"] = json["head"]["filename"]
             json2paper(json, "1")
         }
     }
@@ -829,7 +859,7 @@ function fetchJson(path) {
     });
 }
 
-async function load_path(path_arr) {
+async function load_path(path_arr, name) {
     json = { head: {}, body: [] };
     let promises = path_arr.map(fetchJson);
     try {
@@ -846,9 +876,10 @@ async function load_path(path_arr) {
             }
             json["body"].push(...results[i]["body"]);
         }
+        json["head"]["title"] = name
         json2paper(json);
     } catch (error) {
-        console.error("Error:", error);
+        console.error("路径处理出现错误,Error:", error);
     }
 }
 
@@ -883,7 +914,7 @@ async function unorder_json() {
     })
     if (is_new_reader) {
         // json = json
-        json2paper(json,0)
+        json2paper(json, 0)
         addEventListener_main_click_and_is_submit()
     }
 }
@@ -1189,15 +1220,24 @@ function copy_setting_fun(is_copy_setting_div) {
     let is_copy_setting = is_copy_setting_div.dataset.isCopySetting
     let main = document.getElementById("main")
     if (is_copy_setting == "0") {
-        main.style.userSelect = "none"
+        main.style.userSelect = "none";
+        main.style.mozUserSelect = "none";
+        main.style.webkitUserSelect = "none";
+        main.style.msUserSelect = "none";
+        main.style.oUserSelect = "none";
+        main.style.khtmlUserSelect = "none"
     } else if (is_copy_setting == "1") {
-        main.style.userSelect = "auto"
+        main.style.userSelect = "auto";
+        main.style.mozUserSelect = "auto";
+        main.style.webkitUserSelect = "auto";
+        main.style.msUserSelect = "auto";
+        main.style.oUserSelect = "auto";
+        main.style.khtmlUserSelect = "auto"
     }
     is_copy_setting_div.dataset.isCopySetting = 1 - is_copy_setting
 
 
 }
-
 
 
 // 2.题目显示
@@ -1346,15 +1386,15 @@ function is_answer_true_favourite_display_fun(is_answer_true_favourite_display_i
 // 3.在新页面重做
 function rewrite_fun(rewrite_a, is_output = "0") {
     let url = window.location.origin + window.location.pathname
-    try {
-        if (!json && !json["head"]["create_original_index"]) {
-            window.open(url)
-            return 0
-        }
 
-    } catch (err) {
-        console.log("2 没有原始索引");
+    if (!json && !json["head"].hasOwnProperty("create_original_index")) {
+        window.open(url)
+        return 0
     }
+
+
+
+
     let type = rewrite_a.dataset.type
     let wrap_arr = document.getElementsByClassName("wrap")
 
@@ -1515,6 +1555,7 @@ function main(json_body_each, order, index, is_order) {
     let answers_matching_index = json_body_each["answers_matching_index"]
     let answers_matching_index_new = []
     let wrap = document.createElement("div")
+
     wrap.className = "wrap"
     wrap.id = "q_typeCode" + type_code + "_" + order
     wrap.dataset.answerMy = "[]"

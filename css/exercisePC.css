@@ -438,8 +438,12 @@
       margin-left: 20px;
       display: inline-block;
       color: #096fff;
-      text-decoration: underline;
+      text-decoration: none;
       /* font-size: small; */
+  }
+
+  .rewrite:hover {
+      text-decoration: underline;
   }
 
   /* 导出 */
@@ -447,9 +451,11 @@
       margin-left: 20px;
       display: inline-block;
       color: #096fff;
+      text-decoration: none;
+  }
+
+  .output:hover {
       text-decoration: underline;
-
-
   }
 
 

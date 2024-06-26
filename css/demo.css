@@ -1,5 +1,3 @@
-        
-        
         * {
             border: 0;
             margin: 0;
@@ -9,7 +7,7 @@
         @media screen and (max-width:767px) {
             #box {
                 --box_width: calc(100vw - 32px);
-                margin: 18px auto;
+                margin: 18px auto 36px;
             }
         }
 
@@ -34,7 +32,7 @@
             align-items: center;
             justify-content: center;
             width: var(--box_width);
-            
+
         }
 
         video,
@@ -48,4 +46,4 @@
         }
 
 
-                /* https: //www.runoob.com/w3cnote/javascript-lightbox.html */
+        /* https: //www.runoob.com/w3cnote/javascript-lightbox.html */
