@@ -647,7 +647,7 @@ function json2paper(json, is_order = "1") {
         let title = document.createElement("h2")
         title.id = "title"
         title.style.width = "fit-content"
-        title.style.margin = "0px auto 5px"
+        title.style.margin = "0px auto 15px"
         title.innerText = extractBeforeMatch(json["head"]["title"])
         main_div.appendChild(title)
     }
