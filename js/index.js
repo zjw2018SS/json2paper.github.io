@@ -147,8 +147,8 @@ function get_path() {
                     notie.alert({
                         type: 1,
                         text: "较大更新，出问题及时反馈，谢谢。<hr>马原（3）+习思想（3）=病理（4）+医学分子生物学D(1)+大学体育4(1)<hr>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>",
-                        stay: true,
-                        time: 5,
+                        stay: false,
+                        time: 3,
                         position: "bottom"
                     })
                 }
