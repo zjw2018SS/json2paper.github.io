@@ -5,154 +5,142 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>习题</title>
+
     <style>
-        /* 加载动画 */
+        * {
+            margin: 0;
+            padding: 0;
+            text-decoration: none;
+        }
+
+        html {
+            scroll-behavior: smooth;
+            scroll-padding-top: -webkit-calc(60px + 30vh);
+            scroll-padding-top: -moz-calc(60px + 30vh);
+            scroll-padding-top: calc(60px + 30vh);
+        }
+
         body {
-            background: #222;
+            position: relative;
+            overflow-x: hidden;
+            overflow-y: scroll;
+
         }
 
-        figure {
+        #showbox {
+            visibility: visible;
+            display: block;
             position: absolute;
-            margin: auto;
             top: 0;
-            bottom: 0;
             left: 0;
-            right: 0;
-            width: 6.250em;
-            height: 6.250em;
-            animation: rotate 2.4s linear infinite;
+            overflow: hidden;
+            background-color: #ffffff;
+            z-index: 999;
+            overflow-x: hidden;
+            overflow-y: hidden;
+            height: 100vh;
+            width: 100vw;
+            border: 0;
         }
 
-        .white {
-            top: 0;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: white;
-            animation: flash 2.4s linear infinite;
-            opacity: 0;
-        }
-
-        .dot {
+        .loader {
             position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto auto;
+            width: 100px;
+            height: 100px;
+        }
+
+        .loader:before {
+            content: '';
+            display: block;
+            padding-top: 100%;
+        }
+
+        .circular {
+            animation: rotate 2s linear infinite;
+            height: 100%;
+            transform-origin: center center;
+            width: 100%;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
             margin: auto;
-            width: 2.4em;
-            height: 2.4em;
-            border-radius: 100%;
-            transition: all 1s ease;
         }
 
-        .dot:nth-child(2) {
-            top: 0;
-            bottom: 0;
-            left: 0;
-            background: #FF4444;
-            animation: dotsY 2.4s linear infinite;
-        }
-
-        .dot:nth-child(3) {
-            left: 0;
-            right: 0;
-            top: 0;
-            background: #FFBB33;
-            animation: dotsX 2.4s linear infinite;
-        }
-
-        .dot:nth-child(4) {
-            top: 0;
-            bottom: 0;
-            right: 0;
-            background: #99CC00;
-            animation: dotsY 2.4s linear infinite;
-        }
-
-        .dot:nth-child(5) {
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: #33B5E5;
-            animation: dotsX 2.4s linear infinite;
+        .path {
+            stroke-dasharray: 1, 200;
+            stroke-dashoffset: 0;
+            animation: dash 1.5s ease-in-out infinite, color 6s ease-in-out infinite;
+            stroke-linecap: round;
         }
 
         @keyframes rotate {
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        @keyframes dash {
             0% {
-                transform: rotate(0);
+                stroke-dasharray: 1, 200;
+                stroke-dashoffset: 0;
             }
 
-            10% {
-                width: 6.250em;
-                height: 6.250em;
-            }
-
-            66% {
-                width: 2.4em;
-                height: 2.4em;
+            50% {
+                stroke-dasharray: 89, 200;
+                stroke-dashoffset: -35px;
             }
 
             100% {
-                transform: rotate(360deg);
-                width: 6.250em;
-                height: 6.250em;
+                stroke-dasharray: 89, 200;
+                stroke-dashoffset: -124px;
             }
         }
 
-        @keyframes dotsY {
-            66% {
-                opacity: .1;
-                width: 2.4em;
+        @keyframes color {
+
+            100%,
+            0% {
+                stroke: #d62d20;
             }
 
-            77% {
-                opacity: 1;
-                width: 0;
-            }
-        }
-
-        @keyframes dotsX {
-            66% {
-                opacity: .1;
-                height: 2.4em;
-            }
-
-            77% {
-                opacity: 1;
-                height: 0;
-            }
-        }
-
-        @keyframes flash {
-            33% {
-                opacity: 0;
-                border-radius: 0%;
-            }
-
-            55% {
-                opacity: .6;
-                border-radius: 100%;
+            40% {
+                stroke: #0057e7;
             }
 
             66% {
-                opacity: 0;
+                stroke: #008744;
+            }
+
+            80%,
+            90% {
+                stroke: #ffa700;
             }
         }
     </style>
-    <!-- <link rel="stylesheet" href="./css/exercise.css"> -->
+
 </head>
 
 <body>
-    <figure id="loading">
-        <div class="dot white"></div>
-        <div class="dot"></div>
-        <div class="dot"></div>
-        <div class="dot"></div>
-        <div class="dot"></div>
-    </figure>
 
-    <div id="nav" style="display: none;">
+    <div id="showbox">
+        <div class="loader">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+            </svg>
+        </div>
+    </div>
+    <div id="nav">
         <div id="nav_left">
             <span id="order_json" data-is-random-json="1">顺序</span>
             <div id="json_num_wrap">
-                <input id="json_num" value="0">/<span id="json_all_num">&nbsp;&nbsp;</span>
+                <input id="json_num" value="0" placeholder="乱序">/<span id="json_all_num">&nbsp;&nbsp;</span>
                 <span id="unorder_json">乱序<div></div>
                 </span>
             </div>
@@ -171,7 +159,7 @@
         </div>
     </div>
 
-    <div id="setting" style="display: none;">
+    <div id="setting">
         <div id="setting_icon_div" draggable="true">
             <svg t="1705244734270" id="setting_icon" viewBox="0 0 1024 1024" version="1.1"
                 xmlns="http://www.w3.org/2000/svg" p-id="3193" width="32" height="32">
@@ -189,7 +177,7 @@
                 <div class="toggle_switches_div">
                     正确选项前显示“√”
                     <label class="switch">
-                        <input type="checkbox" id="none" onclick="option_right_display(this)"
+                        <input type="checkbox" id="none" placeholder="功能" onclick="option_right_display(this)"
                             data-is-option-right-display="0">
                         <span class="slider"></span>
                     </label>
@@ -198,31 +186,31 @@
                 <div class="toggle_switches_div">
                     悬停显示正确答案
                     <label class="switch">
-                        <input type="checkbox" id="is_hide_answer_true" onclick="is_hide_answer_true_fun(this)"
-                            data-is-hide-answer-true="0">
+                        <input type="checkbox" id="is_hide_answer_true" placeholder="功能"
+                            onclick="is_hide_answer_true_fun(this)" data-is-hide-answer-true="0">
                         <span class="slider"></span>
                     </label>
                 </div>
                 <div class="toggle_switches_div" style="display:none;">
                     提交后自动展开/缩小设置
                     <label class="switch">
-                        <input type="checkbox" id="is_auto_unfold_setting" onclick="auto_unfold_setting_fun(this)"
-                            data-is-auto-unfold-setting="0">
+                        <input type="checkbox" id="is_auto_unfold_setting" placeholder="功能"
+                            onclick="auto_unfold_setting_fun(this)" data-is-auto-unfold-setting="0">
                         <span class="slider"></span>
                     </label>
                 </div>
                 <div class="toggle_switches_div">
                     沉浸模式
                     <label class="switch">
-                        <input type="checkbox" id="is_immerse_setting" onclick="immerse_setting_fun(this)"
-                            data-is-immerse-setting="0">
+                        <input type="checkbox" id="is_immerse_setting" placeholder="功能"
+                            onclick="immerse_setting_fun(this)" data-is-immerse-setting="0">
                         <span class="slider"></span>
                     </label>
                 </div>
                 <div class="toggle_switches_div">
                     禁止选择和复制
                     <label class="switch">
-                        <input type="checkbox" id="is_copy_setting" onclick="copy_setting_fun(this)"
+                        <input type="checkbox" id="is_copy_setting" placeholder="功能" onclick="copy_setting_fun(this)"
                             data-is-copy-setting="0">
                         <span class="slider"></span>
                     </label>
@@ -233,8 +221,8 @@
                 <div class="toggle_switches_div">
                     仅错题
                     <label class="switch">
-                        <input type="checkbox" id="is_answer_true_display" onclick="is_answer_true_fun(this)"
-                            data-is-answer-true-display="0">
+                        <input type="checkbox" id="is_answer_true_display" placeholder="功能"
+                            onclick="is_answer_true_fun(this)" data-is-answer-true-display="0">
                         <span class="slider"></span>
                     </label>
                 </div>
@@ -242,15 +230,15 @@
                 <div class="toggle_switches_div">
                     仅收藏
                     <label class="switch">
-                        <input type="checkbox" id="is_favourite_display" onclick="favourite_display_fun(this)"
-                            data-is-favourite-display="0">
+                        <input type="checkbox" id="is_favourite_display" placeholder="功能"
+                            onclick="favourite_display_fun(this)" data-is-favourite-display="0">
                         <span class="slider"></span>
                     </label>
                 </div>
                 <div class="toggle_switches_div">
                     错题+收藏
                     <label class="switch">
-                        <input type="checkbox" id="is_answer_true_favourite_display"
+                        <input type="checkbox" id="is_answer_true_favourite_display" placeholder="功能"
                             onclick="is_answer_true_favourite_display_fun(this)"
                             data-is-answer-true-favourite-display="0">
                         <span class="slider"></span>
@@ -299,7 +287,7 @@
                     本网站不保证数据的准确性，如有介意，请勿使用，本人不承担任何责任。
                 </div>
                 <div id="version">
-                    v1.1.0 &nbsp;&nbsp;&nbsp;支持win11 edge/Chrome&nbsp;&nbsp;&nbsp; by听雨荷<br>
+                    v0.6.0 &nbsp;&nbsp;&nbsp;支持win11 edge/Chrome&nbsp;&nbsp;&nbsp; by听雨荷<br>
                     功能建议&&问题反馈至email:<span>chatgpt.usc@gmail.com</span>
                 </div>
             </div>
@@ -314,8 +302,8 @@
         </svg>
         <div>返回顶部</div>
     </div>
-    <div id="main" style="display: none;">
-        <div id="drop_box">
+    <div id="main">
+        <div id="drop_box" style="display: none;">
             <svg t="1706019120792" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
                 p-id="3294" width="32" height="32">
                 <path
@@ -328,7 +316,7 @@
             <div>
                 或者
             </div>
-            <input type="file" id="file_input">
+            <input type="file" id="file_input" placeholder="上传文件">
             <div>
                 点击这里上传文件
             </div>
@@ -336,7 +324,7 @@
                 仅支持json文件（上次选择的文件无效）
             </div>
         </div>
-        <div id="drop_dir_box">
+        <div id="drop_dir_box" style="display: none;">
             <svg t="1706008452178" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
                 p-id="6989" width="32" height="32">
                 <path
@@ -349,7 +337,7 @@
             <div>
                 或者
             </div>
-            <input type="file" id="dir_input" webkitdirectory>
+            <input type="file" id="dir_input" webkitdirectory multiple placeholder="上传文件夹">
             <div>
                 点击这里上传文件夹
             </div>
@@ -359,7 +347,7 @@
         </div>
     </div>
 
-    <div id="sheet" style="display: none;">
+    <div id="sheet">
         <div id="sheet_wrap">
         </div>
     </div>
@@ -386,10 +374,6 @@
     </script>
     <script type="text/javascript" src="./node_modules/sweetalert/dist/sweetalert.min.js"></script>
     <script>
-        // 取消留白
-        // let body = document.getElementsByTagName("body")[0];
-        // body.style.display = "block";
-
         function goPAGEJS() {
             if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
                 var exerciseM = document.createElement("script")
@@ -397,39 +381,11 @@
                 exerciseM.src = "js/exerciseM.js"
                 document.body.appendChild(exerciseM)
             }
-            else {
-                /*                 var exercisePC = document.createElement("script")
-                                exercisePC.type = "text/javascript"
-                                exercisePC.src = "js/exercisePC.js"
-                                document.body.appendChild(exercisePC) */
-            }
         }
         goPAGEJS();
 
     </script>
     <script type="text/javascript" src="./js/exercise.js"></script>
-    <script>
-        //Loading页面
-        let body_div = document.getElementsByTagName("body")[0];
-        let nav_div = document.getElementById("nav");
-        let setting_div = document.getElementById("setting");
-        let main_div_ = document.getElementById("main");
-        let sheet_div = document.getElementById("sheet");
-        // nav.style.display = 'none';
-        // setting.style.display = 'none';
-        // main.style.display = 'none';
-        // sheet.style.display = 'none';
-
-        var loading_div = document.getElementById('loading');
-        window.onload = function () {
-            loading_div.style.display = 'none';
-            body_div.style.background = "rgb(255, 255, 255)"
-            nav_div.style.display = '';
-            setting_div.style.display = '';
-            main_div_.style.display = '';
-            sheet.style.display = '';
-        }
-    </script>
 </body>
 
 </html>

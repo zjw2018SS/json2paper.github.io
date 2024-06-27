@@ -17,19 +17,6 @@ function nav_center_display() {
 
 }
 
-/* 
-function bodyScroll(event) {
-    event.preventDefault();
-}
-
-function scrControl(t,e) {
-    if (t == 0) { //禁止滚动
-        e.addEventListener('scroll', this.bodyScroll, { passive: false });
-    } else if (t == 1) { //开启滚动
-        e.removeEventListener('scroll', this.bodyScroll, { passive: false });
-    }
-} */
-
 
 window.isCloseHint = true;
 // 初始化关闭

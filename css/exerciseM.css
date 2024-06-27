@@ -40,23 +40,14 @@
       -moz-box-direction: normal;
       -ms-flex-direction: row;
       flex-direction: row;
-      /* background-color: rgba(255, 255, 255, 0.3); */
       background-color: rgb(255, 255, 255);
-
-      /* backdrop-filter: blur(1px); */
-      /* -webkit-backdrop-filter: blur(4px); */
-      /* border: 0.8px solid rgba(255, 255, 255, 0.18); */
-      /*       border-top: 0;
-      border-bottom: 0.8px solid rgba(255, 255, 255, 0.18);
-      border-left: 0.8px solid rgba(255, 255, 255, 0.18);
-      border-right: 0.8px solid rgba(255, 255, 255, 0.18); */
       border: 0;
-      box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
       -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
-      box-shadow: rgba(142, 142, 142, 0.19) 0px -6px 15px 0px;
+      box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
       -webkit-box-shadow: rgba(142, 142, 142, 0.19) 0px -6px 15px 0px;
-      border-radius: 6px;
+      box-shadow: rgba(142, 142, 142, 0.19) 0px -6px 15px 0px;
       -webkit-border-radius: 6px;
+      border-radius: 6px;
       color: black;
       -webkit-user-select: none;
       -moz-user-select: none;
@@ -413,7 +404,6 @@
       -o-transform: translateX(29px);
       transform: translateX(29px);
   }
-
   /* 3.重做选项 */
   .rewrite {
       margin-left: 10px;

@@ -1,10 +1,124 @@
-window.onbeforeunload = function (e) {
-    localStorage.clear()
-}
-json = ""
+json = {}
 json_new = {}
-window.addEventListener("scroll", left_scroll_fun)
+request_server = 0
 
+function init(type) {
+    // 0是不需要初始化，1是需要
+    // 成功初始的标准是：是否有json赋值
+    if (type == 0) {
+        // loading(0)
+        // drop_box_display_fun(1)
+    } else if (type == 1) {
+        loading(0)
+        drop_box_display_fun(1)
+    }
+
+}
+window.onload = function (e) {
+    if (!url.match("name") && !url.match("path") && !url.match("rewrite") && !url.match("preview")) {
+        // init(1)
+    } else if (url.match("rewrite")) {
+    }
+}
+
+let url = location.search
+if (url.match(/\?name=.*&path=.*$/mg)) {
+    // 1.服务器拉取
+    request_server = 1
+    let xmlhttp = new XMLHttpRequest()
+    const queryString = truncateString(url, "?");
+    const params = queryString.split('&');
+    let name, path;
+    params.forEach(param => {
+        const [key, value] = param.split('=');
+        //   console.log(key, value);
+        if (key === '?name') {
+            name = decodeURIComponent(value);
+        } else if (key === 'path') {
+            path = decodeURIComponent(value);
+        }
+    });
+    if (path.match("@")) {
+        let path_arr = path.split("@")
+        load_path(path_arr, name)
+    } else {
+        xmlhttp.open("GET", path)
+        try{
+            xmlhttp.send()
+        }catch(error){
+            init(1)
+            swal({
+                icon: 'error',
+                title: '网络响应异常',
+                text: '但这绝不是你的错误',
+                focusConfirm: true, //聚焦到确定按钮
+                showCloseButton: true,//右上角关闭
+            })
+        }
+        xmlhttp.onload = function () {
+            if (xmlhttp.status >= 200 && xmlhttp.status < 400) {
+                // 请求成功，解析JSON数据
+                if (xmlhttp.responseText != "" && xmlhttp.responseText != [] && xmlhttp.responseText != "[]") {
+                    json = JSON.parse(xmlhttp.responseText);
+                    // console.log(json);
+                    json["head"]["title"] = name
+                    json2paper(json)
+                } else {
+                    init(1)
+                    swal({
+                        icon: 'error',
+                        title: '请求的json文件内容为空，无法解析！',
+                        text: '但这绝不是你的错误',
+                        focusConfirm: true, //聚焦到确定按钮
+                        showCloseButton: true,//右上角关闭
+                    })
+                }
+
+            } else {
+                init(1)
+                swal({
+                    icon: 'error',
+                    title: '网络响应异常',
+                    text: '但这绝不是你的错误',
+                    focusConfirm: true, //聚焦到确定按钮
+                    showCloseButton: true,//右上角关闭
+                })
+            }
+        }
+    }
+} else if (url.match(/\?rewrite=/mg)) {
+    // 2.重做
+    let json_str = localStorage.getItem("json_str")
+    if (json_str) {
+        json = JSON.parse(json_str)
+        if (json.hasOwnProperty("body") || json["body"] == "null" || json["body"] == "undefined" || json["body"] == "") {
+            json2paper(json, "1")
+        } else {
+        }
+    } else {
+    }
+} else if (url.match(/\?preview/mg)) {
+    // 3.预览窗口
+    let json_str = localStorage.getItem("json_str")
+    if (json_str) {
+        json = JSON.parse(json_str)
+        if (json.hasOwnProperty("body") || json["body"] == "null" || json["body"] == "undefined" || json["body"] == "") {
+            json["head"]["title"] = json["head"]["filename"]
+            json2paper(json, "1")
+        } else {
+        }
+    } else {
+    }
+} else {
+    // 4.本地读取文件
+}
+
+if (request_server == 0 && JSON.stringify(json) == JSON.stringify({})) {
+    // console.log(json)
+    init(1)
+}
+
+window.addEventListener("scroll", left_scroll_fun)
 let main_div = document.getElementById("main")
 function left_scroll_fun() {
     // 1.移除
@@ -23,57 +137,10 @@ function left_scroll_fun() {
             sheet_li[index].classList.add("sheet_li_show")
             break;
         }
-
-
     }
 }
-// 防抖函数
-// function debounce(fn, duration = 500) {
-//     let timer
-//     return function (...args) {
-//         clearTimeout(timer)
-//         timer = setTimeout(() => {
-//             fn(...args)
-//         }, duration)
-//     }
-// }
-
-
-// 如何用js让网页文字选择时页面滚动变慢
-// 监听文本选择开始事件
-/* document.addEventListener('selectionchange', function () {
-    // 获取当前是否有文本被选中
-    const selectedText = window.getSelection().toString().trim();
-    if (selectedText.length > 0) {
-        // 如果有文本被选中，降低滚动速度
-        document.body.style.overflow = 'hidden'; // 隐藏滚动条
-        window.scroll({ behavior: 'smooth', block: 'center' }); // 平滑滚动到页面中心
-    }
-});
-
-// 监听文本选择结束事件
-document.addEventListener('mouseup', function () {
-    // 恢复滚动速度
-    document.body.style.overflow = 'auto'; // 显示滚动条
-});
-
-// 监听滚动事件，并在滚动时检查是否有文本被选中
-window.addEventListener('scroll', function () {
-    const selectedText = window.getSelection().toString().trim();
-    if (selectedText.length > 0) {
-        // 如果有文本被选中，增加滚动阻力
-        window.scrollBy(0, 0); // 重置滚动位置
-        setTimeout(function () {
-            window.scrollBy(0, -1); // 向下滚动一小步
-        }, 50); // 延迟执行以模拟滚动阻力
-    }
-}); */
-
 let is_copy_setting = document.getElementById("is_copy_setting")
 is_copy_setting.click()
-
-
-
 
 function isJSON(str) {
     if (typeof str == 'string') {
@@ -94,30 +161,27 @@ function isJSON(str) {
 
 let new_read_json = document.getElementById("new_read_json")
 new_read_json.addEventListener("click", new_reader)
+
 async function new_reader() {
     let is_new_reader = await swal({
         title: "Are you sure?",
-        text: "读取新的json文件将覆盖你以前的内容！",
+        text: "读取新的json文件将覆盖你以前的内容！注意：上一次读取的文件无效。",
         icon: "warning",
         buttons: true,
         dangerMode: true,
     })
     if (is_new_reader) {
+        json = {
 
-
+        }
         let sheet = document.getElementById("sheet")
-        // sheet.style.display = "none"
-
         let main = document.getElementById("main")
         while (main.children.length > 2) {
             main.removeChild(main.lastChild)
         }
         let sheet_wrap = document.getElementById("sheet_wrap")
         sheet_wrap.innerHTML = ""
-        let drop_box = document.getElementById("drop_box")
-        drop_box.style.display = "block"
-        let drop_dir_box = document.getElementById("drop_dir_box")
-        drop_dir_box.style.display = "block"
+        drop_box_display_fun(1)
 
         let back_top = document.getElementById("back_top")
         back_top.style.visibility = "hidden"
@@ -200,58 +264,6 @@ function read_dir(dir_input) {
     }
 
 }
-
-/* obj[Symbol.iterator] = function () {
-    return {
-        next: function () {
-            let objArr = Reflect.ownKeys(obj)
-            if (this.index < objArr.length - 1) {
-                let key = objArr[this.index];
-                this.index++;
-                return { value: obj[key] };
-            } else {
-                return { done: true };
-            }
-        },
-        index: 0
-    }
-} */
-
-/* let dir_input = document.getElementById("dir_input")
-dir_input.addEventListener("input", read_dir)
-function read_dir(dir_input) {
-    var json_temp = {
-        "head": {},
-        "body": []
-    }
-    let dir = dir_input.target.files
-
-    // console.log(dir)
-    for (let i = 0; i < dir.length; i++) {
-        let file_reader = new FileReader()
-        let file = dir[i]
-        let file_name = file.name
-        let file_type = file_name.split('.').slice(-1)[0].toLowerCase();
-        if (file_type != "json") {
-            continue
-        }
-        file_reader.readAsText(file)
-        file_reader.onload = (event) => {
-            let content = event.target.result
-            if (isJSON(content)) {
-                json_each = JSON.parse(content)
-                if (i == 0) {
-                    json_temp["head"] = json_each["head"]
-                }
-                json_temp["body"].push(...json_each["body"])
-                if (i == dir.length - 1) {
-                    json = json_temp
-                    json2paper(json)
-                }
-            }
-        }
-    }
-} */
 
 function main_click(e) {
     // console.log(e.target)
@@ -363,7 +375,6 @@ async function is_submit() {
 // 是否收藏逻辑
 let mian = document.getElementById("main")
 mian.addEventListener("click", is_favourite_fun)
-
 
 function is_favourite_fun(e) {
     if (e.target.classList.contains("favourite")) {
@@ -584,7 +595,7 @@ function string_to_name(string, value) {
     return _name
 }
 
-let url = location.search
+
 
 function json_create_original_index(json) {
     var json_body = json["body"]
@@ -608,18 +619,14 @@ function extractBeforeMatch(str) {
 function json2paper(json, is_order = "1") {
     // console.log("json2paper", json)
 
+    loading(1)
     clear_old_paper_sheet()
-
-
 
     if (!(json["head"].hasOwnProperty("create_original_index") && json["head"]["create_original_index"] == "1")) {
         json_create_original_index(json)
-
     }
 
     var json_body = json["body"]
-    let drop_box = document.getElementById("drop_box")
-    drop_box.style.display = "none"
 
     let sheet = document.getElementById("sheet")
     if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
@@ -694,24 +701,34 @@ function json2paper(json, is_order = "1") {
     }
 
     addEventListener_main_click_and_is_submit()
+    loading(0)
+
+
 }
 
-
+function loading(type) {
+    let showbox = document.getElementById('showbox');
+    if (type == 1 || type == "load") {
+        showbox.style.visibility = 'visible';
+    } else if (type == 0 || type == "unload") {
+        showbox.style.visibility = 'hidden';
+    }
+}
+function drop_box_display_fun(type) {
+    let drop_box = document.getElementById("drop_box")
+    let drop_dir_box = document.getElementById("drop_dir_box")
+    let url = location.search
+    if (type == 1) {
+        drop_box.style.display = "block"
+        drop_dir_box.style.display = "block"
+    } else if (type == 0) {
+        drop_box.style.display = "none"
+        drop_dir_box.style.display = "none"
+    }
+}
 function back_top_fun(e) {
     document.documentElement.scrollTop = 0
 }
-
-
-
-/**
- *对题目类型排序，乱序
- *
- *传入的是全局变量json的body中的索引
- * @param {arr} json_body_arr
- * 
- * @returns {arr} json_body_arr_new
- * @description 
- */
 
 
 function sort_json(json_body_arr, is_order) {
@@ -734,8 +751,6 @@ function sort_json(json_body_arr, is_order) {
             temp_arr[type_code].push(json_body_arr[index])
         }
         for (let i = 1; i < 7; i++) {
-            // 题目乱序,排序
-            // json_body_arr_new = [...json_body_arr_new, ...shuffle(temp_arr[i])]
             temp_arr[i] = shuffle(temp_arr[i])
         }
     } else if (is_order == "1") {
@@ -748,8 +763,6 @@ function sort_json(json_body_arr, is_order) {
     return json_body_arr_new
 }
 
-
-
 function truncateString(str, targetChar) {
     const index = str.indexOf(targetChar);
     if (index !== -1) {
@@ -759,67 +772,6 @@ function truncateString(str, targetChar) {
 }
 
 
-if (url.match(/\?name=.*&path=.*$/mg)) {
-    let xmlhttp = new XMLHttpRequest()
-
-    const queryString = truncateString(url, "?");
-    const params = queryString.split('&');
-    let name, path;
-    params.forEach(param => {
-        const [key, value] = param.split('=');
-        //   console.log(key, value);
-        if (key === '?name') {
-            name = decodeURIComponent(value);
-        } else if (key === 'path') {
-            path = decodeURIComponent(value);
-        }
-    });
-    if (path.match("@")) {
-        let path_arr = path.split("@")
-        load_path(path_arr, name)
-    } else {
-        xmlhttp.open("GET", path)
-        xmlhttp.send()
-        xmlhttp.onload = function () {
-            if (xmlhttp.status >= 200 && xmlhttp.status < 400) {
-                // 请求成功，解析JSON数据
-                if (xmlhttp.responseText != "" && xmlhttp.responseText != [] && xmlhttp.responseText != "[]") {
-                    json = JSON.parse(xmlhttp.responseText);
-                    // console.log(json);
-                    json["head"]["title"] = name
-                    json2paper(json)
-                } else {
-                    swal({
-                        icon: 'error',
-                        title: '请求的json文件内容为空，无法解析！',
-                        text: '但这绝不是你的错误',
-                        focusConfirm: true, //聚焦到确定按钮
-                        showCloseButton: true,//右上角关闭
-                    })
-                }
-
-            }
-        }
-    }
-} else if (url.match(/\?rewrite=/mg)) {
-    let json_str = localStorage.getItem("json_str")
-    if (json_str) {
-        json = JSON.parse(json_str)
-        if (json["body"] || json["body"] == "null" || json["body"] == "undefined" || json["body"] == "") {
-            json2paper(json, "1")
-        }
-    }
-} else if (url.match(/\?preview/mg)) {
-    let json_str = localStorage.getItem("json_str")
-    if (json_str) {
-        json = JSON.parse(json_str)
-        if (json["body"] || json["body"] == "null" || json["body"] == "undefined" || json["body"] == "") {
-            json["head"]["title"] = json["head"]["filename"]
-            json2paper(json, "1")
-        }
-    }
-}
-
 
 function fetchJson(path) {
     return new Promise((resolve, reject) => {
@@ -827,27 +779,15 @@ function fetchJson(path) {
         xmlhttp.onreadystatechange = function () {
             if (xmlhttp.readyState === 4) {
                 if (xmlhttp.status >= 200 && xmlhttp.status < 400) {
-                    // console.log(xmlhttp.responseText)
                     let json_each;
                     try {
-                        // if (xmlhttp.responseText == "") {
-                        //     console.log(typeof xmlhttp.responseText, "@" + xmlhttp.responseText + "@")
-                        // }
                         if (xmlhttp.responseText != "" && xmlhttp.responseText != [] && xmlhttp.responseText != "[]") {
-
-                            // console.log(typeof xmlhttp.responseText, "@"+xmlhttp.responseText+"@")
                             json_each = JSON.parse(xmlhttp.responseText);
                         }
-
-
                     } catch (error) {
                         reject(new Error("Invalid JSON response"));
                         return;
                     }
-                    // if (!json_each || Object.keys(json_each).length === 0) {
-                    //     reject(new Error("Empty JSON response"));
-                    //     return;
-                    // }
                     resolve(json_each);
                 } else {
                     reject(new Error(xmlhttp.statusText));
@@ -864,10 +804,7 @@ async function load_path(path_arr, name) {
     let promises = path_arr.map(fetchJson);
     try {
         let results = await Promise.all(promises);
-        // console.log(results);
-
         for (let i = 0; i < results.length; i++) {
-            // console.log(results[i])
             if (results[i] == undefined) {
                 continue
             }
@@ -879,6 +816,14 @@ async function load_path(path_arr, name) {
         json["head"]["title"] = name
         json2paper(json);
     } catch (error) {
+        init(1)
+        swal({
+            icon: 'error',
+            title: 'Error,路径处理出现错误,刷新重试或者网站出问题了。',
+            text: '但这绝不是你的错误',
+            focusConfirm: true, //聚焦到确定按钮
+            showCloseButton: true,//右上角关闭
+        })
         console.error("路径处理出现错误,Error:", error);
     }
 }
@@ -895,10 +840,7 @@ function clear_old_paper_sheet() {
            <div id="sheet_wrap">
         </div>
     `
-    let drop_box = document.getElementById("drop_box")
-    drop_box.style.display = "none"
-    let drop_dir_box = document.getElementById("drop_dir_box")
-    drop_dir_box.style.display = "none"
+    drop_box_display_fun(0)
     let back_top = document.getElementById("back_top")
     // back_top.style.visibility = "visible"
     back_top.style.visibility = "hidden"
@@ -1038,93 +980,6 @@ document.addEventListener("touchend", function () {
     isDragging = false;
 })
 
-
-/* // PC拖拽逻辑
-let offsetX, offsetY; // 将 offsetX 和 offsetY 移到共同的作用域
-
-function drag_fun(e) {
-    let bar_height = 36;
-    let setting_icon_div_width = 48;
-    // 与边框的距离
-    let distanse = 20
-    let setting = document.getElementById("setting")
-    let setting_icon_div = document.getElementById("setting_icon_div")
-    let setting_div = document.getElementById("setting_div")
-    let setting_show = setting_div.dataset.settingShow
-    if (setting_show == "0") {
-        var _h = window.innerHeight - (setting_icon_div.offsetHeight + distanse)
-        var _w = window.innerWidth - (setting_icon_div.offsetWidth + distanse)
-    } else if (setting_show == "1") {
-        var _h = window.innerHeight - (setting_div.offsetHeight + distanse)
-        var _w = window.innerWidth - (setting_div.offsetWidth + setting_icon_div_width + distanse)
-    }
-    let div_top = e.clientY - offsetY
-    let div_left = e.clientX - offsetX
-    div_top = Math.min(Math.max(bar_height + distanse, div_top), _h)
-    div_left = Math.min(Math.max(distanse, div_left), _w)
-    setting.style.top = div_top + "px"
-    setting.style.left = div_left + setting_icon_div_width + "px"
-
-}
-
-setting_icon_div.addEventListener("dragstart", function (e) {
-    offsetX = e.offsetX; // 将 offsetX 和 offsetY 赋值在共同的作用域内
-    offsetY = e.offsetY;
-
-    document.addEventListener("dragover", drag_fun)
-})
-
-setting_icon_div.addEventListener("dragend", function (e) {
-    document.removeEventListener("dragover", drag_fun)
-})
- */
-// 手机触摸拖动逻辑
-/* let startTouchX, startTouchY; // 将 startTouchX 和 startTouchY 移到共同的作用域
-
-function touchDragFun(e) {
-    let bar_height = 36;
-    let setting_icon_div_width = 48;
-    // 与边框的距离
-    let distanse = 2;
-    let setting = document.getElementById("setting");
-    let setting_icon_div = document.getElementById("setting_icon_div");
-    let setting_div = document.getElementById("setting_div");
-    let setting_show = setting_div.dataset.settingShow;
-
-    if (setting_show == "0") {
-        var _h = window.innerHeight - (setting_icon_div.offsetHeight + distanse);
-        var _w = window.innerWidth - (setting_icon_div.offsetWidth + distanse);
-    } else if (setting_show == "1") {
-        var _h = window.innerHeight - (setting_div.offsetHeight + distanse);
-        var _w = window.innerWidth - (setting_div.offsetWidth + setting_icon_div_width + distanse);
-    }
-
-    let divTop = e.touches[0].clientY - startTouchY;
-    let divLeft = e.touches[0].clientX - startTouchX;
-    console.log(e.touches[0].pageY, startTouchY, divTop, "----", e.touches[0].pageX, startTouchX, divLeft);
-
-    divTop = Math.min(Math.max(bar_height + distanse, divTop), _h);
-    divLeft = Math.min(Math.max(distanse, divLeft), _w);
-
-    setting.style.top = divTop + "px";
-    setting.style.left = divLeft + setting_icon_div_width + "px";
-    // console.log(divTop, divLeft + setting_icon_div_width)
-}
-
-setting_icon_div.addEventListener("touchstart", function (e) {
-    startTouchX = e.touches[0].pageX; // 将 startTouchX 和 startTouchY 赋值在共同的作用域内
-    startTouchY = e.touches[0].pageY;
-
-    document.addEventListener("touchmove", touchDragFun);
-}, { passive: true });
-
-setting_icon_div.addEventListener("touchend", function (e) {
-    document.removeEventListener("touchmove", touchDragFun);
-}); */
-
-
-
-
 // 设置里面的各功能
 // 1.1正确选项前显示“√”
 function option_right_display(option_right_display_input) {
@@ -1236,9 +1091,7 @@ function copy_setting_fun(is_copy_setting_div) {
     }
     is_copy_setting_div.dataset.isCopySetting = 1 - is_copy_setting
 
-
 }
-
 
 // 2.题目显示
 let Setting2_public_fun = {
@@ -1386,13 +1239,14 @@ function is_answer_true_favourite_display_fun(is_answer_true_favourite_display_i
 // 3.在新页面重做
 function rewrite_fun(rewrite_a, is_output = "0") {
     let url = window.location.origin + window.location.pathname
-    if (!json && !json["head"].hasOwnProperty("create_original_index")) {
+    // console.log(json, is_output)
+    if (json == {} || json == null || json == undefined) {
         if (is_output != "1") {
-            window.open(url)
+
+            // window.open(url)
         }
         return 0
     }
-
 
     let type = rewrite_a.dataset.type
     let wrap_arr = document.getElementsByClassName("wrap")
@@ -1404,7 +1258,9 @@ function rewrite_fun(rewrite_a, is_output = "0") {
     var original_index_arr = []
     switch (type) {
         case "0":
-            original_index_arr = ["0"]
+            if (JSON.stringify(json) != JSON.stringify({})) {
+                original_index_arr = ["0"]
+            }
             break;
         case "1":
             for (let i = 0; i < wrap_arr.length; i++) {
@@ -1455,7 +1311,15 @@ function rewrite_fun(rewrite_a, is_output = "0") {
     }
 
     if (type == "0") {
-        var json_str = JSON.stringify(json)
+        if (json != {}) {
+            var json_str = JSON.stringify(json)
+        } else {
+            if (is_output != "1") {
+                window.open(url)
+            }
+            return 0
+        }
+
     } else {
         for (let i = 0; i < original_index_arr.length; i++) {
             json_new["body"][i] = json["body"][original_index_arr[i]]
@@ -1482,10 +1346,11 @@ let handleDownload = function (content, name = "测试数据") {
 }
 
 function output_fun(output_div) {
+    var name=""
     let output_type = output_div.dataset.type
     let rewrite = document.getElementsByClassName("rewrite")[output_type]
-    let json_str = rewrite_fun(rewrite, "1")
-    // console.log(json_str)
+    var json_str = rewrite_fun(rewrite, "1")
+    // console.log(json_str, json_str == 0,typeof json_str)
     if (json_str == 0) {
         swal({
             title: "Are You OK?I'm Sorry.",
@@ -1496,8 +1361,15 @@ function output_fun(output_div) {
         })
         return 0
     }
+
     let output_type_arr = ["【全部】", "【页面】", "【错题】", "【收藏】", "【错题+收藏】"]
-    let name = json["head"]["title"] + "_" + output_type_arr[output_type] + "_导出"
+    let title_repeat = output_type_arr.filter((item) => json["head"]["title"].match(item))
+    // console.log(title_repeat)
+    if (title_repeat.length == 0) {
+        name = json["head"]["title"] + "-" + output_type_arr[output_type] + "-导出"
+    } else {
+        name = json["head"]["title"] + "-导出"
+    }
     handleDownload(json_str, name)
 }
 
@@ -1530,8 +1402,6 @@ function more_setting_fun(e) {
     e.dataset.isMoreSetting = 1 - is_more_setting
 
 }
-// 分割线
-
 // 乱序与非乱序生成
 let unorder_json_button = document.getElementById("unorder_json")
 unorder_json_button.addEventListener("click", unorder_json)
@@ -1592,10 +1462,8 @@ function main(json_body_each, order, index, is_order) {
     // 问题
     let q = document.createElement("h3")
     q.className = "q"
-    // let index_ = index + 1
     let index_ = order + 1
     q.innerHTML = index_ + ". （" + type + "） "
-    // q.innerHTML = json_body_each["question"]
     for (let i = 0; i < json_body_each["questions"].length; i++) {
         q.innerHTML = q.innerHTML + "\n" + json_body_each["questions"][i].replace(/\n/g, "\n")
     }
@@ -1632,19 +1500,14 @@ function main(json_body_each, order, index, is_order) {
                 option_code.className = "option_code option_code_2"
             }
 
-            // if (type_code == 1 || type_code == 2 || type_code == 3) {
             option_code.innerHTML = String.fromCharCode(65 + i)
             var option = document.createElement("span")
             option.className = "option"
             option.innerHTML = options[i].replace(/\n/g, "\n")
-            // } 
-
             option_wrap.append(option_code)
             option_wrap.append(option)
             options_wrap.append(option_wrap)
-
             wrap.append(options_wrap)
-
             option_wrap.dataset.order = order
             option_wrap.dataset.optionCode = option_code.innerHTML
             option_code.dataset.order = order
@@ -1692,7 +1555,6 @@ function main(json_body_each, order, index, is_order) {
     // 答案
     let answer_wrap = document.createElement("div")
     answer_wrap.className = "answer_wrap"
-    // let answer_my = document.createElement("span")
     if (type_code == 1 || type_code == 2 || type_code == 3) {
         var answer_my = document.createElement("span")
         var answer_true = document.createElement("span")
@@ -1702,7 +1564,6 @@ function main(json_body_each, order, index, is_order) {
     }
     answer_my.className = "answer_my"
     answer_my.innerHTML = "我的答案："
-    // let answer_true = document.createElement("span")
     answer_true.className = "answer_true"
     answer_true.innerHTML = "正确答案："
     if (type_code == 1 || type_code == 2 || type_code == 3) {
@@ -1764,7 +1625,6 @@ function main(json_body_each, order, index, is_order) {
     sheet_li.append(sheet_li_a)
     return [wrap, sheet_li]
 }
-
 
 
 

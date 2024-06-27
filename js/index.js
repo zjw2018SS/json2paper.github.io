@@ -1,3 +1,6 @@
+window.onbeforeunload = function (e) {
+    localStorage.clear()
+}
 
 g_file = './json/'
 
@@ -121,8 +124,15 @@ function get_path() {
         xhr.onload = function () {
             if (xhr.status >= 200 && xhr.status < 400) {
                 // 请求成功，解析JSON数据
+                
                 var data = JSON.parse(xhr.responseText);
-                const json = data;
+                let local_file = {
+                    "name": "从本地json文件开始",
+                    "path": "",
+                }
+                var json = []
+                json.push(local_file)
+                json.push(...data);
                 let bookshelf = document.getElementById("bookshelf")
                 for (let i = 0; i < json.length; i++) {
                     let book_div = document.createElement("div")
@@ -134,7 +144,12 @@ function get_path() {
                     book_a.style.width = "100%"
                     book_a.style.zIndex = "9"
                     var href = window.location.href;
-                    book_a.href = href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"]
+                    if (!json[i]["path"]==""){
+                        book_a.href = href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"]
+                    }else{
+                        book_a.href = "/exercise.html"
+                    }
+                    
 
                     // book_div.addEventListener("click", function () {
                     //     window.open(href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"])
@@ -143,7 +158,7 @@ function get_path() {
                     book_div.innerHTML = `<div class="book">${json[i]["name"]}</div>`
                     book_div.append(book_a)
                     bookshelf.append(book_div)
-                    // text: "!!!病理学📘不要乱序做题，默认是顺序，几个单选题还没有适配(乱序后选项的引用错误)。😄网络题目、免费的、没有学分、没有对错、没有问答、没有考试、想来就来、想去就去。欢迎带你的朋友、伙伴一起来。   <a href='demo.html' target='_blank'>不会使用，查看教程</a>",
+                    // 😄网络题目、免费的、没有学分、没有对错、没有问答、没有考试、想来就来、想去就去。欢迎带你的朋友、伙伴一起来。 
                     notie.alert({
                         type: 1,
                         text: "马原（3）+习思想（3）=病理（4）+医学分子生物学D(1)+大学体育4(1)<hr>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>",
