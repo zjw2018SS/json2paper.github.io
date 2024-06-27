@@ -3,10 +3,8 @@ window.onbeforeunload = function (e) {
 }
 
 g_file = './json/'
-
-
+get_path()
 function find() {
-
     let searchVal = document.getElementById("search_input").value
     unfind()
     if (searchVal == "") {
@@ -39,8 +37,6 @@ function find() {
 var find_debounce = debounce(find, 500)
 let search_input = document.getElementById("search_input")
 search_input.addEventListener("input", find_debounce)
-
-
 function unfind() {
     document.getElementById("search_input").value = ""
     // let searchVal = document.getElementById("search_input").value
@@ -65,8 +61,6 @@ function debounce(fn, duration = 200) {
         }, duration)
     }
 }
-
-
 function truncateString(str, targetChar) {
     const index = str.indexOf(targetChar);
     if (index !== -1) {
@@ -74,8 +68,6 @@ function truncateString(str, targetChar) {
     }
     return str;
 }
-
-
 
 function get_path() {
     var url = location.search
@@ -116,15 +108,12 @@ function get_path() {
     } else {
         // 创建一个新的XMLHttpRequest对象
         var xhr = new XMLHttpRequest();
-
         // 设置请求方法和URL
         xhr.open('GET', g_file + "dir_info.json", true);
-
         // 注册一个回调函数，当请求完成时执行
         xhr.onload = function () {
             if (xhr.status >= 200 && xhr.status < 400) {
                 // 请求成功，解析JSON数据
-                
                 var data = JSON.parse(xhr.responseText);
                 let local_file = {
                     "name": "从本地json文件开始",
@@ -150,10 +139,6 @@ function get_path() {
                         book_a.href = "/exercise.html"
                     }
                     
-
-                    // book_div.addEventListener("click", function () {
-                    //     window.open(href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"])
-                    // })
                     book_div.className = "book_div"
                     book_div.innerHTML = `<div class="book">${json[i]["name"]}</div>`
                     book_div.append(book_a)
@@ -177,21 +162,10 @@ function get_path() {
                 console.error('请求失败，状态码：' + xhr.status);
             }
         };
-
         // 发送请求
         xhr.send();
     }
 }
-
-
-
-get_path()
-
-
-
-
-
-
 function json2path(json) {
     if (json == null || json == []) { return }
     let container = document.getElementById("container")
@@ -210,14 +184,6 @@ function json2path(json) {
         container.append(a_div)
     }
 }
-// function generateCircledNumber(num) {
-//     return String.fromCharCode(9311 + num);
-// }
-
-// const books53re = ["《诊断学》", "《肿瘤学概论》", "《医患沟通》", "《急诊与灾难医学》", "《麻醉学》", "《全科医学概论》", "《医学导论》", "《卫生法》", "《医学文献检索与论文写作》", "《康复医学》", "《临床流行病学与循证医学》", "《医学伦理学》", "《医学统计学》", "《临床药理学》", "《医学遗传学》", "《医学细胞生物学》", "《体育》", "《医学计算机应用》", "《中医学》", "《预防医学》", "《卫生学》", "《流行病学》", "《核医学》", "《皮肤性病学》", "《口腔科学》", "《耳鼻咽喉头颈外科学》", "《眼科学》", "《传染病学》", "《精神病学》", "《儿科学》", "《妇产科学》", "《外科学》", "《内科学》", "《医学影像学》", "《诊断学》", "《法医学》", "《医学心理学》", "《药理学》", "《病理生理学》", "《病理学》", "《医学免疫学》", "《人体寄生虫学》", "《医学微生物学》", "《生理学》", "《生物化学与分子生物学》", "《组织学与胚胎学》", "《局部解剖学》", "《系统解剖学》", "《医学生物学》", "《有机化学》", "《基础化学》", "《医学物理学》", "《医用高等数学》"]
-
-
-
 function extractBeforeMatch(str) {
     var regex = /-\d+年\d+月\d+日\d+小时\d+分\d+秒\.json/;
     var matchResult = str.match(regex);
