@@ -15,10 +15,9 @@ function init(type) {
 
 }
 window.onload = function (e) {
-    if (!url.match("name") && !url.match("path") && !url.match("rewrite") && !url.match("preview")) {
-        // init(1)
-    } else if (url.match("rewrite")) {
-    }
+    // 设置的div恢复
+    let setting_div = document.getElementById("setting_div")
+    setting_div.style.display = "block"
 }
 
 let url = location.search
