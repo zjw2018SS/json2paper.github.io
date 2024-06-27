@@ -404,6 +404,7 @@
       -o-transform: translateX(29px);
       transform: translateX(29px);
   }
+
   /* 3.重做选项 */
   .rewrite {
       margin-left: 10px;
@@ -560,7 +561,7 @@
       height: -webkit-fit-content;
       height: -moz-fit-content;
       height: fit-content;
-      padding: 20px 0vw 20px 30px;
+      padding: 20px 0vw 100px 30px;
       scroll-padding-top: 160px;
 
       --optionRightDisplay: 0;
