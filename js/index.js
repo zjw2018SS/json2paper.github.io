@@ -72,6 +72,10 @@ function truncateString(str, targetChar) {
 function get_path() {
     var url = location.search
     if (url.match(/\?name=.*&path=.*$/)) {
+        let container = document.getElementById("container")
+        container.id = "container"
+        container.style.display = "block"
+        
         let bookshelf = document.getElementById("bookshelf")
         bookshelf.style.display = "none"
         const queryString = truncateString(url, "?");
