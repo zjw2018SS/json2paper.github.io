@@ -14,7 +14,25 @@ if (url.match(/\?name=.*&path=.*$/)) {
     let bookshelf_find_debounce = debounce(bookshelf_find, 200)
     search_input.addEventListener("input", bookshelf_find_debounce)
 }
+function unfind() {
+    document.getElementById("search_input").value = ""
+    if (url.match(/\?name=.*&path=.*$/)) {
+        let container = document.getElementById("container")
+        let a_div = container.getElementsByClassName("a_div")
+        for (let i = 0; i < a_div.length; i++) {
+            let a_div_each = a_div[i]
+            a_div_each.style.display = "block"
+        }
+    } else {
+        let bookshelf = document.getElementById("bookshelf")
+        let book_div = bookshelf.getElementsByClassName("book_div")
+        for (let i = 0; i < book_div.length; i++) {
+            let book_div_each = book_div[i]
+            book_div_each.style.display = "block"
+        }
+    }
 
+}
 function bookshelf_find() {
     let match_num = 0
     let search_input = document.getElementById("search_input")
