@@ -16,8 +16,8 @@ function init(type) {
 }
 window.onload = function (e) {
     // 设置的div恢复
-    let setting_div = document.getElementById("setting_div")
-    setting_div.style.display = "block"
+/*     let setting_div = document.getElementById("setting_div")
+    setting_div.style.display = "block" */
 }
 
 let url = location.search
