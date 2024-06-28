@@ -1,0 +1,67 @@
+table {
+    --font_size: 18px;
+    width: 100%;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    -webkit-border-horizontal-spacing: 0px;
+    -webkit-border-vertical-spacing: 0px;
+
+}
+
+.Nsb_table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.Nsb_r_list {
+    font-size:var(--font_size);
+    color: #666;
+    text-align: center;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    unicode-bidi: isolate;
+    border-color: inherit;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    unicode-bidi: isolate;
+    border-color: inherit;
+}
+
+body,
+div,
+th,
+td,
+span,
+div {
+    padding: 0;
+    margin: 0;
+    font-size:var(--font_size);
+    font-family: "Microsoft YaHei", "����", "Segoe UI", sans-serif;
+    border: #9bb5c7 solid 1px;
+}
+
+.Nsb_r_list th {
+    height: 30px;
+    line-height: 30px;
+    font-weight: normal;
+}
+
+.Nsb_r_list th {
+    background: #eff7fd;
+    border: 1px solid #E5E5E5;
+    padding: 0px;
+    font-size: var(--font_size);
+    color: #178fe6;
+}
+
+.Nsb_r_list .Nsb_r_list_thb {
+    border-right: 1px solid #E5E5E5;
+}
