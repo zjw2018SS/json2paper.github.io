@@ -1473,7 +1473,12 @@ function main(json_body_each, order, index, is_order) {
         var options = json_body_each["options"]
         var options_wrap = document.createElement("div")
         options_wrap.className = "options_wrap"
-        answers_matching_index = json_body_each["answers_matching_index"]
+        // answers_matching_index = json_body_each["answers_matching_index"]
+        if (json_body_each.hasOwnProperty("answers_matching_index")) {
+            answers_matching_index = json_body_each["answers_matching_index"]
+        } else {
+            answers_matching_index = ""
+        }
         var options_new = deepCopy(options)
         if (is_order == "0") {
             shuffle(options_new);
