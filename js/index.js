@@ -4,52 +4,114 @@ window.onbeforeunload = function (e) {
 
 g_file = './json/'
 get_path()
-function find() {
-    let searchVal = document.getElementById("search_input").value
-    unfind()
-    if (searchVal == "") {
+let search_input = document.getElementById("search_input")
+var url = location.search
+if (url.match(/\?name=.*&path=.*$/)) {
+    let container_find_debounce = debounce(container_find, 200)
+    search_input.addEventListener("input", container_find_debounce)
+
+} else {
+    let bookshelf_find_debounce = debounce(bookshelf_find, 200)
+    search_input.addEventListener("input", bookshelf_find_debounce)
+}
+
+function bookshelf_find() {
+    let match_num = 0
+    let search_input = document.getElementById("search_input")
+    let search_value = search_input.value
+    let bookshelf = document.getElementById("bookshelf")
+    let book = bookshelf.getElementsByClassName("book")
+    if (search_value == "") {
+        for (let i = 0; i < book.length; i++) {
+            let book_each = book[i]
+            book_each.parentNode.style.display = "block"
+        }
         return
     }
-    var oDiv = document.getElementById("bookshelf");
-    var sText = oDiv.innerHTML;
-    var reg1 = /<script[^>]*>(.|\n)*<\/script>/gi; //去掉script标签 
-    sText = sText.replace(reg1, "");
-    var bgColor = bgColor || "orange";
-    var num = -1;
-    var rStr = new RegExp(searchVal, "gi"); //匹配传入的搜索值不区分大小写 i表示不区分大小写，g表示全局搜索
-    var rHtml = new RegExp("\<.*?\>", "ig");//匹配html元素
-    var aHtml = sText.match(rHtml); //存放html元素的数组
-    var arr = sText.match(rStr);
-    a = -1;
-    sText = sText.replace(rHtml, '{~}');  //替换html标签
-    sText = sText.replace(rStr, function () {
-        a++;
-        return "<span name='addSpan' class='highlight'</span>" + arr[a] + "</span>"
-    }); //替换key
-    sText = sText.replace(/{~}/g, function () {  //恢复html标签
-        num++;
-        return aHtml[num];
-    });
-    oDiv.innerHTML = sText;
-    document.getElementById("search_input").value = searchVal
-}
-// https://blog.csdn.net/weixin_44058725/article/details/116274575
-var find_debounce = debounce(find, 500)
-let search_input = document.getElementById("search_input")
-search_input.addEventListener("input", find_debounce)
-function unfind() {
-    document.getElementById("search_input").value = ""
-    // let searchVal = document.getElementById("search_input").value
-    var oDiv = document.getElementsByTagName("body")[0];
-    var old_highlight = oDiv.getElementsByClassName("highlight")
-    for (let i = 0; i < old_highlight.length; i++) {
-        let item = old_highlight[i]
-        let v = item.innerText
-        let parent = item.parentNode
-        let pHtml = parent.innerText
-        parent.innerText = pHtml
+    for (let i = 0; i < book.length; i++) {
+        let book_each = book[i]
+        // console.log(book_each.innerText, search_value);
+        // 1.字符匹配率（正向，反向）
+        let match_raw_rate = strSimilarity2Percent([book_each.innerText, search_value], [0, 0])
+        let match_processed_rate = strSimilarity2Percent([book_each.innerText.replace(/大.[上下中末始] /, ""), search_value], [0, 0])
+        // 2.正则表达式原始字符匹配（正向，反向）
+        let reg_raw_forward = book_each.innerText.match(search_value)
+        let reg_raw_back = search_value.match(book_each.innerText)
+        // 2.正则表达式删减字符匹配（正向，反向）
+        let reg_processed_forward = book_each.innerText.replace(/大.[上下中末始] /, "").match(search_value)
+        let reg_processed_back = search_value.match(book_each.innerText.replace(/大.[上下中末始] /, ""))
+        /*      match() 方法将字符串与正则表达式进行匹配。
+                提示：如果搜索值为字符串，则转换为正则表达式。
+                match() 方法返回包含匹配项的数组。
+                如果未找到匹配项，则 match() 方法返回 null。 */
+
+        // console.log(match_raw_rate, match_processed_rate, reg_raw_forward, reg_raw_back, reg_processed_forward, reg_processed_back)
+        if (match_raw_rate >= 0.5 || match_processed_rate > 0.5 || reg_raw_forward != null || reg_raw_back != null || reg_processed_forward != null || reg_processed_back != null) {
+            match_num += 1
+            book_each.parentNode.style.display = "block"
+
+        } else {
+            book_each.parentNode.style.display = "none"
+        }
+    }
+    if (match_num == 0) {
+
+        for (let i = 0; i < book.length; i++) {
+            let book_each = book[i]
+            book_each.parentNode.style.display = "block"
+        }
     }
 }
+
+function container_find() {
+    let match_num = 0
+    let search_input = document.getElementById("search_input")
+    let search_value = search_input.value
+    let container = document.getElementById("container")
+    let a_tag = container.getElementsByClassName("a_tag")
+    if (search_value == "") {
+        for (let i = 0; i < a_tag.length; i++) {
+            let a_tag_each = a_tag[i]
+            a_tag_each.parentNode.style.display = "block"
+        }
+        return
+    }
+    for (let i = 0; i < a_tag.length; i++) {
+        let a_tag_each = a_tag[i]
+        // console.log(a_tag_each.innerText, search_value);
+        // 1.字符匹配率（正向，反向）
+        let match_raw_rate = strSimilarity2Percent([a_tag_each.innerText, search_value], [0, 0])
+        let match_processed_rate = strSimilarity2Percent([a_tag_each.innerText.replace(/\d+=> /, ""), search_value], [0, 0])
+        // 2.正则表达式原始字符匹配（正向，反向）
+        let reg_raw_forward = a_tag_each.innerText.match(search_value)
+        let reg_raw_back = search_value.match(a_tag_each.innerText)
+        // 2.正则表达式删减字符匹配（正向，反向）
+        let reg_processed_forward = a_tag_each.innerText.replace(/\d+=> /, "").match(search_value)
+        let reg_processed_back = search_value.match(a_tag_each.innerText.replace(/\d+=> /, ""))
+        /*      match() 方法将字符串与正则表达式进行匹配。
+                提示：如果搜索值为字符串，则转换为正则表达式。
+                match() 方法返回包含匹配项的数组。
+                如果未找到匹配项，则 match() 方法返回 null。 */
+
+        // console.log(match_raw_rate, match_processed_rate, reg_raw_forward, reg_raw_back, reg_processed_forward, reg_processed_back)
+        if (match_raw_rate >= 0.85 || match_processed_rate > 0.85 || reg_raw_forward != null || reg_raw_back != null || reg_processed_forward != null || reg_processed_back != null) {
+            match_num += 1
+            a_tag_each.parentNode.style.display = "block"
+
+        } else {
+            a_tag_each.parentNode.style.display = "none"
+        }
+    }
+    if (match_num == 0) {
+
+        for (let i = 0; i < a_tag.length; i++) {
+            let a_tag_each = a_tag[i]
+            a_tag_each.parentNode.style.display = "block"
+        }
+    }
+}
+
+let container = document.getElementById("container")
 
 // 防抖函数
 function debounce(fn, duration = 200) {
@@ -110,6 +172,7 @@ function get_path() {
             }
         }
     } else {
+
         // 创建一个新的XMLHttpRequest对象
         var xhr = new XMLHttpRequest();
         // 设置请求方法和URL
@@ -148,16 +211,17 @@ function get_path() {
                     book_div.append(book_a)
                     bookshelf.append(book_div)
                     // 😄网络题目、免费的、没有学分、没有对错、没有问答、没有考试、想来就来、想去就去。欢迎带你的朋友、伙伴一起来。 
-                    setTimeout(() => {
-                        notie.alert({
-                            type: 1,
-                            text: "较大更新，出问题及时反馈，谢谢。<hr style='border:1px solid white'>马原（3）+习思想（3）=病理（4）+医学分子生物学D(1)+大学体育4(1)<hr style='border:1px solid white'>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>",
-                            stay: true,
-                            time: 5,
-                            position: "bottom"
-                        })
-                    }, 2000)
+                    // 马原（3）+习思想（3）=病理（4）+医学分子生物学D(1) + 大学体育4(1)
                 }
+                setTimeout(() => {
+                    notie.alert({
+                        type: 1,
+                        text: "较大更新，出问题及时反馈，谢谢。<hr style='border:1px solid white'>课程和作业的搜索功能完善，多种算法加持，快去点击顶部的搜索框体验吧。<hr style='border:1px solid white'>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp; &nbsp; &nbsp; <a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>",
+                        stay: false,
+                        time: 5,
+                        position: "bottom"
+                    })
+                }, 2000)
             } else {
                 swal({
                     title: "请求的文件溜走了---",
@@ -180,6 +244,7 @@ function json2path(json) {
         let a_div = document.createElement("div")
         a_div.className = "a_div"
         let a = document.createElement("a")
+        a.className = "a_tag"
         let name = json[i]["name"]
         a.innerText = i + 1 + "=>" + " " + extractBeforeMatch(name)
         let path = json[i]["path"];
@@ -199,4 +264,55 @@ function extractBeforeMatch(str) {
     } else {
         return str.replace(matchResult, "")
     }
+}
+
+
+// js匹配两个字符串
+function strSimilarity2Number([s, t], [s_re, t_re]) {
+    // console.log(s, t, s_re, t_re)
+    if (s_re !== 0) {
+        s_re = new RegExp(s_re, "mg")
+        // console.log(s,s_re)
+        s = s.replace(s_re, "")
+        // console.log(s)
+    }
+    if (t_re !== 0) {
+        t_re = new RegExp(t_re, "mg")
+        t = t.replace(t_re, "")
+        // console.log(t)
+    }
+
+    var n = s.length, m = t.length, d = [];
+    var i, j, s_i, t_j, cost;
+    if (n == 0) return m;
+    if (m == 0) return n;
+    for (i = 0; i <= n; i++) {
+        d[i] = [];
+        d[i][0] = i;
+    }
+    for (j = 0; j <= m; j++) {
+        d[0][j] = j;
+    }
+    for (i = 1; i <= n; i++) {
+        s_i = s.charAt(i - 1);
+        for (j = 1; j <= m; j++) {
+            t_j = t.charAt(j - 1);
+            if (s_i == t_j) {
+                cost = 0;
+            } else {
+                cost = 1;
+            }
+            d[i][j] = Minimum(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + cost);
+        }
+    }
+    return d[n][m];
+}
+//两个字符串的相似程度，并返回相似度百分比
+function strSimilarity2Percent([s, t], [s_re = 0, t_re = 0]) {
+    var l = s.length > t.length ? s.length : t.length;
+    var d = strSimilarity2Number(...arguments);
+    return (1 - d / l).toFixed(4);
+}
+function Minimum(a, b, c) {
+    return a < b ? (a < c ? a : c) : (b < c ? b : c);
 }
