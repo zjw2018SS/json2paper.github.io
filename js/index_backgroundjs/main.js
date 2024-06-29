@@ -317,3 +317,5 @@
     //////////////////////////////
 
     init();
+let demo = document.getElementById("demo")
+demo.style.display = "block"
