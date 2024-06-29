@@ -595,7 +595,7 @@
       width: -webkit-fit-content;
       width: -moz-fit-content;
       width: fit-content;
-      margin: 10px auto 0;
+      margin: 10px auto 10px;
   }
 
   /* 您可以直接将文件*拖动到这里 */
@@ -605,7 +605,7 @@
 
   /* 或者 */
   #drop_box>div:nth-child(3) {
-      margin-top: 20px;
+      margin-top: 40px;
       font-size: smaller;
       color: #646464;
   }
@@ -668,7 +668,7 @@
       width: -webkit-fit-content;
       width: -moz-fit-content;
       width: fit-content;
-      margin: 10px auto 0;
+      margin: 10px auto 10px;
   }
 
   /* 您可以直接将文件*拖动到这里 */
