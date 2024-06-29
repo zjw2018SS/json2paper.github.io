@@ -221,21 +221,21 @@ body {
 
 .book_full_name {
     position: relative;
-    height: 140px;
+    height: calc(var(--book_div_height) * 140 / 220);
     width: 100%;
 
 }
 
 .book_simplify_name {
     position: relative;
-    height: 60px;
+    height: calc(var(--book_div_height) * 60 / 220);
     width: 100%;
     text-align: center;
 }
 
 .book_credit {
     position: relative;
-    height: 20px;
+    height: calc(var(--book_div_height) * 20 / 220);
     width: 100%;
 
 }
