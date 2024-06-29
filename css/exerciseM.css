@@ -979,6 +979,14 @@
       position: relative;
   }
 
+  .wrap[data-type-code='2'] .answer_wrap .answer_my {
+      display: block;
+  }
+
+  .wrap[data-type-code='2'] .answer_wrap .answer_true {
+      display: block;
+  }
+
   .answer_my {
       margin-right: 60px;
   }
