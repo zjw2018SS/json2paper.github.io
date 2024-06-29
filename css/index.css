@@ -144,6 +144,7 @@ body {
 }
 
 #bookshelf {
+  position: relative;
   /*   position: absolute;
   top: var(--nav_height); */
   /* min-height: calc(100vh - var(--nav_height)); */
