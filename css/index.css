@@ -1,3 +1,27 @@
+@media screen and (max-width:767px) {
+    #bookshelf {
+        --book_div_width: 100px;
+        --book_div_height: 160px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1199px) {
+    #bookshelf {
+        --book_div_width: 125px;
+        --book_div_height: 200px;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    #bookshelf {
+        --book_div_width: 135px;
+        --book_div_height: 220px;
+    }
+}
+
+
+
+
 * {
     margin: 0;
     padding: 0;
@@ -150,8 +174,6 @@ body {
 
 /* 课程 */
 #bookshelf {
-    --book_div_width: 135px;
-    --book_div_height: 220px;
     position: relative;
     top: calc(var(--nav_height) + 0px);
     left: 0;
@@ -255,5 +277,3 @@ body {
 .a_div a:hover {
     text-decoration: underline;
 }
-
-@media screen and (max-width: 600px) {}
