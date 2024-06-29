@@ -1,0 +1,139 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第二章作业4",
+        "type_all_num": 5,
+        "type_1_num": 5,
+        "time": "24年06月30日00小时11分38秒",
+        "id": "id-ly0bky2t-s40aol3sp"
+    },
+    "body": [
+        {
+            "questions": [
+                "\n列宁说:“在这里不要忘记：实践标准实质上决不能完全地证实或驳倒人类的任何表象。这个标准也是这样的‘不确定’，以便不让人的知识变成‘绝对’，同时它又是这样的确定，以便同唯心主义和不可知论的一切变种进行无情的斗争。”这说明：\n•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 真理具有绝对性，也具有相对性",
+                " 感性认识与理性认识是辩证统一的",
+                " 真理与谬误既对立又统一",
+                " 实践作为检验真理的标准，既是确定的，又是不确定的"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "革命年代的女性不爱红装爱武装，现在和平年代则不同了。这说明\n•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价值具有客观性",
+                " 价值具有社会历史性",
+                " 价值具有主体性",
+                " 价值具有多维性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "萝卜青菜，各有所爱。这句话说的是\n•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价值的多维性",
+                " 价值的主体性",
+                " 价值的社会历史性",
+                " 价值的客观性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "这颗钻石，可以加工成艺术品，也可以供科学研究用，还可以卖钱。这说明：\n•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 价值具有多维性",
+                " 价值具有主体性",
+                " 价值具有社会历史性",
+                " 价值具有客观性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "为什么从实践的特点来看，实践是检验真理的唯一标准？\n•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 因为用实践检验非常直观方便",
+                " 因为真理具有相对性",
+                " 因为实践具有直接现实性的特点。实践能够把一定的认识、理论变成直接的、实实在在的现实，把主观的东西变为客观的东西",
+                " 因为逻辑在检验真理时没有一点用处"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

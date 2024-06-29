@@ -1,0 +1,134 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "第二章作业4",
+        "type_all_num": 8,
+        "type_4_num": 8,
+        "time": "24年06月30日00小时17分34秒",
+        "id": "id-ly0bsl2j-yghmihtus"
+    },
+    "body": [
+        {
+            "questions": [
+                "\n所谓（），是同客观事物及其发展规律相违背的认识，是对客观事物及其发展规律的歪曲反映。\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "谬误"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n作为哲学范畴，价值是指在（）基础上形成的主体和客体之间的（）关系，是客体对个人、群体乃至整个社会的生活和活动所具有的（）\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "实践",
+                "意义",
+                "积极意义"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n主观真理标准论的共同点就是在（）范围内绕圈子，把主观的东西当作真理的标准，用（）检验（），从而无法划清真理与谬误的根本界限\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "主观",
+                "认识",
+                "认识"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n价值的主体性依赖于价值的（），或者说，价值的主体性是以价值的（）为前提的\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "客观性",
+                "客观性"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n（）价值论认为价值是客体本身所固有的，而与主体无关。（）价值论认为价值就是主体的欲望、情感和兴趣，而与客体无关\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "客观主义",
+                "主观主义"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n价值的客观性是指在（）下客体对于主体的意义（）于主体的主观意识而存在\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "一定条件",
+                "不依赖"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n价值的（）是指每个主体的价值关系具有多样性，同一客体相对于主体的不同需要会产生不同的价值\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "多维性"
+            ],
+            "analysis": []
+        },
+        {
+            "questions": [
+                "\n真理和谬误是人类认识中的一对永恒矛盾，它们之间既（）又（）\n"
+            ],
+            "type": [
+                "填空题"
+            ],
+            "type_code": "4",
+            "options": null,
+            "answers": [
+                "对立",
+                "统一"
+            ],
+            "analysis": []
+        }
+    ]
+}
