@@ -231,7 +231,8 @@ function get_path() {
                     // 😄网络题目、免费的、没有学分、没有对错、没有问答、没有考试、想来就来、想去就去。欢迎带你的朋友、伙伴一起来。 
                     // 马原（3）+习思想（3）=病理（4）+医学分子生物学D(1) + 大学体育4(1)
                 }
-                let message = "较大更新，出问题及时反馈，谢谢。<hr style='border:1px solid white'>课程和作业的搜索功能完善，多种算法加持，快去点击顶部的搜索框体验吧。<hr style='border:1px solid white'>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp;&nbsp;<a href='course.html' style='color:blue' target='_blank'>课程学分</a> &nbsp; <a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>"
+                // let message = "较大更新，出问题及时反馈，谢谢。<hr style='border:1px solid white'>课程和作业的搜索功能完善，多种算法加持，快去点击顶部的搜索框体验吧。<hr style='border:1px solid white'>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp;&nbsp;<a href='course.html' style='color:blue' target='_blank'>课程学分</a> &nbsp; <a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>"
+                let message = "较大更新，出问题及时反馈，谢谢。<hr style='border:1px solid white'>课程和作业的搜索功能完善，多种算法加持，快去点击顶部的搜索框体验吧。<hr style='border:1px solid white'>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp<a href='course.html' style='color:blue' target='_blank'>课程学分</a>&nbsp; &nbsp; <a href='dream.html' style='color:blue' target='_blank'>到梦学分</a>&nbsp; &nbsp;<a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>"
                 setTimeout(() => {
                     notie.alert({
                         type: 1,
