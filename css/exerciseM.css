@@ -948,6 +948,8 @@
       /* width: 85%; */
       height: 24px;
       font-size: 20px;
+      padding-left: 5px;
+      padding-right: 5px;
       caret-color: #ffa502;
       background-color: #eff6ff;
       border-radius: 4px;
