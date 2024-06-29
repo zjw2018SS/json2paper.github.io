@@ -10,41 +10,11 @@
 
 <body>
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            list-style-type: none;
-        }
-
-        body {
-            background: #87a4bb;
-        }
-
-        svg#demo {
-            width: 100vw;
-            height: 100vh;
-            position: fixed;
-            top: 0;
-            left: 0;
-            z-index: -5;
-        }
-
-        svg#demo g {
-            mix-blend-mode: lighten;
-        }
-
-        svg#demo polygon {
-            stroke: none;
-            fill: white;
-        }
-    </style>
-
     <div id="nav">
         <div id="home">
             <a style="display: block;position: absolute;top: 0;left: 0;width: 100%;height: 100%;" target="_self"
                 href="./"></a>
-            <svg t="1714065488132" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            <svg id="home_svg" t="1714065488132" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
                 p-id="4189">
                 <path
                     d="M828.509091 1000.727273h-186.181818c-27.927273 0-46.545455-18.618182-46.545455-46.545455v-223.418182c0-13.963636-9.309091-23.272727-23.272727-23.272727H451.490909c-13.963636 0-23.272727 9.309091-23.272727 23.272727v223.418182c0 27.927273-18.618182 46.545455-46.545455 46.545455h-186.181818c-51.2 0-93.090909-41.890909-93.090909-93.090909v-400.290909c0-27.927273 18.618182-46.545455 46.545455-46.545455s46.545455 18.618182 46.545454 46.545455v353.745454c0 27.927273 18.618182 46.545455 46.545455 46.545455h93.090909v-246.690909c0-27.927273 18.618182-46.545455 46.545454-46.545455h260.654546c27.927273 0 46.545455 18.618182 46.545454 46.545455v246.690909h93.090909c27.927273 0 46.545455-18.618182 46.545455-46.545455v-353.745454c0-27.927273 18.618182-46.545455 46.545454-46.545455s46.545455 18.618182 46.545455 46.545455v400.290909c0 51.2-41.890909 93.090909-93.090909 93.090909zM567.854545 41.890909c-32.581818-27.927273-83.781818-27.927273-116.363636 0l-418.909091 335.127273c-37.236364 27.927273-18.618182 83.781818 27.927273 83.781818 9.309091 0 18.618182-4.654545 27.927273-9.309091L512 111.709091l428.218182 339.781818c9.309091 4.654545 18.618182 9.309091 27.927273 9.309091 46.545455 0 65.163636-55.854545 27.927272-83.781818L567.854545 41.890909z"
@@ -52,7 +22,15 @@
             </svg>
         </div>
         <div id="search">
-            <input id="search_input">
+            <div id="search_svg" onclick="find()">
+                <svg t="1719691510083" class="icon" viewBox="0 0 1024 1024" version="1.1"
+                    xmlns="http://www.w3.org/2000/svg" p-id="2795">
+                    <path
+                        d="M 1014.65 967.259 L 708.256 660.86 a 400.522 400.522 0 1 0 -47.395 47.395 l 305.731 305.731 a 33.3768 33.3768 0 0 0 47.395 -47.395 Z M 164.881 638.832 a 333.768 333.768 0 1 1 473.95 0 a 333.768 333.768 0 0 1 -473.95 0 Z"
+                        fill="#666666" p-id="2796"></path>
+                </svg>
+            </div>
+            <input id="search_input" placeholder="输入课程名称或章节名称以检索，例如：马原。">
             <div id="del" onclick="unfind()">
                 <svg t="1716301398670" class="icon" viewBox="0 0 1024 1024" version="1.1"
                     xmlns="http://www.w3.org/2000/svg" p-id="3200">
@@ -67,80 +45,21 @@
                         fill="#666666" p-id="3203"></path>
                 </svg>
             </div>
-            <div id="search_svg" onclick="find()">
-                <svg t="1714063159689" class="icon" viewBox="0 0 1024 1024" version="1.1"
-                    xmlns="http://www.w3.org/2000/svg" p-id="2718">
-                    <path
-                        d="M766 673l-77 78 230 226 77-79zM423.5 790C210.594 790 38 617.406 38 404.5S210.594 19 423.5 19 809 191.594 809 404.5 636.406 790 423.5 790z m1.5-111c152.43 0 276-123.57 276-276S577.43 127 425 127 149 250.57 149 403s123.57 276 276 276z"
-                        fill="#1AA5FF" p-id="2719"></path>
-                </svg>
-            </div>
+
         </div>
+    </div>
+    <div id="info">
+
     </div>
     <div id="container">
     </div>
     <div id="bookshelf">
     </div>
-    <script>
-
-        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
-
-        } else {
-
-            let htnl_svg_PC = `
-    <svg id="demo" viewBox="0 0 1600 600" preserveAspectRatio="xMidYMid slice"  style="display:none">
-        <defs>
-            <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0" color-interpolation="sRGB">
-                <stop id="stop1a" offset="0%" stop-color="#12a3b4"></stop>
-                <stop id="stop1b" offset="100%" stop-color="#ff509e"></stop>
-            </linearGradient>
-            <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="0" color-interpolation="sRGB">
-                <stop id="stop2a" offset="0%" stop-color="#e3bc13"></stop>
-                <stop id="stop2b" offset="100%" stop-color="#00a78f"></stop>
-            </linearGradient>
-        </defs>
-        <rect id="rect1" x="0" y="0" width="1600" height="600" stroke="none" fill="url(#grad1)"></rect>
-        <rect id="rect2" x="0" y="0" width="1600" height="600" stroke="none" fill="url(#grad2)"></rect>
-    </svg>
-    `
-
-
-            var parser = new DOMParser();
-            var htnl_svg = parser.parseFromString(htnl_svg_PC, 'text/html');
-            var htnl_svg = htnl_svg.body.children[0];
-            document.body.appendChild(htnl_svg);
-
-
-
-            var script_PC_1 = document.createElement("script")
-            script_PC_1.type = "text/javascript"
-            script_PC_1.src = "js/index_backgroundjs/TweenMax.min.js"
-            document.body.appendChild(script_PC_1)
-
-            var script_PC_2 = document.createElement("script")
-            script_PC_2.type = "text/javascript"
-            script_PC_2.src = "js/index_backgroundjs/Stats.min.js"
-            document.body.appendChild(script_PC_2)
-
-            var script_PC_3 = document.createElement("script")
-            script_PC_3.type = "text/javascript"
-            script_PC_3.src = "js/index_backgroundjs/main.js"
-            document.body.appendChild(script_PC_3)
-
-
-
-        }
-
-    </script>
-
-    <!--     <script type="text/javascript" src="js/index_backgroundjs/Stats.min.js"></script>
-    <script type="text/javascript" src="js/index_backgroundjs/TweenMax.min.js"></script>
-    <script type="text/javascript" src="js/index_backgroundjs/main.js"></script> -->
 
 
     <script type="text/javascript" src="./node_modules/sweetalert/dist/sweetalert.min.js"></script>
-    <script type="text/javascript" src="./node_modules/notie-master/dist/notie.min.js"></script>
-    <link rel="stylesheet" href="./node_modules/notie-master/dist/notie.min.css">
+    <!-- <script type="text/javascript" src="./node_modules/notie-master/dist/notie.min.js"></script> -->
+    <!-- <link rel="stylesheet" href="./node_modules/notie-master/dist/notie.min.css"> -->
     <script type="text/javascript" src="./js/index.js"></script>
 </body>
 

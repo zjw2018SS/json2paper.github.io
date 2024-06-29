@@ -4,16 +4,20 @@ window.onbeforeunload = function (e) {
 
 g_file = './json/'
 get_path()
+
 let search_input = document.getElementById("search_input")
 var url = location.search
 if (url.match(/\?name=.*&path=.*$/)) {
     let container_find_debounce = debounce(container_find, 200)
+    // search_input.addEventListener("change", container_find_debounce)
     search_input.addEventListener("input", container_find_debounce)
 
 } else {
     let bookshelf_find_debounce = debounce(bookshelf_find, 200)
+    // search_input.addEventListener("change", bookshelf_find_debounce)
     search_input.addEventListener("input", bookshelf_find_debounce)
 }
+
 function unfind() {
     document.getElementById("search_input").value = ""
     if (url.match(/\?name=.*&path=.*$/)) {
@@ -33,31 +37,32 @@ function unfind() {
     }
 
 }
+
 function bookshelf_find() {
     let match_num = 0
     let search_input = document.getElementById("search_input")
     let search_value = search_input.value
     let bookshelf = document.getElementById("bookshelf")
-    let book = bookshelf.getElementsByClassName("book")
+    let book_simplify_name = bookshelf.getElementsByClassName("book_simplify_name")
     if (search_value == "") {
-        for (let i = 0; i < book.length; i++) {
-            let book_each = book[i]
-            book_each.parentNode.style.display = "block"
+        for (let i = 0; i < book_simplify_name.length; i++) {
+            let book_simplify_name_each = book_simplify_name[i]
+            book_simplify_name_each.parentNode.style.display = "block"
         }
         return
     }
-    for (let i = 0; i < book.length; i++) {
-        let book_each = book[i]
+    for (let i = 0; i < book_simplify_name.length; i++) {
+        let book_simplify_name_each = book_simplify_name[i]
         // console.log(book_each.innerText, search_value);
         // 1.字符匹配率（正向，反向）
-        let match_raw_rate = strSimilarity2Percent([book_each.innerText, search_value], [0, 0])
-        let match_processed_rate = strSimilarity2Percent([book_each.innerText.replace(/大.[上下中末始] /, ""), search_value], [0, 0])
+        let match_raw_rate = strSimilarity2Percent([book_simplify_name_each.innerText, search_value], [0, 0])
+        let match_processed_rate = strSimilarity2Percent([book_simplify_name_each.innerText.replace(/大.[上下中末始] /, ""), search_value], [0, 0])
         // 2.正则表达式原始字符匹配（正向，反向）
-        let reg_raw_forward = book_each.innerText.match(search_value)
-        let reg_raw_back = search_value.match(book_each.innerText)
+        let reg_raw_forward = book_simplify_name_each.innerText.match(search_value)
+        let reg_raw_back = search_value.match(book_simplify_name_each.innerText)
         // 2.正则表达式删减字符匹配（正向，反向）
-        let reg_processed_forward = book_each.innerText.replace(/大.[上下中末始] /, "").match(search_value)
-        let reg_processed_back = search_value.match(book_each.innerText.replace(/大.[上下中末始] /, ""))
+        let reg_processed_forward = book_simplify_name_each.innerText.replace(/大.[上下中末始] /, "").match(search_value)
+        let reg_processed_back = search_value.match(book_simplify_name_each.innerText.replace(/大.[上下中末始] /, ""))
         /*      match() 方法将字符串与正则表达式进行匹配。
                 提示：如果搜索值为字符串，则转换为正则表达式。
                 match() 方法返回包含匹配项的数组。
@@ -66,17 +71,17 @@ function bookshelf_find() {
         // console.log(match_raw_rate, match_processed_rate, reg_raw_forward, reg_raw_back, reg_processed_forward, reg_processed_back)
         if (match_raw_rate >= 0.5 || match_processed_rate > 0.5 || reg_raw_forward != null || reg_raw_back != null || reg_processed_forward != null || reg_processed_back != null) {
             match_num += 1
-            book_each.parentNode.style.display = "block"
+            book_simplify_name_each.parentNode.style.display = "block"
 
         } else {
-            book_each.parentNode.style.display = "none"
+            book_simplify_name_each.parentNode.style.display = "none"
         }
     }
     if (match_num == 0) {
 
-        for (let i = 0; i < book.length; i++) {
-            let book_each = book[i]
-            book_each.parentNode.style.display = "block"
+        for (let i = 0; i < book_simplify_name.length; i++) {
+            let book_simplify_name_each = book_simplify_name[i]
+            book_simplify_name_each.parentNode.style.display = "block"
         }
     }
 }
@@ -129,7 +134,6 @@ function container_find() {
     }
 }
 
-let container = document.getElementById("container")
 
 // 防抖函数
 function debounce(fn, duration = 200) {
@@ -209,31 +213,55 @@ function get_path() {
                 json.push(...data);
                 let bookshelf = document.getElementById("bookshelf")
                 for (let i = 0; i < json.length; i++) {
+                    // 创建元素
+
+                    // 课程包裹 book_div 
                     let book_div = document.createElement("div")
+                    book_div.className = "book_div"
+                    // 课程连接元素 book_a
                     let book_a = document.createElement("a")
                     book_a.className = "book_a"
+                    // 课程完整名称 book_full_name
+                    let book_full_name = document.createElement("div")
+                    book_full_name.className = "book_full_name"
+                    // 课程简化名称 book_simplify_name
+                    let book_simplify_name = document.createElement("div")
+                    book_simplify_name.className = "book_simplify_name"
+                    // 课程学分 book_credit
+                    let book_credit = document.createElement("div")
+                    book_credit.className = "book_credit"
+
+                    // 连接元素
                     book_a.target = "_blank"
-                    book_a.style.display = "block"
+   /*                  book_a.style.display = "block"
                     book_a.style.height = "100%"
                     book_a.style.width = "100%"
-                    book_a.style.zIndex = "9"
+                    book_a.style.zIndex = "9" */
                     var href = window.location.href;
                     if (!json[i]["path"] == "") {
                         book_a.href = href + "?name=" + json[i]["name"] + "&path=" + json[i]["path"]
                     } else {
                         book_a.href = "/exercise.html"
                     }
-
-                    book_div.className = "book_div"
-                    book_div.innerHTML = `<div class="book">${json[i]["name"]}</div>`
                     book_div.append(book_a)
+
+                    // 完整名称添加
+                    book_div.appendChild(book_full_name)
+
+                    // 简化名称添加
+                    book_simplify_name.innerText =json[i]["name"]
+                    book_div.appendChild(book_simplify_name)
+    
+                    // 课程学分添加
+                    book_div.appendChild(book_credit)
+                    
                     bookshelf.append(book_div)
                     // 😄网络题目、免费的、没有学分、没有对错、没有问答、没有考试、想来就来、想去就去。欢迎带你的朋友、伙伴一起来。 
                     // 马原（3）+习思想（3）=病理（4）+医学分子生物学D(1) + 大学体育4(1)
                 }
-                // let message = "较大更新，出问题及时反馈，谢谢。<hr style='border:1px solid white'>课程和作业的搜索功能完善，多种算法加持，快去点击顶部的搜索框体验吧。<hr style='border:1px solid white'>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp;&nbsp;<a href='course.html' style='color:blue' target='_blank'>课程学分</a> &nbsp; <a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>"
+
                 let message = "较大更新，出问题及时反馈，谢谢。<hr style='border:1px solid white'>课程和作业的搜索功能完善，多种算法加持，快去点击顶部的搜索框体验吧。<hr style='border:1px solid white'>  <a href='demo.html' target='_blank'>查看教程</a>&nbsp; &nbsp<a href='course.html' style='color:blue' target='_blank'>课程学分</a>&nbsp; &nbsp; <a href='dream.html' style='color:blue' target='_blank'>到梦学分</a>&nbsp; &nbsp;<a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>"
-                setTimeout(() => {
+/*                 setTimeout(() => {
                     notie.alert({
                         type: 1,
                         text: message,
@@ -241,7 +269,7 @@ function get_path() {
                         time: 5,
                         position: "bottom"
                     })
-                }, 2000)
+                }, 2000) */
             } else {
                 swal({
                     title: "请求的文件溜走了---",
