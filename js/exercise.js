@@ -16,8 +16,8 @@ function init(type) {
 }
 window.onload = function (e) {
     // 设置的div恢复
-/*     let setting_div = document.getElementById("setting_div")
-    setting_div.style.display = "block" */
+    /*     let setting_div = document.getElementById("setting_div")
+        setting_div.style.display = "block" */
 }
 
 let url = location.search
@@ -42,9 +42,9 @@ if (url.match(/\?name=.*&path=.*$/mg)) {
         load_path(path_arr, name)
     } else {
         xmlhttp.open("GET", path)
-        try{
+        try {
             xmlhttp.send()
-        }catch(error){
+        } catch (error) {
             init(1)
             swal({
                 icon: 'error',
@@ -354,7 +354,15 @@ function main_click(e) {
 
     }
 }
-
+function main_input() {
+    let main = document.getElementById("main")
+    let input = main.getElementsByClassName("input")
+    for (let i = 0; i < input.length; i++) {
+        // console.log(input[i])
+        let input_each = input[i]
+        input_each.readOnly = true;
+    }
+}
 
 async function is_submit() {
     let is_submit_result = await swal({
@@ -457,11 +465,16 @@ function submit() {
 
             } else if (type_code == 4 || type_code == 5) {
                 let input = wrap_each.getElementsByClassName("input")
+                // let answer_my = wrap_each.getElementsByClassName("answer_my")[0]
                 let answers = wrap_each.dataset.answers
                 answers = JSON.parse(answers)
                 flag = true
                 for (let i = 0; i < input.length; i++) {
-                    if (input[i].value == answers[i]) {
+                    let input_answer_my = input[i].value
+                    // console.log(wrap_each.getElementsByClassName("answer_my")[0])
+                    let index = i + 1
+                    wrap_each.getElementsByClassName("answer_my")[0].innerText = wrap_each.getElementsByClassName("answer_my")[0].innerText + index + "." + input_answer_my + "  "
+                    if (input_answer_my == answers[i]) {
                     } else {
                         flag = false
                     }
@@ -1345,7 +1358,7 @@ let handleDownload = function (content, name = "测试数据") {
 }
 
 function output_fun(output_div) {
-    var name=""
+    var name = ""
     let output_type = output_div.dataset.type
     let rewrite = document.getElementsByClassName("rewrite")[output_type]
     var json_str = rewrite_fun(rewrite, "1")
@@ -1421,6 +1434,7 @@ function removeEventListener_main_click_and_is_submit() {
     main_div.removeEventListener("click",
         main_click
     )
+    main_input()
     let submit_div = document.getElementById("submit")
     submit_div.removeEventListener("click",
         is_submit
