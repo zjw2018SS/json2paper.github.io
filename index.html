@@ -9,6 +9,7 @@
 </head>
 
 <body>
+
     <style>
         * {
             margin: 0;
@@ -26,6 +27,7 @@
             position: fixed;
             top: 0;
             left: 0;
+            z-index: -5;
         }
 
         svg#demo g {
@@ -37,21 +39,6 @@
             fill: white;
         }
     </style>
-    <svg id="demo" viewBox="0 0 1600 600" preserveAspectRatio="xMidYMid slice">
-        <defs>
-            <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0" color-interpolation="sRGB">
-                <stop id="stop1a" offset="0%" stop-color="#12a3b4"></stop>
-                <stop id="stop1b" offset="100%" stop-color="#ff509e"></stop>
-            </linearGradient>
-            <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="0" color-interpolation="sRGB">
-                <stop id="stop2a" offset="0%" stop-color="#e3bc13"></stop>
-                <stop id="stop2b" offset="100%" stop-color="#00a78f"></stop>
-            </linearGradient>
-        </defs>
-        <rect id="rect1" x="0" y="0" width="1600" height="600" stroke="none" fill="url(#grad1)"></rect>
-        <rect id="rect2" x="0" y="0" width="1600" height="600" stroke="none" fill="url(#grad2)"></rect>
-    </svg>
-
 
     <div id="nav">
         <div id="home">
@@ -94,11 +81,62 @@
     </div>
     <div id="bookshelf">
     </div>
+    <script>
+
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+
+        } else {
+
+            let htnl_svg_PC = `
+    <svg id="demo" viewBox="0 0 1600 600" preserveAspectRatio="xMidYMid slice">
+        <defs>
+            <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0" color-interpolation="sRGB">
+                <stop id="stop1a" offset="0%" stop-color="#12a3b4"></stop>
+                <stop id="stop1b" offset="100%" stop-color="#ff509e"></stop>
+            </linearGradient>
+            <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="0" color-interpolation="sRGB">
+                <stop id="stop2a" offset="0%" stop-color="#e3bc13"></stop>
+                <stop id="stop2b" offset="100%" stop-color="#00a78f"></stop>
+            </linearGradient>
+        </defs>
+        <rect id="rect1" x="0" y="0" width="1600" height="600" stroke="none" fill="url(#grad1)"></rect>
+        <rect id="rect2" x="0" y="0" width="1600" height="600" stroke="none" fill="url(#grad2)"></rect>
+    </svg>
+    `
 
 
-    <script type="text/javascript" src="js/index_backgroundjs/Stats.min.js"></script>
+            var parser = new DOMParser();
+            var htnl_svg = parser.parseFromString(htnl_svg_PC, 'text/html');
+            console.log(htnl_svg.body.children[0])
+            var htnl_svg = htnl_svg.body.children[0];
+            document.body.appendChild(htnl_svg);
+
+
+
+            var script_PC_1 = document.createElement("script")
+            script_PC_1.type = "text/javascript"
+            script_PC_1.src = "js/index_backgroundjs/Stats.min.js"
+            document.body.appendChild(script_PC_1)
+
+            var script_PC_2 = document.createElement("script")
+            script_PC_2.type = "text/javascript"
+            script_PC_2.src = "js/index_backgroundjs/TweenMax.min.js"
+            document.body.appendChild(script_PC_2)
+
+            var script_PC_3 = document.createElement("script")
+            script_PC_3.type = "text/javascript"
+            script_PC_3.src = "js/index_backgroundjs/main.js"
+            document.body.appendChild(script_PC_3)
+
+
+
+        }
+
+    </script>
+
+    <!--     <script type="text/javascript" src="js/index_backgroundjs/Stats.min.js"></script>
     <script type="text/javascript" src="js/index_backgroundjs/TweenMax.min.js"></script>
-    <script type="text/javascript" src="js/index_backgroundjs/main.js"></script>
+    <script type="text/javascript" src="js/index_backgroundjs/main.js"></script> -->
 
 
     <script type="text/javascript" src="./node_modules/sweetalert/dist/sweetalert.min.js"></script>
