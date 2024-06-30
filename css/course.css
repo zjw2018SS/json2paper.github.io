@@ -24,6 +24,8 @@ table {
 tbody {
     display: table-row-group;
     vertical-align: middle;
+    unicode-bidi: -webkit-isolate;
+    unicode-bidi: -moz-isolate;
     unicode-bidi: isolate;
     border-color: inherit;
 }
@@ -31,6 +33,8 @@ tbody {
 tr {
     display: table-row;
     vertical-align: inherit;
+    unicode-bidi: -webkit-isolate;
+    unicode-bidi: -moz-isolate;
     unicode-bidi: isolate;
     border-color: inherit;
 }

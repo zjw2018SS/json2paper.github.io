@@ -6,6 +6,8 @@
 
         @media screen and (max-width:767px) {
             #box {
+                --box_width: -webkit-calc(100vw - 32px);
+                --box_width: -moz-calc(100vw - 32px);
                 --box_width: calc(100vw - 32px);
                 margin: 18px auto 36px;
             }
@@ -27,10 +29,24 @@
 
         #box {
             position: relative;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -moz-box;
+            display: -ms-flexbox;
             display: flex;
-            flex-wrap: wrap;
-            align-items: center;
-            justify-content: center;
+            -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                    flex-wrap: wrap;
+            -webkit-box-align: center;
+            -webkit-align-items: center;
+               -moz-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center;
+            -webkit-box-pack: center;
+            -webkit-justify-content: center;
+               -moz-box-pack: center;
+                -ms-flex-pack: center;
+                    justify-content: center;
             width: var(--box_width);
 
         }
