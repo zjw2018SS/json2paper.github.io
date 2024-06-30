@@ -158,7 +158,7 @@ function isAllJson($dir)
         }
     }
     // 排除空目录或者目录下面的大于6个的json文件为不同章节
-    if ($dir_children == 0 || $dir_children > 6) {
+    if ($dir_children == 0 || $dir_children >= 6) {
         return false;
     }
 
