@@ -244,6 +244,24 @@ body {
     height: var(--info_height);
     margin: var(--info_margin) 0;
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.info_item {
+    position: relative;
+    margin: auto;
+    height: var(--info_height);
+    line-height: var(--info_height);
+}
+
+.info_item a {
+    display: block;
+    width: 100%;
+    width: 100%;
 }
 
 /* 注意：导航栏是绝对定位，其余是相对定位 */
