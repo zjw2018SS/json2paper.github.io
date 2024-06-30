@@ -261,7 +261,7 @@ body {
 .info_item a {
     display: block;
     width: 100%;
-    width: 100%;
+    height: 100%;
 }
 
 /* 注意：导航栏是绝对定位，其余是相对定位 */
