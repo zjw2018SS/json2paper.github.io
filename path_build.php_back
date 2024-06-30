@@ -5,9 +5,9 @@ $directory = './json';
 
 // 1.删除原的路径信息
 echo "\n";
-echo '1.del start!' . "\n";
+echo 'del start!' . "\n";
 delpath($directory);
-echo '1.del end!' . "\n";
+echo 'del end!' . "\n";
 echo "\n";
 function delpath($directory)
 {
@@ -23,9 +23,9 @@ function delpath($directory)
         if (is_file($fullPath)) {
             if (basename($fullPath) == 'path_info.json') {
                 unlink($fullPath);
-                // echo $fullPath . '    del path_info.json' . "\n";
+                echo $fullPath . '    del path_info.json' . "\n";
             } else if (basename($fullPath) == 'dir_info.json') {
-                // echo 'del dir_info.json    ' . $fullPath .  "\n";
+                echo 'del dir_info.json    ' . $fullPath .  "\n";
                 unlink($fullPath);
             }
         } else if (is_dir($fullPath)) {
@@ -41,23 +41,11 @@ $folderInfos = [];
 // 获取目录中的所有项
 $items = scandir($directory);
 // 遍历目录中的每一项
-
-$ignore_str = '-ign';
-$separate_str = '-sep';
-
-
 foreach ($items as $item) {
     // 跳过"."和".."这两个特殊项
     if ($item === '.' || $item === '..') {
         continue;
     }
-
-    // 根据文件名称进行配置 忽略 ，子json文件不合并
-    $name_status = stristr($item, $ignore_str);
-    if ($name_status !== false) {
-        continue;
-    }
-
     // 构建完整的路径
     $fullPath = $directory . '/' . $item;
     // 检查是否为目录并且是否为排除列表
@@ -77,53 +65,33 @@ $txtFilePath = $directory . '/dir_info.json';
 // 将JSON内容写入TXT文件
 if (file_put_contents($txtFilePath, $jsonContent) !== false) {
     // echo $jsonContent;
-    echo "2.目录信息已成功保存到：   " . $txtFilePath .  "\n\n";
+    echo "目录信息已成功保存到：   " . $txtFilePath .  "\n\n";
 } else {
-    echo "2.保存文件时发生错误";
+    echo "保存文件时发生错误";
 }
 
 // 3.具体信息
-// 参数：
-// 1.忽略：  -ign
-// 2.子json文件不合并： -sep
-// 3.默认：default
 
 $json = [];
 $file_count = 0;
 $dir_count = 0;
 
-$ignore_str = '-ign';
-$separate_str = '-sep';
-
-
-echo "3.目标路径：  " . $directory . "\n\n";
+echo "目标路径：  " . $directory . "\n\n";
 // 获取目录中的所有项
 $items = scandir($directory);
 // 遍历目录中的每一项
-for ($a = 0; $a < count($items); $a++) {
-    $item = $items[$a];
-    $name = $item;
+foreach ($items as $item) {
     // 跳过"."和".."这两个特殊项
     if ($item === '.' || $item === '..') {
         continue;
     }
-    // 文件夹里面全部是json文件并且文件夹的名字不匹配到 -sep 字符串
-    $name_status = stristr($name, $separate_str);
-    if ($name_status === false) {
-        $name_status = '-def';
-    } else {
-        // echo $name_status;
-        $name_status = '-sep';
-    }
     // 构建完整的路径
     $fullPath = $directory . '/' . $item;
-
     // 检查是否为目录
     if (is_dir($fullPath)) {
         global $json;
         $json = [];
-        // echo $fullPath,$name_status."\n\n\n\n";
-        path2json($fullPath, $json, $name_status);
+        path2json($fullPath, $json);
         $path_info_str = 'path_info.json';
         file_put_contents($fullPath . '/' . $path_info_str, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     } else if (is_file($fullPath) && isJsonFile($fullPath)) {
@@ -132,86 +100,36 @@ for ($a = 0; $a < count($items); $a++) {
         addJson($item, $fullPath); */
     }
 }
-function path2json($dir, $json, $name_status = "-def")
+
+
+function path2json($dir, $json)
 {
-
-    /*     if ($name_status ==="-sep") {
-        // echo $dir,$name_status . "\n";
-
-    } */
-
     global $_file;
     global $json;
     global $file_count;
     global $dir_count;
-    global $ignore_str;
-    global $separate_str;
-    // echo $dir, $name_status . "\n";
-    // $name_status = stristr($dir, $separate_str);
-
-    /*     if ($name_status !== false) {
-        $name_status == '-sep';
-    }else{
-        $name_status == '-def';
-    }
-    echo $dir, $name_status . "\n"; */
     $items = scandir($dir);
     $items = array_values(array_diff($items, $_file));
-
 
     for ($i = 0; $i < count($items); $i++) {
         $item = $items[$i];
         $name = $item;
-
-        // 根据文件名称进行配置 忽略 ，子json文件不合
-        if (stristr($name, $ignore_str)) {
-            continue;
-        }
-
-
         $newitem = $dir . '/' . $item;
         $path = $newitem;
-
-        if (is_file($newitem) && isJsonFile($newitem)) {
-            // $file_count++;
-            // echo $newitem, "文件\n";
-            // var_dump($path);
-            addJson($name, $path);
-        } else  if (is_dir($newitem)) {
-            // echo $name, $ignore_str, "\n";
+        if (is_dir($newitem)) {
             // $dir_count++;
-            // 文件夹里面全部是json文件并且文件夹的名字不匹配到 -sep 字符串
-            // echo $name,$name_status . "\n";
-
-            // 有问题
-            // if ($name_status === '-def') {
-            if (1) {
-                $name_status = stristr($name, $separate_str);
-                // echo  $name_status . "\n";
-                // echo $name, $separate_str."\n";
-                if ($name_status !== false) {
-                    // echo $name ,$name_status. "\n";
-                    $name_status = '-sep';
-                    // echo  $name_status . "\n";
-                } else {
-                    $name_status = '-def';
-                }
-                // echo $name, $name_status . "\n";
-            } else if ($name_status === '-sep') {
-                // echo $name, $name_status."\n";
-                // $name_status = '-sep';
-                // echo '-sep:' . $name, $name_status . "\n";
-            }
-
-            //  && $name_status!==false
-            if ($name_status !== "-sep" && isAllJson($newitem)) {
+            if (isAllJson($newitem)) {
                 // echo $newitem, "目录里面全部是json文件\n";
             } else {
                 // echo $newitem, "目录包含文件和目录\n";
                 // $is_original = false;
-                echo $newitem, $name_status . "\n";
-                path2json($newitem, $json, $name_status);
+                path2json($newitem, $json);
             }
+        } else if (is_file($newitem) && isJsonFile($newitem)) {
+            // $file_count++;
+            // echo $newitem, "文件\n";
+            // var_dump($path);
+            addJson($name, $path);
         } else {
             // echo $newitem, "\?\n";
         }
@@ -239,10 +157,8 @@ function isAllJson($dir)
             return false;
         }
     }
-
-    // separate
     // 排除空目录或者目录下面的大于6个的json文件为不同章节
-    if ($dir_children == 0 || $dir_children > 6) {
+    if ($dir_children == 0 || $dir_children >= 6) {
         return false;
     }
 

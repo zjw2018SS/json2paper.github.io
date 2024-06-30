@@ -249,7 +249,7 @@ function get_path() {
                     book_div.appendChild(book_full_name)
 
                     // 简化名称添加
-                    book_simplify_name.innerText =json[i]["name"]
+                    book_simplify_name.innerText = json[i]["name"].replace("-sep", "").replace("-ign", "")
                     book_div.appendChild(book_simplify_name)
     
                     // 课程学分添加
@@ -304,6 +304,7 @@ function json2path(json) {
     }
 }
 function extractBeforeMatch(str) {
+    var str = str.replace("-sep", "").replace("-ign", "")
     var regex = /-\d+年\d+月\d+日\d+小时\d+分\d+秒\.json/;
     var matchResult = str.match(regex);
     if (matchResult == null) {
