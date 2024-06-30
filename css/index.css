@@ -95,7 +95,7 @@
     padding: 0;
     text-decoration: none;
     border: 0;
-    -webkit-overflow-scrolling: touch;
+    /* -webkit-overflow-scrolling: touch; */
 }
 
 body {
