@@ -1,4 +1,8 @@
 @media screen and (max-width:767px) {
+    body {
+        --body_background-size: 400%;
+    }
+
     #bookshelf {
         --book_div_width: 100px;
         --book_div_height: 160px;
@@ -31,6 +35,10 @@
 }
 
 @media screen and (min-width:768px) and (max-width:1199px) {
+    body {
+        --body_background-size: 500%;
+    }
+
     #bookshelf {
         --book_div_width: 125px;
         --book_div_height: 200px;
@@ -60,6 +68,10 @@
 }
 
 @media screen and (min-width:1200px) {
+    body {
+        --body_background-size: 600%;
+    }
+
     #bookshelf {
         --book_div_width: 135px;
         --book_div_height: 220px;
@@ -119,19 +131,18 @@ body {
     overflow-x: hidden;
     overflow-y: auto;
 
-    /* background-position:center; */
+
     background-attachment: fixed;
     background-color: #c5dbff;
 
-    /* background-image: radial-gradient(closest-side at 60% 55%, red, yellow, black); */
     /* 背景渐变色 - 原理2 */
     background: -webkit-linear-gradient(135deg, #dba291, #e098b4, #86bed3, #929bcc);
     background: -moz-linear-gradient(135deg, #dba291, #e098b4, #86bed3, #929bcc);
     background: -o-linear-gradient(135deg, #dba291, #e098b4, #86bed3, #929bcc);
     background: linear-gradient(-45deg, #dba291, #e098b4, #86bed3, #929bcc);
     /* 背景尺寸 - 原理3 */
-    -o-background-size: 600% 600%;
-    background-size: 600% 600%;
+    -o-background-size: var(--body_background-size) var(--body_background-size);
+    background-size: var(--body_background-size) var(--body_background-size);
     /* 循环动画 - 原理4 */
     -webkit-animation: gradientBG 5s ease infinite;
     -moz-animation: gradientBG 5s ease infinite;
@@ -227,6 +238,10 @@ body {
     box-shadow: rgba(142, 142, 142, 0.19) 0px 6px 15px 0px;
     border-radius: 0px;
     color: rgba(255, 255, 255, 0.75);
+
+    -webkit-transform: translateZ(0);
+
+    -moz-transform: translateZ(0);
 
     transform: translateZ(0);
 }
@@ -434,7 +449,9 @@ body {
     user-select: none;
 
 
-    transform: translateZ(0);
+    /*     -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    transform: translateZ(0); */
 }
 
 .book_div {
@@ -442,16 +459,11 @@ body {
     width: var(--book_div_width);
     height: var(--book_div_height);
     display: inline-block;
-    /* background-color: #76afe1; */
-    /* border: 1px solid rgb(5, 141, 255); */
-    /* color: aliceblue; */
+
     color: #010101;
     margin: var(--book_div_margin);
-    /*     display: flex;
-    flex: auto; */
 
-    /* background-color: rgba(0, 191, 255, 0.5); */
-    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 2px 8px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 2px 8px 8px, inset -4px 0px 3px rgba(0, 0, 0, 0.3);
     box-shadow: rgba(0, 0, 0, 0.3) 2px 8px 8px, inset -4px 0px 3px rgba(0, 0, 0, 0.3);
 
 
@@ -492,6 +504,8 @@ body {
     height: -moz-calc(var(--book_div_height) * 60 / 220);
     height: calc(var(--book_div_height) * 60 / 220);
     padding: 0 var(--book_simplify_name_padding);
+    width: -webkit-calc(100% - var(--book_simplify_name_padding) * 2);
+    width: -moz-calc(100% - var(--book_simplify_name_padding) * 2);
     width: calc(100% - var(--book_simplify_name_padding) * 2);
     text-align: center;
     overflow: hidden;
