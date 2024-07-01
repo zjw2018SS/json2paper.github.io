@@ -428,6 +428,7 @@ body {
     position: relative;
     width: var(--book_div_width);
     height: var(--book_div_height);
+    display: inline-block;
     /* background-color: #76afe1; */
     /* border: 1px solid rgb(5, 141, 255); */
     /* color: aliceblue; */
