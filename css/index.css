@@ -387,6 +387,16 @@ body {
     height: 100%;
 }
 
+
+#message {
+    position: relative;
+    /* top: calc( var(--nav_height) + var(--info_height) + var(--info_margin) * 2); */
+    top: calc(var(--info_height) + var(--info_margin) * 2);
+    width: fit-content;
+    margin: auto;
+    overflow: hidden;
+}
+
 /* 注意：导航栏是绝对定位，其余是相对定位 */
 /* 章节 */
 #container {
