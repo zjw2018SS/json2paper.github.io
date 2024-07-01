@@ -168,57 +168,53 @@ function path2json($dir, $json, $name_status = "-def")
             continue;
         }
 
+
         $newitem = $dir . '/' . $item;
         $path = $newitem;
 
+        if (is_file($newitem) && isJsonFile($newitem)) {
+            // $file_count++;
+            // echo $newitem, "文件\n";
+            // var_dump($path);
+            addJson($name, $path);
+        } else  if (is_dir($newitem)) {
+            // echo $name, $ignore_str, "\n";
+            // $dir_count++;
+            // 文件夹里面全部是json文件并且文件夹的名字不匹配到 -sep 字符串
+            // echo $name,$name_status . "\n";
 
-        $closure_fun=function () use ($name,$newitem, $path,$name_status, $separate_str, $json) {
-            if (is_file($newitem) && isJsonFile($newitem)) {
-                // $file_count++;
-                // echo $newitem, "文件\n";
-                // var_dump($path);
-                addJson($name, $path);
-            } else  if (is_dir($newitem)) {
-                // echo $name, $ignore_str, "\n";
-                // $dir_count++;
-                // 文件夹里面全部是json文件并且文件夹的名字不匹配到 -sep 字符串
-                // echo $name,$name_status . "\n";
-
-                // 有问题
-                if ($name_status === '-def') {
-                    // if (1) {
-                    $name_status = stristr($name, $separate_str);
+            // 有问题
+            // if ($name_status === '-def') {
+            if (1) {
+                $name_status = stristr($name, $separate_str);
+                // echo  $name_status . "\n";
+                // echo $name, $separate_str."\n";
+                if ($name_status !== false) {
+                    // echo $name ,$name_status. "\n";
+                    $name_status = '-sep';
                     // echo  $name_status . "\n";
-                    // echo $name, $separate_str."\n";
-                    if ($name_status !== false) {
-                        // echo $name ,$name_status. "\n";
-                        $name_status = '-sep';
-                        // echo  $name_status . "\n";
-                    } else {
-                        $name_status = '-def';
-                    }
-                    // echo $name, $name_status . "\n";
-                } else if ($name_status === '-sep') {
-                    // echo $name, $name_status."\n";
-                    // $name_status = '-sep';
-                    // echo '-sep:' . $name, $name_status . "\n";
-                }
-
-                //  && $name_status!==false
-                if ($name_status !== "-sep" && isAllJson($newitem)) {
-                    // echo $newitem, "目录里面全部是json文件\n";
                 } else {
-                    // echo $newitem, "目录包含文件和目录\n";
-                    // $is_original = false;
-                    echo $newitem, $name_status . "\n";
-                    path2json($newitem, $json, $name_status);
+                    $name_status = '-def';
                 }
-            } else {
-                // echo $newitem, "\?\n";
+                // echo $name, $name_status . "\n";
+            } else if ($name_status === '-sep') {
+                // echo $name, $name_status."\n";
+                // $name_status = '-sep';
+                // echo '-sep:' . $name, $name_status . "\n";
             }
-        };
-        $closure_fun();
 
+            //  && $name_status!==false
+            if ($name_status !== "-sep" && isAllJson($newitem)) {
+                // echo $newitem, "目录里面全部是json文件\n";
+            } else {
+                // echo $newitem, "目录包含文件和目录\n";
+                // $is_original = false;
+                echo $newitem, $name_status . "\n";
+                path2json($newitem, $json, $name_status);
+            }
+        } else {
+            // echo $newitem, "\?\n";
+        }
     }
 }
 
