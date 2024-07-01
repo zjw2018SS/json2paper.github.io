@@ -86,10 +86,11 @@
         --container_padding_bottom: 60px;
     }
 
-
+    /* backdrop-filter吃性能 */
     .book_div {
-        -webkit-backdrop-filter: blur(20px);
-        backdrop-filter: blur(20px);
+        position: relative;
+        /*         -webkit-backdrop-filter: blur(20px);
+        backdrop-filter: blur(20px); */
 
     }
 }
