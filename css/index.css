@@ -487,12 +487,17 @@ body {
 }
 
 .book_simplify_name {
+    --book_simplify_name_padding: 5px;
     position: relative;
     height: -webkit-calc(var(--book_div_height) * 60 / 220);
     height: -moz-calc(var(--book_div_height) * 60 / 220);
     height: calc(var(--book_div_height) * 60 / 220);
-    width: 100%;
+    padding: 0 var(--book_simplify_name_padding);
+    width: calc(100% - var(--book_simplify_name_padding) * 2);
     text-align: center;
+    overflow: hidden;
+    /* text-overflow: ellipsis; */
+    /* text-overflow: clip; */
 }
 
 .book_credit {
