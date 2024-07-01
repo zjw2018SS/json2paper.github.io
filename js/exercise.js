@@ -2,6 +2,9 @@ json = {}
 json_new = {}
 request_server = 0
 
+/* let is_copy_setting = document.getElementById("is_copy_setting")
+is_copy_setting.click() */
+
 function init(type) {
     // 0是不需要初始化，1是需要
     // 成功初始的标准是：是否有json赋值
@@ -138,8 +141,7 @@ function left_scroll_fun() {
         }
     }
 }
-let is_copy_setting = document.getElementById("is_copy_setting")
-is_copy_setting.click()
+
 
 function isJSON(str) {
     if (typeof str == 'string') {
