@@ -121,7 +121,6 @@ if (request_server == 0 && JSON.stringify(json) == JSON.stringify({})) {
 }
 
 window.addEventListener("scroll", left_scroll_fun)
-let main_div = document.getElementById("main")
 function left_scroll_fun() {
     // 1.移除
     let sheet_li_show = document.getElementsByClassName("sheet_li_show")
@@ -141,6 +140,49 @@ function left_scroll_fun() {
         }
     }
 }
+let main_div = document.getElementById("main")
+/* main_div.onselectstart = function () {
+    return false
+} */
+main_div.addEventListener("dblclick", (event) => {
+
+    if (event.target.classList.contains("q") || event.target.classList.contains("option")) {
+        // console.log(event.target)
+        event.preventDefault
+    }
+})
+let isSelectingText = false;
+
+// 当开始选择文字时，设置标志为true
+document.addEventListener('selectstart', function () {
+    isSelectingText = true;
+});
+
+// 当鼠标按钮释放时，设置标志为false
+document.addEventListener('mouseup', function () {
+    isSelectingText = false;
+});
+
+// 监听鼠标移动事件
+document.addEventListener('mousemove', function (event) {
+
+
+    console.log(isSelectingText);
+    if (isSelectingText) {
+
+        // 检查鼠标移动的方向并减小滚动速度
+        const scrollAmount = 10; // 自定义滚动速度
+        if (event.movementY > 0) {
+            // 向下滚动
+            window.scrollBy(0, scrollAmount);
+        } else if (event.movementY < 0) {
+            // 向上滚动
+            window.scrollBy(0, -scrollAmount);
+        }
+        // 阻止默认的mousemove事件，以避免其他可能的滚动行为
+        event.preventDefault();
+    }
+});
 
 
 function isJSON(str) {
