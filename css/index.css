@@ -412,16 +412,19 @@ body {
     -moz-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
-    overflow: auto;
+    
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     overflow-x: hidden;
+    overflow-y: auto;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
 
+
+    transform: translateZ(0);
 }
 
 .book_div {
