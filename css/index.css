@@ -85,6 +85,13 @@
     #container {
         --container_padding_bottom: 60px;
     }
+
+
+    .book_div {
+        -webkit-backdrop-filter: blur(20px);
+        backdrop-filter: blur(20px);
+
+    }
 }
 
 
@@ -442,13 +449,6 @@ body {
     /*     display: flex;
     flex: auto; */
 
-
-
-    -webkit-backdrop-filter: blur(20px);
-
-
-
-    backdrop-filter: blur(20px);
     /* background-color: rgba(0, 191, 255, 0.5); */
     -webkit-box-shadow: rgba(0, 0, 0, 0.3) 2px 8px 8px;
     box-shadow: rgba(0, 0, 0, 0.3) 2px 8px 8px;
